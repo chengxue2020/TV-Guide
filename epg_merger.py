@@ -17,7 +17,8 @@ import hashlib
 
 # ==================== 配置常量 ====================
 SOURCE_FILE = 'source_epg.txt'          # EPG源配置文件
-OUTPUT_XML = 'epg.xml'                   # 输出文件名
+OUTPUT_XML = 'epg.xml'                   # 输出XML文件名
+OUTPUT_GZ = 'epg.xml.gz'                 # 输出GZ压缩文件名
 TEMP_DIR_NAME = 'temp_epg_files'         # 临时文件目录
 DEFAULT_TIME_FRAME = 48                  # 默认时间范围（小时）
 MAX_RETRIES = 2                          # 最大重试次数
@@ -42,6 +43,33 @@ def format_size(bytes_size: int) -> str:
             return f"{bytes_size:.2f} {unit}"
         bytes_size /= 1024.0
     return f"{bytes_size:.2f} TB"
+
+
+def compress_gzip(input_file: str, output_file: str) -> bool:
+    """
+    压缩文件为gzip格式
+    
+    Args:
+        input_file: 输入文件路径
+        output_file: 输出gzip文件路径
+        
+    Returns:
+        成功返回True，失败返回False
+    """
+    try:
+        with open(input_file, 'rb') as f_in:
+            with gzip.open(output_file, 'wb', compresslevel=9) as f_out:
+                f_out.write(f_in.read())
+        
+        original_size = os.path.getsize(input_file)
+        compressed_size = os.path.getsize(output_file)
+        compression_ratio = (1 - compressed_size / original_size) * 100
+        
+        print(f'  ✓ 压缩完成: {format_size(compressed_size)} ({compression_ratio:.1f}% 压缩率)')
+        return True
+    except Exception as e:
+        print(f'  ✗ 压缩失败: {e}')
+        return False
 
 
 # ==================== 配置解析 ====================
@@ -406,17 +434,27 @@ def main() -> None:
     for program in programs_sorted:
         root.append(program)
     
-    # 写入文件
+    # 写入XML文件
     tree = ET.ElementTree(root)
     ET.indent(tree, space='    ', level=0)
     tree.write(OUTPUT_XML, encoding='UTF-8', xml_declaration=True)
     
     xml_size = os.path.getsize(OUTPUT_XML)
+    print(f'✓ XML文件: {OUTPUT_XML}')
+    print(f'  大小: {format_size(xml_size)}')
+    print(f'  频道数: {len(channels_sorted)}')
+    print(f'  节目数: {len(programs_sorted)}')
     
-    print(f'✓ 输出文件: {OUTPUT_XML}')
-    print(f'✓ 文件大小: {format_size(xml_size)}')
-    print(f'✓ 总频道数: {len(channels_sorted)}')
-    print(f'✓ 总节目数: {len(programs_sorted)}')
+    # 压缩为GZIP文件
+    print(f'\n🗜️ 压缩为GZIP格式...')
+    if compress_gzip(OUTPUT_XML, OUTPUT_GZ):
+        gz_size = os.path.getsize(OUTPUT_GZ)
+        compression_ratio = (1 - gz_size / xml_size) * 100
+        print(f'  ✓ 压缩率: {compression_ratio:.1f}%')
+        print(f'  ✓ 原始大小: {format_size(xml_size)} → 压缩后: {format_size(gz_size)}')
+    else:
+        print(f'  ⚠ GZIP压缩失败，仅生成XML文件')
+    
     print()
     
     # 清理临时文件
@@ -440,6 +478,7 @@ def main() -> None:
     print(f'结束时间: {end_beijing.strftime("%Y-%m-%d %H:%M:%S")} (北京时间)')
     print(f'总耗时: {duration:.2f} 秒')
     print(f'成功处理: {success_count}/{len(sources)} 个源')
+    print(f'输出文件: {OUTPUT_XML} 和 {OUTPUT_GZ}')
     print_separator('=')
 
 
