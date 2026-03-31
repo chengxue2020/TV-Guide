@@ -5,6 +5,7 @@ EPG Merger Script - 合并多个EPG源的频道节目信息
 支持 .xml 和 .xml.gz 格式
 支持在 source_epg.txt 中直接定义频道别名映射
 支持智能排序（按display-name，数字-字母-汉字，不区分大小写）
+支持绕过Cloudflare保护
 """
 
 import requests
@@ -18,12 +19,23 @@ from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Tuple, Optional, Set
 import hashlib
 
+# 尝试导入Cloudflare绕过库
+try:
+    import cloudscraper
+    HAS_CLOUDSCRAPER = True
+except ImportError:
+    HAS_CLOUDSCRAPER = False
+    print("⚠ 未安装cloudscraper库，无法绕过Cloudflare保护")
+    print("  安装方法: pip install cloudscraper")
+
 # 尝试导入拼音转换库（用于中文排序）
 try:
     from pypinyin import pinyin, Style
     HAS_PYPINYIN = True
 except ImportError:
     HAS_PYPINYIN = False
+    print("⚠ 未安装pypinyin库，中文将按Unicode排序")
+    print("  安装方法: pip install pypinyin")
 
 # ==================== 配置常量 ====================
 SOURCE_FILE = 'source_epg.txt'          # EPG源配置文件
@@ -34,6 +46,7 @@ DEFAULT_TIME_FRAME = 48                  # 默认时间范围（小时）
 MAX_RETRIES = 2                          # 最大重试次数
 DOWNLOAD_TIMEOUT = 30                    # 下载超时（秒）
 CHUNK_SIZE = 131072                      # 下载块大小（128KB）
+USE_CLOUDSCRAPER = True                  # 是否使用cloudscraper绕过CF
 
 # ==================== 时区配置 ====================
 BEIJING_TZ = timezone(timedelta(hours=8))  # 北京时区 UTC+8
@@ -279,9 +292,18 @@ def parse_source(source_file: str) -> Tuple[Dict[str, List[Tuple[str, Optional[s
         sys.exit(1)
 
 
-# ==================== 文件下载 ====================
+# ==================== 文件下载（支持Cloudflare绕过）====================
 def download_file(url: str, path: str) -> Optional[str]:
-    """下载EPG文件，支持HTTP/HTTPS和重定向"""
+    """
+    下载EPG文件，支持HTTP/HTTPS和Cloudflare绕过
+    
+    Args:
+        url: 下载URL
+        path: 保存路径
+        
+    Returns:
+        成功返回文件路径，失败返回None
+    """
     # 提取文件名
     filename = os.path.basename(url.split('?')[0])
     if not filename:
@@ -303,6 +325,12 @@ def download_file(url: str, path: str) -> Optional[str]:
         'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
         'Accept-Encoding': 'gzip, deflate, br',
         'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'Cache-Control': 'max-age=0',
     }
     
     # 为特定域名添加Referer
@@ -315,25 +343,44 @@ def download_file(url: str, path: str) -> Optional[str]:
     for attempt in range(MAX_RETRIES + 1):
         try:
             if attempt > 0:
-                wait_time = attempt * 2
+                wait_time = attempt * 3
                 print(f'    ⏳ 第 {attempt} 次重试，等待 {wait_time} 秒...')
                 time.sleep(wait_time)
             
-            response = requests.get(
-                url,
-                headers=headers,
-                stream=True,
-                timeout=DOWNLOAD_TIMEOUT,
-                allow_redirects=True
-            )
+            # 选择下载方式
+            if USE_CLOUDSCRAPER and HAS_CLOUDSCRAPER:
+                # 使用cloudscraper绕过Cloudflare
+                scraper = cloudscraper.create_scraper(
+                    browser={
+                        'browser': 'chrome',
+                        'platform': 'windows',
+                        'mobile': False
+                    }
+                )
+                response = scraper.get(url, headers=headers, timeout=DOWNLOAD_TIMEOUT, allow_redirects=True)
+            else:
+                # 使用普通requests
+                response = requests.get(url, headers=headers, stream=True, timeout=DOWNLOAD_TIMEOUT, allow_redirects=True)
             
+            # 检查响应状态
             if response.status_code == 200:
+                # 检查是否是Cloudflare挑战页面
+                content_preview = response.text[:500] if hasattr(response, 'text') else ''
+                if 'cf-challenge' in content_preview or 'cloudflare' in content_preview.lower():
+                    print(f'    ⚠ 检测到Cloudflare挑战页面，尝试继续...')
+                
+                # 写入文件
                 with open(download_path, 'wb') as f:
                     downloaded = 0
-                    for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
-                        if chunk:
-                            f.write(chunk)
-                            downloaded += len(chunk)
+                    if USE_CLOUDSCRAPER and HAS_CLOUDSCRAPER:
+                        # cloudscraper返回的是content，不是stream
+                        f.write(response.content)
+                        downloaded = len(response.content)
+                    else:
+                        for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
+                            if chunk:
+                                f.write(chunk)
+                                downloaded += len(chunk)
                 
                 print(f'    ✓ 下载成功: {format_size(downloaded)}')
                 return download_path
@@ -350,17 +397,17 @@ def download_file(url: str, path: str) -> Optional[str]:
                 if attempt == MAX_RETRIES:
                     return None
                     
-        except requests.exceptions.Timeout:
-            print(f'    ✗ 连接超时')
-            if attempt == MAX_RETRIES:
-                return None
-        except requests.exceptions.ConnectionError:
-            print(f'    ✗ 连接错误')
-            if attempt == MAX_RETRIES:
-                return None
         except Exception as e:
-            print(f'    ✗ 错误: {e}')
-            return None
+            error_msg = str(e)
+            if 'cloudflare' in error_msg.lower() or 'challenge' in error_msg.lower():
+                print(f'    ✗ Cloudflare保护: {e}')
+                if attempt == MAX_RETRIES:
+                    print(f'    ⚠ 提示: 该网站可能启用了Cloudflare保护，可以尝试安装cloudscraper库')
+                    return None
+            else:
+                print(f'    ✗ 错误: {e}')
+                if attempt == MAX_RETRIES:
+                    return None
     
     return None
 
@@ -538,14 +585,20 @@ def main() -> None:
     start_beijing = start_utc.astimezone(BEIJING_TZ)
     
     print_separator('=')
-    print('EPG Merger v2.0 (Sort by Display Name)')
+    print('EPG Merger v2.0 (with Cloudflare Bypass & Display Name Sort)')
     print_separator('=')
     print(f'开始时间: {start_beijing.strftime("%Y-%m-%d %H:%M:%S")} (北京时间)')
     print()
     
-    # 显示拼音库状态
+    # 显示库状态
+    if HAS_CLOUDSCRAPER:
+        print('✓ 已加载cloudscraper库，支持绕过Cloudflare保护')
+    else:
+        print('⚠ 未安装cloudscraper库，无法绕过Cloudflare保护')
+        print('  安装方法: pip install cloudscraper')
+    
     if HAS_PYPINYIN:
-        print('✓ 已加载拼音库，支持中文拼音排序')
+        print('✓ 已加载pypinyin库，支持中文拼音排序')
     else:
         print('⚠ 未安装pypinyin库，中文将按Unicode排序')
         print('  安装方法: pip install pypinyin')
@@ -626,6 +679,7 @@ def main() -> None:
     # 检查是否有成功处理的源
     if success_count == 0:
         print('✗ 错误: 所有EPG源都下载失败！')
+        print('提示: 如果源启用了Cloudflare保护，请安装cloudscraper库: pip install cloudscraper')
         sys.exit(1)
     
     # 生成最终XML
