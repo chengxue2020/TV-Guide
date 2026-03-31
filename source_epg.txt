@@ -1,5 +1,9 @@
 timeframe=96
 
+http://epg.51zmt.top:8000/e1.xml.gz
+CCTV1
+CCTV2
+
 https://epg.iill.top/epg.xml.gz
 明珠台
 BBC Earth
