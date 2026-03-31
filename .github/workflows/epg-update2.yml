@@ -1,0 +1,59 @@
+name: EPG Update
+
+on:
+  schedule:
+    # 每天执行4次（北京时间 0点, 6点, 12点, 18点）
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'source_epg.txt'  # 当配置文件更新时触发
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # 允许推送代码
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run EPG merger
+      run: |
+        python epg_merger.py
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "✅ 检测到文件变更"
+        else
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "ℹ️ 没有文件变更"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git add epg.xml
+        git commit -m "Auto update EPG data - $(date '+%Y-%m-%d %H:%M:%S')"
+        git push origin HEAD:${GITHUB_REF#refs/heads/}
