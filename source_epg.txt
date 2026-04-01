@@ -121,8 +121,6 @@ ViuTV
 江苏卫视
 
 http://e.erw.cc/e.xml.gz
-1	CCTV1
-2	CCTV-2
 3
 4
 5
