@@ -331,6 +331,794 @@ http://epg.51zmt.top:8000/e2.xml.gz
 2055	凤凰电影
 9999	noepg
 
+https://epg.pw/xmltv/epg_MY.xml
+491	ERA FM
+492	MY FM
+493	OPUS
+494	HITZ FM
+495	MIX FM
+531	LITE FM
+532	CLASSIC ROCK
+533	GOLD
+556	THR GEGAR
+601	INDIA BEAT
+643	JAZZ
+702	SINAR FM
+733	OSAI
+771	MELODY FM
+848	THR RAAGA
+854	BAYU
+863	KENYALANG
+878	Phoenix Info News HD
+902	TV9
+946	Adithya
+997	Asian Food Network HD
+1029	NTV7
+1072	TV3
+1122	8TV
+1205	AXN HD
+1242	ONE HD
+1298	Celestial Movies HD
+1358	Discovery Asia HD
+1477	History HD
+1781	Astro Quan Jia HD
+1835	BERNAMA
+1889	KBS World HD
+1951	Astro Hua Hee Dai HD
+2058	Astro Vinmeen HD
+2124	Astro AOD 311
+2181	ABO Movies Thangathirai HD
+2208	HITS HD
+2226	Astro AEC HD
+2280	Celestial Classic Movies
+2300	Golf Channel HD
+2323	tvN HD
+2384	Astro Ria HD
+2473	HGTV HD
+2524	TVB Jade
+2580	beIN Sports HD
+2636	BOO HD
+2652	K-Plus HD
+2726	tvN Movies HD
+2756	DW English
+2781	France24
+2801	ZAYAN
+2830	GOXUAN
+2852	CNA HD
+2885	Zee Tamil HD
+2917	Colors Tamil HD
+2937	Astro Citra HD
+3018	Astro SuperSport UHD 1
+3118	beIN Sports 3
+3145	Astro Oasis HD
+3158	Astro Prima HD
+3179	CNN HD
+3234	TLC HD
+3308	Star Vijay HD
+3313	SUN TV HD
+3325	Colors Hindi HD
+3329	BBC News HD
+3362	Crime & Investigation HD
+3385	Nickelodeon HD
+3403	Cartoon Network HD
+3416	Al Jazeera English HD
+3437	Discovery Channel HD
+3478	Phoenix Chinese Channel HD
+3493	TVB Xing He HD
+3509	TVBS Asia HD
+3518	CCTV4  HD
+3533	Astro Ceria HD
+3575	HITS Movies HD
+3600	Nick Jr.
+3625	Premier Sports
+3683	TV1 HD
+3711	TV2 HD
+3735	Astro Vaanavil HD
+3760	Astro Vellithirai HD
+3770	Astro Aura HD
+3784	Astro Rania HD
+3809	Astro Tutor TV SMK HD
+3835	Sun Music HD
+3858	Bloomberg TV HD
+3873	CNBC Asia HD
+3885	CTI Asia HD
+3895	TVB Classic HD
+3906	CGTN HD
+3920	TVB Entertainment News HD
+3929	NHK World Premium
+3942	TVS
+3958	Astro Awani HD
+3968	Lifetime HD
+4019	BBC Lifestyle HD
+4030	BBC Earth
+4057	SHOWCASE MOVIES
+4130	ABC Australia HD
+4136	Moonbug
+4146	beIN Sports 2
+4160	TV Okey HD
+4171	Love Nature 4K
+4181	Sun Life
+4183	KTV
+4185	Sun News
+4187	CBeebies
+4196	Love Nature
+4221	Zee Cinema
+48630	W-Sport
+186250	HITS NOW
+369578	GOLD
+369580	tvN Movies HD
+369585	TVBS Asia HD
+369586	Discovery Channel HD
+369587	Al Jazeera English HD
+369589	Astro Vinmeen HD
+369590	BBC Earth
+369592	TV1 HD
+369594	Astro AOD 311
+369595	BBC Lifestyle HD
+369596	Crime & Investigation HD
+369599	THR RAAGA
+369600	HITS Movies HD
+369601	beIN Sports 2
+369604	HGTV HD
+369605	Astro Oasis HD
+369608	Astro Ria HD
+369609	LITE FM
+369610	CNBC Asia HD
+369612	Nick Jr.
+369613	Zee Tamil HD
+369614	Celestial Classic Movies
+369616	AXN HD
+369621	CGTN HD
+369623	INDIA BEAT
+369624	ZAYAN
+369625	Astro Awani HD
+369626	CCTV4  HD
+369627	Bloomberg TV HD
+369628	Astro AEC HD
+369631	KENYALANG
+369632	DW English
+369633	THR GEGAR
+369634	NHK World Premium
+369635	NTV7
+369636	Astro Ceria HD
+369638	SINAR FM
+369639	CNA HD
+369641	MIX FM
+369643	ERA FM
+369645	BOO HD
+369646	Colors Tamil HD
+369648	Discovery Asia HD
+369649	History HD
+369651	Lifetime HD
+369653	KBS World HD
+369654	Astro Vellithirai HD
+369655	CNN HD
+369656	Celestial Movies HD
+369657	Phoenix Chinese Channel HD
+369658	France24
+369659	ABO Movies Thangathirai HD
+369660	Sun Music HD
+369661	Astro Citra HD
+369662	beIN Sports 3
+369663	Cartoon Network HD
+369664	CLASSIC ROCK
+369666	Astro Aura HD
+369668	Astro Hua Hee Dai HD
+369670	K-Plus HD
+369671	iQIYI HD
+369673	Colors Hindi HD
+369675	MELODY FM
+369676	Adithya
+369677	SUN TV HD
+369678	Astro Vaanavil HD
+369679	TVB Xing He HD
+369680	Al-Hijrah
+369681	TV Okey HD
+369682	Phoenix Info News HD
+369683	Asian Food Network HD
+369684	TVB Classic HD
+369686	Nickelodeon HD
+369687	OSAI
+369689	CTI Asia HD
+369690	TV3
+369691	ONE HD
+369693	TV9
+369694	Astro Rania HD
+369695	BERNAMA
+369696	Astro Prima HD
+369697	TV2 HD
+369698	8TV
+369700	BAYU
+369701	TVB Jade
+369703	TLC HD
+369704	TVB Entertainment News HD
+369705	ABC Australia HD
+369706	tvN HD
+369708	JAZZ
+369709	Star Vijay HD
+369710	HITS HD
+369712	HITZ FM
+370131	TV6
+370132	Berita RTM
+370133	Sukan RTM
+370134	Okey
+370135	TV2
+370136	TV1
+397396	Astro Premier League
+397397	Astro Premier League 2
+397399	Astro Football
+397400	Astro Badminton
+397402	Astro Sports Plus
+397403	Astro Grandstand
+399481	Arena Bola
+399482	beIN SPORTS 1
+399483	SHOWCASE
+399484	HITS NOW
+399486	Astro Badminton
+399487	Arena Bola 2
+399489	Golf Channel
+399490	Sun Life
+399491	Astro Premier League 2
+399493	Moonbug
+399494	W-Sport
+399495	Sun News
+399496	CBeebies
+399498	Astro Football
+399500	Astro Tutor TV
+399501	Zee Cinema
+399502	GOXUAN
+399504	Love Nature 4K
+399505	Astro Grandstand
+399506	Premier Sports Rugby
+399507	KTV
+399508	Astro Arena 2
+399509	TV Sarawak
+399510	Astro Sports Plus
+399511	Astro Premier League
+399514	BBC News HD
+399515	Love Nature
+399518	Astro Sports UHD
+399519	Astro QJ
+399521	Astro Arena
+400446	Blippi & Friends
+411231	Wai FM Iban
+411236	Bintulu FM
+411240	Red FM
+411241	Wai FM
+411251	KL FM
+411253	Labuan FM
+411255	SabahV FM
+411256	Selangor FM
+411257	Asyik FM
+411308	TRAXXfm
+421399	MY FM
+428785	Perak FM
+461591	CGTN Documentary
+478717	Snap
+478718	Lead
+479449	Fitrah
+479618	Aura
+479619	Apetito
+491618	Keningau FM
+491619	Miri FM 
+502308	JR.
+510886	Sandakan FM
+517640	Rock Action
+517641	Astro Showtime
+517642	Rock X Stream
+519419	Astro First HD
+519420	Astro First HD
+519423	Astro First HD
+519425	Astro First HD
+519428	Astro First HD
+519430	Astro First HD
+519886	Astro First HD
+519887	Astro First HD
+519888	Astro First HD
+519889	Astro First HD
+519890	Astro First HD
+519891	Astro First HD
+519892	Astro First HD
+520015	Astro First HD
+520016	Astro First HD
+520017	Astro First HD
+520490	OPUS
+521957	ROLL
+522380	Sample EPG
+523496	CricBuzz
+524198	Astro Sports Plus 2
+535446	Astro FAM Time
+535447	Astro Sports Plus 3
+1584	Al-Hijrah
+2552	Astro Arena HD
+3290	iQIYI HD
+4100	Astro Arena 2 HD
+4209	Arena Bola
+4215	Arena Bola 2
+
+
+https://epg.pw/xmltv/epg_SG.xml
+369713	FOX News Channel
+369716	AXN (HD)
+369717	mio Sports 2 (HD)
+369719	ROCK Entertainment (HD)
+369720	TLC (HD)
+369722	NHK World Premium
+369723	Asianet Movies
+369726	France 24 (English)
+369727	ROCK Action (HD)
+369728	ONE HD (Mandarin)
+369729	BBC News
+369730	Celestial Movies (HD)
+369734	KBS World (Mandarin) (HD)
+369737	TRACE Sports Stars HD
+369740	HITS NOW (HD)
+369741	beIN SPORTS 2 (HD)
+369742	Citra Drama (HD)
+369744	Discovery Channel (HD)
+369745	Crime + Investigation™ (HD)
+369746	SET (HINDI)
+369748	CM+
+369750	beIN SPORTS (HD)
+369752	ONE HD (Malay)
+369754	tvN HD (Malay)
+369757	Sky News HD
+369758	HBO Signature (HD)
+369760	AFN (HD)
+369765	HISTORY™ (HD)
+369766	Deutsche Welle (English)
+369767	KBS World (HD)
+369770	HITS Movies HD
+369771	Bloomberg Television (HD)
+369772	Colors
+369773	mio Sports (HD)
+369774	Jia Le Channel (HD)
+369775	Hub Premier 4
+369779	HGTV (HD)
+369780	Cartoon Network (HD)
+369783	Phoenix InfoNews
+369784	Hub Premier 1
+369785	Animal Planet (HD)
+369786	HBO Family (HD)
+369789	CTI Asia (HD)
+369790	Premier Sports
+369793	Hub Premier 3
+369795	CINEMAX (HD)
+369796	TVB Xing He (HD)
+369802	mio Sports 3 (HD)
+369804	MTV India
+369805	TVB Jade (HD)
+369806	e-Le (HD)
+369809	HBO HD
+369811	Sony YAY!
+369812	Star Bharat
+369813	CNBC Asia
+369814	STAR Gold
+369816	CBeebies (HD)
+369817	beIN SPORTS 3 (HD)
+369818	tvN HD (Mandarin)
+369819	CCM
+369822	Hub Premier 2
+369824	Drama Channel
+369826	BBC Lifestyle (HD)
+369827	Fight Sports (HD)
+369828	ZEE TV
+369832	Lifetime (HD)
+369833	ABC Australia
+369836	NHK World – Japan (HD)
+369837	BBC Earth (HD)
+369839	France 24 (French)
+369840	HBO Hits (HD)
+369844	STAR Plus
+369846	SONY MAX
+369848	Animax (HD)
+369849	SAB TV
+369851	HITS (HD)
+369854	Colors Tamil HD
+412088	HBO HD
+412089	BBC Lifestyle
+412090	COLORS Tamil HD
+412091	ROCK Entertainment
+412092	Bloomberg Television HD
+412093	HBO Hits HD
+412094	Sun Music
+412095	DreamWorks Channel HD
+412096	Cinemax HD
+412097	Vannathirai
+412098	BBC World News HD
+412099	Celestial Movies HD
+412101	KBS World HD
+412102	ONE (Malay)
+412103	Asianet
+412104	Citra Entertainment
+412105	Hub Sports 3 HD
+412106	TVB Xing He
+412109	CGTN
+412110	Zee TV
+412112	HBO Signature HD
+412113	Astro Sensasi HD
+412115	Zee Tamil
+412116	Kalaignar TV
+412117	Karisma
+412119	Nickelodeon Asia HD
+412120	Travelxp HD
+412122	Euronews HD
+412123	ADITHYA TV
+412124	Cartoon Network
+412125	Crime + Investigation HD
+412126	Asianet Movies
+412128	Sun TV
+412129	beIN Sports 2 HD
+412130	NHK World Premium HD
+412132	Fox News Channel
+412133	Premier Sports
+412134	HITS MOVIES HD
+412135	TVB Jade HD
+412136	Nick Jr
+412138	SONY MAX
+412139	CCTV-4
+412140	Hub Premier 1
+412141	Vijay TV HD
+412142	Dragon TV
+412144	Animax HD
+412145	Phoenix InfoNews Channel HD
+412146	BBC Earth HD
+412147	Arirang TV HD
+412148	Preview Channel
+412149	TVBS-NEWS
+412150	COLORS
+412151	CNBC HD
+412153	HGTV
+412154	Hub Sports 2 HD
+412155	Astro Warna HD
+412156	Hub VVDrama
+412157	ABC Australia HD
+412160	Hub Sports 5 HD
+412161	Discovery HD
+412162	CCM
+412164	Hub Premier 2 (HD)
+412165	FIGHT SPORTS HD
+412167	beIN Sports HD
+412168	ETTV ASIA HD
+412169	Hub Sports 1  HD
+412170	Sony Entertainment Television
+412172	HISTORY HD
+412174	Cbeebies HD
+412175	beIN Sports 3
+412176	CTI TV HD
+412178	DW English HD
+412179	NHK WORLD - JAPAN HD
+412180	ONE HD
+412181	SPOTV
+412182	Hub Sports 6
+412183	TV5MONDE HD
+412184	Lifetime HD
+412185	Zee Cinema
+412186	Cinema One Global
+412187	SPOTV2
+412188	AXN HD
+412189	Phoenix Chinese Channel HD
+412190	France24
+412191	Hub E City HD
+412192	Zee Thirai
+412193	TVBS Asia
+412194	Hits HD
+412195	HBO Family HD
+412197	FashionTV HD
+412198	Hub Sports 4 HD
+412199	Bloomberg Originals
+412200	Hub E City HD
+412201	CNN HD
+412203	KTV HD
+413372	TestChannel 993
+429564	Pesona HD
+429984	Sky News HD
+430462	Cricbuzz
+430760	Cricbuzz 2
+435717	Asianet
+447056	Hub Ruyi
+450710	Hub Premier 8
+450711	Hub Premier 3
+452962	Hub Premier 5
+455185	Hub Sports 7
+455186	Hub Premier 6
+455187	Hub Sports 8
+455314	The Filipino Channel
+459681	StarHub
+472551	Hub Premier 4
+476879	ANC
+482820	Hub Sports 3 HD
+482821	Hub Premier 8
+482822	Hub Sports 2 HD
+482823	Hub Sports 7 HD
+482824	Hub Sports 8 HD
+482827	Hub Sports 1 HD
+482829	Hub Premier 5
+482830	Hub Premier 6
+482831	Hub Sports 5 HD
+482832	Hub Sports 4 HD
+482833	Hub Sports 6 HD
+483423	Hub Premier 7
+484241	Cinema One Global
+484245	(HD) Outdoor Channel
+485760	HITS NOW
+491151	ETTV Asia (HD)
+491154	GMA Life TV
+491157	CNN International (HD)
+491159	ANIPLUS HD
+491163	TVBS Asia
+491164	GMA News TV
+491166	Nick Jr.
+491167	KTV HD
+491168	GMA Pinoy TV
+491170	Nickelodeon Asia HD
+491172	China Movie Channel
+491348	Sun Music
+492453	TVBS News
+492456	Adithya TV
+492708	beIN SPORTS 4 HD
+492816	Channel 5
+492817	Vasantham
+492819	KTV HD
+492823	CinemaWorld
+492824	CNN HD
+492825	Nick Jr. HD
+492826	CBeebies HD
+492827	Hub Sports 2 HD
+492830	FIFA+
+492832	Animax HD
+492833	Fox News Channel HD
+492834	Hub Sports 1 HD
+492836	Hub Sports 3 HD
+492837	CGTN
+492838	ONE HD
+492839	Euronews HD
+492840	ANC
+492842	Cinema One Global
+492843	HITS MOVIES HD
+492845	Hub Premier 4
+492846	Hub Premier 5
+492847	Hub Premier 6
+492848	Hub Premier 10
+492850	AXN HD
+492851	Hub VV Drama HD
+492853	Phoenix Chinese Channel HD
+492856	ETTV Asia HD
+492858	FoodON
+492860	SPL CH01
+492861	HGTV HD
+492863	BBC Lifestyle HD
+492864	Channel U
+492865	Cartoon Network
+492866	Crime + Investigation HD
+492867	Discovery HD
+492868	Lifetime HD
+492869	Astro Sensasi HD
+492870	ONE (Malay)
+492871	BBC News HD
+492872	CCTV-4
+492873	Hub Premier 11
+492874	CNA
+492875	COLORS Tamil HD
+492876	HISTORY HD
+492877	DreamWorks HD
+492878	TG Junior
+492879	Nickelodeon Asia HD
+492880	W-Sport
+492881	Dragon TV
+492882	Celestial Movies HD
+492883	CTI Asia HD
+492885	Hub Premier 3
+492886	Hub Premier 9
+492887	Hub Premier 7
+492888	Hub Premier 2
+492889	Hub Premier 8
+492890	ADITHYA TV
+492891	Kalaignar TV
+492892	BBC Earth HD
+492893	CNBC HD
+492894	Channel 8
+492895	Hub E City HD
+492896	TRACE Sport Stars
+492897	KBS World HD
+492898	Hub Ruyi
+492899	CCM
+492900	River Monsters
+492901	Suria
+492902	HITS HD
+492903	Hub Premier 1
+492904	COLORS
+492905	LIVE 1
+492906	Asianet
+492907	Asianet Movies
+492908	Kartoon Channel!
+492909	Citra Entertainment
+492910	Action Hollywood Movies
+492914	Astro Warna HD
+492915	Karisma
+493279	TestChannel 996
+495472	Fear Factor
+495473	Deal or No Deal
+495493	TestChannel2
+501125	BRTV International
+501126	WION
+501127	ABS-CBN News Channel
+502440	CGTN-Documentary
+503775	Hub Sports 4 HD
+503776	Hub Sports 5 HD
+507899	MasterChef
+512067	CCTV Entertainment
+512068	now Jelli (HD)
+512070	Dragon TV Intl
+513276	Ch 8 (HD)
+513278	Vasantham (HD)
+513280	Ch U (HD)
+513282	CNA (HD)
+513284	Suria (HD)
+513286	Ch 5 (HD)
+516575	Astro Prima HD
+516576	SPOTV (HD)
+516577	SPOTV 2 (HD)
+516579	Astro Ria HD
+516580	Zee Thirai
+516581	TechStorm (HD)
+522552	CGTN
+522554	Vijay
+522555	Sun TV
+522556	Hunan International
+522557	Times Now
+522559	CCTV-4 (HD)
+524981	Hub Sports 7 HD
+524982	Hub Sports 8 HD
+524983	beIN SPORTS 4 HD
+524984	beIN SPORTS 5 HD
+524985	beIN SPORTS 3 HD
+524986	Hub Sports 6 HD
+524987	beIN SPORTS 2 HD
+524988	beIN SPORTS HD
+524989	Cricbuzz
+524990	Cricbuzz 2
+524991	FIGHT SPORTS HD
+530390	Vijay Takkar
+535294	LIVE 2
+535443	That's 80s
+535444	That's Rock
+535445	That's 70s
+535473	ROCK Action (HD)
+535474	STAR Plus
+535475	TVBS News
+535476	Lifetime (HD)
+535477	HITS (HD)
+535478	TechStorm (HD)
+535479	HITS MOVIES (HD)
+535480	HITS NOW (HD)
+535481	AXN (HD)
+535482	ETTV Asia (HD)
+535483	e-Le (HD)
+535484	Times Now
+535485	Zoom TV
+535486	HBO Family (HD)
+535487	MOLA Sport (HD)
+535488	EUROSPORT (HD)
+535489	BBC Earth (HD)
+535490	(HD) Outdoor Channel
+535491	HBO Signature (HD)
+535492	Cartoonito (HD)
+535493	Cartoon Network (HD)
+535494	SAB TV
+535496	BRTV International
+535497	Hunan International
+535498	Dragon TV Intl
+535499	CCTV Entertainment
+535500	China Movie Channel
+535501	CNBC Asia (HD)
+535502	Bloomberg TV (HD)
+535503	Celestial Movies(HD)
+535504	CCM
+535505	Adithya TV
+535506	Sun Music HD
+535507	KTV HD
+535508	Zee Thirai
+535509	Colors Tamil HD
+535510	Sun TV HD
+535511	Drama Channel
+535512	tvN HD
+535513	The Filipino Ch (HD)
+535514	GMA News TV Intl
+535515	Food Network (HD)
+535516	AFN (HD)
+535517	TRACE Sport Stars HD
+535518	TLC (HD)
+535519	KBS World (HD)
+535520	STAR Gold
+535521	Animal Planet (HD)
+535522	Sony MAX
+535523	Pesona HD
+535524	CGTN-Documentary
+535525	NHK World Premium HD
+535526	Jia Le Channel (HD)
+535527	Nickelodeon Asia HD
+535528	Animax (HD)
+535529	Citra Drama (HD)
+535530	beIN SPORTS 2 (HD)
+535531	SEA Today
+535532	BBC Lifestyle (HD)
+535533	MTV LIVE HD
+535534	GMA Life TV
+535535	WION
+535536	CM+
+535537	maa movies
+535538	Star Maa
+535539	CCTV-4 (HD)
+535540	CTI Asia (HD)
+535541	MTV India
+535542	HGTV (HD)
+535543	Star Bharat
+535544	Colors
+535545	ABC Australia
+535546	mio Sports
+535547	mio Sports 2
+535548	TVBS Asia
+535549	Premier Sports
+535550	GMA Pinoy TV
+535551	Discovery Ch (HD)
+535552	Discovery Asia (HD)
+535553	C+I (HD)
+535554	HISTORY (HD)
+535555	tvN HD (Mandarin)
+535556	beIN SPORTS (HD)
+535557	TVB Jade (HD)
+535558	ONE HD (Mandarin)
+535559	now Jelli (HD)
+535560	TVB Xing He (HD)
+535561	Sky News HD
+535562	CGTN (HD)
+535563	NHK World - Japan
+535564	ONE HD (Malay)
+535565	Astro Prima HD
+535566	Astro Ria HD
+535567	CNN International
+535568	ETTV Asia News (HD)
+535569	beIN SPORTS 4 (HD)
+535570	CINEMAX (HD)
+535571	HBO HD
+535572	HBO Hits (HD)
+535573	BBC News (HD)
+535574	Nick Jr (HD)
+535575	DreamWorks (HD)
+535576	ANIPLUS HD
+535577	Fight Sports (HD)
+535578	SPOTV (HD)
+535579	SPOTV 2 (HD)
+535580	beIN SPORTS 3 (HD)
+535581	Sony YAY
+535582	tvN Movies On Demand
+535583	SET (HINDI)
+535584	Zee TV
+535585	DW (English)
+535586	FOX News Channel HD
+535587	ROCK ENT (HD)
+535588	France 24 (English)
+535589	France 24 (French)
+535590	Phoenix InfoNews
+535591	Asianet
+535592	Asianet Movies
+535593	Vijay TV (HD)
+535594	Zee Tamil HD
+535595	CBeebies (HD)
+492911	NOW 80s
+492912	NOW 70s
+492913	NOW Rock
+412143	The Filipino Channel HD
+451931	Star Maa
+451933	maa movies
+491156	Zee Tamil
+522558	Zoom TV
+492707	beIN SPORTS 5 HD
+521905	Oktolidays
+520018	LIVE 5
+
+
 
 https://epg.iill.top/epg.xml.gz
 明珠台
