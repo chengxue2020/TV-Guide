@@ -490,7 +490,7 @@ https://epg.pw/xmltv/epg_MY.xml
 1072	TV3
 370131	TV6
 902	TV9
-3895	TVB Classic HD
+3895	TVB Classic HD(MY)
 3920	TVB Entertainment News HD
 2524	TVB Jade
 3493	TVB Xing He HD
@@ -530,7 +530,6 @@ https://epg.pw/xmltv/epg_SG.xml
 369746	SET (HINDI)
 369748	CM+
 369750	beIN SPORTS (HD)
-369752	ONE HD (Malay)
 369754	tvN HD (Malay)
 369757	Sky News HD
 369758	HBO Signature (HD)
@@ -1282,57 +1281,25 @@ https://epg.pw/xmltv/epg_SG.xml
 522556	湖南国际
 
 
+https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
+天映经典新加坡
+千禧经典台(MY)
+
 
 https://epg.iill.top/epg.xml.gz
 明珠台
 BBC Earth
 BBC Lifestyle
-Now新聞台
-Now財經台
-Now直播台
 Now Sports 精選
 商業電台 雷霆881
 商業電台 AM864
 商業電台 叱咤903
-ViuTVsix
-ViuTV
-东方卫视
-江苏卫视
+
 
 http://e.erw.cc/e.xml.gz
 3
 4
 5
-
-https://epg.112114.xyz/pp.xml
-CCTV1
-CCTV2
-CCTV3
-CCTV4
-CCTV5
-CCTV5+
-CCTV6
-CCTV7
-CCTV8
-CCTV9
-CCTV10
-CCTV11
-CCTV12
-CCTV13
-CCTV14
-CCTV15
-CCTV16
-CCTV17
-CCTV4K
-CGTN
-CGTN Documentary
-BeijingTV	北京卫视
-DragonTV	东方卫视
-HunanTV	湖南卫视
-JiangsuTV	江苏卫视
-ZhejiangTV	浙江卫视
-GuangdongTV	广东卫视
-ShenzhenTV	深圳卫视
 
 
 https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
