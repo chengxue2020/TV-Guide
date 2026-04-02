@@ -1,6 +1,6 @@
-timeframe=96
-
-http://epg.51zmt.top:8000/e.xml.gz
+timeframe=96	
+	
+http://epg.51zmt.top:8000/e.xml.gz	
 1	CCTV1
 2	CCTV2
 3	CCTV3
@@ -99,10 +99,10 @@ http://epg.51zmt.top:8000/e.xml.gz
 1675	武术世界
 1670	早期教育
 1671	证券资讯
-
-
-
-http://epg.51zmt.top:8000/e2.xml.gz
+	
+	
+	
+http://epg.51zmt.top:8000/e2.xml.gz	
 1451	中视
 1797	中视经典
 1770	中视菁采台
@@ -327,10 +327,10 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1580	tvN
 187	ViuTV
 1570	WarnerTV
-
-
-
-https://epg.pw/xmltv/epg_MY.xml
+	
+	
+	
+https://epg.pw/xmltv/epg_MY.xml	
 1122	8TV(MY)
 4130	ABC Australia HD(MY)
 2181	ABO Movies Thangathirai HD
@@ -394,10 +394,10 @@ https://epg.pw/xmltv/epg_MY.xml
 2636	BOO HD
 3403	Cartoon Network HD
 4187	CBeebies(MY)
-3518	CCTV4(MY)
+3518	CCTV4(英)
 2280	Celestial Classic Movies
 1298	Celestial Movies HD(MY)
-461591	CGTN Documentary(MY)
+461591	CGTN Documentary(英)
 3906	CGTN HD
 532	CLASSIC ROCK
 2852	CNA HD
@@ -456,7 +456,7 @@ https://epg.pw/xmltv/epg_MY.xml
 428785	Perak FM
 3478	Phoenix Chinese Channel HD(MY)
 878	Phoenix Info News HD
-3625	Premier Sports
+3625	Premier Sports(MY)
 399506	Premier Sports Rugby
 411240	Red FM
 517640	Rock Action
@@ -473,9 +473,9 @@ https://epg.pw/xmltv/epg_MY.xml
 3308	Star Vijay HD
 370133	Sukan RTM
 4181	Sun Life
-3835	Sun Music HD
+3835	Sun Music HD(MY)
 4185	Sun News
-3313	SUN TV HD
+3313	SUN TV HD(MY)
 556	THR GEGAR
 848	THR RAAGA
 3234	TLC HD
@@ -494,7 +494,7 @@ https://epg.pw/xmltv/epg_MY.xml
 2524	TVB Jade
 3493	TVB Xing He HD
 3509	TVBS Asia HD
-2323	tvN HD
+2323	tvN HD(MY)
 2726	tvN Movies HD
 3942	TVS
 411241	Wai FM
@@ -502,115 +502,61 @@ https://epg.pw/xmltv/epg_MY.xml
 48630	W-Sport(MY)
 2801	ZAYAN
 4221	Zee Cinema(MY)
-2885	Zee Tamil HD
-
-
-https://epg.pw/xmltv/epg_SG.xml
-369833	ABC Australia
-535545	ABC Australia
+2885	Zee Tamil HD(MY)
+	
+	
+https://epg.pw/xmltv/epg_SG.xml	
+369833	ABC Australia(SG)
 412157	ABC Australia HD
 501127	ABS-CBN News Channel
 492910	Action Hollywood Movies
 412123	ADITHYA TV
-492456	Adithya TV
-492890	ADITHYA TV
-535505	Adithya TV
 369760	AFN (HD)
-535516	AFN (HD)
 476879	ANC
-492840	ANC
 369785	Animal Planet (HD)
-535521	Animal Planet (HD)
 369848	Animax (HD)
-535528	Animax (HD)
-412144	Animax HD
 492832	Animax HD
 491159	ANIPLUS HD
-535576	ANIPLUS HD
 412147	Arirang TV HD
-412103	Asianet
 435717	Asianet
-492906	Asianet
-535591	Asianet
 369723	Asianet Movies
-412126	Asianet Movies
-492907	Asianet Movies
-535592	Asianet Movies
 535565	Astro Prima HD
 516575	Astro Prima HD(SG)
-535566	Astro Ria HD
 516579	Astro Ria HD(SG)
-412113	Astro Sensasi HD
 492869	Astro Sensasi HD
-412155	Astro Warna HD
 492914	Astro Warna HD
-369716	AXN (HD)
-535481	AXN (HD)
-412188	AXN HD
 492850	AXN HD(SG)
-369837	BBC Earth (HD)
-535489	BBC Earth (HD)
-412146	BBC Earth HD
 492892	BBC Earth HD
-369826	BBC Lifestyle (HD)
-535532	BBC Lifestyle (HD)
 492863	BBC Lifestyle HD(SG)
 412089	BBC Lifestyle(SG)
 369729	BBC News
-535573	BBC News (HD)
 492871	BBC News HD(SG)
 412098	BBC World News HD
 369750	beIN SPORTS (HD)
-535556	beIN SPORTS (HD)
-369741	beIN SPORTS 2 (HD)
-535530	beIN SPORTS 2 (HD)
 412129	beIN Sports 2 HD
-524987	beIN SPORTS 2 HD
-412175	beIN Sports 3
-369817	beIN SPORTS 3 (HD)
-535580	beIN SPORTS 3 (HD)
 524985	beIN SPORTS 3 HD
-535569	beIN SPORTS 4 (HD)
-492708	beIN SPORTS 4 HD
 524983	beIN SPORTS 4 HD
-492707	beIN SPORTS 5 HD
 524984	beIN SPORTS 5 HD
 412167	beIN Sports HD
-524988	beIN SPORTS HD
 412199	Bloomberg Originals
-369771	Bloomberg Television (HD)
-412092	Bloomberg Television HD
-535502	Bloomberg TV (HD)
-501125	BRTV International
-535496	BRTV International
+369771	Bloomberg TV (HD)
+412092	Bloomberg TV HD(SG)
 535553	C+I (HD)
-412124	Cartoon Network
 492865	Cartoon Network
 369780	Cartoon Network (HD)
-535493	Cartoon Network (HD)
 535492	Cartoonito (HD)
 369816	CBeebies (HD)
-535595	CBeebies (HD)
-412174	Cbeebies HD
 492826	CBeebies HD
 535504	CCM
 369819	CCM天映经典电影(新加坡)
-512067	CCTV Entertainment
-535499	CCTV Entertainment
-412139	CCTV-4
-492872	CCTV-4
-535539	CCTV-4 (HD)
 522559	CCTV4 (SG)
+512067	CCTV娱乐
 369730	Celestial Movies (HD)
 492882	Celestial Movies HD
 412099	Celestial Movies HD(SG)
 535503	Celestial Movies(HD)
 412109	CGTN
-492837	CGTN
-522552	CGTN
-535562	CGTN (HD)
 502440	CGTN-Documentary
-535524	CGTN-Documentary
 513286	Ch 5 (HD)
 513276	Ch 8 (HD)
 513280	Ch U (HD)
@@ -618,215 +564,121 @@ https://epg.pw/xmltv/epg_SG.xml
 492894	Channel 8
 492864	Channel U
 491172	China Movie Channel
-535500	China Movie Channel
 412186	Cinema One Global
-484241	Cinema One Global
-492842	Cinema One Global
 492823	CinemaWorld(SG)
-369795	CINEMAX (HD)
-535570	CINEMAX (HD)
 412096	Cinemax HD
 369742	Citra Drama (HD)
-535529	Citra Drama (HD)
 412104	Citra Entertainment
-492909	Citra Entertainment
 369748	CM+
-535536	CM+
-513282	CNA (HD)
 492874	CNA亚洲新闻
 369813	CNBC Asia
-535501	CNBC Asia (HD)
-412151	CNBC HD
 492893	CNBC HD
-492824	CNN HD
 412201	CNN HD(SG)
 535567	CNN International
 491157	CNN International (HD)
-369772	Colors
-412150	COLORS
 492904	COLORS
-535544	Colors
 369854	Colors Tamil HD
-412090	COLORS Tamil HD
-535509	Colors Tamil HD
 492875	COLORS Tamil HD(SG)
 430462	Cricbuzz
-430760	Cricbuzz 2
 524990	Cricbuzz 2
 524989	Cricbuzz(SG)
-412125	Crime + Investigation HD
 492866	Crime + Investigation HD
 369745	Crime + Investigation™ (HD)
-369789	CTI Asia (HD)
-535540	CTI Asia (HD)
-492883	CTI Asia HD(SG)
-412176	CTI TV HD
 495473	Deal or No Deal
 369766	Deutsche Welle (English)
 535552	Discovery Asia (HD)
 535551	Discovery Ch (HD)
 369744	Discovery Channel (HD)
-412161	Discovery HD
 492867	Discovery HD
 412142	Dragon TV
-492881	Dragon TV
-512070	Dragon TV Intl
-535498	Dragon TV Intl
 369824	Drama Channel
-535511	Drama Channel
 535575	DreamWorks (HD)
 412095	DreamWorks Channel HD
 492877	DreamWorks HD
 535585	DW (English)
 412178	DW English HD
 369806	e-Le (HD)
-535483	e-Le (HD)
 491151	ETTV Asia (HD)
-535482	ETTV Asia (HD)
-412168	ETTV ASIA HD
 492856	ETTV Asia HD
 535568	ETTV Asia News (HD)
 412122	Euronews HD
-492839	Euronews HD
 535488	EUROSPORT (HD)
 412197	FashionTV HD
 495472	Fear Factor
 492830	FIFA+
 369827	Fight Sports (HD)
-535577	Fight Sports (HD)
 412165	FIGHT SPORTS HD
-524991	FIGHT SPORTS HD
 535515	Food Network (HD)
 492858	FoodON
-369713	FOX News Channel
 412132	Fox News Channel
 492833	Fox News Channel HD
-535586	FOX News Channel HD
 369726	France 24 (English)
-535588	France 24 (English)
 369839	France 24 (French)
-535589	France 24 (French)
 412190	France24(SG)
 491154	GMA Life TV
-535534	GMA Life TV
 491164	GMA News TV
 535514	GMA News TV Intl
 491168	GMA Pinoy TV
-535550	GMA Pinoy TV
 369786	HBO Family (HD)
-535486	HBO Family (HD)
 412195	HBO Family HD
-535571	HBO HD
-369809	HBO HD(A)
+535571	HBO HD(SG)
 412088	HBO HD(B)
 369840	HBO Hits (HD)
-535572	HBO Hits (HD)
 412093	HBO Hits HD
 369758	HBO Signature (HD)
-535491	HBO Signature (HD)
 412112	HBO Signature HD
 412153	HGTV
 369779	HGTV (HD)
-535542	HGTV (HD)
 492861	HGTV HD(SG)
 535554	HISTORY (HD)
 412172	HISTORY HD
 492876	HISTORY HD(SG)
 369765	HISTORY™ (HD)
 369851	HITS (HD)
-535477	HITS (HD)
 412194	Hits HD
 492902	HITS HD(SG)
 535479	HITS MOVIES (HD)
 369770	HITS Movies HD
-412134	HITS MOVIES HD
-492843	HITS MOVIES HD
 369740	HITS NOW (HD)
-535480	HITS NOW (HD)
 485760	HITS NOW(SG)
-412191	Hub E City HD
-412200	Hub E City HD
 492895	Hub E City HD
-369784	Hub Premier 1
-412140	Hub Premier 1
 492903	Hub Premier 1
 492848	Hub Premier 10
 492873	Hub Premier 11
-369822	Hub Premier 2
 492888	Hub Premier 2
-412164	Hub Premier 2 (HD)
-369793	Hub Premier 3
-450711	Hub Premier 3
 492885	Hub Premier 3
-369775	Hub Premier 4
-472551	Hub Premier 4
 492845	Hub Premier 4
-452962	Hub Premier 5
-482829	Hub Premier 5
 492846	Hub Premier 5
-455186	Hub Premier 6
-482830	Hub Premier 6
 492847	Hub Premier 6
-483423	Hub Premier 7
 492887	Hub Premier 7
-450710	Hub Premier 8
-482821	Hub Premier 8
 492889	Hub Premier 8
 492886	Hub Premier 9
-447056	Hub Ruyi
 492898	Hub Ruyi
-412169	Hub Sports 1  HD
-482827	Hub Sports 1 HD
 492834	Hub Sports 1 HD
-412154	Hub Sports 2 HD
-482822	Hub Sports 2 HD
 492827	Hub Sports 2 HD
-412105	Hub Sports 3 HD
-482820	Hub Sports 3 HD
 492836	Hub Sports 3 HD
-412198	Hub Sports 4 HD
-482832	Hub Sports 4 HD
 503775	Hub Sports 4 HD
-412160	Hub Sports 5 HD
-482831	Hub Sports 5 HD
 503776	Hub Sports 5 HD
-412182	Hub Sports 6
-482833	Hub Sports 6 HD
 524986	Hub Sports 6 HD
-455185	Hub Sports 7
-482823	Hub Sports 7 HD
 524981	Hub Sports 7 HD
 455187	Hub Sports 8
-482824	Hub Sports 8 HD
 524982	Hub Sports 8 HD
 492851	Hub VV Drama HD
 412156	Hub VVDrama
-535497	Hunan International
 369774	Jia Le Channel (HD)
-535526	Jia Le Channel (HD)
 412116	Kalaignar TV
-492891	Kalaignar TV
-412117	Karisma
 492915	Karisma
 492908	Kartoon Channel!
-369767	KBS World (HD)
-535519	KBS World (HD)
 369734	KBS World (Mandarin) (HD)
-412101	KBS World HD
 492897	KBS World HD(SG)
 412203	KTV HD
-491167	KTV HD
-492819	KTV HD
-535507	KTV HD
 369832	Lifetime (HD)
-535476	Lifetime (HD)
 412184	Lifetime HD
 492868	Lifetime HD(SG)
 492905	LIVE 1
 535294	LIVE 2
 520018	LIVE 5
 451933	maa movies
-535537	maa movies
 507899	Master Chef
 535546	mio Sports
 369773	mio Sports (HD)
@@ -835,95 +687,67 @@ https://epg.pw/xmltv/epg_SG.xml
 369802	mio Sports 3 (HD)
 535487	MOLA Sport (HD)
 369804	MTV India
-535541	MTV India
 535533	MTV LIVE HD
 535563	NHK World - Japan
-369836	NHK World – Japan (HD)
+369836	NHK World - Japan (HD)
 412179	NHK WORLD - JAPAN HD
-369722	NHK World Premium
+369722	NHK World Premium(SG)
 412130	NHK World Premium HD
-535525	NHK World Premium HD
 412136	Nick Jr
 535574	Nick Jr (HD)
 492825	Nick Jr. HD
 491166	Nick Jr.(SG)
-412119	Nickelodeon Asia HD
-491170	Nickelodeon Asia HD
 492879	Nickelodeon Asia HD
-535527	Nickelodeon Asia HD
 492912	NOW 70s
 492911	NOW 80s
 512068	NOW Jelli (HD)
-535559	now Jelli (HD)
 492913	NOW Rock
 521905	Oktolidays
-412102	ONE (Malay)
 492870	ONE (Malay)
 412180	ONE HD
-369752	ONE HD (Malay)
-535564	ONE HD (Malay)
-369728	ONE HD (Mandarin)
-535558	ONE HD (Mandarin)
+369728	ONE HD (中英)
 492838	ONE HD(SG)
 535490	Outdoor Channel(HD)
 484245	Outdoor Channel(SG)
 429564	Pesona HD
-535523	Pesona HD
 412189	Phoenix Chinese Channel HD
 492853	Phoenix Chinese Channel HD(SG)
 369783	Phoenix Info News
 535590	Phoenix InfoNews
 412145	Phoenix InfoNews Channel HD
-369790	Premier Sports
-412133	Premier Sports
-535549	Premier Sports
+369790	Premier Sports(A)
+412133	Premier Sports(B)
 412148	Preview Channel
 492900	River Monsters
 369727	ROCK Action (HD)
-535473	ROCK Action (HD)
 535587	ROCK ENT (HD)
 412091	ROCK Entertainment
 369719	ROCK Entertainment (HD)
 369849	SAB TV
-535494	SAB TV
 535531	SEA Today
 369746	SET (HINDI)
-535583	SET (HINDI)
 369757	Sky News HD
-535561	Sky News HD
 429984	Sky News HD(B)
 412170	Sony Entertainment Television
-369846	SONY MAX
-412138	SONY MAX
-535522	Sony MAX
+369846	SONY MAX(A)
+412138	SONY MAX(B)
 535581	Sony YAY
 369811	Sony YAY!
 492860	SPL CH01
 412181	SPOTV
 516576	SPOTV (HD)
-535578	SPOTV (HD)
 516577	SPOTV 2 (HD)
-535579	SPOTV 2 (HD)
 412187	SPOTV2
 369812	Star Bharat
-535543	Star Bharat
 369814	STAR Gold
-535520	STAR Gold
 451931	Star Maa
-535538	Star Maa
 369844	STAR Plus
-535474	STAR Plus
 459681	StarHub
 412094	Sun Music
-491348	Sun Music
 535506	Sun Music HD
 412128	Sun TV
-522555	Sun TV
-535510	Sun TV HD
 492901	Suria
-513284	Suria (HD)
 516581	TechStorm (HD)
-535478	TechStorm (HD)
 413372	TestChannel 993
 493279	TestChannel 996
 492878	TG Junior
@@ -934,348 +758,1394 @@ https://epg.pw/xmltv/epg_SG.xml
 455314	The Filipino Channel
 412143	The Filipino Channel HD
 522557	Times Now
-535484	Times Now
-369720	TLC (HD)
-535518	TLC (HD)
+369720	TLC (SG)
 492896	TRACE Sport Stars
 535517	TRACE Sport Stars HD
 369737	TRACE Sports Stars HD
 412120	Travelxp HD
 412183	TV5MONDE HD
 369805	TVB Jade (HD)
-535557	TVB Jade (HD)
 412135	TVB Jade HD
 412106	TVB Xing He
 369796	TVB Xing He (HD)
-535560	TVB Xing He (HD)
-412193	TVBS Asia
 491163	TVBS Asia
-535548	TVBS Asia
-492453	TVBS News
-535475	TVBS News
-412149	TVBS-NEWS
+412149	TVBS-NEWS(英)
+492453	TVBS-NEWS(中)
 535512	tvN HD
 369754	tvN HD (Malay)
-369818	tvN HD (Mandarin)
-535555	tvN HD (Mandarin)
+369818	tvN HD(中)
 535582	tvN Movies On Demand
 412097	Vannathirai
 492817	Vasantham
 513278	Vasantham (HD)
 522554	Vijay
 530390	Vijay Takkar
-535593	Vijay TV (HD)
 412141	Vijay TV HD
 501126	WION
-535535	WION
 492880	W-Sport(SG)
 412185	Zee Cinema(SG)
 412115	Zee Tamil
-491156	Zee Tamil
 535594	Zee Tamil HD
-412192	Zee Thirai
 516580	Zee Thirai
-535508	Zee Thirai
 369828	ZEE TV
-412110	Zee TV
-535584	Zee TV
 522558	Zoom TV
-535485	Zoom TV
+501125	北京国际
 522556	湖南国际
-
-
-https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
-天映经典新加坡		CCM天映经典新加坡
-千禧经典台(MY)
-
-
-https://epg.pw/xmltv/epg_US.xml
-
-
-https://epg.iill.top/epg.xml.gz
+512070	上海东方国际
+492883	中天亚洲台(英)
+369789	中天亚洲台(中)
+412176	中天综合台(SG)
+	
+	
+	
+https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz	
+天映经典新加坡	
+千禧经典台(MY)	
+	
+	
+https://epg.pw/xmltv/epg_US.xml	
+465049	365BLK(US)
+465145	3ABN(US)
+465061	3ABN Dare to Dream Network(US)
+464947	3ABN International Network(US)
+464914	3ABN Kids Network(US)
+464858	3ABN Latino Network(US)
+465121	3ABN Praise Him Music(US)
+465004	3ABN Proclaim Network(US)
+484436	3ABN Radio Network(US)
+465147	5 StarMAX HD East(US)
+484875	80s Sitcoms(US)
+464795	88 Films(US)
+465229	88 TV(US)
+484886	90s Sitcoms(US)
+464992	A and E HD East(US)
+464980	AAPKA Colors US(US)
+464902	ABC National Feed(US)
+464849	ABC National Feed Pacific(US)
+465150	ABC News Live(US)
+465161	ABS-CBN News Channel(US)
+464879	ACC Network(US)
+465193	AccuWeather HD(US)
+464886	ACE TV(US)
+496600	Action Channel(US)
+464815	ActionMAX HD(US)
+465313	Adult On Demand(US)
+464853	AdultSwim com Cartoon Network(US)
+496759	AFN family/AFN pulse(US)
+496766	AFN movie(US)
+496762	AFN news(US)
+496761	AFN prime Atlantic(US)
+496760	AFN prime Pacific(US)
+496763	AFN spectrum(US)
+496764	AFN sports(US)
+496765	AFN sports2(US)
+465288	Altitude Sports(US)
+483394	Altitude Sports 2 HD(US)
+465032	AMC HD(US)
+465158	AMC+(US)
+473069	American Crimes(US)
+464895	American Heroes Channel HD(US)
+465200	AMG TV(US)
+496606	and TV(US)
+464900	Anheuser Busch Private Network(US)
+465310	Animal Planet HD(US)
+465253	Animal Planet HD (Pacific)(US)
+464750	Antena 3 Internacional(US)
+496613	Antenna TV(US)
+464916	Arizona Family Sports(US)
+464951	ASPiRE HD(US)
+520489	Asylum Movie(US)
+496601	ATN Cricket Plus(US)
+464909	ATN Movies(US)
+465118	Atrescine(US)
+464809	Atreseries(US)
+465071	AWE A Wealth of Entertainment HD(US)
+464771	AXS TV(US)
+465369	Baby TV US(US)
+465394	BabyFirst TV(US)
+465007	Bandamax(US)
+465019	Bang U(US)
+464899	Barvanna Network(US)
+465025	BBC America HD(US)
+487333	BBC Dinos 24/7(US)
+464746	BBC News (North America) HD(US)
+483549	Beach TV (WDES-CD) Destin, FL(US)
+465366	beIN Sports En Español HD(US)
+464754	beIN Sports USA HD(US)
+465051	BET GOSPEL(US)
+464968	BET HD(US)
+464867	BET HD (Pacific)(US)
+465008	BET Her(US)
+465128	BET Jams(US)
+465030	BET Soul(US)
+465073	Big Ten Network HD(US)
+465254	Big Ten Network Overflow(US)
+465015	Big Ten Network Overflow HD(US)
+465353	BINGE-TV(US)
+496609	Biz TV(US)
+530871	Black Voices(US)
+496610	Blaze TV(US)
+465213	Bloomberg Business Television(US)
+465324	Bloomberg HD(US)
+465083	Blossom TV(US)
+484881	Bon Appétit TV(US)
+464755	Boomerang(US)
+465292	Bounce TV(US)
+494592	Bowling TV(US)
+465184	Bravo (Pacific)(US)
+464753	Bravo HD(US)
+465297	BraZZers TV Plus(US)
+521096	Busted TV(US)
+473210	BUZZR Stream(US)
+464868	BYU-TV(US)
+464872	CANAL 22 INTERNACIONAL(US)
+464944	CARACOL INTERNATIONAL(US)
+465318	Cars TV HD(US)
+465177	Cartoon Network (Pacific)(US)
+465267	Cartoon Network HD(US)
+465404	CASH(US)
+496616	Catchy Comedy(US)
+467517	CBET-DT(US)
+466188	CBFT-DT(US)
+466121	CBLFT-DT(US)
+470193	CBMT-DT(US)
+464776	CBO(US)
+467875	CBOFT-DT(US)
+464941	CBS News National Stream(US)
+464937	CBS Sports Network HD(US)
+464994	CBS Streaming SD East feed(US)
+464830	CBS West(US)
+466600	CBUFT-DT(US)
+465326	CCTV4-China Central TV(US)
+464760	CentroAméricaTV(US)
+470006	CFCF-DT(US)
+465989	CFCNL-DT(US)
+466255	CFGS-DT(US)
+468463	CFHD-DT(US)
+467397	CFJP-DT(US)
+467886	CFKS-DT(US)
+464982	CFN CATHOLIC FAITH NETWORK(US)
+468443	CFPL-DT(US)
+469752	CFTM-DT(US)
+466716	CFTV-DT(US)
+465085	CHARGE!(US)
+464946	Charming China(US)
+469796	CHCH-DT(US)
+467686	CHCJ-DT(US)
+464798	Cheddar(US)
+469349	CHEK-DT(US)
+468870	CHEX-DT(US)
+464888	China Global Television Network(US)
+468123	CHLT-DT(US)
+468705	CHNB-DT(US)
+466353	CHNM-DT(US)
+466181	CHNM-DT1(US)
+469784	CHNU-DT(US)
+466734	CHNU-DT1(US)
+466114	CHOT-DT(US)
+465321	Christian Television Network(US)
+465058	CHSN Chicago Sports Network(US)
+483395	CHSN Plus(US)
+468153	CHWI-DT(US)
+468098	CHWIDT60(US)
+467530	CIMT-DT(US)
+465133	Cine Estelar(US)
+465035	Cine Latino US(US)
+465233	Cine Mexicano US Feed(US)
+465130	Cine Nostalgia(US)
+465090	Cinema Dinamita(US)
+465215	Cinema Dinamita (HD Feed)(US)
+465199	Cinema One(US)
+465388	Cinemax (Pacific)(US)
+480608	Cinemax Action(US)
+480607	Cinemax Classics(US)
+464917	Cinemax HD(US)
+465191	Cinemax HD (Pacific)(US)
+464945	Cinemax Hits(US)
+465263	Cinemax Spanish HD(US)
+501744	CINEVAULT(US)
+484883	Cinevault Classics(US)
+464749	Circle Country(US)
+469747	CIVB-DT1(US)
+469562	CIVC-DT(US)
+467299	CIVM-DT(US)
+469462	CIVO-DT(US)
+466304	CIVS-DT(US)
+470070	CJOH-DT(US)
+469381	CKAL-DT1(US)
+468706	CKCO-DT(US)
+469803	CKSH-DT(US)
+467673	CKVP-DT(US)
+468552	CKWS-DT(US)
+465363	Cleo TV HD(US)
+465107	CMT HD(US)
+464791	CNBC HD(US)
+465282	CNBC World(US)
+464871	CNN En Español(US)
+464857	CNN HD(US)
+465021	CNN International(US)
+464922	Comedy Central HD(US)
+465371	Comedy Central HD (Pacific)(US)
+465056	Comedy.TV HD(US)
+465305	Comet(US)
+464959	Comet (Pacific)(US)
+464963	Compre AQUI los productos mejores del TV(US)
+465211	Cooking Channel HD(US)
+465226	Court TV(US)
+464930	COZI TV(US)
+496617	Create(US)
+465040	Crime and Investigation Network HD(US)
+464835	CSPAN(US)
+465243	CSPAN2(US)
+464828	CSPAN3(US)
+464936	CTI Zhong Tian Channel(US)
+465175	Curiosity Channel HD(US)
+465140	Curiosity NOW(US)
+465378	CuriosityStream(US)
+496619	CW(US)
+465036	CW Plus East(US)
+471427	Dabl(US)
+471425	Dabl Network LLC(US)
+471426	Dabl Network LLC Pacific(US)
+465192	Danbi Christian TV(US)
+464748	Daystar Español(US)
+464906	Daystar Television Network HD [CHARTER](US)
+465381	De Pelicula(US)
+465379	De Pelicula Clasico(US)
+496615	Defy TV(US)
+464932	Destination America HD(US)
+464873	DirecTV - MLB Extra Innings - MLBEI(US)
+465265	DirecTV Celebrity Shopping Network(US)
+465005	DirecTV GO4IT(US)
+465405	DIRECTV Lifetime(US)
+464969	DirecTV Playboy(US)
+465181	DirecTV Sports Mix(US)
+465195	DIRECTV Sports MixHD(US)
+464862	DirecTV VALU(US)
+465364	Discovery Channel HD(US)
+464797	Discovery en Español(US)
+465384	Discovery Familia En Español(US)
+465152	Discovery Family Channel HD(US)
+464838	Discovery Life Channel(US)
+516450	Discovery Turbo TV(US)
+465170	Disney Channel (Pacific)(US)
+465349	Disney Channel HD(US)
+465320	Disney Junior HD(US)
+464864	Disney Junior HD (Pacific)(US)
+464807	Disney XD HD(US)
+465390	Disney XD HD (Pacific)(US)
+468636	DNU K46LG-D(US)
+466406	DNU KRHT-LD(US)
+469230	DNU W21DA-D(US)
+466362	DNU WANA-LD(US)
+469185	DNU WUEA-LD(US)
+465328	DOG TV(US)
+464859	DraftKings Network(US)
+464792	DTV ARANG(US)
+465350	DUCKTV(US)
+464758	DZMM Radyo Patrol(US)
+464832	E! Entertainment Television HD(US)
+465160	EarthX(US)
+464913	EBS America(US)
+464803	Ecuavisa International(US)
+464861	El Sembrador(US)
+464949	ESPN Deportes HD(US)
+465198	ESPN HD(US)
+465205	ESPN2 (Alternate)(US)
+465373	ESPN2 HD(US)
+484878	ESPN8 The Ocho(US)
+465410	ESPNEWS HD(US)
+465108	ESPNU HD(US)
+465172	ESTRELLA NEWS(US)
+464915	Estrella TV(US)
+464901	ETBN Enlace USA(US)
+464772	Eternal Word Television Network(US)
+465352	EWTN - Eternal Word Television Network HD(US)
+464957	EWTN Español(US)
+465392	Family Entertainment Television(US)
+464808	Family Movie Classics(US)
+494591	Fawesome(US)
+465154	Fight Network(US)
+464819	Film 24h(US)
+484885	Filmrise Mysteries(US)
+465099	Flix(US)
+484888	FM Fuse Music(US)
+465304	FM HD(US)
+472385	FNX First Nations Experience(US)
+464984	Food Network HD(US)
+469850	Foro TV(US)
+464766	Fox Business HD(US)
+465156	Fox Deportes HD(US)
+465372	Fox News Channel HD(US)
+465214	Fox Soccer Plus HD(US)
+529205	FOX SOUL(US)
+465153	Free Speech TV(US)
+465331	Freeform HD(US)
+465291	FS1 Fox Sports 1 HD(US)
+465248	FS1 HD(US)
+465355	FS2 Fox Sports 2 HD(US)
+465280	FS2 HD(US)
+465222	Fun Roads(US)
+465105	Fuse HD(US)
+464813	FX HD(US)
+464983	FX HD (Pacific)(US)
+465400	FX Movie Channel HD(US)
+465357	FXX HD(US)
+465034	FXX HD (Pacific)(US)
+464774	FYI Channel HD(US)
+465335	Galavision Cable Network HD(US)
+465312	Galavision Cable Network HD (Pacific)(US)
+464810	Game Show Network HD(US)
+465336	Game+ Game Plus HD(US)
+465194	GEMS(US)
+465411	get(US)
+465101	GMA Life TV(US)
+464769	GMA Pinoy TV(US)
+465135	GOD TV(US)
+464780	GOL TV(US)
+465164	Golden Eagle Broadcasting(US)
+464783	Golf Channel HD(US)
+465027	Great American Adventures(US)
+465228	Great American Faith and Living(US)
+464846	Great American Family HD(US)
+465117	Grit(US)
+483391	Gulf Coast Sports and Entertainment Network(US)
+464950	GZTV(US)
+465241	Hallmark Channel HD(US)
+464897	Hallmark Family(US)
+465167	Hallmark Mystery HD(US)
+481954	Haunt TV(US)
+483396	HBCUGO SPORTS(US)
+465249	HBO (Pacific)(US)
+464953	HBO Comedy HD(US)
+465201	HBO Drama(US)
+464745	HBO East(US)
+465255	HBO Hits(US)
+464960	HBO Latino HD(US)
+480609	HBO Movies(US)
+465279	HBO Signature HD(US)
+465302	HBO West(US)
+465104	HBO Zone HD(US)
+465146	HBO2 (Pacific)(US)
+465041	HBO2 HD(US)
+464985	HBO2 HD (Pacific)(US)
+465212	HDNet Movies(US)
+464942	Heroes and Icons Network SD(US)
+464762	History Channel En Español(US)
+465176	History HD(US)
+465385	HITN(US)
+465044	HLN HD(US)
+465063	Hogar HD(US)
+465403	Hogar TV(US)
+465319	HOLA! TV(US)
+465028	Home and Garden Television HD(US)
+465095	Home and Garden Television HD (Pacific)(US)
+465139	Home Shopping Network(US)
+465157	Honvietv(US)
+490837	Horror Machine(US)
+464751	HSN Home Shopping Network HD(US)
+464887	HSN2(US)
+465359	Hustler Mature(US)
+465079	Hustler Mature HD(US)
+465230	Hustler TV(US)
+464920	i24 News English(US)
+465256	iCable Finance Info News Channel(US)
+464961	i-CABLE News(US)
+465081	IFC HD(US)
+465407	Impact Network(US)
+464878	IndiePlex HD(US)
+465123	INFAST US(US)
+497973	Insight TV(US)
+464786	INSP HD(US)
+465294	Investigation Discovery HD(US)
+465171	Investigation Discovery HD (Pacific)(US)
+492942	ION Mystery(US)
+465354	ION Television HD(US)
+465162	JBS(US)
+464931	Jewelry Television(US)
+464860	Jewish Life TV(US)
+465216	Justice Central HD(US)
+496614	Laff(US)
+464971	Law and Crime(US)
+465031	LifeS(US)
+465290	Lifetime HD(US)
+465002	Lifetime Real Women(US)
+464923	Little Saigon Radio Channel(US)
+465286	Living Faith Network HD(US)
+484884	Living With Evil(US)
+464929	LMN HD(US)
+465367	Logo(US)
+464926	LooLoo Kids TV(US)
+495109	Love Kills(US)
+465012	Magnolia Network HD(US)
+465271	Marquee Sports Network HD(US)
+464856	Marquee Sports Network Overflow(US)
+465409	MASN - Mid Atlantic Sports Network(US)
+464833	MASN2 - Mid Atlantic Sports Network 2 HD(US)
+464845	MBC America(US)
+465237	MBN Plus(US)
+465323	Me TV Network(US)
+465330	Mediaset Italia(US)
+465182	Mega TV HD(US)
+465309	Meganoticias MX(US)
+472381	Merit TV(US)
+465112	MeTV Plus(US)
+464773	MeTV Toons(US)
+464826	Mexicanal(US)
+484887	MGM Presents(US)
+484880	MGM Presents Action(US)
+464981	MGM Presents: Horror(US)
+465017	MGM Presents: Westerns(US)
+465375	MGM+ Drive-In(US)
+465261	MGM+ HD(US)
+465284	MGM+ Hits HD(US)
+464921	MGM+ Marquee HD(US)
+465701	MILB - Akron RubberDucks(US)
+465549	MILB - Albuquerque Isotopes(US)
+465578	MILB - Altoona Curve(US)
+465608	MILB - Amarillo Sod Poodles(US)
+465801	MILB - Arkansas Travelers(US)
+465659	MILB - Asheville Tourists(US)
+465623	MILB - Augusta GreenJackets(US)
+465721	MILB - Beloit Sky Carp(US)
+465612	MILB - Biloxi Shuckers(US)
+465777	MILB - Binghamton Rumble Ponies(US)
+465583	MILB - Birmingham Barons(US)
+465647	MILB - Bowling Green Hot Rods(US)
+465789	MILB - Bradenton Marauders(US)
+465589	MILB - Brooklyn Cyclones(US)
+465664	MILB - Buffalo Bisons(US)
+465521	MILB - Cedar Rapids Kernels(US)
+465728	MILB - Charleston RiverDogs(US)
+465672	MILB - Charlotte Knights(US)
+465638	MILB - Chattanooga Lookouts(US)
+465802	MILB - Chesapeake Baysox(US)
+465644	MILB - Clearwater Threshers(US)
+465656	MILB - Columbia Fireflies(US)
+465764	MILB - Columbus Clingstones(US)
+465769	MILB - Columbus Clippers(US)
+465650	MILB - Corpus Christi Hooks(US)
+465595	MILB - Dayton Dragons(US)
+465784	MILB - Daytona Tortugas(US)
+465763	MILB - Delmarva Shorebirds(US)
+465765	MILB - Dunedin Blue Jays(US)
+465587	MILB - Durham Bulls(US)
+465607	MILB - El Paso Chihuahuas(US)
+465775	MILB - Erie SeaWolves(US)
+465715	MILB - Eugene Emeralds(US)
+465635	MILB - Everett AquaSox(US)
+465555	MILB - Fayetteville Woodpeckers(US)
+465670	MILB - Fort Myers Mighty Mussels(US)
+465516	MILB - Fort Wayne TinCaps(US)
+486314	MILB - Frederick Keys(US)
+465797	MILB - Fredericksburg Nationals(US)
+465768	MILB - Fresno Grizzlies(US)
+465554	MILB - Frisco RoughRiders(US)
+465658	MILB - Great Lakes Loons(US)
+465666	MILB - Greensboro Grasshoppers(US)
+465653	MILB - Greenville Drive(US)
+465519	MILB - Gwinnett Stripers(US)
+465586	MILB - Harrisburg Senators(US)
+465631	MILB - Hartford Yard Goats(US)
+465726	MILB - Hickory Crawdads(US)
+509187	MILB - Hill City Howlers(US)
+465506	MILB - Hillsboro Hops(US)
+465791	MILB - Hub City Spartanburgers(US)
+465514	MILB - Hudson Valley Renegades(US)
+465551	MILB - Indianapolis Indians(US)
+465581	MILB - Inland Empire 66ers(US)
+465790	MILB - Iowa Cubs(US)
+465746	MILB - Jacksonville Jumbo Shrimp(US)
+465619	MILB - Jersey Shore BlueClaws(US)
+465648	MILB - Jupiter Hammerheads(US)
+465782	MILB - Kannapolis Cannon Ballers(US)
+465584	MILB - Knoxville Smokies(US)
+465755	MILB - Lake County Captains(US)
+465741	MILB - Lake Elsinore Storm(US)
+465517	MILB - Lakeland Flying Tigers(US)
+465783	MILB - Lansing Lugnuts(US)
+465760	MILB - Las Vegas Aviators(US)
+465582	MILB - Lehigh Valley IronPigs(US)
+465626	MILB - Louisville Bats(US)
+465563	MILB - Memphis Redbirds(US)
+465690	MILB - Midland RockHounds(US)
+465540	MILB - Montgomery Biscuits(US)
+465696	MILB - Myrtle Beach Pelicans(US)
+465709	MILB - Nashville Sounds(US)
+465725	MILB - New Hampshire Fisher Cats(US)
+465568	MILB - Norfolk Tides(US)
+465787	MILB - Northwest Arkansas Naturals(US)
+465678	MILB - Oklahoma City Comets(US)
+465691	MILB - Omaha Storm Chasers(US)
+465529	MILB - Ontario Tower Buzzers(US)
+465522	MILB - Palm Beach Cardinals(US)
+465778	MILB - Pensacola Blue Wahoos(US)
+465526	MILB - Peoria Chiefs(US)
+465613	MILB - Portland Sea Dogs(US)
+465527	MILB - Quad Cities River Bandits(US)
+465717	MILB - Rancho Cucamonga Quakes(US)
+465798	MILB - Reading Fightin Phils(US)
+465757	MILB - Reno Aces(US)
+465727	MILB - Richmond Flying Squirrels(US)
+465718	MILB - Rochester Red Wings(US)
+465771	MILB - Rocket City Trash Pandas(US)
+465660	MILB - Rome Emperors(US)
+465570	MILB - Round Rock Express(US)
+465614	MILB - Sacramento River Cats(US)
+478233	MILB - Salem RidgeYaks(US)
+465533	MILB - Salt Lake Bees(US)
+465513	MILB - San Antonio Missions(US)
+465788	MILB - San Jose Giants(US)
+465625	MILB - Scranton/Wilkes-Barre RailRiders(US)
+465770	MILB - Somerset Patriots(US)
+465615	MILB - South Bend Cubs(US)
+465733	MILB - Spokane Indians(US)
+465622	MILB - Springfield Cardinals(US)
+465601	MILB - St. Lucie Mets(US)
+465611	MILB - St. Paul Saints(US)
+465520	MILB - Stockton Ports(US)
+465687	MILB - Sugar Land Space Cowboys(US)
+465739	MILB - Syracuse Mets(US)
+465779	MILB - Tacoma Rainiers(US)
+465597	MILB - Tampa Tarpons(US)
+465668	MILB - Toledo Mud Hens(US)
+465618	MILB - Tri-City Dust Devils(US)
+465539	MILB - Tulsa Drillers(US)
+465546	MILB - Vancouver Canadians(US)
+465780	MILB - Visalia Rawhide(US)
+465663	MILB - West Michigan Whitecaps(US)
+465793	MILB - Wichita Wind Surge(US)
+465753	MILB - Wilmington Blue Rocks(US)
+479450	MILB - Wilson Warbirds(US)
+465744	MILB - Winston-Salem Dash(US)
+465661	MILB - Wisconsin Timber Rattlers(US)
+465565	MILB - Worcester Red Sox(US)
+465067	Military History Channel(US)
+465596	MLB - Arizona Diamondbacks(US)
+465542	MLB - Athletics(US)
+465580	MLB - Atlanta Braves(US)
+465732	MLB - Baltimore Orioles(US)
+465749	MLB - Boston Red Sox(US)
+465534	MLB - Chicago Cubs(US)
+465665	MLB - Chicago White Sox(US)
+465509	MLB - Cincinnati Reds(US)
+465558	MLB - Cleveland Guardians(US)
+465569	MLB - Colorado Rockies(US)
+465712	MLB - Detroit Tigers(US)
+465528	MLB - Houston Astros(US)
+465731	MLB - Kansas City Royals(US)
+465642	MLB - Los Angeles Angels(US)
+465761	MLB - Los Angeles Dodgers(US)
+465548	MLB - Miami Marlins(US)
+465633	MLB - Milwaukee Brewers(US)
+465598	MLB - Minnesota Twins(US)
+465547	MLB - New York Mets(US)
+465667	MLB - New York Yankees(US)
+465689	MLB - Philadelphia Phillies(US)
+465703	MLB - Pittsburgh Pirates(US)
+465795	MLB - San Diego Padres(US)
+465773	MLB - San Francisco Giants(US)
+465605	MLB - Seattle Mariners(US)
+465720	MLB - St. Louis Cardinals(US)
+465645	MLB - Tampa Bay Rays(US)
+465751	MLB - Texas Rangers(US)
+465794	MLB - Toronto Blue Jays(US)
+465737	MLB - Washington Nationals(US)
+465239	MLB Network HD(US)
+465333	MLB Network HD Alternate(US)
+464844	MLB Network Strike Zone HD(US)
+465383	MLS Direct Kick - Direct TV - MLSSO(US)
+465351	Monumental Sports Network 2 HD(US)
+465347	Monumental Sports Network HD(US)
+465361	Monumental Sports Network Outer Market(US)
+464850	MoreMax HD(US)
+465084	MOTORTREND HD(US)
+465074	MoviePlex HD(US)
+516449	Movies!(US)
+464889	MS NOW HD(US)
+465000	MSG (Alt. feed) - MSG2 OVERFLOW(US)
+465033	MSG National(US)
+464905	MSG Plus(US)
+464851	MSG Plus - Syracuse(US)
+465247	MSG Sportsnet 2 HD(US)
+464812	MSG Sportsnet 2 Zone 1(US)
+465217	MSG Sportsnet Zone 1 HD(US)
+484879	MSG Sportsnet Zone 3 (MSG WNY)(US)
+464996	MSG SportsZone(US)
+465064	MSG Zone 1(US)
+465169	MSG2 HD(US)
+465087	MSNBC HD(US)
+465080	MTV - Music Television HD(US)
+464997	MTV - Music Television HD (Pacific)(US)
+465050	MTV Classic(US)
+465113	MTV2: Music Television HD(US)
+464825	MTVLIVE(US)
+465144	mtv-U(US)
+465203	Multimedios USA(US)
+496597	My Network(US)
+464989	MYX Channel(US)
+465262	N+ Foro(US)
+484876	NASCAR Channel(US)
+465142	Nat Geo Mundo(US)
+465089	National Geographic HD(US)
+464974	National Geographic HD (Pacific)(US)
+464884	National Geographic Wild HD(US)
+465767	NBA - Atlanta Hawks(US)
+465573	NBA - Boston Celtics(US)
+465803	NBA - Brooklyn Nets(US)
+465694	NBA - Charlotte Hornets(US)
+465543	NBA - Chicago Bulls(US)
+465620	NBA - Cleveland Cavaliers(US)
+465685	NBA - Dallas Mavericks(US)
+465673	NBA - Denver Nuggets(US)
+465564	NBA - Detroit Pistons(US)
+465785	NBA - Golden State Warriors(US)
+465662	NBA - Houston Rockets(US)
+465707	NBA - Indiana Pacers(US)
+465704	NBA - LA Clippers(US)
+465724	NBA - Los Angeles Lakers(US)
+465602	NBA - Memphis Grizzlies(US)
+465637	NBA - Miami Heat(US)
+465754	NBA - Milwaukee Bucks(US)
+465577	NBA - Minnesota Timberwolves(US)
+465535	NBA - New Orleans Pelicans(US)
+465702	NBA - New York Knicks(US)
+465585	NBA - Oklahoma City Thunder(US)
+465786	NBA - Orlando Magic(US)
+465692	NBA - Philadelphia 76ers(US)
+465740	NBA - Phoenix Suns(US)
+465708	NBA - Portland Trail Blazers(US)
+465652	NBA - Sacramento Kings(US)
+465762	NBA - San Antonio Spurs(US)
+465657	NBA - Toronto Raptors(US)
+465510	NBA - Utah Jazz(US)
+465750	NBA - Washington Wizards(US)
+465244	NBA League Pass 1(US)
+465141	NBA League Pass 10(US)
+465143	NBA League Pass 2(US)
+465338	NBA League Pass 2 HD(US)
+465408	NBA League Pass 3(US)
+465314	NBA League Pass 3 HD(US)
+465125	NBA League Pass 4(US)
+464924	NBA League Pass 4 HD(US)
+465137	NBA League Pass 5(US)
+464948	NBA League Pass 5 HD(US)
+465001	NBA League Pass 6(US)
+465343	NBA League Pass 6 HD(US)
+465016	NBA League Pass 7(US)
+464855	NBA League Pass 7 HD(US)
+465299	NBA League Pass 8(US)
+464848	NBA League Pass 8 HD(US)
+464801	NBA League Pass 9(US)
+464787	NBA League Pass 9 HD(US)
+464778	NBA League Pass/MLS Direct Kick HDTV(US)
+464912	NBA TV HD(US)
+501747	NBC Chicago (Live Stream)(US)
+492940	NBC Comedy Vault(US)
+465059	NBC East Stream(US)
+464779	NBC Sports 4K(US)
+465163	NBC Sports Bay Area HD(US)
+465043	NBC Sports Bay Area Outer Market(US)
+465013	NBC Sports Bay Area Plus(US)
+464910	NBC Sports Boston HD(US)
+465102	NBC Sports Boston Outer Market(US)
+465054	NBC Sports California HD(US)
+464904	NBC Sports California Outer Market(US)
+464993	NBC Sports California Plus(US)
+464789	NBC Sports California Plus 3(US)
+464999	NBC Sports HD 1(US)
+464990	NBC Sports HD 2(US)
+465094	NBC Sports HD 3(US)
+464892	NBC Sports Northwest Streaming(US)
+485735	NBC Sports Now(US)
+465037	NBC Sports Philadelphia HD(US)
+496620	NBC Sports Philadelphia Plus(US)
+524796	NBC True CRMZ(US)
+465252	NBC West Stream(US)
+496612	NECN New England Cable News(US)
+496625	NESN+ New England Sports Network Plus(US)
+465225	New England Sports Network HD(US)
+524797	News 12 New Jersey(US)
+464863	Newsmax TV HD(US)
+465039	NewsNation(US)
+465103	Newsy(US)
+465387	Next Level Sports HD(US)
+465758	NFL - Arizona Cardinals(US)
+465680	NFL - Atlanta Falcons(US)
+465651	NFL - Baltimore Ravens(US)
+465752	NFL - Buffalo Bills(US)
+465541	NFL - Carolina Panthers(US)
+465677	NFL - Chicago Bears(US)
+465538	NFL - Cincinnati Bengals(US)
+465693	NFL - Cleveland Browns(US)
+465530	NFL - Dallas Cowboys(US)
+465636	NFL - Denver Broncos(US)
+465643	NFL - Detroit Lions(US)
+465711	NFL - Green Bay Packers(US)
+465576	NFL - Houston Texans(US)
+465655	NFL - Indianapolis Colts(US)
+465591	NFL - Jacksonville Jaguars(US)
+465552	NFL - Kansas City Chiefs(US)
+465571	NFL - Las Vegas Raiders(US)
+465723	NFL - Los Angeles Chargers(US)
+465624	NFL - Los Angeles Rams(US)
+465792	NFL - Miami Dolphins(US)
+465738	NFL - Minnesota Vikings(US)
+465716	NFL - New England Patriots(US)
+465697	NFL - New Orleans Saints(US)
+465676	NFL - New York Giants(US)
+465572	NFL - New York Jets(US)
+465537	NFL - Philadelphia Eagles(US)
+465671	NFL - Pittsburgh Steelers(US)
+465567	NFL - San Francisco 49ers(US)
+465553	NFL - Seattle Seahawks(US)
+465594	NFL - Tampa Bay Buccaneers(US)
+465776	NFL - Tennessee Titans(US)
+465532	NFL - Washington Commanders(US)
+465311	NFL Network HD(US)
+465401	NFL RedZone HD(US)
+465197	NFL SUNDAY TICKET RED ZONE(US)
+464907	NHK 1 HD(US)
+465327	NHK World TV(US)
+465544	NHL - Anaheim Ducks(US)
+465796	NHL - Boston Bruins(US)
+465545	NHL - Buffalo Sabres(US)
+465714	NHL - Calgary Flames(US)
+465508	NHL - Carolina Hurricanes(US)
+465634	NHL - Chicago Blackhawks(US)
+465730	NHL - Colorado Avalanche(US)
+465575	NHL - Columbus Blue Jackets(US)
+465536	NHL - Dallas Stars(US)
+465593	NHL - Detroit Red Wings(US)
+465603	NHL - Edmonton Oilers(US)
+465654	NHL - Florida Panthers(US)
+465632	NHL - Los Angeles Kings(US)
+465641	NHL - Minnesota Wild(US)
+465629	NHL - Montreal Canadiens(US)
+465743	NHL - Nashville Predators(US)
+465679	NHL - New Jersey Devils(US)
+465756	NHL - New York Islanders(US)
+465599	NHL - New York Rangers(US)
+465772	NHL - Ottawa Senators(US)
+465566	NHL - Philadelphia Flyers(US)
+465627	NHL - Pittsburgh Penguins(US)
+465561	NHL - San Jose Sharks(US)
+465700	NHL - Seattle Kraken(US)
+465675	NHL - St. Louis Blues(US)
+465713	NHL - Tampa Bay Lightning(US)
+465684	NHL - Toronto Maple Leafs(US)
+465600	NHL - Utah Mammoth(US)
+465616	NHL - Vancouver Canucks(US)
+465695	NHL - Vegas Golden Knights(US)
+465766	NHL - Washington Capitals(US)
+465606	NHL - Winnipeg Jets(US)
+465348	NHL Network HD(US)
+464911	Nick Jr HD(US)
+465106	Nick Music(US)
+465345	Nickelodeon (Pacific)(US)
+465251	Nickelodeon HD(US)
+465038	Nicktoons(US)
+465047	Nippon TV Channel(US)
+472383	Nosey(US)
+472386	Nosey on Peacock(US)
+465339	NRB TV(US)
+464836	NTN24(US)
+464977	Nuestra Tele Internacional(US)
+465360	Nuestra Visión(US)
+466109	Nueva Vida TV(US)
+465396	Oferta TV(US)
+466093	OMNI1 HD(US)
+465925	OMNI2 HD(US)
+464908	Once(US)
+465382	One America News Network HD(US)
+465273	OPM TV(US)
+465221	Oprah Winfrey Network (Pacific A Feed)(US)
+465259	Oprah Winfrey Network HD(US)
+483390	Outdoor America Field and Stream(US)
+465393	Outdoor Channel HD(US)
+464880	Outside Television HD(US)
+465009	Ovation HD(US)
+464821	Oxygen True Crime HD(US)
+464882	Paramount Network HD(US)
+465332	Paramount+ with Showtime HD(US)
+465308	Paramount+ with Showtime HD (Pacific)(US)
+465223	Pasiones TV US(US)
+464925	PBS KIDS HD(US)
+464770	PBS Kids Stream(US)
+465245	PBS Stream(US)
+465315	Peachtree TV(US)
+464964	Penthouse TV XX5 Premium(US)
+465257	Peru Magico(US)
+465082	Pets TV HD(US)
+464824	Phoenix Info News(US)
+465066	Phoenix Satellite TV(US)
+464865	PI KBS World(US)
+465020	Pinoy Box Office(US)
+464896	PixL(US)
+465303	Playboy En Español(US)
+465258	Playboy HD(US)
+465406	Playboy Premium HD(US)
+465316	Playboy TV(US)
+496440	Plus Movies(US)
+465134	POP HD(US)
+465088	Positiv TV(US)
+465342	Prime Revenue Frontier(US)
+484882	Pure Flix TV(US)
+465098	Pursuit Channel(US)
+496618	Quest(US)
+465391	QVC HD(US)
+464816	QVC2(US)
+464796	QVC3(US)
+465231	RACER Network HD(US)
+464881	Rai Italia(US)
+464794	Rai News 24(US)
+464759	Rai Premium(US)
+465287	Rai Radio 1(US)
+465187	Real Americas Voice(US)
+464894	Reality Kings TV(US)
+465127	Recipe TV HD(US)
+465274	Rede Globo TV Internacional(US)
+465018	ReelzChannel HD(US)
+465151	RETRO(US)
+465126	RetroPlex HD(US)
+496603	RevN(US)
+465207	Revolt HD(US)
+465097	Rewind HD(US)
+496605	Rewind TV(US)
+464756	RFD TV HD(US)
+496599	Right Now TV(US)
+464991	ROAR TV(US)
+465136	ROOT Sports Northwest HD(US)
+465062	Root Sports Northwest Plus(US)
+465116	RTV International(US)
+483389	Ryz Sports Network(US)
+464891	Saigon Broadcasting Network(US)
+501743	Salem News Channel(US)
+465227	Sari Sari Channel(US)
+464995	SBS HD(US)
+464934	SBS Plus(US)
+465120	SBS TV Korea(US)
+465306	Scares by Shudder(US)
+465395	S-channel(US)
+464805	Science Channel HD(US)
+465281	Scientology Media Productions(US)
+464956	ScreenPix(US)
+464775	ScreenPix Action(US)
+465412	ScreenPix Voices(US)
+464869	ScreenPix Westerns(US)
+464874	Scripps News(US)
+465266	SEC Network HD(US)
+481953	Shades of Black(US)
+464890	SHO x BET HD(US)
+465325	Shop LC(US)
+464764	ShopHQ HD(US)
+464834	SHOPnow(US)
+465024	Shorts TV(US)
+465402	Showtime 2 HD(US)
+464877	Showtime Extreme HD(US)
+464954	Showtime Familyzone HD(US)
+465270	Showtime Next HD(US)
+465065	Showtime Showcase HD(US)
+464898	Showtime Women HD(US)
+465042	Smithsonian HD Network(US)
+464777	SNY SportsNet New York HD(US)
+465340	So Yummy(US)
+465296	SonLife Broadcasting Network HD(US)
+464793	Sony Cine(US)
+465188	Sony MIX(US)
+464943	Sony Movie Channel HD(US)
+465220	Space City Home Network HD(US)
+465072	Spectrum Bay News 9 Tampa(US)
+465224	Spectrum News - (New York) Rochester STVA(US)
+465204	Spectrum News - Alabama STVA(US)
+464817	Spectrum News - Albany Capital Region STVA(US)
+465275	Spectrum News - Buffalo - STVA(US)
+491422	Spectrum News - Central Florida(US)
+464781	Spectrum News - Central NY STVA(US)
+465100	Spectrum News - Hudson Valley STVA(US)
+465159	Spectrum News - Michigan STVA(US)
+464757	Spectrum News - NY1 - STVA(US)
+464842	Spectrum News 1 - (Kentucky) - Evansville(US)
+464965	Spectrum News 1 - (Kentucky) Lexington(US)
+464870	Spectrum News 1 - (Kentucky) Louisville(US)
+465046	Spectrum News 1 - (MA) Pittsfield - STVA(US)
+465183	Spectrum News 1 - (MA) Springfield - STVA(US)
+464967	Spectrum News 1 - (MA) Worcester - STVA(US)
+465189	Spectrum News 1 - Austin(US)
+464829	Spectrum News 1 - Cincinnati - STVA(US)
+464876	Spectrum News 1 - Cleveland/Akron - STVA(US)
+465096	Spectrum News 1 - Columbus - STVA(US)
+465068	Spectrum News 1 - Dallas - Ft Worth STVA(US)
+464767	Spectrum News 1 - Dayton - STVA(US)
+465376	Spectrum News 1 - El Paso Texas STVA(US)
+465250	Spectrum News 1 - Green Bay/Appleton - STVA(US)
+465368	Spectrum News 1 - Madison - STVA(US)
+464837	Spectrum News 1 - Milwaukee - STVA(US)
+464976	Spectrum News 1 - San Antonio(US)
+464854	Spectrum News 1 - SO CAL - STVA(US)
+464747	Spectrum News 1 - Toledo/Lima - STVA(US)
+464978	Spectrum News 1 (Carolinas) - Charlotte STVA(US)
+465026	Spectrum News 1 (Carolinas) - Coastal STVA(US)
+465155	Spectrum News 1 (Carolinas) - Greensboro STVA(US)
+464852	Spectrum News 1 (Carolinas) - Mountain STVA(US)
+465149	Spectrum News 1 (Carolinas) - Raleigh STVA(US)
+465334	Spectrum News 1 (Kentucky) Covington(US)
+464938	Spectrum News+(US)
+467093	Spectrum OC16(US)
+465077	Spectrum SportsNet LA Dodgers HD(US)
+464806	Spectrum SportsNet Lakers HD(US)
+489130	SportsGrid(US)
+465264	Sportsman Channel(US)
+465124	SportsNet Pittsburgh HD(US)
+465278	Start TV Network(US)
+465238	Starz (Pacific)(US)
+465115	Starz Cinema HD(US)
+464979	Starz Comedy HD(US)
+464839	Starz Edge HD(US)
+464763	Starz Encore (Pacific)(US)
+465232	Starz Encore Action HD(US)
+464820	Starz Encore Black(US)
+465240	Starz Encore Classic(US)
+465119	Starz Encore Español SD(US)
+465242	Starz Encore Family SD(US)
+464893	Starz Encore HD(US)
+465122	Starz Encore Suspense(US)
+464784	Starz Encore Westerns (Pacific)(US)
+464973	Starz Encore Westerns SD(US)
+464975	Starz HD(US)
+465370	Starz HD (Pacific)(US)
+465293	Starz in Black HD(US)
+465109	Starz Kids HD(US)
+483393	STELLAR TV(US)
+530870	Stories by AMC(US)
+464785	Story(US)
+475509	SUMtv(US)
+475508	SUMtv Latino(US)
+465138	SundanceTV HD(US)
+465011	Sur Peru(US)
+465053	Syfy HD(US)
+465190	Syfy HD (Pacific)(US)
+464811	Tan Tv(US)
+465110	Tastemade(US)
+484877	Tastemade Food and More(US)
+465337	Tastemade Home(US)
+465317	Tastemade Travel(US)
+464840	TBN Inspire(US)
+465285	TBS HD(US)
+465131	TBS HD (Pacific)(US)
+464822	TC Internacional(US)
+465389	TCT(US)
+465180	Teen Nick(US)
+464885	Telecentro TV(US)
+464927	Telefe Internacional(US)
+464804	Telefe international(US)
+464962	Telemundo Satellite Feed(US)
+465086	Telemundo Satellite Feed Pacific(US)
+465236	Tennis Channel HD(US)
+474984	TFC (The Filipino Channel HD)(US)
+464823	The Africa Channel(US)
+465132	The Cowboy Channel(US)
+465185	The Discovery Channel HD (Pacific)(US)
+496623	The Family Channel(US)
+465377	The Filipino Channel (Pacific)(US)
+465075	The Film Detective(US)
+465178	The First(US)
+465346	The Grio HD(US)
+464958	The Hope Channel(US)
+464814	The Movie Channel (Pacific)(US)
+465397	The Movie Channel Extra HD(US)
+465365	The Movie Channel HD(US)
+496602	The Nest(US)
+465186	The Travel Channel HD(US)
+464790	The Travel Channel HD (Pacific)(US)
+465272	The Weather Channel HD(US)
+465386	The Word Network(US)
+465069	TLC HD (Pacific)(US)
+464919	TLC HD (US)(US)
+465114	TNT HD(US)
+465307	TNT HD (Pacific)(US)
+465300	Tr3s: MTV, Musica y Mas(US)
+465277	Tribeca Festival +(US)
+464788	Trinity Broadcasting Network HD(US)
+464987	truTV HD(US)
+464988	truTV HD (Pacific)(US)
+465174	TUDN(US)
+465196	Turner Classic Movies HD(US)
+465055	TV Chile(US)
+465235	TV Land HD(US)
+465362	TV Land HD (Pacific)(US)
+465208	TV ONE HD(US)
+464986	TVE(US)
+465093	TViet Network(US)
+469356	TVO HD(US)
+464952	TyC Sports Internacional USA(US)
+465298	TYT The Young Turks(US)
+465592	UFL - Birmingham Stallions(US)
+527866	UFL - Columbus Aviators(US)
+492683	UFL - Dallas RENEGADES(US)
+522430	UFL - DC DEFENDERS(US)
+492684	UFL - Houston GAMBLERS(US)
+527867	UFL - Louisville Kings(US)
+527868	UFL - Orlando Storm(US)
+465628	UFL - St. Louis Battlehawks(US)
+464928	UniMas(US)
+464918	UniMas HD (Pacific)(US)
+492944	Universal Action(US)
+492943	Universal Crime(US)
+492941	Universal Monsters(US)
+477700	Universal Movies(US)
+465329	UNIVERSO HD(US)
+465341	Univision Network (Pacific)(US)
+464782	Univision Network HD(US)
+465283	Univision TL Novelas(US)
+465111	UPtv(US)
+465006	USA Network HD(US)
+464903	USA Network HD (Pacific)(US)
+465060	Ve Plus(US)
+497977	Vevo 2K(US)
+497972	Vevo 70s(US)
+497980	Vevo 80s(US)
+497976	Vevo 90s(US)
+497979	Vevo Country(US)
+497982	Vevo Hip-Hop(US)
+497974	Vevo Holiday(US)
+497978	Vevo Íconos Latinos(US)
+497981	Vevo Latino(US)
+497971	Vevo Pop(US)
+497970	Vevo R and B(US)
+497983	Vevo Reggaeton and Trap(US)
+497985	Vevo Regional Mexicano(US)
+497969	Vevo Rock(US)
+497975	Vevo True School Hip-Hop(US)
+464998	VGN TV(US)
+465206	VH1 HD(US)
+464972	Vice(US)
+465234	Vice HD(US)
+465374	Victory Channel(US)
+464970	Video Rola(US)
+464843	Vien Thao TV(US)
+464841	Vietface TV(US)
+464966	VIETV(US)
+465029	VividTV(US)
+465399	VME(US)
+465295	VSIN Vegas Sports and Information Network(US)
+465045	WAPA America(US)
+464933	Weather Nation TV HD(US)
+465010	Willow Cricket HD(US)
+526674	Willow Xtra(US)
+465511	WNBA - Atlanta Dream(US)
+465683	WNBA - Chicago Sky(US)
+465557	WNBA - Connecticut Sun(US)
+465621	WNBA - Dallas Wings(US)
+465699	WNBA - Golden State Valkyries(US)
+465609	WNBA - Indiana Fever(US)
+465512	WNBA - Las Vegas Aces(US)
+465735	WNBA - Los Angeles Sparks(US)
+465590	WNBA - Minnesota Lynx(US)
+465639	WNBA - New York Liberty(US)
+465759	WNBA - Phoenix Mercury(US)
+513149	WNBA - Portland Fire(US)
+465604	WNBA - Seattle Storm(US)
+513150	WNBA - Toronto Tempo(US)
+465531	WNBA - Washington Mystics(US)
+472382	WORLD Channel(US)
+465358	World Fishing Network HD (US)(US)
+465179	World Harvest Television(US)
+531475	WWE Network(US)
+496607	Yes Network(US)
+496596	Yes Network Overflow(US)
+467912	YesTV HD(US)
+496594	YTA Youtoo America(US)
+465210	YTN Radio Korea(US)
+465301	Zee TV(US)
+465165	Zona Futbol(US)
+465070	ZooMoo(US)
+	
+	
+https://epg.iill.top/epg.xml.gz	
 明珠台	TVB明珠台
-BBC Earth
-BBC Lifestyle
-Now Sports 精選
-商業電台 雷霆881
-商業電台 AM864
-商業電台 叱咤903
-
-
-http://e.erw.cc/e.xml.gz
-3
-4
-5
-
-
-https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
-Rai1.it
-Rai2.it
-Rai3.it
-Rete.4.it
-Canale.5.it
-Italia.1.it
-LA7.HD.it
-TV8.HD.it
-Nove.it
-TG.NORBA.24.it
-RADIONORBA.TV.it
-20.it
-Rai4.it
-Iris.it
-Rai5.it
-RaiMovie.it
-RaiPremium.it
-cielo.it
-27.Twentyseven.it
-TV2000.it.it
-LA7.CINEMA.it
-La.5.it
-Real.Time.it
-QVC.it
-Food.Network.it
-Cine34.it
-Focus.it
-RTL.102.5.HD.it
-Warner.TV.it
-Giallo.TV.it
-Top.Crime.it
-Boing.it
-K2.it
-RaiGulp.it
-RaiYoyo.it
-Frisbee.it
-Cartoonito.it
-Super!.it.it
-RaiNews24.it
-Italia.2.it
-Sky.TG24.it
-TGCom.it
-DMAX.it
-RaiStoria.it
-HGTV.it
-RaiScuola.it
-RaiSport.it
-Motor.Trend.it
-SuperTennis.HD.it
-Eurosport.1.it
-Eurosport.2.it
-
-
-https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
-691c5b2e74baa89ef7230baf
-6192605c9541940007d208f8
-6911c9704316999535eb21cf
-6911c8dd8caba6f046c5c5d5
-6911c92b4316999535eb1e08
-6911c9b88caba6f046c5ca8f
-66a0eea88561260008b1c5d0
-6245d3792792150007e20634
-67d9836ba1609bdb523f0c9d
-60b9ff2722bfa400072676ef
-60a2837f8154ab0007c4dcdf
-62e7fa5ab5062e0007dcf97d
-6349279ed5023700078f2bc2
-66d7120815d2c60008cec006
-66a8c7aefe11e500085b1587
-66a8c8b3d2d50d000821fc4c
-66d9aa4315d2c60008d4ac40
-66d9a98961dbf00008efb5fc
-625e6cc905e09f00073addee
-638f286445264d00084ec6dc
-608aa777b907770007e5d05d
-65cb78b83a116800079e2e35
-65cb76723a116800079e1fc3
-65cb76ea11ced70008206b66
-65cb77853ba51e00084cba02
-634926e4b51d2d00077819a2
-608aa17fb9f4490007e6419a
-608aa20a2e7f270007c4878d
-61c09e3ac210ed0007606620
-608aa5e995132a00075f7005
-64808a8c536e0c0008a276d1
-608aa4a4cc92820007b663af
-608aa512d67fd900072323db
-612e05b885183d0007958101
-62e7fb67478a5b0007e6c50c
-65253f9881f942000833ccd5
-661f8f01801af800083d9d81
-608aa7d8359b270007861489
-6875080e3484d607323641f8
-671754d8e482950008962aaf
-66335489307fa300082bd6e4
-6786235bd648bf0008c2780a
-68750875759366af05a151ce
-65f865a62873090008d06382
-6536608b4f123d000876b78b
-653660b4295b840008a70ba3
-66c35c0c92b1af0008c8e83a
-66c70033b1a34600087bb09a
-65cb73d33ba51e00084cabad
-62e8d5369e48940007fc1dc1
-67ed14aaf7c5d70b9089c3bf
-61728bb9ee3773000840c1fa
-60802d37ee238e0007c94e64
-63eb57d6c111bc0008fe2658
-66d9ab4bf0f17500084e9b7e
-64ec5cf50f73a800081310a5
-66177d18c8311c0008d077d0
-60e4507a06171800072339a3
-64ec5c6644fe100009d114ae
-690cb9140d121b44ad925ac9
-67c832cc9b53325ee16fb899
-61fbd3f0733df400076c9a2d
-6093f9ed2c75660007322bb7
-619263ee9541940007d20d60
-67e3b0d2443f0671bc8a1297
-60940a07d88ba90007b9cb71
-62e7fc8c0d061100083946a9
-64c109a4798def0008a6e03e
-69148c76e9dec35c9269a16c
-660bfc4424e1d000085b5f93
-608016e446d73500075ea7e0
-6616a51124e1d00008761a7e
-608030eff4b6f70007e1684c
-66461e4394d5580008cfd9c5
-679203d4bc03978b9b4b79a6
-671655b2daad7f00085d202d
-62bc1f502b70e3000706298e
-6602acadb2abe500081cf28a
-609404b0a8ec810007d8de9d
-608014d19a26320007c92ab6
-6093f48c95132a00075fd859
-65d7211d0d45610008ffcf92
-68adb5853efb41cd97ce413d
-67851bd7d648bf0008c00bc2
-6093f9281db477000759fce0
-6093f6f8351eb0000754afb8
-67f4f99729b03f18cb36647e
-63eb82e24e83e70008ab735f
-686cfdf894a028da3aac4252
-686cfe983ffa5e0c91cdb5df
-65b90daed77d450008a43345
-612375086abc84000738fc03
-62619405c733e8000732d1fe
-66a8c64814a2bb00084d09d6
-63eb573ba99571000897135b
-609401db8cf51c00084b592e
-63c012504faf1c0007abfa93
-6304ed62410a4c00083c0291
-666174c9f999220008769012
-6093f7b5bb49b90007cecaad
-664f0ddbf78a8500092dcffa
-608aa718a8ec810007d87fee
-60801976f92a750007a0699c
-63c923944207be0007fd0887
-6661739641af6400080cd8f1
-608aa8a5709d6b0007b132fe
-65253fdf3fd33c00080214a3
-610a9ebe8c2ac2000734776e
-60802b37709d6b0007b0c549
-6231ec4b62cd1f0007093c7b
-66c45ba803e3b20008d8c294
-61b86ea479a4390007c6d5fc
-
-
-
-https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
-western-e-peplum
-dark-matter-it-new
-cg-cinema-d-autore
-brividy-cinema-ita
-grjngo-it
-risate-all-italiana
-crime-rakuten-tv
-alarm-for-cobra-rakuten-tv
-filmrise-sci-fi-it
-filmrise-relic-hunter-ita
-serially-crime-ita
-andromeda-it
-soap-latino-it
-soap-turco-it
-risate-dal-sud-ita
-bbc-series-it
-filmrise-highway-to-heaven-it
-rakuten-viki-new
-bbc-top-gear-it
-inazuma-eleven-go
-inuyasha
-yu-gi-oh-new-ita
-mr-bean-it
-mr-bean-live-action
-zdf-guardia-costiera
-zdf-squadra-speciale-lipsia
-the-pet-collective-new
-people-are-awesome-new
-revry
-jukin-fail-army-new
-top-barca-eng
-fifa-plus-it-new
-inter-24-7-ita
-juventus-play
-rally-tv-fast
-fuel-tv-new
-billiards-tv
-hard-knocks-fighting-championship
-glory-kickboxing
-world-poker-tour
-sport-italia
-pfl-mma
-racer-international
-automoto
-golf-tv
-red-bull-tv-en
-motorvision-tv
-motoretro
-tennis-plus
-fashion-tv
-beauty-channel
-the-design-network-new
-per-caso-tv
-brindiamo
-travelxp-eng
-med-tv
-stingray-naturescape
-class-tv-moda
-daystar-spa
-daystar-eng
-gusto-tv-new
-gambero-rosso
-metal-rocks
-qwest-tv
-radio-italia-live
-stingray-greatest-hits
-stingray-hit-list
-stingray-remember-the-80-s
-qello-concerts-by-stingray
-deluxe-lounge-hd
-that-s-70s
-that-s-80s
-that-s-rock
-trace-urban
-vevo-pop-it
-vevo-pop-90-00-it
-that-s-90s00s
-family-rakuten-tv
-baby-shark-tv
-car-city-adventures-it
-planeta-junior-ita
-hell-s-kitchen-it-itv
-filmrise-forensic-files-ita
-weather-spy-new
-nature-time-ita
-wedo-big-stories-ita
-cgtn-documentary
-mayday-air-disaster-channel-ita
-80-anni
-euronews-live-ita
-the-reuters-60
-il-sole-24-ore-tv
-urania-news
-class-cnbc
-bloomberg-originals-new
-bloomberg-tv-plus
-africanews-eng
-cgtn
-newsworld-ita
-france-24-en
+BBC Earth	
+BBC Lifestyle	
+Now Sports 精選	
+商業電台 雷霆881	
+商業電台 AM864	
+商業電台 叱咤903	
+	
+	
+http://e.erw.cc/e.xml.gz	
+3	
+4	
+5	
+	
+	
+https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz	
+Rai1.it	
+Rai2.it	
+Rai3.it	
+Rete.4.it	
+Canale.5.it	
+Italia.1.it	
+LA7.HD.it	
+TV8.HD.it	
+Nove.it	
+TG.NORBA.24.it	
+RADIONORBA.TV.it	
+20.it	
+Rai4.it	
+Iris.it	
+Rai5.it	
+RaiMovie.it	
+RaiPremium.it	
+cielo.it	
+27.Twentyseven.it	
+TV2000.it.it	
+LA7.CINEMA.it	
+La.5.it	
+Real.Time.it	
+QVC.it	
+Food.Network.it	
+Cine34.it	
+Focus.it	
+RTL.102.5.HD.it	
+Warner.TV.it	
+Giallo.TV.it	
+Top.Crime.it	
+Boing.it	
+K2.it	
+RaiGulp.it	
+RaiYoyo.it	
+Frisbee.it	
+Cartoonito.it	
+Super!.it.it	
+RaiNews24.it	
+Italia.2.it	
+Sky.TG24.it	
+TGCom.it	
+DMAX.it	
+RaiStoria.it	
+HGTV.it	
+RaiScuola.it	
+RaiSport.it	
+Motor.Trend.it	
+SuperTennis.HD.it	
+Eurosport.1.it	
+Eurosport.2.it	
+	
+	
+https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml	
+691c5b2e74baa89ef7230baf	
+6192605c9541940007d208f8	
+6911c9704316999535eb21cf	
+6911c8dd8caba6f046c5c5d5	
+6911c92b4316999535eb1e08	
+6911c9b88caba6f046c5ca8f	
+66a0eea88561260008b1c5d0	
+6245d3792792150007e20634	
+67d9836ba1609bdb523f0c9d	
+60b9ff2722bfa400072676ef	
+60a2837f8154ab0007c4dcdf	
+62e7fa5ab5062e0007dcf97d	
+6349279ed5023700078f2bc2	
+66d7120815d2c60008cec006	
+66a8c7aefe11e500085b1587	
+66a8c8b3d2d50d000821fc4c	
+66d9aa4315d2c60008d4ac40	
+66d9a98961dbf00008efb5fc	
+625e6cc905e09f00073addee	
+638f286445264d00084ec6dc	
+608aa777b907770007e5d05d	
+65cb78b83a116800079e2e35	
+65cb76723a116800079e1fc3	
+65cb76ea11ced70008206b66	
+65cb77853ba51e00084cba02	
+634926e4b51d2d00077819a2	
+608aa17fb9f4490007e6419a	
+608aa20a2e7f270007c4878d	
+61c09e3ac210ed0007606620	
+608aa5e995132a00075f7005	
+64808a8c536e0c0008a276d1	
+608aa4a4cc92820007b663af	
+608aa512d67fd900072323db	
+612e05b885183d0007958101	
+62e7fb67478a5b0007e6c50c	
+65253f9881f942000833ccd5	
+661f8f01801af800083d9d81	
+608aa7d8359b270007861489	
+6875080e3484d607323641f8	
+671754d8e482950008962aaf	
+66335489307fa300082bd6e4	
+6786235bd648bf0008c2780a	
+68750875759366af05a151ce	
+65f865a62873090008d06382	
+6536608b4f123d000876b78b	
+653660b4295b840008a70ba3	
+66c35c0c92b1af0008c8e83a	
+66c70033b1a34600087bb09a	
+65cb73d33ba51e00084cabad	
+62e8d5369e48940007fc1dc1	
+67ed14aaf7c5d70b9089c3bf	
+61728bb9ee3773000840c1fa	
+60802d37ee238e0007c94e64	
+63eb57d6c111bc0008fe2658	
+66d9ab4bf0f17500084e9b7e	
+64ec5cf50f73a800081310a5	
+66177d18c8311c0008d077d0	
+60e4507a06171800072339a3	
+64ec5c6644fe100009d114ae	
+690cb9140d121b44ad925ac9	
+67c832cc9b53325ee16fb899	
+61fbd3f0733df400076c9a2d	
+6093f9ed2c75660007322bb7	
+619263ee9541940007d20d60	
+67e3b0d2443f0671bc8a1297	
+60940a07d88ba90007b9cb71	
+62e7fc8c0d061100083946a9	
+64c109a4798def0008a6e03e	
+69148c76e9dec35c9269a16c	
+660bfc4424e1d000085b5f93	
+608016e446d73500075ea7e0	
+6616a51124e1d00008761a7e	
+608030eff4b6f70007e1684c	
+66461e4394d5580008cfd9c5	
+679203d4bc03978b9b4b79a6	
+671655b2daad7f00085d202d	
+62bc1f502b70e3000706298e	
+6602acadb2abe500081cf28a	
+609404b0a8ec810007d8de9d	
+608014d19a26320007c92ab6	
+6093f48c95132a00075fd859	
+65d7211d0d45610008ffcf92	
+68adb5853efb41cd97ce413d	
+67851bd7d648bf0008c00bc2	
+6093f9281db477000759fce0	
+6093f6f8351eb0000754afb8	
+67f4f99729b03f18cb36647e	
+63eb82e24e83e70008ab735f	
+686cfdf894a028da3aac4252	
+686cfe983ffa5e0c91cdb5df	
+65b90daed77d450008a43345	
+612375086abc84000738fc03	
+62619405c733e8000732d1fe	
+66a8c64814a2bb00084d09d6	
+63eb573ba99571000897135b	
+609401db8cf51c00084b592e	
+63c012504faf1c0007abfa93	
+6304ed62410a4c00083c0291	
+666174c9f999220008769012	
+6093f7b5bb49b90007cecaad	
+664f0ddbf78a8500092dcffa	
+608aa718a8ec810007d87fee	
+60801976f92a750007a0699c	
+63c923944207be0007fd0887	
+6661739641af6400080cd8f1	
+608aa8a5709d6b0007b132fe	
+65253fdf3fd33c00080214a3	
+610a9ebe8c2ac2000734776e	
+60802b37709d6b0007b0c549	
+6231ec4b62cd1f0007093c7b	
+66c45ba803e3b20008d8c294	
+61b86ea479a4390007c6d5fc	
+	
+	
+	
+https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml	
+western-e-peplum	
+dark-matter-it-new	
+cg-cinema-d-autore	
+brividy-cinema-ita	
+grjngo-it	
+risate-all-italiana	
+crime-rakuten-tv	
+alarm-for-cobra-rakuten-tv	
+filmrise-sci-fi-it	
+filmrise-relic-hunter-ita	
+serially-crime-ita	
+andromeda-it	
+soap-latino-it	
+soap-turco-it	
+risate-dal-sud-ita	
+bbc-series-it	
+filmrise-highway-to-heaven-it	
+rakuten-viki-new	
+bbc-top-gear-it	
+inazuma-eleven-go	
+inuyasha	
+yu-gi-oh-new-ita	
+mr-bean-it	
+mr-bean-live-action	
+zdf-guardia-costiera	
+zdf-squadra-speciale-lipsia	
+the-pet-collective-new	
+people-are-awesome-new	
+revry	
+jukin-fail-army-new	
+top-barca-eng	
+fifa-plus-it-new	
+inter-24-7-ita	
+juventus-play	
+rally-tv-fast	
+fuel-tv-new	
+billiards-tv	
+hard-knocks-fighting-championship	
+glory-kickboxing	
+world-poker-tour	
+sport-italia	
+pfl-mma	
+racer-international	
+automoto	
+golf-tv	
+red-bull-tv-en	
+motorvision-tv	
+motoretro	
+tennis-plus	
+fashion-tv	
+beauty-channel	
+the-design-network-new	
+per-caso-tv	
+brindiamo	
+travelxp-eng	
+med-tv	
+stingray-naturescape	
+class-tv-moda	
+daystar-spa	
+daystar-eng	
+gusto-tv-new	
+gambero-rosso	
+metal-rocks	
+qwest-tv	
+radio-italia-live	
+stingray-greatest-hits	
+stingray-hit-list	
+stingray-remember-the-80-s	
+qello-concerts-by-stingray	
+deluxe-lounge-hd	
+that-s-70s	
+that-s-80s	
+that-s-rock	
+trace-urban	
+vevo-pop-it	
+vevo-pop-90-00-it	
+that-s-90s00s	
+family-rakuten-tv	
+baby-shark-tv	
+car-city-adventures-it	
+planeta-junior-ita	
+hell-s-kitchen-it-itv	
+filmrise-forensic-files-ita	
+weather-spy-new	
+nature-time-ita	
+wedo-big-stories-ita	
+cgtn-documentary	
+mayday-air-disaster-channel-ita	
+80-anni	
+euronews-live-ita	
+the-reuters-60	
+il-sole-24-ore-tv	
+urania-news	
+class-cnbc	
+bloomberg-originals-new	
+bloomberg-tv-plus	
+africanews-eng	
+cgtn	
+newsworld-ita	
+france-24-en	
