@@ -1,111 +1,309 @@
-timeframe=96	
+timeframe=120
 
-http://epg.51zmt.top:8000/e.xml.gz	
-1	CCTV1
-2	CCTV2
-3	CCTV3
-4	CCTV4
-23	CCTV4AME
-22	CCTV4EUO
+https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
+#央视
+CCTV-1 综合	CCTV-1
+CCTV-2 财经	CCTV-2
+CCTV-3 综艺	CCTV-3
+CCTV-4 中文国际	CCTV-4
+CCTV-4 中文国际美洲	CCTV-4AME
+CCTV-4 中文国际欧洲	CCTV-4EUO
+CCTV-5 体育	CCTV-5
+CCTV-5+ 体育赛事	CCTV-5+
+CCTV-6 电影	CCTV-6
+CCTV-7 国防 军事	CCTV-7
+CCTV-8 电视剧	CCTV-8
+CCTV-9 记录	CCTV-9
+CCTV-10 科教	CCTV-10
+CCTV-11 戏曲	CCTV-11
+CCTV-12 社会与法	CCTV-12
+CCTV-13 新闻	CCTV-13
+CCTV-14 少儿	CCTV-14
+CCTV-15 音乐	CCTV-15
+CCTV-16 奥林匹克	CCTV-16
+CCTV-17 农业 农村	CCTV-17
+CETV-1
+CETV2	CETV-2
+CETV4	CETV-4
+#数字-中数传媒
+CCTV-电视指南
+CCTV-兵器科技
+CCTV-第一剧场
+CCTV-风云剧场
+CCTV-风云音乐
+CCTV-高尔夫网球
+CCTV-怀旧剧场
+CCTV-女性时尚
+CCTV-世界地理
+CCTV-卫生健康
+CCTV-央视台球
+CCTV-央视文化精品
+CCTV-央视足球
+CGTN英语	CGTN
+CGTN英文记录
+CGTN阿拉伯语
+CGTN俄语
+CGTN法语
+CGTN西班牙语
+河北卫视
+湖南卫视
+浙江卫视
+浙江卫视4K
+北京卫视
+北京卫视4K
+安徽卫视
+湖南卫视4K
+吉林卫视
+吉林延边卫视
+黑龙江卫视
+湖北卫视
+山西卫视
+陕西卫视
+辽宁卫视
+三沙卫视
+厦门卫视
+广东卫视
+广东卫视4K
+广东4K
+大湾区卫视	广东大湾区卫视
+深圳卫视	广东深圳卫视
+深圳卫视4K	广东深圳卫视4K
+东方卫视	上海东方卫视
+东方卫视4K	上海东方卫视4K
+山东教育
+山东卫视
+山东卫视4K
+内蒙古卫视
+宁夏卫视
+海南卫视	海南旅游卫视
+东南卫视	福建东南卫视
+河南卫视
+江苏卫视
+江苏卫视4K
+江西卫视
+广西卫视
+甘肃卫视
+四川卫视
+四川卫视4K
+青海卫视
+天津卫视
+西藏卫视
+新疆卫视
+兵团卫视	新疆兵团卫视
+优漫卡通
+重庆卫视
+贵州卫视
+云南卫视
+卡酷动画
+金鹰卡通
+嘉佳卡通
+睛彩广场舞
+睛彩竞技
+睛彩篮球
+睛彩青少
+中国天气
+国学	国学频道
+汽摩
+快乐垂钓
+老故事
+金鹰纪实
+天元围棋
+早期教育
+求索纪录
+经典电影
+热播剧场
+现代教育
+广东民生
+广东少儿
+广东体育
+广东新闻
+广东移动
+广东影视
+广东珠江
+经济科教	广东经济科教
+岭南戏曲	广东岭南戏曲
+广州南国都市4K
+广州新闻
+广州综合
+潮州民生
+潮州综合
+东莞生活资讯
+东莞新闻综合
+佛山城市生活
+佛山南海
+佛山顺德
+佛山综合
+河源生活
+河源综合
+汕头经济生活
+汕头新闻综合
+汕尾新闻综合
+惠州都市生活
+惠州综合
+江门综合
+揭阳生活
+揭阳综合
+茂名文化生活
+茂名综合
+梅州客家生活
+梅州综合
+南方购物
+南方购物-精选
+清远新闻综合
+韶关新闻综合
+少儿动画
+深圳宝安
+深圳电视剧
+深圳都市
+深圳龙岗
+深圳少儿
+中山综合
+云浮文旅
+云浮综合
+肇庆生活服务
+肇庆新闻综合
+珠海
+阳江-1
+宜和购物
+魅力时尚
+香港卫视
+TVB生活台
+TVB星河
+爱大剧
+爱电影
+爱综艺
+LiTV中視	中視(LiTV)
+中視新聞台
+LiTV 華視	華視(LiTV)
+LiTV華視新聞	華視新聞(LiTV)
+公視戲劇
+LiTV民視	民視(LiTV)
+LiTV 民視台灣台	民視台灣台(LiTV)
+LiTV民視第一台	民視第一台(LiTV)
+FTV旅遊	民視旅遊
+FTV戲劇	民視戲劇
+FTV綜藝	民視綜藝
+民視新聞台
+LiTV台視	台視(LiTV)
+台視財經台
+台視新聞台
+龍華電影台
+龍華經典台
+龍華卡通台
+龍華偶像台
+龍華日韓台
+龍華戲劇台
+龍華洋片台
+東森新聞台
+東森財經新聞
+東森購物1台
+東森購物2台
+東森購物測試頻道
+博斯高球1台
+博斯高球2台
+博斯魅力網
+博斯網球台
+博斯無限台	博斯無限1台
+博斯無限2台
+博斯運動二台
+博斯運動一台
+八大精彩台
+八大綜藝台
+中天新聞台
+中天亞洲台
+愛爾達娛樂
+影迷數位電影台
+影迷數位紀實台
+國會頻道1台
+國會頻道2台
+寰宇財經台
+寰宇新聞台灣台
+寰宇新聞一台
+GOOD TV	好消息台
+GOOD TV 2台	好消息2台
+靖天電影
+靖天國際台
+靖天卡通台
+靖天日本台
+靖天戲劇
+靖天映畫台
+靖天育樂
+靖天資訊
+靖天綜合台
+靖洋戲劇台
+SETiNEWS	三立iNEWS
+非凡商業台
+非凡新聞台
+采昌影劇
+亞洲旅遊台
+台灣戲劇台
+智林體育台
+HakkaTV
+KMTV HD
+MCE 我的歐洲電影
+寵物頻道
+第1商業
+黃金八點檔
+倪珍播新聞
+ELTV英語學習台
+Focus風采戲劇台
+Focus歡樂綜合台
+豬哥亮歌廳秀
+ARIRANG TV
+CLASSICA
+CNEX Doc
+DaVinCi
+DayStar
+EDGE sport
+GINX
+Mezzo Live
+Nice Bingo
+Nice TV
+Smart知識台
+TRACEsport
+TRACEUrban
+
+
+
+
+
+http://epg.51zmt.top:8000/e.xml.gz
 106	CCTV4K
-5	CCTV5
-6	CCTV5+
-7	CCTV6
-8	CCTV7
-9	CCTV8
-10	CCTV9
-11	CCTV10
-12	CCTV11
-13	CCTV12
-14	CCTV13
-15	CCTV14
-16	CCTV15
-1864	CCTV16
-17	CCTV17
-73	中国教育1台
-74	中国教育2台
-1860	中国教育4台
 1643	CHC动作电影
 1639	CHC高清电影
 1644	CHC家庭电影
 1969	CHC影迷电影
-45	河北卫视
-27	湖南卫视
-28	浙江卫视
-30	北京卫视
-31	上海东方卫视
-62	上海哈哈炫动
-29	江苏卫视
-46	黑龙江卫视
-36	辽宁卫视
-32	安徽卫视
-47	河南卫视
-41	福建东南卫视
-21	福建海峡卫视
 68	福建厦门卫视
-33	广东卫视
-34	广东深圳卫视
-38	山东卫视
-37	海南旅游卫视
-72	海南三沙卫视
-56	四川卫视
-39	天津卫视
-58	云南卫视
-40	重庆卫视
-55	陕西卫视
-54	山西卫视
-43	广西卫视
-48	湖北卫视
-65	山西黄河卫视
-51	吉林卫视
-63	吉林延边卫视
-50	江西卫视
+21	福建海峡卫视
 70	四川康巴卫视
-44	贵州卫视
-42	甘肃卫视
-52	内蒙古卫视
-53	宁夏卫视
-59	青海卫视
-57	新疆卫视
-61	新疆兵团卫视
-71	西藏卫视
-69	湖南金鹰卡通
-1658	央视精品
-1647	第一剧场
-1651	怀旧剧场
-1683	老故事
-1677	发现之旅
-1648	风云剧场
-1646	风云音乐
-1424	风云足球
-1652	兵器科技
-1712	财富天下
-1674	茶频道
-1673	央视台球
+65	山西黄河卫视
+62	上海哈哈炫动
+1653	女性时尚
 1657	高尔夫网球
-1679	国学
 1645	河南梨园
+1712	财富天下
+1674	湖南茶频道
+1647	第一剧场
+1677	发现之旅
+1424	风云足球
+1651	怀旧剧场
 1697	环球旅游
 1678	环球奇观
-1684	快乐垂钓
-1653	女性时尚
-1642	求索记录
-1662	汽摩
 1649	世界地理
 1685	书画频道
 1695	四海钓鱼
-1667	天元围棋
 1680	文物宝库
 1675	武术世界
-1670	早期教育
+1658	央视精品
+1673	央视台球
 1671	证券资讯
 
 
-https://tv.mxdyeah.top/epgphp/t.xml
-中国天气
+
+#https://tv.mxdyeah.top/epgphp/t.xml
 
 
-http://epg.51zmt.top:8000/e2.xml.gz	
+http://epg.51zmt.top:8000/e2.xml.gz
 1451	中视
 1797	中视经典
 1770	中视菁采台
@@ -333,7 +531,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 
 
 
-https://epg.pw/xmltv/epg_MY.xml	
+https://epg.pw/xmltv/epg_MY.xml
 1122	8TV(MY)
 4130	ABC Australia HD(MY)
 2181	ABO Movies Thangathirai HD
@@ -508,7 +706,7 @@ https://epg.pw/xmltv/epg_MY.xml
 2885	Zee Tamil HD(MY)
 
 
-https://epg.pw/xmltv/epg_SG.xml	
+https://epg.pw/xmltv/epg_SG.xml
 369833	ABC Australia(SG)
 412157	ABC Australia HD
 501127	ABS-CBN News Channel
@@ -552,13 +750,11 @@ https://epg.pw/xmltv/epg_SG.xml
 492826	CBeebies HD
 535504	CCM
 369819	CCM天映经典电影(新加坡)
-522559	CCTV4 (SG)
 512067	CCTV娱乐
 369730	Celestial Movies (HD)
 492882	Celestial Movies HD
 412099	Celestial Movies HD(SG)
 535503	Celestial Movies(HD)
-412109	CGTN
 502440	CGTN-Documentary
 513286	Ch 5 (HD)
 513276	Ch 8 (HD)
@@ -608,7 +804,7 @@ https://epg.pw/xmltv/epg_SG.xml
 535488	EUROSPORT (HD)
 412197	FashionTV HD
 495472	Fear Factor
-492830	FIFA+
+492830	FIFA+(SG)
 369827	Fight Sports (HD)
 412165	FIGHT SPORTS HD
 535515	Food Network (HD)
@@ -801,15 +997,12 @@ https://epg.pw/xmltv/epg_SG.xml
 
 
 
-https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz	
-天映经典新加坡	
-千禧经典台(MY)	
+https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
+天映经典新加坡
+千禧经典台(MY)
 
 
-https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
-
-
-https://epg.pw/xmltv/epg_US.xml	
+https://epg.pw/xmltv/epg_US.xml
 465049	365BLK(US)
 465145	3ABN(US)
 465061	3ABN Dare to Dream Network(US)
@@ -911,44 +1104,18 @@ https://epg.pw/xmltv/epg_US.xml
 465267	Cartoon Network HD(US)
 465404	CASH(US)
 496616	Catchy Comedy(US)
-467517	CBET-DT(US)
-466188	CBFT-DT(US)
-466121	CBLFT-DT(US)
-470193	CBMT-DT(US)
 464776	CBO(US)
 467875	CBOFT-DT(US)
 464941	CBS News National Stream(US)
 464937	CBS Sports Network HD(US)
 464994	CBS Streaming SD East feed(US)
 464830	CBS West(US)
-466600	CBUFT-DT(US)
 465326	CCTV4-China Central TV(US)
 464760	CentroAméricaTV(US)
-470006	CFCF-DT(US)
-465989	CFCNL-DT(US)
-466255	CFGS-DT(US)
-468463	CFHD-DT(US)
-467397	CFJP-DT(US)
-467886	CFKS-DT(US)
 464982	CFN CATHOLIC FAITH NETWORK(US)
-468443	CFPL-DT(US)
-469752	CFTM-DT(US)
-466716	CFTV-DT(US)
-465085	CHARGE!(US)
 464946	Charming China(US)
-469796	CHCH-DT(US)
-467686	CHCJ-DT(US)
 464798	Cheddar(US)
-469349	CHEK-DT(US)
-468870	CHEX-DT(US)
 464888	China Global Television Network(US)
-468123	CHLT-DT(US)
-468705	CHNB-DT(US)
-466353	CHNM-DT(US)
-466181	CHNM-DT1(US)
-469784	CHNU-DT(US)
-466734	CHNU-DT1(US)
-466114	CHOT-DT(US)
 465321	Christian Television Network(US)
 465058	CHSN Chicago Sports Network(US)
 483395	CHSN Plus(US)
@@ -972,17 +1139,6 @@ https://epg.pw/xmltv/epg_US.xml
 501744	CINEVAULT(US)
 484883	Cinevault Classics(US)
 464749	Circle Country(US)
-469747	CIVB-DT1(US)
-469562	CIVC-DT(US)
-467299	CIVM-DT(US)
-469462	CIVO-DT(US)
-466304	CIVS-DT(US)
-470070	CJOH-DT(US)
-469381	CKAL-DT1(US)
-468706	CKCO-DT(US)
-469803	CKSH-DT(US)
-467673	CKVP-DT(US)
-468552	CKWS-DT(US)
 465363	Cleo TV HD(US)
 465107	CMT HD(US)
 464791	CNBC HD(US)
@@ -1206,157 +1362,7 @@ https://epg.pw/xmltv/epg_US.xml
 465261	MGM+ HD(US)
 465284	MGM+ Hits HD(US)
 464921	MGM+ Marquee HD(US)
-465701	MILB - Akron RubberDucks(US)
-465549	MILB - Albuquerque Isotopes(US)
-465578	MILB - Altoona Curve(US)
-465608	MILB - Amarillo Sod Poodles(US)
-465801	MILB - Arkansas Travelers(US)
-465659	MILB - Asheville Tourists(US)
-465623	MILB - Augusta GreenJackets(US)
-465721	MILB - Beloit Sky Carp(US)
-465612	MILB - Biloxi Shuckers(US)
-465777	MILB - Binghamton Rumble Ponies(US)
-465583	MILB - Birmingham Barons(US)
-465647	MILB - Bowling Green Hot Rods(US)
-465789	MILB - Bradenton Marauders(US)
-465589	MILB - Brooklyn Cyclones(US)
-465664	MILB - Buffalo Bisons(US)
-465521	MILB - Cedar Rapids Kernels(US)
-465728	MILB - Charleston RiverDogs(US)
-465672	MILB - Charlotte Knights(US)
-465638	MILB - Chattanooga Lookouts(US)
-465802	MILB - Chesapeake Baysox(US)
-465644	MILB - Clearwater Threshers(US)
-465656	MILB - Columbia Fireflies(US)
-465764	MILB - Columbus Clingstones(US)
-465769	MILB - Columbus Clippers(US)
-465650	MILB - Corpus Christi Hooks(US)
-465595	MILB - Dayton Dragons(US)
-465784	MILB - Daytona Tortugas(US)
-465763	MILB - Delmarva Shorebirds(US)
-465765	MILB - Dunedin Blue Jays(US)
-465587	MILB - Durham Bulls(US)
-465607	MILB - El Paso Chihuahuas(US)
-465775	MILB - Erie SeaWolves(US)
-465715	MILB - Eugene Emeralds(US)
-465635	MILB - Everett AquaSox(US)
-465555	MILB - Fayetteville Woodpeckers(US)
-465670	MILB - Fort Myers Mighty Mussels(US)
-465516	MILB - Fort Wayne TinCaps(US)
-486314	MILB - Frederick Keys(US)
-465797	MILB - Fredericksburg Nationals(US)
-465768	MILB - Fresno Grizzlies(US)
-465554	MILB - Frisco RoughRiders(US)
-465658	MILB - Great Lakes Loons(US)
-465666	MILB - Greensboro Grasshoppers(US)
-465653	MILB - Greenville Drive(US)
-465519	MILB - Gwinnett Stripers(US)
-465586	MILB - Harrisburg Senators(US)
-465631	MILB - Hartford Yard Goats(US)
-465726	MILB - Hickory Crawdads(US)
-509187	MILB - Hill City Howlers(US)
-465506	MILB - Hillsboro Hops(US)
-465791	MILB - Hub City Spartanburgers(US)
-465514	MILB - Hudson Valley Renegades(US)
-465551	MILB - Indianapolis Indians(US)
-465581	MILB - Inland Empire 66ers(US)
-465790	MILB - Iowa Cubs(US)
-465746	MILB - Jacksonville Jumbo Shrimp(US)
-465619	MILB - Jersey Shore BlueClaws(US)
-465648	MILB - Jupiter Hammerheads(US)
-465782	MILB - Kannapolis Cannon Ballers(US)
-465584	MILB - Knoxville Smokies(US)
-465755	MILB - Lake County Captains(US)
-465741	MILB - Lake Elsinore Storm(US)
-465517	MILB - Lakeland Flying Tigers(US)
-465783	MILB - Lansing Lugnuts(US)
-465760	MILB - Las Vegas Aviators(US)
-465582	MILB - Lehigh Valley IronPigs(US)
-465626	MILB - Louisville Bats(US)
-465563	MILB - Memphis Redbirds(US)
-465690	MILB - Midland RockHounds(US)
-465540	MILB - Montgomery Biscuits(US)
-465696	MILB - Myrtle Beach Pelicans(US)
-465709	MILB - Nashville Sounds(US)
-465725	MILB - New Hampshire Fisher Cats(US)
-465568	MILB - Norfolk Tides(US)
-465787	MILB - Northwest Arkansas Naturals(US)
-465678	MILB - Oklahoma City Comets(US)
-465691	MILB - Omaha Storm Chasers(US)
-465529	MILB - Ontario Tower Buzzers(US)
-465522	MILB - Palm Beach Cardinals(US)
-465778	MILB - Pensacola Blue Wahoos(US)
-465526	MILB - Peoria Chiefs(US)
-465613	MILB - Portland Sea Dogs(US)
-465527	MILB - Quad Cities River Bandits(US)
-465717	MILB - Rancho Cucamonga Quakes(US)
-465798	MILB - Reading Fightin Phils(US)
-465757	MILB - Reno Aces(US)
-465727	MILB - Richmond Flying Squirrels(US)
-465718	MILB - Rochester Red Wings(US)
-465771	MILB - Rocket City Trash Pandas(US)
-465660	MILB - Rome Emperors(US)
-465570	MILB - Round Rock Express(US)
-465614	MILB - Sacramento River Cats(US)
-478233	MILB - Salem RidgeYaks(US)
-465533	MILB - Salt Lake Bees(US)
-465513	MILB - San Antonio Missions(US)
-465788	MILB - San Jose Giants(US)
-465625	MILB - Scranton/Wilkes-Barre RailRiders(US)
-465770	MILB - Somerset Patriots(US)
-465615	MILB - South Bend Cubs(US)
-465733	MILB - Spokane Indians(US)
-465622	MILB - Springfield Cardinals(US)
-465601	MILB - St. Lucie Mets(US)
-465611	MILB - St. Paul Saints(US)
-465520	MILB - Stockton Ports(US)
-465687	MILB - Sugar Land Space Cowboys(US)
-465739	MILB - Syracuse Mets(US)
-465779	MILB - Tacoma Rainiers(US)
-465597	MILB - Tampa Tarpons(US)
-465668	MILB - Toledo Mud Hens(US)
-465618	MILB - Tri-City Dust Devils(US)
-465539	MILB - Tulsa Drillers(US)
-465546	MILB - Vancouver Canadians(US)
-465780	MILB - Visalia Rawhide(US)
-465663	MILB - West Michigan Whitecaps(US)
-465793	MILB - Wichita Wind Surge(US)
-465753	MILB - Wilmington Blue Rocks(US)
-479450	MILB - Wilson Warbirds(US)
-465744	MILB - Winston-Salem Dash(US)
-465661	MILB - Wisconsin Timber Rattlers(US)
-465565	MILB - Worcester Red Sox(US)
 465067	Military History Channel(US)
-465596	MLB - Arizona Diamondbacks(US)
-465542	MLB - Athletics(US)
-465580	MLB - Atlanta Braves(US)
-465732	MLB - Baltimore Orioles(US)
-465749	MLB - Boston Red Sox(US)
-465534	MLB - Chicago Cubs(US)
-465665	MLB - Chicago White Sox(US)
-465509	MLB - Cincinnati Reds(US)
-465558	MLB - Cleveland Guardians(US)
-465569	MLB - Colorado Rockies(US)
-465712	MLB - Detroit Tigers(US)
-465528	MLB - Houston Astros(US)
-465731	MLB - Kansas City Royals(US)
-465642	MLB - Los Angeles Angels(US)
-465761	MLB - Los Angeles Dodgers(US)
-465548	MLB - Miami Marlins(US)
-465633	MLB - Milwaukee Brewers(US)
-465598	MLB - Minnesota Twins(US)
-465547	MLB - New York Mets(US)
-465667	MLB - New York Yankees(US)
-465689	MLB - Philadelphia Phillies(US)
-465703	MLB - Pittsburgh Pirates(US)
-465795	MLB - San Diego Padres(US)
-465773	MLB - San Francisco Giants(US)
-465605	MLB - Seattle Mariners(US)
-465720	MLB - St. Louis Cardinals(US)
-465645	MLB - Tampa Bay Rays(US)
-465751	MLB - Texas Rangers(US)
-465794	MLB - Toronto Blue Jays(US)
-465737	MLB - Washington Nationals(US)
 465239	MLB Network HD(US)
 465333	MLB Network HD Alternate(US)
 464844	MLB Network Strike Zone HD(US)
@@ -1476,75 +1482,11 @@ https://epg.pw/xmltv/epg_US.xml
 465039	NewsNation(US)
 465103	Newsy(US)
 465387	Next Level Sports HD(US)
-465758	NFL - Arizona Cardinals(US)
-465680	NFL - Atlanta Falcons(US)
-465651	NFL - Baltimore Ravens(US)
-465752	NFL - Buffalo Bills(US)
-465541	NFL - Carolina Panthers(US)
-465677	NFL - Chicago Bears(US)
-465538	NFL - Cincinnati Bengals(US)
-465693	NFL - Cleveland Browns(US)
-465530	NFL - Dallas Cowboys(US)
-465636	NFL - Denver Broncos(US)
-465643	NFL - Detroit Lions(US)
-465711	NFL - Green Bay Packers(US)
-465576	NFL - Houston Texans(US)
-465655	NFL - Indianapolis Colts(US)
-465591	NFL - Jacksonville Jaguars(US)
-465552	NFL - Kansas City Chiefs(US)
-465571	NFL - Las Vegas Raiders(US)
-465723	NFL - Los Angeles Chargers(US)
-465624	NFL - Los Angeles Rams(US)
-465792	NFL - Miami Dolphins(US)
-465738	NFL - Minnesota Vikings(US)
-465716	NFL - New England Patriots(US)
-465697	NFL - New Orleans Saints(US)
-465676	NFL - New York Giants(US)
-465572	NFL - New York Jets(US)
-465537	NFL - Philadelphia Eagles(US)
-465671	NFL - Pittsburgh Steelers(US)
-465567	NFL - San Francisco 49ers(US)
-465553	NFL - Seattle Seahawks(US)
-465594	NFL - Tampa Bay Buccaneers(US)
-465776	NFL - Tennessee Titans(US)
-465532	NFL - Washington Commanders(US)
 465311	NFL Network HD(US)
 465401	NFL RedZone HD(US)
 465197	NFL SUNDAY TICKET RED ZONE(US)
 464907	NHK 1 HD(US)
 465327	NHK World TV(US)
-465544	NHL - Anaheim Ducks(US)
-465796	NHL - Boston Bruins(US)
-465545	NHL - Buffalo Sabres(US)
-465714	NHL - Calgary Flames(US)
-465508	NHL - Carolina Hurricanes(US)
-465634	NHL - Chicago Blackhawks(US)
-465730	NHL - Colorado Avalanche(US)
-465575	NHL - Columbus Blue Jackets(US)
-465536	NHL - Dallas Stars(US)
-465593	NHL - Detroit Red Wings(US)
-465603	NHL - Edmonton Oilers(US)
-465654	NHL - Florida Panthers(US)
-465632	NHL - Los Angeles Kings(US)
-465641	NHL - Minnesota Wild(US)
-465629	NHL - Montreal Canadiens(US)
-465743	NHL - Nashville Predators(US)
-465679	NHL - New Jersey Devils(US)
-465756	NHL - New York Islanders(US)
-465599	NHL - New York Rangers(US)
-465772	NHL - Ottawa Senators(US)
-465566	NHL - Philadelphia Flyers(US)
-465627	NHL - Pittsburgh Penguins(US)
-465561	NHL - San Jose Sharks(US)
-465700	NHL - Seattle Kraken(US)
-465675	NHL - St. Louis Blues(US)
-465713	NHL - Tampa Bay Lightning(US)
-465684	NHL - Toronto Maple Leafs(US)
-465600	NHL - Utah Mammoth(US)
-465616	NHL - Vancouver Canucks(US)
-465695	NHL - Vegas Golden Knights(US)
-465766	NHL - Washington Capitals(US)
-465606	NHL - Winnipeg Jets(US)
 465348	NHL Network HD(US)
 464911	Nick Jr HD(US)
 465106	Nick Music(US)
@@ -1662,40 +1604,6 @@ https://epg.pw/xmltv/epg_US.xml
 464943	Sony Movie Channel HD(US)
 465220	Space City Home Network HD(US)
 465072	Spectrum Bay News 9 Tampa(US)
-465224	Spectrum News - (New York) Rochester STVA(US)
-465204	Spectrum News - Alabama STVA(US)
-464817	Spectrum News - Albany Capital Region STVA(US)
-465275	Spectrum News - Buffalo - STVA(US)
-491422	Spectrum News - Central Florida(US)
-464781	Spectrum News - Central NY STVA(US)
-465100	Spectrum News - Hudson Valley STVA(US)
-465159	Spectrum News - Michigan STVA(US)
-464757	Spectrum News - NY1 - STVA(US)
-464842	Spectrum News 1 - (Kentucky) - Evansville(US)
-464965	Spectrum News 1 - (Kentucky) Lexington(US)
-464870	Spectrum News 1 - (Kentucky) Louisville(US)
-465046	Spectrum News 1 - (MA) Pittsfield - STVA(US)
-465183	Spectrum News 1 - (MA) Springfield - STVA(US)
-464967	Spectrum News 1 - (MA) Worcester - STVA(US)
-465189	Spectrum News 1 - Austin(US)
-464829	Spectrum News 1 - Cincinnati - STVA(US)
-464876	Spectrum News 1 - Cleveland/Akron - STVA(US)
-465096	Spectrum News 1 - Columbus - STVA(US)
-465068	Spectrum News 1 - Dallas - Ft Worth STVA(US)
-464767	Spectrum News 1 - Dayton - STVA(US)
-465376	Spectrum News 1 - El Paso Texas STVA(US)
-465250	Spectrum News 1 - Green Bay/Appleton - STVA(US)
-465368	Spectrum News 1 - Madison - STVA(US)
-464837	Spectrum News 1 - Milwaukee - STVA(US)
-464976	Spectrum News 1 - San Antonio(US)
-464854	Spectrum News 1 - SO CAL - STVA(US)
-464747	Spectrum News 1 - Toledo/Lima - STVA(US)
-464978	Spectrum News 1 (Carolinas) - Charlotte STVA(US)
-465026	Spectrum News 1 (Carolinas) - Coastal STVA(US)
-465155	Spectrum News 1 (Carolinas) - Greensboro STVA(US)
-464852	Spectrum News 1 (Carolinas) - Mountain STVA(US)
-465149	Spectrum News 1 (Carolinas) - Raleigh STVA(US)
-465334	Spectrum News 1 (Kentucky) Covington(US)
 464938	Spectrum News+(US)
 467093	Spectrum OC16(US)
 465077	Spectrum SportsNet LA Dodgers HD(US)
@@ -1786,14 +1694,6 @@ https://epg.pw/xmltv/epg_US.xml
 469356	TVO HD(US)
 464952	TyC Sports Internacional USA(US)
 465298	TYT The Young Turks(US)
-465592	UFL - Birmingham Stallions(US)
-527866	UFL - Columbus Aviators(US)
-492683	UFL - Dallas RENEGADES(US)
-522430	UFL - DC DEFENDERS(US)
-492684	UFL - Houston GAMBLERS(US)
-527867	UFL - Louisville Kings(US)
-527868	UFL - Orlando Storm(US)
-465628	UFL - St. Louis Battlehawks(US)
 464928	UniMas(US)
 464918	UniMas HD (Pacific)(US)
 492944	Universal Action(US)
@@ -1839,21 +1739,6 @@ https://epg.pw/xmltv/epg_US.xml
 464933	Weather Nation TV HD(US)
 465010	Willow Cricket HD(US)
 526674	Willow Xtra(US)
-465511	WNBA - Atlanta Dream(US)
-465683	WNBA - Chicago Sky(US)
-465557	WNBA - Connecticut Sun(US)
-465621	WNBA - Dallas Wings(US)
-465699	WNBA - Golden State Valkyries(US)
-465609	WNBA - Indiana Fever(US)
-465512	WNBA - Las Vegas Aces(US)
-465735	WNBA - Los Angeles Sparks(US)
-465590	WNBA - Minnesota Lynx(US)
-465639	WNBA - New York Liberty(US)
-465759	WNBA - Phoenix Mercury(US)
-513149	WNBA - Portland Fire(US)
-465604	WNBA - Seattle Storm(US)
-513150	WNBA - Toronto Tempo(US)
-465531	WNBA - Washington Mystics(US)
 472382	WORLD Channel(US)
 465358	World Fishing Network HD (US)(US)
 465179	World Harvest Television(US)
@@ -1868,21 +1753,21 @@ https://epg.pw/xmltv/epg_US.xml
 465070	ZooMoo(US)
 
 
-https://epg.iill.top/epg.xml.gz	
+https://epg.iill.top/epg.xml.gz
 明珠台	TVB明珠台
-BBC Earth	
-BBC Lifestyle	
-Now Sports 精選	
-商業電台 雷霆881	
-商業電台 AM864	
-商業電台 叱咤903	
+BBC Earth
+BBC Lifestyle
+Now Sports 精選
+商業電台 雷霆881
+商業電台 AM864
+商業電台 叱咤903
 
 
-http://e.erw.cc/e.xml.gz	
+http://e.erw.cc/e.xml.gz
 3	CCTV-3文艺
 
 
-https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml	
+https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
 62442f28afe626000747f195	I Jefferson
 608aa4a4cc92820007b663af	Pluto TV Film Romantici
 6911c9704316999535eb21cf	Pluto TV Notti di Passione
@@ -1992,108 +1877,105 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 60802b37709d6b0007b0c549	Pluto TV Natura
 6231ec4b62cd1f0007093c7b	CBS News 24/7
 66c45ba803e3b20008d8c294	CNN Headlines International
-61b86ea479a4390007c6d5fc	Euronews	
 
 
 
-https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml	
-western-e-peplum	
-dark-matter-it-new	
-cg-cinema-d-autore	
-brividy-cinema-ita	
-grjngo-it	
-risate-all-italiana	
-crime-rakuten-tv	
-alarm-for-cobra-rakuten-tv	
-filmrise-sci-fi-it	
-filmrise-relic-hunter-ita	
-serially-crime-ita	
-andromeda-it	
-soap-latino-it	
-soap-turco-it	
-risate-dal-sud-ita	
-bbc-series-it	
-filmrise-highway-to-heaven-it	
-rakuten-viki-new	
-bbc-top-gear-it	
-inazuma-eleven-go	
-inuyasha	
-yu-gi-oh-new-ita	
-mr-bean-it	
-mr-bean-live-action	
-zdf-guardia-costiera	
-zdf-squadra-speciale-lipsia	
-the-pet-collective-new	
-people-are-awesome-new	
-revry	
-jukin-fail-army-new	
-top-barca-eng	
-fifa-plus-it-new	
-inter-24-7-ita	
-juventus-play	
-rally-tv-fast	
-fuel-tv-new	
-billiards-tv	
-hard-knocks-fighting-championship	
-glory-kickboxing	
-world-poker-tour	
-sport-italia	
-pfl-mma	
-racer-international	
-automoto	
-golf-tv	
-red-bull-tv-en	
-motorvision-tv	
-motoretro	
-tennis-plus	
-fashion-tv	
-beauty-channel	
-the-design-network-new	
-per-caso-tv	
-brindiamo	
-travelxp-eng	
-med-tv	
-stingray-naturescape	
-class-tv-moda	
-daystar-spa	
-daystar-eng	
-gusto-tv-new	
-gambero-rosso	
-metal-rocks	
-qwest-tv	
-radio-italia-live	
-stingray-greatest-hits	
-stingray-hit-list	
-stingray-remember-the-80-s	
-qello-concerts-by-stingray	
-deluxe-lounge-hd	
-that-s-70s	
-that-s-80s	
-that-s-rock	
-trace-urban	
-vevo-pop-it	
-vevo-pop-90-00-it	
-that-s-90s00s	
-family-rakuten-tv	
-baby-shark-tv	
-car-city-adventures-it	
-planeta-junior-ita	
-hell-s-kitchen-it-itv	
-filmrise-forensic-files-ita	
-weather-spy-new	
-nature-time-ita	
-wedo-big-stories-ita	
-cgtn-documentary	
-mayday-air-disaster-channel-ita	
-80-anni	
-euronews-live-ita	
-the-reuters-60	
-il-sole-24-ore-tv	
-urania-news	
-class-cnbc	
-bloomberg-originals-new	
-bloomberg-tv-plus	
-africanews-eng	
-cgtn	
-newsworld-ita	
-france-24-en	
+https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
+western-e-peplum	Western E Peplum
+dark-matter-it-new	Dark Matter It New
+cg-cinema-d-autore	Cg Cinema D Autore
+brividy-cinema-ita	Brividy Cinema (It)
+grjngo-it	Grjngo (It)
+risate-all-italiana	Risate All itAliana
+crime-rakuten-tv	Crime Rakuten TV
+alarm-for-cobra-rakuten-tv	Alarm For Cobra Rakuten TV
+filmrise-sci-fi-it	Filmrise Sci Fi (It)
+filmrise-relic-hunter-ita	Filmrise Relic Hunter (It)A
+serially-crime-ita	Serially Crime (It)A
+andromeda-it	Andromeda (It)
+soap-latino-it	Soap Latino (It)
+soap-turco-it	Soap Turco (It)
+risate-dal-sud-ita	Risate Dal Sud (It)
+bbc-series-it	Bbc Series (It)
+filmrise-highway-to-heaven-it	Filmrise Highway To Heaven (It)
+rakuten-viki-new	Rakuten Viki New
+bbc-top-gear-it	Bbc Top Gear (It)
+inazuma-eleven-go	Inazuma Eleven Go
+inuyasha	Inuyasha
+yu-gi-oh-new-ita	Yu Gi Oh New (It)
+mr-bean-it	Mr Bean (It)
+mr-bean-live-action	Mr Bean Live Action
+zdf-guardia-costiera	Zdf Guardia Costiera
+zdf-squadra-speciale-lipsia	Zdf Squadra Speciale Lipsia
+the-pet-collective-new	The Pet Collective New
+people-are-awesome-new	People Are Awesome New
+revry	Revry
+jukin-fail-army-new	Jukin Fail Army New
+top-barca-eng	Top Barca Eng
+fifa-plus-it-new	Fifa Plus (It) New
+inter-24-7-ita	Inter 24 7 (It)A
+juventus-play	Juventus Play
+rally-tv-fast	Rally TV Fast
+fuel-tv-new	Fuel TV New
+billiards-tv	Billiards TV
+hard-knocks-fighting-championship	Hard Knocks Fighting Championship
+glory-kickboxing	Glory Kickboxing
+sport-italia	Sport Italia
+pfl-mma	Pfl Mma
+racer-international	Racer International
+automoto	Automoto
+golf-tv	Golf TV
+red-bull-tv-en	Red Bull TV En
+motorvision-tv	Motorvision TV
+motoretro	Motoretro
+tennis-plus	Tennis Plus
+fashion-tv	Fashion TV
+beauty-channel	Beauty Channel
+the-design-network-new	The Design Network New
+per-caso-tv	Per Caso TV
+brindiamo	Brindiamo
+travelxp-eng	Travelxp Eng
+med-tv	Med TV
+stingray-naturescape	Stingray Naturescape
+class-tv-moda	Class TV Moda
+daystar-spa	Daystar Spa
+daystar-eng	Daystar Eng
+gusto-tv-new	Gusto TV New
+gambero-rosso	Gambero Rosso
+metal-rocks	Metal Rocks
+qwest-tv	Qwest TV
+radio-italia-live	Radio Italia Live
+stingray-greatest-hits	Stingray Greatest Hits
+stingray-hit-list	Stingray Hit List
+stingray-remember-the-80-s	Stingray Remember The 80 S
+qello-concerts-by-stingray	Qello Concerts By Stingray
+deluxe-lounge-hd	Deluxe Lounge Hd
+that-s-70s	That S 70S
+that-s-80s	That S 80S
+that-s-rock	That S Rock
+trace-urban	Trace Urban
+vevo-pop-it	Vevo Pop (It)
+vevo-pop-90-00-it	Vevo Pop 90 00 (It)
+that-s-90s00s	That S 90S00S
+family-rakuten-tv	Family Rakuten TV
+baby-shark-tv	Baby Shark TV
+car-city-adventures-it	Car City Adventures (It)
+planeta-junior-ita	Planeta Junior (It)A
+hell-s-kitchen-it-itv	Hell S Kitchen (It) Itv
+filmrise-forensic-files-ita	Filmrise Forensic Files (It)
+weather-spy-new	Weather Spy New
+nature-time-ita	Nature Time (It)
+wedo-big-stories-ita	Wedo Big Stories (It)
+mayday-air-disaster-channel-ita	Mayday Air Disaster Channel (It)
+80-anni	80 Anni
+euronews-live-ita	Euronews Live (It)A
+the-reuters-60	The Reuters 60
+il-sole-24-ore-tv	Il Sole 24 Ore TV
+urania-news	Urania News
+class-cnbc	Class Cnbc
+bloomberg-originals-new	Bloomberg Originals New
+bloomberg-tv-plus	Bloomberg TV Plus
+africanews-eng	Africanews Eng
+cgtn	CGTN(英)
+newsworld-ita	Newsworld (It)
+france-24-en	France 24 English
