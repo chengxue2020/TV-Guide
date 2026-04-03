@@ -2109,7 +2109,7 @@ CBeebies	CBeebies(swepg2)
 CBeebies HD	CBeebies HD(swepg1)
 Cbeebies HD	Cbeebies HD(swepg2)
 CBeebies香港
-CCM
+CCM	天映经典电影(印尼)
 Celebrities TV
 Celestial_Classic_Movies	Celestial Classic Movies(swepg)
 Celestial Movies
