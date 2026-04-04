@@ -1,4 +1,4 @@
-timeframe=48
+timeframe=24
 
 https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
 CCTV-1 综合	CCTV1
