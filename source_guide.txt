@@ -75,7 +75,6 @@ CGTN西班牙语
 新疆卫视
 兵团卫视	新疆兵团卫视
 优漫卡通
-贵州卫视
 卡酷动画
 嘉佳卡通
 睛彩广场舞
@@ -320,32 +319,23 @@ Asianet Movies
 AsianFoodNetwork亚洲美食频道
 ASMR行车纪录
 Astro_AEC	Astro AEC
-Astro_Arena	Astro Arena
 Astro_Arena_2	Astro Arena 2
 Astro_Aura	Astro Aura
-Astro_Badminton	Astro Badminton(swepg)
 Astro_Boo	Astro Boo
-Astro_Ceria	Astro Ceria
-Astro_Citra	Astro Citra
 Astro Cricket
 Astro_FAM_Time	Astro FAM Time(swepg)
 Astro_First_HD	Astro First HD(swepg)
-Astro_Football	Astro Football(swepg)
 Astro_Golf	Astro Golf
-Astro_Grandstand	Astro Grandstand(swepg)
 Astro_Hua_Hee_Dai	Astro-欢喜台(英)
 Astro_Oasis	Astro Oasis
-Astro_Premier_League	Astro Premier League(swepg)
-Astro_Premier_League_2	Astro Premier League 2(swepg)
 Astro_Premier_League_3	Astro Premier League 3
 Astro_Prima	Astro Prima
 Astro_QJ	Astro 全佳(英)
 Astro_Rania	Astro Rania
 Astro_Ria	Astro Ria
 Astro Sensasi HD
-Astro_Showcase	Astro Showcase
+Astro_Showcase	Astro Showcase2
 Astro_Showtime	Astro Showtime(swepg)
-Astro_Sports_Plus	Astro Sports Plus(swepg)
 Astro_Sports_Plus_2	Astro Sports Plus 2(swepg)
 Astro_Sports_Plus_3	Astro Sports Plus 3(swepg)
 Astro_Sports_UHD_805	Astro Sports UHD 805
@@ -426,7 +416,7 @@ Cbeebies HD	Cbeebies HD(swepg2)
 CBeebies香港
 CCM	天映经典电影_印尼
 Celebrities TV
-Celestial_Classic_Movies	天映经典电影(swepg)
+Celestial_Classic_Movies	天映经典电影_英(swepg)
 Celestial Movies	天映电影3
 Celestial_Movies_HD	天映电影3 HD
 CGTN	CGTN(swepg1)
@@ -492,7 +482,7 @@ CricBuzz
 Crime__amp__Investigation_HD	Crime & Investigation HD(swepg)
 Crime + Investigation HD
 Crime Investigation
-CTI_Asia_HD	CTI Asia HD
+CTI_Asia_HD	中天亚洲台 HD
 Da Vinc香港
 daystar	Daystar(swepg)
 DAZN 1
@@ -872,8 +862,8 @@ now体育
 now体育4k
 now新闻
 now直播 	now直播
-ONE
-ONE (Malay)
+ONE	ONE TV(英)
+ONE (Malay)	ONE TV(Malay)(英)
 ONE HD	ONE HD(swepg)
 OneTV 综合频道
 OPUS	OPUS(swepg)
@@ -965,9 +955,7 @@ STAR PLUS
 Star_Vijay_HD	Star Vijay HD(swepg)
 Studio Universal
 Studio Universal HD
-Sun_Life	Sun Life(swepg)
 Sun Music
-Sun_News	Sun News(swepg)
 Sun TV
 SUPER FREE (免费)	SUPER FREE
 SUPER Kids Channel
@@ -1019,7 +1007,7 @@ TV5MONDE STYLE HD 生活时尚
 TV5Monde 法国TV5
 TVB_Classic_HD	TVB 经典Classic HD(英)
 TVB_Entertainment_News_HD	TVB-娱乐新闻(英)
-TVB_Jade	TVB-Jade
+TVB_Jade	TVB-翡翠台(英)
 TVB Plus (免费)	TVB Plus
 TVB_Xing_He_HD	TVB-星河(英)
 TVBS	TVBS(swepg)
@@ -1048,7 +1036,7 @@ TVB生活台	TVB-生活台
 TVB无线新闻台(TVB News)	TVB-无线新闻台(TVB News)
 TVB新闻新加坡	TVB-新闻新加坡
 TVB星河	TVB-星河
-TVB星河新加坡	TVB-星河新加坡
+TVB星河新加坡	TVB-星河_新加坡_英(swepg)
 TVB粤语片	TVB-粤语片
 tvN	tvN(swepg)
 tvN HD	tvN HD(中)
@@ -1077,7 +1065,6 @@ W-Sport
 WTO姐妹会
 WTO姐妹会-FastTV飞速看
 Yes娱乐
-Z_Cinema_HD	Z Cinema HD
 ZAYAN	ZAYAN(swepg)
 Zee Bioskop
 Zee Cinema HD
@@ -1272,7 +1259,7 @@ Z频道	Z频道(swepg)
 非凡新闻HD
 非凡新闻台	非凡新闻台(swepg)
 翡翠台 (免费)	TVB翡翠台
-翡翠台(国际版)
+翡翠台(国际版)	TVB-翡翠台(国际版)
 翡翠一台(TVB1)
 凤凰卫视香港台
 凤凰卫视中文台
@@ -1376,9 +1363,9 @@ CHC 家庭影院	CHC家庭影院
 深圳龙岗	深圳龙岗(swepg)
 深圳少儿	深圳少儿(swepg)
 深圳卫视
-深圳卫视国际频道 (免费)	深圳卫视国际频道
+深圳卫视国际频道 (免费)	深圳国际频道
 深圳卫视香港
-贵州卫视	贵州卫视(swepg)
+贵州卫视
 滚动力 rollor
 滚动力 rollor有线
 滚动力rollor
@@ -1762,7 +1749,7 @@ CHC 家庭影院	CHC家庭影院
 天美丽电视台
 天映经典菲律宾
 天映经典柬埔寨
-天映经典马来西亚	天映经典电影_马来_英
+天映经典马来西亚	天映经典电影_马来_中
 天映经典频道
 天映经典台新加坡
 天映经典新加坡
@@ -1848,20 +1835,12 @@ CHC 家庭影院	CHC家庭影院
 盐城新闻综合
 演唱会直击
 阳江-1	阳江-1(swepg)
-一把青
-医师好辣
 壹电视电影台
 壹电视新闻台
 壹电视资讯台
 壹电视综合 HD
 壹新闻
 宜兴新闻综合
-以爱为营-FastTV飞速看
-以家人之名
-以家人之名-FastTV飞速看
-倚天屠龙记 2019
-溢起趣打卡
-溢游未尽
 英超1台
 英超2台
 影迷数位电影台
@@ -1872,7 +1851,6 @@ CHC 家庭影院	CHC家庭影院
 优漫卡通频道
 游戏风云
 有你的时光里
-娱乐百分百-FastTV飞速看
 娱乐新闻
 娱乐新闻台 (免费)	娱乐新闻台
 原住民族电视HD
@@ -1941,8 +1919,7 @@ CHC 家庭影院	CHC家庭影院
 周星驰台
 珠海	珠海(swepg)
 猪哥亮歌厅秀
-猪哥壹级棒
-紫金国际台
+紫金国际台	NOW紫金国际台
 罪案 + 侦缉香港
 罪案侦查频道
 罪案侦缉频道
@@ -1956,57 +1933,8 @@ CHC 家庭影院	CHC家庭影院
 1905App 环球经典
 1905App 热血·影院
 奥林匹克官网直播
-综艺大集合
-一字千金
-台湾灵异事件
-天才冲冲冲
-台湾启示录
-中国传奇故事-FastTV飞速看
-姊妹亮起来-FastTV飞速看
-综艺大集合-FastTV飞速看
-综艺大赢家-FastTV飞速看
-综艺新时代-FastTV飞速看
-最爱韩星-FastTV飞速看
-007情报员-FastTV飞速看
-猪哥会社-FastTV飞速看
-11点热吵店-FastTV飞速看
-超级冰冰Show-FastTV飞速看
-超人力霸王《TV版》FastTV飞速看
-超人力霸王《剧场版》FastTV飞速看
-HahaTai 哈哈台-FastTV飞速看
-Duck TV儿童卡通-FastTV飞速看
-2025双北世壮运-FastTV飞速看
-医学大联盟-FastTV飞速看
-野蛮游戏：We Play -FastTV飞速看
-叶青歌仔戏-FastTV飞速看
-一步一脚印 发现新台湾
-一起追韩星-FastTV飞速看
-一字千金-FastTV飞速看
-台湾No.1棒球精选-FastTV飞速看
-台湾传奇-FastTV飞速看
-台湾灵异事件-FastTV飞速看
-天才冲冲冲-FastTV飞速看
-免费精选动画-FastTV飞速看
-飞龙在天-FastTV飞速看
-多情城市-FastTV飞速看
-哆啦A梦-FastTV飞速看
-斗阵大庙埕-FastTV飞速看
-日韩电影大赏-FastTV飞速看
-日剧一丁目-FastTV飞速看
-亲戚不计较(特辑)-FastTV飞速看
-亲子一起看-FastTV飞速看
-女力报到-FastTV飞速看
-女人我最大-FastTV飞速看
-民视健康美丽生活-FastTV飞速看
-黄金岁月-FastTV飞速看
-机智校园生活-FastTV飞速看
-加油喜事-FastTV飞速看
-健康2.0-FastTV飞速看
-经典卡通-FastTV飞速看
-金光布袋戏-FastTV飞速看
-经典迪士尼-FastTV飞速看
-轻松看法律-FastTV飞速看
-离开A级队伍的我，和从前的弟子往迷宫深处迈进
+
+
 
 
 
@@ -2066,7 +1994,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1462	动物星球
 1529	非凡商业台
 1498	非凡新闻台
-120	翡翠台
+120	TVB-翡翠台(中)
 2055	凤凰电影
 143	凤凰香港
 141	凤凰中文
@@ -2242,13 +2170,13 @@ ChangeTimezone=Y
 2181	ABO Movies Thangathirai HD
 1584	Al-Hijrah(MY)
 479619	Apetito
-4209	Arena Bola
-4215	Arena Bola 2
 997	Asian Food Network HD
 2226	Astro AEC HD
 2124	Astro AOD 311
-4100	Astro Arena 2 HD
 2552	Astro Arena HD
+4100	Astro Arena 2 HD
+4209	Astro Arena Bola
+4215	Astro Arena Bola 2
 3770	Astro Aura HD
 3958	Astro Awani HD
 397400	Astro Badminton
@@ -2299,7 +2227,7 @@ ChangeTimezone=Y
 4187	CBeebies(MY)
 3518	CCTV4(英)
 2280	天映经典电影_马来非新_英
-1298	天映电影_马来非新
+1298	天映电影_马来非新_英
 461591	CGTN-英文纪录(英2)
 3906	CGTN HD
 2852	CNA HD
@@ -2309,7 +2237,7 @@ ChangeTimezone=Y
 2917	Colors Tamil HD(MY)
 523496	CricBuzz(MY)
 3362	Crime & Investigation HD
-3885	CTI Asia HD(英)
+3885	中天亚洲台 HD(英)
 1358	Discovery Asia HD(MY)
 3437	Discovery Channel HD
 2756	DW English(MY)
@@ -2368,7 +2296,7 @@ ChangeTimezone=Y
 522380	Sample EPG
 510886	Sandakan FM
 411256	Selangor FM
-399483	SHOWCASE
+399483	Astro Showcase
 4057	SHOWCASE MOVIES
 702	SINAR FM
 478717	Snap
@@ -2388,12 +2316,12 @@ ChangeTimezone=Y
 370131	TV6
 902	TV9
 3895	TVB Classic HD(MY)
-3920	TVB-娱乐新闻 HD
+3920	TVB-娱乐新闻台(英)
 2524	TVB-翡翠(英)
-3493	TVB-星河 HD
+3493	TVB-星河 HD(英)
 3509	TVBS Asia HD
 2323	tvN HD(MY)
-2726	tvN Movies HD
+2726	tvN Movies HD(MY英)
 3942	TVS
 411241	Wai FM
 411231	Wai FM Iban
@@ -2518,7 +2446,7 @@ https://epg.pw/xmltv/epg_SG.xml
 369851	HITS (HD)(新加坡)
 412194	Hits HD(新加坡)
 535479	HITS MOVIES (HD)(新加坡)
-369770	HITS Movies HD(新加坡)
+369770	HITS Movies HD(MY)
 369740	HITS NOW (HD)(新加坡)
 485760	HITS NOW(新加坡)
 492895	Hub E City HD(新加坡)
@@ -2549,7 +2477,7 @@ https://epg.pw/xmltv/epg_SG.xml
 412116	Kalaignar TV(新加坡)
 492915	Karisma(新加坡)
 492908	Kartoon Channel!(新加坡)
-369734	KBS World (Mandarin) (HD)(新加坡)
+369734	KBS World_英(新加坡)
 492897	KBS World HD(新加坡)
 412203	KTV HD(新加坡)
 369832	Lifetime (HD)(新加坡)
@@ -2583,7 +2511,7 @@ https://epg.pw/xmltv/epg_SG.xml
 492913	NOW Rock(新加坡)
 521905	Oktolidays(新加坡)
 492870	ONE (Malay)(新加坡)
-369728	ONE HD (中英)(新加坡)
+369728	ONE HD (中英)(新马)
 535490	Outdoor Channel(HD)(新加坡)
 484245	Outdoor Channel(新加坡)
 429564	Pesona HD(新加坡)
@@ -2641,8 +2569,8 @@ https://epg.pw/xmltv/epg_SG.xml
 412183	TV5MONDE HD(新加坡)
 369805	TVB-翡翠_新加坡_中
 412135	TVB-翡翠_新加坡_英
-412106	TVB-星河_新加坡
-369796	TVB-星河_新加坡(HD)
+412106	TVB-星河_新加坡_英
+369796	TVB-星河_新加坡_中英
 491163	TVBS Asia_新加坡_中
 412149	TVBS-NEWS_新加坡_英
 492453	TVBS-NEWS_新加坡_中
