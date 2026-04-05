@@ -1,17 +1,17 @@
 name: Guide Update
 
 on:
-  schedule:
-    # 添加 push 触发
+  # 当推送到仓库时触发
   push:
-  #排除 guide.xml 和 guide.xml.gz 触发
     paths-ignore:
       - 'guide.xml'
       - 'guide.xml.gz'
-    # 每天 0:40, 8:40, 16:40 运行（UTC时间）
-    # 北京时间 = UTC+8，对应 8:40, 16:40, 0:40（次日）
+  # 定时任务 北京时间 = UTC+8，对应 8:40, 16:40, 0:40（次日）
+  schedule:
     - cron: '40 0,8,16 * * *'
-  workflow_dispatch:  # 允许手动触发
+  # 手动触发
+  workflow_dispatch:
+  
 
 jobs:
   update-guide:
