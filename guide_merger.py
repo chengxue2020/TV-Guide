@@ -8,6 +8,7 @@ EPG Merger Script - 合并多个EPG源的频道节目信息
 支持每个EPG源单独设置时区转换（可选，不设置则保持原时区）
 支持前后双向时间范围（包含过去和未来的节目）
 可配置是否修改 channel id 和 display-name
+支持保存合并前的源EPG文件到Temp文件夹
 """
 
 import requests
@@ -21,6 +22,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Tuple, Optional, Set
 import hashlib
 import copy
+from urllib.parse import urlparse
 
 # 尝试导入Cloudflare绕过库
 try:
@@ -45,6 +47,7 @@ SOURCE_FILE = 'source_guide.txt'         # EPG源配置文件
 OUTPUT_XML = 'guide.xml'                 # 输出XML文件名
 OUTPUT_GZ = 'guide.xml.gz'               # 输出GZ压缩文件名
 TEMP_DIR_NAME = 'temp_epg_files'         # 临时文件目录
+SAVE_SOURCE_DIR = 'Temp'                 # 保存源EPG文件的目录
 DEFAULT_TIME_FRAME = 96                  # 默认时间范围（小时）- 前后各48小时
 MAX_RETRIES = 3                          # 最大重试次数
 DOWNLOAD_TIMEOUT = 30                    # 下载超时（秒）
@@ -59,6 +62,7 @@ MODIFY_CHANNEL_ID = True
 # True: 修改display-name
 # False: 不修改display-name，保持原值
 MODIFY_DISPLAY_NAME = True
+
 
 # ==================== 时区配置 ====================
 BEIJING_TZ = timezone(timedelta(hours=8))  # 北京时区 UTC+8
@@ -125,6 +129,110 @@ def compress_gzip(input_file: str, output_file: str) -> bool:
     except Exception as e:
         print(f'  ✗ 压缩失败: {e}')
         return False
+
+
+def generate_source_filename(url: str) -> str:
+    """
+    根据URL生成源EPG文件的保存文件名
+    
+    规则：
+    1. github.io 格式：github-账号名-源文件名.xml
+    2. githubusercontent.com 格式：github-账号名-源文件名.xml
+    3. 其他格式：主站名-源文件名.xml
+    
+    Args:
+        url: EPG源URL
+        
+    Returns:
+        生成的文件名
+    """
+    parsed = urlparse(url)
+    hostname = parsed.hostname or ''
+    path = parsed.path
+    
+    # 提取源文件名（不含扩展名）
+    base_filename = os.path.basename(path)
+    if base_filename.endswith('.gz'):
+        base_filename = base_filename[:-3]
+    if base_filename.endswith('.xml'):
+        base_filename = base_filename[:-4]
+    if not base_filename:
+        base_filename = 'epg'
+    
+    # 处理 GitHub 相关域名
+    if 'github.io' in hostname:
+        # 格式：https://chengxue2020.github.io/TV-Guide/guide.xml
+        account_name = hostname.split('.')[0]
+        return f"github-{account_name}-{base_filename}.xml"
+    
+    elif 'githubusercontent.com' in hostname:
+        # 格式：https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
+        # 提取账号名：路径中的第一个部分
+        path_parts = path.strip('/').split('/')
+        if len(path_parts) > 0:
+            account_name = path_parts[0]
+            return f"github-{account_name}-{base_filename}.xml"
+        else:
+            return f"github-unknown-{base_filename}.xml"
+    
+    else:
+        # 其他域名：提取主站名
+        # 例如：epg.51zmt.top -> 51zmt
+        # 例如：epg.112114.xyz -> 112114
+        domain_parts = hostname.split('.')
+        if len(domain_parts) >= 2:
+            main_name = domain_parts[-2]  # 取倒数第二部分
+            # 如果主站名是常见的通用名称，尝试取更前一部分
+            if main_name in ['com', 'net', 'org', 'top', 'xyz', 'cn'] and len(domain_parts) >= 3:
+                main_name = domain_parts[-3]
+            return f"{main_name}-{base_filename}.xml"
+        else:
+            return f"{hostname}-{base_filename}.xml"
+
+
+def save_source_epg(content: bytes, url: str, is_gz: bool = False) -> Optional[str]:
+    """
+    保存合并前的源EPG文件到Temp目录
+    
+    Args:
+        content: 文件内容（二进制）
+        url: 源URL
+        is_gz: 是否为gzip压缩文件
+        
+    Returns:
+        保存的文件路径，失败返回None
+    """
+    # 创建保存目录
+    os.makedirs(SAVE_SOURCE_DIR, exist_ok=True)
+    
+    # 生成文件名
+    filename = generate_source_filename(url)
+    save_path = os.path.join(SAVE_SOURCE_DIR, filename)
+    
+    try:
+        if is_gz:
+            # 如果是gz文件，解压后保存为xml
+            try:
+                xml_content = gzip.decompress(content)
+                with open(save_path, 'wb') as f:
+                    f.write(xml_content)
+                print(f'    📁 已保存源文件: {filename} (已解压)')
+            except Exception as e:
+                print(f'    ⚠ 解压源文件失败: {e}')
+                # 解压失败，保存原始内容
+                with open(save_path, 'wb') as f:
+                    f.write(content)
+                print(f'    📁 已保存源文件: {filename} (原始格式)')
+        else:
+            # 直接保存
+            with open(save_path, 'wb') as f:
+                f.write(content)
+            print(f'    📁 已保存源文件: {filename}')
+        
+        return save_path
+    except Exception as e:
+        print(f'    ⚠ 保存源文件失败: {e}')
+        return None
 
 
 def is_beijing_timezone(timezone_str: str) -> bool:
@@ -570,8 +678,18 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
 
 
 # ==================== 文件下载 ====================
-def download_file(url: str, path: str) -> Optional[str]:
-    """下载EPG文件，支持HTTP/HTTPS和Cloudflare绕过"""
+def download_file(url: str, path: str, save_source: bool = True) -> Optional[str]:
+    """
+    下载EPG文件，支持HTTP/HTTPS和Cloudflare绕过
+    
+    Args:
+        url: 下载URL
+        path: 保存路径
+        save_source: 是否保存源文件到Temp目录
+        
+    Returns:
+        成功返回文件路径，失败返回None
+    """
     filename = os.path.basename(url.split('?')[0])
     if not filename:
         url_hash = hashlib.md5(url.encode()).hexdigest()[:8]
@@ -618,18 +736,18 @@ def download_file(url: str, path: str) -> Optional[str]:
                 response = requests.get(url, headers=headers, stream=True, timeout=DOWNLOAD_TIMEOUT, allow_redirects=True)
             
             if response.status_code == 200:
-                with open(download_path, 'wb') as f:
-                    downloaded = 0
-                    if USE_CLOUDSCRAPER and HAS_CLOUDSCRAPER:
-                        f.write(response.content)
-                        downloaded = len(response.content)
-                    else:
-                        for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
-                            if chunk:
-                                f.write(chunk)
-                                downloaded += len(chunk)
+                content = response.content if (USE_CLOUDSCRAPER and HAS_CLOUDSCRAPER) else response.content
                 
-                print(f'    ✓ 下载成功: {format_size(downloaded)}')
+                # 保存源EPG文件到Temp目录
+                if save_source:
+                    is_gz = url.endswith('.gz')
+                    save_source_epg(content, url, is_gz)
+                
+                # 写入临时文件用于后续处理
+                with open(download_path, 'wb') as f:
+                    f.write(content)
+                
+                print(f'    ✓ 下载成功: {format_size(len(content))}')
                 return download_path
                 
             elif response.status_code == 403:
@@ -869,6 +987,7 @@ def main() -> None:
     print('✓ +8时区（北京时间）将被识别并保持原样不转换')
     print('✓ 支持前后双向时间范围（包含过去和未来的节目）')
     print(f'✓ 别名映射: 修改ID={MODIFY_CHANNEL_ID}, 修改DisplayName={MODIFY_DISPLAY_NAME}')
+    print(f'✓ 源文件保存: 合并前的EPG文件将保存到 {SAVE_SOURCE_DIR} 目录')
     print()
     
     # 解析配置
@@ -899,6 +1018,9 @@ def main() -> None:
     # 准备临时目录
     temp_dir = os.path.relpath(TEMP_DIR_NAME)
     os.makedirs(temp_dir, exist_ok=True)
+    
+    # 创建源文件保存目录
+    os.makedirs(SAVE_SOURCE_DIR, exist_ok=True)
     
     # 清理临时目录
     print('🧹 清理临时目录...')
@@ -937,8 +1059,8 @@ def main() -> None:
         
         print(f'   需要查找: {len(channels_to_find)} 个')
         
-        # 下载文件
-        file_path = download_file(source_url, temp_dir)
+        # 下载文件（并保存源文件）
+        file_path = download_file(source_url, temp_dir, save_source=True)
         
         # 处理文件
         if file_path:
@@ -1039,10 +1161,10 @@ def main() -> None:
     print(f'结束时间: {end_beijing.strftime("%Y-%m-%d %H:%M:%S")} (北京时间)')
     print(f'总耗时: {duration:.2f} 秒')
     print(f'成功处理: {success_count}/{len(sources)} 个源')
-    # 新增：显示成功处理的频道数和节目数
     print(f'成功处理: {len(channels_sorted)} 个频道，{len(programmes_sorted)} 条节目')
     print(f'输出文件: {OUTPUT_XML} 和 {OUTPUT_GZ}')
     print(f'时间范围: 过去 {past_hours} 小时 + 未来 {future_hours} 小时')
+    print(f'源文件目录: {SAVE_SOURCE_DIR}')
     print_separator('=')
 
 
