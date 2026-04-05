@@ -8,7 +8,6 @@ EPG Merger Script - 合并多个EPG源的频道节目信息
 支持每个EPG源单独设置时区转换（可选，不设置则保持原时区）
 支持前后双向时间范围（包含过去和未来的节目）
 可配置是否修改 channel id 和 display-name
-支持保存合并前的源EPG文件到Temp文件夹（每次运行前先清空Temp文件夹，保留.gitkeep）
 """
 
 import requests
@@ -18,12 +17,10 @@ import os
 import sys
 import time
 import re
-import shutil
 from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Tuple, Optional, Set
 import hashlib
 import copy
-from urllib.parse import urlparse
 
 # 尝试导入Cloudflare绕过库
 try:
@@ -48,7 +45,6 @@ SOURCE_FILE = 'source_guide.txt'         # EPG源配置文件
 OUTPUT_XML = 'guide.xml'                 # 输出XML文件名
 OUTPUT_GZ = 'guide.xml.gz'               # 输出GZ压缩文件名
 TEMP_DIR_NAME = 'temp_epg_files'         # 临时文件目录
-SAVE_SOURCE_DIR = 'Temp'                 # 保存源EPG文件的目录
 DEFAULT_TIME_FRAME = 96                  # 默认时间范围（小时）- 前后各48小时
 MAX_RETRIES = 3                          # 最大重试次数
 DOWNLOAD_TIMEOUT = 30                    # 下载超时（秒）
@@ -56,8 +52,13 @@ CHUNK_SIZE = 131072                      # 下载块大小（128KB）
 USE_CLOUDSCRAPER = True                  # 是否使用cloudscraper绕过CF
 
 # ==================== 别名映射配置 ====================
-MODIFY_CHANNEL_ID = True      # True: 修改channel id, False: 不修改
-MODIFY_DISPLAY_NAME = True    # True: 修改display-name, False: 不修改
+# True: 修改channel id
+# False: 不修改channel id，保持原值
+MODIFY_CHANNEL_ID = True
+
+# True: 修改display-name
+# False: 不修改display-name，保持原值
+MODIFY_DISPLAY_NAME = True
 
 # ==================== 时区配置 ====================
 BEIJING_TZ = timezone(timedelta(hours=8))  # 北京时区 UTC+8
@@ -108,26 +109,6 @@ def format_size(bytes_size: int) -> str:
     return f"{bytes_size:.2f} TB"
 
 
-def clean_directory(dir_path: str) -> None:
-    """清空指定目录中的所有文件和子目录（保留.gitkeep文件）"""
-    if not os.path.exists(dir_path):
-        return
-    
-    for item in os.listdir(dir_path):
-        # 跳过 .gitkeep 文件
-        if item == '.gitkeep':
-            continue
-            
-        item_path = os.path.join(dir_path, item)
-        try:
-            if os.path.isfile(item_path):
-                os.remove(item_path)
-            elif os.path.isdir(item_path):
-                shutil.rmtree(item_path)
-        except Exception as e:
-            print(f'    ⚠ 无法删除 {item}: {e}')
-
-
 def compress_gzip(input_file: str, output_file: str) -> bool:
     """压缩文件为gzip格式"""
     try:
@@ -146,98 +127,40 @@ def compress_gzip(input_file: str, output_file: str) -> bool:
         return False
 
 
-def generate_source_filename(url: str) -> str:
-    """
-    根据URL生成源EPG文件的保存文件名
-    
-    规则：
-    1. github.io 格式：github-账号名-源文件名.xml
-    2. githubusercontent.com 格式：github-账号名-源文件名.xml
-    3. 其他格式：主站名-源文件名.xml
-    """
-    parsed = urlparse(url)
-    hostname = parsed.hostname or ''
-    path = parsed.path
-    
-    # 提取源文件名（不含扩展名）
-    base_filename = os.path.basename(path)
-    if base_filename.endswith('.gz'):
-        base_filename = base_filename[:-3]
-    if base_filename.endswith('.xml'):
-        base_filename = base_filename[:-4]
-    if not base_filename:
-        base_filename = 'epg'
-    
-    # 处理 GitHub 相关域名
-    if 'github.io' in hostname:
-        account_name = hostname.split('.')[0]
-        return f"github-{account_name}-{base_filename}.xml"
-    
-    elif 'githubusercontent.com' in hostname:
-        path_parts = path.strip('/').split('/')
-        if len(path_parts) > 0:
-            account_name = path_parts[0]
-            return f"github-{account_name}-{base_filename}.xml"
-        else:
-            return f"github-unknown-{base_filename}.xml"
-    
-    else:
-        domain_parts = hostname.split('.')
-        if len(domain_parts) >= 2:
-            main_name = domain_parts[-2]
-            if main_name in ['com', 'net', 'org', 'top', 'xyz', 'cn', 'cc', 'io'] and len(domain_parts) >= 3:
-                main_name = domain_parts[-3]
-            return f"{main_name}-{base_filename}.xml"
-        else:
-            return f"{hostname}-{base_filename}.xml"
-
-
-def save_source_epg(content: bytes, url: str, is_gz: bool = False) -> Optional[str]:
-    """保存合并前的源EPG文件到Temp目录"""
-    os.makedirs(SAVE_SOURCE_DIR, exist_ok=True)
-    
-    filename = generate_source_filename(url)
-    save_path = os.path.join(SAVE_SOURCE_DIR, filename)
-    
-    try:
-        if is_gz:
-            try:
-                xml_content = gzip.decompress(content)
-                with open(save_path, 'wb') as f:
-                    f.write(xml_content)
-                print(f'    📁 已保存源文件: {filename} ({format_size(len(xml_content))})')
-            except Exception as e:
-                print(f'    ⚠ 解压源文件失败: {e}')
-                with open(save_path, 'wb') as f:
-                    f.write(content)
-                print(f'    📁 已保存源文件: {filename} ({format_size(len(content))})')
-        else:
-            with open(save_path, 'wb') as f:
-                f.write(content)
-            print(f'    📁 已保存源文件: {filename} ({format_size(len(content))})')
-        
-        return save_path
-    except Exception as e:
-        print(f'    ⚠ 保存源文件失败: {e}')
-        return None
-
-
 def is_beijing_timezone(timezone_str: str) -> bool:
-    """判断时区是否为北京时间（+8时区）"""
+    """
+    判断时区是否为北京时间（+8时区）
+    
+    支持格式：
+    - +0800, +0800
+    - +8, +8
+    - UTC+8, UTC+8
+    - GMT+8, GMT+8
+    
+    Args:
+        timezone_str: 时区字符串
+        
+    Returns:
+        如果是+8时区返回True，否则返回False
+    """
     if not timezone_str:
         return False
     
     tz_upper = timezone_str.strip().upper()
     
+    # 匹配 +8 或 +0800 格式
     if tz_upper in ['+8', '+0800', '8', '0800']:
         return True
     
+    # 匹配 UTC+8 或 GMT+8 格式
     if 'UTC+8' in tz_upper or 'GMT+8' in tz_upper:
         return True
     
+    # 匹配 UTC+08:00 等格式
     if re.search(r'UTC[+]0?8', tz_upper) or re.search(r'GMT[+]0?8', tz_upper):
         return True
     
+    # 匹配 +08:00 格式
     if tz_upper == '+08:00':
         return True
     
@@ -245,16 +168,27 @@ def is_beijing_timezone(timezone_str: str) -> bool:
 
 
 def parse_timezone(timezone_str: str) -> Optional[timezone]:
-    """解析时区字符串，返回timezone对象"""
+    """
+    解析时区字符串，返回timezone对象
+    
+    Args:
+        timezone_str: 时区字符串，如 "+0800", "-0500", "UTC+8" 等
+        
+    Returns:
+        timezone对象，如果是+8时区返回None（表示不需要转换）
+    """
     if not timezone_str:
         return None
     
+    # 如果是北京时间（+8时区），返回None表示不需要转换
     if is_beijing_timezone(timezone_str):
         print(f'    ✓ 检测到北京时间 (+8时区)，将保持原样不转换')
         return None
     
+    # 标准化时区字符串
     tz_upper = timezone_str.strip().upper()
     
+    # 处理 "UTC+8" 或 "GMT+8" 格式（非+8时区）
     if 'UTC' in tz_upper or 'GMT' in tz_upper:
         match = re.search(r'([+-])(\d+)', tz_upper)
         if match:
@@ -264,9 +198,11 @@ def parse_timezone(timezone_str: str) -> Optional[timezone]:
                 hours = -hours
             return timezone(timedelta(hours=hours))
     
+    # 处理 "+0800" 格式
     if tz_upper in TIMEZONE_MAP:
         return TIMEZONE_MAP[tz_upper]
     
+    # 尝试解析 "+8" 格式
     match = re.match(r'^([+-])(\d+)$', tz_upper)
     if match:
         sign = match.group(1)
@@ -275,17 +211,27 @@ def parse_timezone(timezone_str: str) -> Optional[timezone]:
             hours = -hours
         return timezone(timedelta(hours=hours))
     
+    # 无法识别，返回None（保持原时区）
     print(f'    ⚠ 无法识别的时区: {timezone_str}，将保持原时区不变')
     return None
 
 
 def extract_timezone_from_time_str(time_str: str) -> Optional[timezone]:
-    """从时间字符串中提取时区信息"""
+    """
+    从时间字符串中提取时区信息
+    
+    Args:
+        time_str: 时间字符串，如 "20240101120000 +0800"
+        
+    Returns:
+        timezone对象，如果没有时区信息则返回None
+    """
     if not time_str:
         return None
     
     try:
         if ' +' in time_str or ' -' in time_str:
+            # 提取时区部分
             parts = time_str.split()
             if len(parts) >= 2:
                 tz_str = parts[1]
@@ -297,25 +243,52 @@ def extract_timezone_from_time_str(time_str: str) -> Optional[timezone]:
 
 
 def convert_timezone(time_str: str, source_tz: timezone, target_tz: timezone) -> str:
-    """将时间字符串从源时区转换为目标时区"""
+    """
+    将时间字符串从源时区转换为目标时区
+    
+    Args:
+        time_str: 时间字符串，格式如 "20240101120000 +0800" 或 "20240101120000"
+        source_tz: 源时区
+        target_tz: 目标时区
+        
+    Returns:
+        转换后的时间字符串，格式如 "20240101120000 +0800"
+    """
     if not time_str or source_tz is None or target_tz is None:
         return time_str
     
     try:
+        # 解析时间
         if ' +' in time_str or ' -' in time_str:
+            # 带时区格式
             dt = datetime.strptime(time_str, '%Y%m%d%H%M%S %z')
         else:
+            # 不带时区，假设是源时区
             dt = datetime.strptime(time_str, '%Y%m%d%H%M%S')
             dt = dt.replace(tzinfo=source_tz)
         
+        # 转换为目标时区
         dt_target = dt.astimezone(target_tz)
+        
+        # 格式化为EPG时间格式
         return dt_target.strftime('%Y%m%d%H%M%S %z')
-    except Exception:
+        
+    except Exception as e:
+        # 转换失败，返回原值
         return time_str
 
 
 def convert_date_for_filter(time_str: str, source_tz: timezone) -> Optional[datetime]:
-    """将时间字符串转换为UTC datetime对象（用于时间范围过滤）"""
+    """
+    将时间字符串转换为UTC datetime对象（用于时间范围过滤）
+    
+    Args:
+        time_str: 时间字符串
+        source_tz: 源时区（如果为None，则从时间字符串中提取）
+        
+    Returns:
+        UTC datetime对象
+    """
     if not time_str:
         return None
     
@@ -327,6 +300,7 @@ def convert_date_for_filter(time_str: str, source_tz: timezone) -> Optional[date
             if source_tz:
                 dt = dt.replace(tzinfo=source_tz)
             else:
+                # 没有时区信息，假设为UTC
                 dt = dt.replace(tzinfo=UTC)
         
         return dt.astimezone(UTC)
@@ -336,7 +310,11 @@ def convert_date_for_filter(time_str: str, source_tz: timezone) -> Optional[date
 
 # ==================== 智能排序函数（按display-name）====================
 def get_display_name(channel: ET.Element) -> str:
-    """获取频道的显示名称"""
+    """
+    获取频道的显示名称
+    
+    优先使用 <display-name> 标签的内容，如果没有则使用 channel id
+    """
     display_name = channel.find('display-name')
     if display_name is not None and display_name.text:
         return display_name.text.strip()
@@ -401,26 +379,44 @@ def sort_programmes_by_display(programmes: List[ET.Element],
     return sorted(programmes, key=programme_key)
 
 
-# ==================== 应用别名映射 ====================
+# ==================== 应用别名映射到频道 ====================
 def apply_alias_to_channel(channel: ET.Element, old_id: str, new_id: str) -> ET.Element:
-    """应用别名映射到频道元素"""
+    """
+    应用别名映射到频道元素
+    
+    Args:
+        channel: 原始频道元素
+        old_id: 原始频道ID
+        new_id: 新频道ID
+        
+    Returns:
+        修改后的频道元素
+    """
+    # 创建新的频道元素
     new_channel = ET.Element('channel', id=new_id)
     
+    # 复制所有子元素
     for child in channel:
+        # 如果是 display-name 标签且需要修改
         if MODIFY_DISPLAY_NAME and child.tag == 'display-name' and child.text:
+            # 将 display-name 也替换为新 ID
             new_child = ET.Element(child.tag)
             new_child.text = new_id
             new_child.tail = child.tail
+            # 复制属性
             for key, value in child.attrib.items():
                 new_child.set(key, value)
             new_channel.append(new_child)
         else:
+            # 直接复制
             new_child = copy.deepcopy(child)
             new_channel.append(new_child)
     
+    # 复制文本和属性
     new_channel.text = channel.text
     new_channel.tail = channel.tail
     
+    # 复制除 id 外的其他属性
     for key, value in channel.attrib.items():
         if key != 'id':
             new_channel.set(key, value)
@@ -428,16 +424,29 @@ def apply_alias_to_channel(channel: ET.Element, old_id: str, new_id: str) -> ET.
     return new_channel
 
 
+# ==================== 应用别名映射到节目 ====================
 def apply_alias_to_programme(programme: ET.Element, new_channel_id: str) -> ET.Element:
-    """应用别名映射到节目元素"""
+    """
+    应用别名映射到节目元素（只修改 channel 属性）
+    
+    Args:
+        programme: 原始节目元素
+        new_channel_id: 新的频道ID
+        
+    Returns:
+        修改后的节目元素
+    """
     new_programme = ET.Element('programme')
     
+    # 复制所有子元素
     for child in programme:
         new_programme.append(copy.deepcopy(child))
     
+    # 复制文本和属性
     new_programme.text = programme.text
     new_programme.tail = programme.tail
     
+    # 复制所有属性，但修改 channel
     for key, value in programme.attrib.items():
         if key == 'channel':
             new_programme.set('channel', new_channel_id)
@@ -449,7 +458,25 @@ def apply_alias_to_programme(programme: ET.Element, new_channel_id: str) -> ET.E
 
 # ==================== 配置解析 ====================
 def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
-    """解析EPG源配置文件"""
+    """
+    解析EPG源配置文件，支持频道别名映射和时区设置
+    
+    文件格式示例：
+    timeframe=96  # 表示前后各48小时（总共96小时）
+    
+    https://epg.iill.top/epg.xml.gz
+    TimeZone=+0800
+    1	CCTV1
+    2	CCTV2
+    明珠台
+    
+    Returns:
+        (数据源字典, 时间范围)
+        时间范围表示总小时数（前后各一半）
+        source_info 包含:
+            - 'timezone': 指定的时区（可能为None，表示保持原时区）
+            - 'channels': 频道列表，每个元素为 (原ID, 新ID或None)
+    """
     try:
         with open(source_file, 'r', encoding='utf-8') as source:
             lines = source.readlines()
@@ -463,6 +490,7 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
             
             try:
                 total_hours = int(time_frame_string)
+                # 计算前后各多少小时
                 past_hours = total_hours // 2
                 future_hours = total_hours - past_hours
                 print(f'✓ 时间范围: 前后共 {total_hours} 小时')
@@ -476,6 +504,7 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
             
             print()
             
+            # 显示别名映射配置
             print(f'📝 别名映射配置:')
             print(f'   MODIFY_CHANNEL_ID: {MODIFY_CHANNEL_ID}')
             print(f'   MODIFY_DISPLAY_NAME: {MODIFY_DISPLAY_NAME}')
@@ -483,22 +512,24 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
             
             data_source: Dict[str, Dict] = {}
             current_source = ''
-            current_timezone = None
+            current_timezone = None  # 默认为None，表示保持原时区
             
             for line_num, line in enumerate(lines[1:], 2):
                 line = line.partition('#')[0].strip()
                 if not line:
                     continue
                 
+                # 判断是URL还是配置行或频道ID
                 if line.startswith(('http://', 'https://')):
                     current_source = line
-                    current_timezone = None
+                    current_timezone = None  # 重置为None（保持原时区）
                     if current_source not in data_source:
                         data_source[current_source] = {
-                            'timezone': None,
+                            'timezone': None,  # None表示保持原时区
                             'channels': []
                         }
                 elif current_source:
+                    # 检查是否是时区设置行
                     if line.lower().startswith('timezone='):
                         tz_str = line.split('=', 1)[1].strip()
                         current_timezone = parse_timezone(tz_str)
@@ -508,6 +539,7 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
                         else:
                             print(f'  ✓ 时区设置: {tz_str} → 北京时间，保持原样不转换')
                     
+                    # 检查是否包含Tab键（别名映射）
                     elif '\t' in line:
                         parts = line.split('\t')
                         if len(parts) >= 2:
@@ -517,10 +549,12 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
                                 data_source[current_source]['channels'].append((old_id, new_id))
                                 print(f'  ✓ 映射: "{old_id}" → "{new_id}"')
                     else:
+                        # 直接使用频道ID（无映射）
                         channel_id = line
                         if channel_id:
                             data_source[current_source]['channels'].append((channel_id, None))
             
+            # 验证是否有数据
             if not data_source:
                 print(f'✗ 错误: 配置文件中没有找到有效的EPG源')
                 sys.exit(1)
@@ -536,7 +570,7 @@ def parse_source(source_file: str) -> Tuple[Dict[str, Dict], int]:
 
 
 # ==================== 文件下载 ====================
-def download_file(url: str, path: str, save_source: bool = True) -> Optional[str]:
+def download_file(url: str, path: str) -> Optional[str]:
     """下载EPG文件，支持HTTP/HTTPS和Cloudflare绕过"""
     filename = os.path.basename(url.split('?')[0])
     if not filename:
@@ -584,16 +618,18 @@ def download_file(url: str, path: str, save_source: bool = True) -> Optional[str
                 response = requests.get(url, headers=headers, stream=True, timeout=DOWNLOAD_TIMEOUT, allow_redirects=True)
             
             if response.status_code == 200:
-                content = response.content
-                
-                if save_source:
-                    is_gz = url.endswith('.gz')
-                    save_source_epg(content, url, is_gz)
-                
                 with open(download_path, 'wb') as f:
-                    f.write(content)
+                    downloaded = 0
+                    if USE_CLOUDSCRAPER and HAS_CLOUDSCRAPER:
+                        f.write(response.content)
+                        downloaded = len(response.content)
+                    else:
+                        for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
+                            if chunk:
+                                f.write(chunk)
+                                downloaded += len(chunk)
                 
-                print(f'    ✓ 下载成功: {format_size(len(content))}')
+                print(f'    ✓ 下载成功: {format_size(downloaded)}')
                 return download_path
                 
             elif response.status_code == 403:
@@ -625,19 +661,32 @@ def process_epg_source(
     start_utc: datetime,
     total_hours: int
 ) -> None:
-    """处理EPG源文件，提取频道和节目信息"""
-    channels_to_process = source_info['channels']
-    specified_tz = source_info['timezone']
+    """
+    处理EPG源文件，提取频道和节目信息
     
+    时区处理规则：
+    1. 如果 source_info 中指定了 timezone 且不是+8时区，则将时间从该时区转换为北京时间
+    2. 如果指定了+8时区，保持原样不转换
+    3. 如果没有指定 timezone，则保持原XML中的时区不变
+    
+    别名映射规则：
+    根据 MODIFY_CHANNEL_ID 和 MODIFY_DISPLAY_NAME 配置决定是否修改
+    """
+    channels_to_process = source_info['channels']
+    specified_tz = source_info['timezone']  # 可能为None（表示保持原时区）
+    
+    # 计算时间范围边界
     past_hours = total_hours // 2
     future_hours = total_hours - past_hours
     
+    # 计算边界时间点
     start_boundary = start_utc - timedelta(hours=past_hours)
     end_boundary = start_utc + timedelta(hours=future_hours)
     
     print(f'    🕐 时间范围: {start_boundary.strftime("%Y-%m-%d %H:%M")} 到 {end_boundary.strftime("%Y-%m-%d %H:%M")} (UTC)')
     print(f'    📊 包含过去 {past_hours} 小时 + 未来 {future_hours} 小时')
     
+    # 处理gzip压缩文件
     if file_path.endswith('.gz'):
         dir_path = os.path.dirname(file_path)
         xml_file = os.path.join(dir_path, os.path.basename(file_path).replace('.gz', '.xml'))
@@ -653,6 +702,7 @@ def process_epg_source(
     else:
         xml_file = file_path
     
+    # 解析XML
     try:
         tree = ET.parse(xml_file)
     except ET.ParseError:
@@ -662,37 +712,46 @@ def process_epg_source(
         print(f'    ✗ 解析失败: {e}')
         return
     
+    # 创建原ID到新ID的映射
     id_mapping = {old_id: new_id for old_id, new_id in channels_to_process if new_id}
     target_ids = {old_id for old_id, _ in channels_to_process}
     
+    # 提取频道（去重并应用别名）
     channels_found = 0
     for channel in tree.findall('channel'):
         original_id = channel.attrib.get('id', '')
         if original_id in target_ids:
+            # 确定最终使用的频道ID
             if MODIFY_CHANNEL_ID and original_id in id_mapping:
                 final_id = id_mapping[original_id]
             else:
                 final_id = original_id
             
+            # 如果最终ID不在字典中，添加
             if final_id not in channel_dict:
                 if MODIFY_CHANNEL_ID and original_id in id_mapping:
+                    # 应用别名映射
                     new_channel = apply_alias_to_channel(channel, original_id, final_id)
                     channel_dict[final_id] = new_channel
                     channels_found += 1
                     if original_id != final_id:
                         print(f'    📝 频道重命名: "{original_id}" → "{final_id}"')
                 else:
+                    # 不修改，直接复制
                     new_channel = copy.deepcopy(channel)
                     channel_dict[final_id] = new_channel
                     channels_found += 1
     
+    # 显示时区处理方式
     if specified_tz is not None:
         print(f'    🕐 时区转换: 指定时区 {specified_tz} → 北京时间 (+8)')
     else:
         print(f'    🕐 时区处理: 未指定时区，保持原XML时区不变')
     
+    # 显示别名映射配置
     print(f'    📝 别名映射: 修改ID={MODIFY_CHANNEL_ID}, 修改DisplayName={MODIFY_DISPLAY_NAME}')
     
+    # 提取节目
     programs_found = 0
     programs_total = 0
     
@@ -701,33 +760,44 @@ def process_epg_source(
         if original_channel in target_ids:
             programs_total += 1
             
+            # 确定最终使用的频道ID
             if MODIFY_CHANNEL_ID and original_channel in id_mapping:
                 final_channel = id_mapping[original_channel]
             else:
                 final_channel = original_channel
             
+            # 获取原始时间
             original_start = programme.attrib.get('start', '')
             original_stop = programme.attrib.get('stop', '')
             
+            # 确定源时区和最终时间
             if specified_tz is not None:
+                # 指定了时区，使用指定的时区
                 source_tz = specified_tz
+                # 转换为北京时间
                 final_start = convert_timezone(original_start, source_tz, BEIJING_TZ)
                 final_stop = convert_timezone(original_stop, source_tz, BEIJING_TZ)
+                # 用于过滤的UTC时间
                 filter_start = convert_date_for_filter(original_start, source_tz)
                 filter_stop = convert_date_for_filter(original_stop, source_tz)
             else:
+                # 未指定时区，保持原样
                 final_start = original_start
                 final_stop = original_stop
+                # 从时间字符串中提取时区用于过滤
                 source_tz_from_str = extract_timezone_from_time_str(original_start)
                 filter_start = convert_date_for_filter(original_start, source_tz_from_str)
                 filter_stop = convert_date_for_filter(original_stop, source_tz_from_str)
             
             if filter_start and filter_stop:
+                # 检查是否在时间范围内（包含过去和未来）
                 if filter_start < end_boundary and filter_stop > start_boundary:
                     key = (final_channel, final_start)
                     if key not in program_dict:
+                        # 创建节目副本，修改channel属性
                         new_programme = apply_alias_to_programme(programme, final_channel)
                         
+                        # 修改时间属性
                         for key_attr, value in new_programme.attrib.items():
                             if key_attr == 'start':
                                 new_programme.set('start', final_start)
@@ -737,10 +807,12 @@ def process_epg_source(
                         program_dict[key] = new_programme
                         programs_found += 1
             else:
+                # 时间格式异常，仍然添加
                 key = (final_channel, final_start)
                 if key not in program_dict:
                     new_programme = apply_alias_to_programme(programme, final_channel)
                     
+                    # 修改时间属性
                     for key_attr, value in new_programme.attrib.items():
                         if key_attr == 'start':
                             new_programme.set('start', final_start)
@@ -750,6 +822,7 @@ def process_epg_source(
                     program_dict[key] = new_programme
                     programs_found += 1
     
+    # 输出统计
     found_ids = set()
     for old_id, _ in channels_to_process:
         if MODIFY_CHANNEL_ID and old_id in id_mapping:
@@ -781,6 +854,7 @@ def main() -> None:
     print(f'当前时间: {start_utc.strftime("%Y-%m-%d %H:%M:%S")} (UTC)')
     print()
     
+    # 显示库状态
     if HAS_CLOUDSCRAPER:
         print('✓ 已加载cloudscraper库，支持绕过Cloudflare保护')
     else:
@@ -795,9 +869,9 @@ def main() -> None:
     print('✓ +8时区（北京时间）将被识别并保持原样不转换')
     print('✓ 支持前后双向时间范围（包含过去和未来的节目）')
     print(f'✓ 别名映射: 修改ID={MODIFY_CHANNEL_ID}, 修改DisplayName={MODIFY_DISPLAY_NAME}')
-    print(f'✓ 源文件保存: 合并前的EPG文件将保存到 {SAVE_SOURCE_DIR} 目录（每次运行前清空）')
     print()
     
+    # 解析配置
     print('📖 读取配置文件...')
     sources, total_hours = parse_source(SOURCE_FILE)
     
@@ -809,6 +883,7 @@ def main() -> None:
     print(f'  (过去 {past_hours} 小时 → 未来 {future_hours} 小时)')
     print()
     
+    # 打印源信息
     for url, info in sources.items():
         print(f'  - {url}')
         if info['timezone'] is not None:
@@ -821,22 +896,12 @@ def main() -> None:
             print(f'    别名映射: {mapping_count} 个')
     print()
     
+    # 准备临时目录
     temp_dir = os.path.relpath(TEMP_DIR_NAME)
     os.makedirs(temp_dir, exist_ok=True)
     
-    # 清空 Temp 目录（保存源EPG文件的目录），但保留 .gitkeep
-    print(f'🧹 清空源文件目录 {SAVE_SOURCE_DIR}...')
-    clean_directory(SAVE_SOURCE_DIR)
-    # 确保 .gitkeep 文件存在
-    gitkeep_path = os.path.join(SAVE_SOURCE_DIR, '.gitkeep')
-    if not os.path.exists(gitkeep_path):
-        with open(gitkeep_path, 'w') as f:
-            f.write('# This file keeps the directory in git\n')
-    print('✓ 清空完成')
-    print()
-    
     # 清理临时目录
-    print(f'🧹 清理临时目录 {temp_dir}...')
+    print('🧹 清理临时目录...')
     for temp_file in os.listdir(temp_dir):
         try:
             os.remove(os.path.join(temp_dir, temp_file))
@@ -845,6 +910,7 @@ def main() -> None:
     print('✓ 清理完成')
     print()
     
+    # 处理EPG源
     channel_dict: Dict[str, ET.Element] = {}
     program_dict: Dict[Tuple[str, str], ET.Element] = {}
     success_count = 0
@@ -854,6 +920,7 @@ def main() -> None:
         print(f'📡 源 {idx}/{len(sources)}: {source_url}')
         print(f'   请求频道: {len(source_info["channels"])} 个')
         
+        # 过滤已找到的频道
         channels_to_find = []
         for old_id, new_id in source_info['channels']:
             if MODIFY_CHANNEL_ID and new_id:
@@ -870,9 +937,12 @@ def main() -> None:
         
         print(f'   需要查找: {len(channels_to_find)} 个')
         
-        file_path = download_file(source_url, temp_dir, save_source=True)
+        # 下载文件
+        file_path = download_file(source_url, temp_dir)
         
+        # 处理文件
         if file_path:
+            # 创建源信息副本，只包含需要查找的频道
             source_info_filtered = {
                 'timezone': source_info['timezone'],
                 'channels': channels_to_find
@@ -889,20 +959,24 @@ def main() -> None:
         
         print()
     
+    # 检查是否有成功处理的源
     if success_count == 0:
         print('✗ 错误: 所有EPG源都下载失败！')
         sys.exit(1)
     
+    # 生成最终XML
     print_separator('=')
     print('📝 生成最终XML文件...')
     
     root = ET.Element('tv')
     
+    # 添加生成信息
     comment = ET.Comment(f' Generated by Guide Merger on {start_beijing.strftime("%Y-%m-%d %H:%M:%S")} Beijing Time ')
     root.append(comment)
     time_comment = ET.Comment(f' Time range: past {past_hours}h + future {future_hours}h (total {total_hours}h) ')
     root.append(time_comment)
     
+    # 使用智能排序（按display-name）
     print('🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...')
     channels_sorted = sort_channels_by_display(list(channel_dict.values()))
     programmes_sorted = sort_programmes_by_display(list(program_dict.values()), channel_dict)
@@ -912,6 +986,7 @@ def main() -> None:
     for program in programmes_sorted:
         root.append(program)
     
+    # 写入XML文件
     tree = ET.ElementTree(root)
     ET.indent(tree, space='    ', level=0)
     tree.write(OUTPUT_XML, encoding='UTF-8', xml_declaration=True)
@@ -922,6 +997,7 @@ def main() -> None:
     print(f'  频道数: {len(channels_sorted)}')
     print(f'  节目数: {len(programmes_sorted)}')
     
+    # 显示排序示例
     if channels_sorted:
         print(f'\n📺 频道排序示例（前10个）:')
         for i, channel in enumerate(channels_sorted[:10], 1):
@@ -931,6 +1007,7 @@ def main() -> None:
     
     print()
     
+    # 压缩为GZIP文件
     print(f'🗜️ 压缩为GZIP格式...')
     if compress_gzip(OUTPUT_XML, OUTPUT_GZ):
         gz_size = os.path.getsize(OUTPUT_GZ)
@@ -941,7 +1018,8 @@ def main() -> None:
     
     print()
     
-    print(f'🧹 清理临时文件 {temp_dir}...')
+    # 清理临时文件
+    print('🧹 清理临时文件...')
     for temp_file in os.listdir(temp_dir):
         try:
             os.remove(os.path.join(temp_dir, temp_file))
@@ -950,6 +1028,7 @@ def main() -> None:
     print('✓ 清理完成')
     print()
     
+    # 结束时间
     end_utc = datetime.now(UTC)
     end_beijing = end_utc.astimezone(BEIJING_TZ)
     duration = (end_utc - start_utc).total_seconds()
@@ -960,10 +1039,10 @@ def main() -> None:
     print(f'结束时间: {end_beijing.strftime("%Y-%m-%d %H:%M:%S")} (北京时间)')
     print(f'总耗时: {duration:.2f} 秒')
     print(f'成功处理: {success_count}/{len(sources)} 个源')
+    # 新增：显示成功处理的频道数和节目数
     print(f'成功处理: {len(channels_sorted)} 个频道，{len(programmes_sorted)} 条节目')
     print(f'输出文件: {OUTPUT_XML} 和 {OUTPUT_GZ}')
     print(f'时间范围: 过去 {past_hours} 小时 + 未来 {future_hours} 小时')
-    print(f'源文件目录: {SAVE_SOURCE_DIR}')
     print_separator('=')
 
 

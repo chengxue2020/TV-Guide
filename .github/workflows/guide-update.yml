@@ -1,25 +1,21 @@
 name: Guide Update
 
 on:
-  # 当推送到仓库时触发
+  # 添加 push 触发
   push:
-    # 排除 guide.xml 和 guide.xml.gz 的变更触发，避免无限循环
+  #排除 guide.xml 和 guide.xml.gz 触发
     paths-ignore:
       - 'guide.xml'
       - 'guide.xml.gz'
-  # 定时任务：每天 0:40, 8:40, 16:40 运行（UTC时间）
-  # 北京时间 = UTC+8，对应 8:40, 16:40, 0:40（次日）
   schedule:
+    # 每天 0:40, 8:40, 16:40 运行（UTC时间）
+    # 北京时间 = UTC+8，对应 8:40, 16:40, 0:40（次日）
     - cron: '40 0,8,16 * * *'
-  # 允许手动触发
-  workflow_dispatch:
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   update-guide:
     runs-on: ubuntu-latest
-    
-    env:
-      TZ: 'Asia/Shanghai'  # 设置时区为北京时间
     
     permissions:
       contents: write
@@ -45,28 +41,6 @@ jobs:
       run: |
         python guide_merger.py
     
-    - name: List files for debugging
-      run: |
-        echo "=== 当前目录 ==="
-        ls -la
-        echo "=== Temp 目录 ==="
-        if [ -d "Temp" ]; then
-          ls -la Temp/
-        else
-          echo "Temp 目录不存在"
-        fi
-        echo "=== temp_epg_files 目录 ==="
-        if [ -d "temp_epg_files" ]; then
-          ls -la temp_epg_files/
-        else
-          echo "temp_epg_files 目录不存在"
-        fi
-    
-    - name: Ensure directories exist
-      run: |
-        mkdir -p Temp
-        mkdir -p temp_epg_files
-    
     - name: Check for changes
       id: check_changes
       run: |
@@ -84,14 +58,8 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '65702849+github-actions[bot]@users.noreply.github.com'
-        # 添加所有变更文件
-        git add guide.xml guide.xml.gz Temp/ temp_epg_files/ .gitkeep 2>/dev/null || true
-        # 强制添加 Temp 目录（如果存在）
-        if [ -d "Temp" ]; then
-          git add Temp/ --force
-        fi
-        if [ -d "temp_epg_files" ]; then
-          git add temp_epg_files/ --force
-        fi
+        git add guide.xml guide.xml.gz
+        # 设置时区为北京时间（Asia/Shanghai）
+        export TZ='Asia/Shanghai'
         git commit -m "Auto update Guide data - $(date '+%Y-%m-%d %H:%M:%S')"
         git push origin HEAD:${GITHUB_REF#refs/heads/}
