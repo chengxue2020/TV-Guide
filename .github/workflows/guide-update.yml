@@ -1,13 +1,13 @@
 name: Guide Update
 
 on:
-  # 添加 push 触发
+  schedule:
+    # 添加 push 触发
   push:
   #排除 guide.xml 和 guide.xml.gz 触发
     paths-ignore:
       - 'guide.xml'
       - 'guide.xml.gz'
-  schedule:
     # 每天 0:40, 8:40, 16:40 运行（UTC时间）
     # 北京时间 = UTC+8，对应 8:40, 16:40, 0:40（次日）
     - cron: '40 0,8,16 * * *'
@@ -16,6 +16,9 @@ on:
 jobs:
   update-guide:
     runs-on: ubuntu-latest
+    
+    env:
+      TZ: 'Asia/Shanghai'  # 设置时区为北京时间
     
     permissions:
       contents: write
@@ -41,6 +44,23 @@ jobs:
       run: |
         python guide_merger.py
     
+    - name: List files for debugging
+      run: |
+        echo "=== 当前目录 ==="
+        ls -la
+        echo "=== Temp 目录 ==="
+        if [ -d "Temp" ]; then
+          ls -la Temp/
+        else
+          echo "Temp 目录不存在"
+        fi
+        echo "=== temp_epg_files 目录 ==="
+        if [ -d "temp_epg_files" ]; then
+          ls -la temp_epg_files/
+        else
+          echo "temp_epg_files 目录不存在"
+        fi
+    
     - name: Check for changes
       id: check_changes
       run: |
@@ -58,8 +78,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '65702849+github-actions[bot]@users.noreply.github.com'
-        git add guide.xml guide.xml.gz
-        # 设置时区为北京时间（Asia/Shanghai）
-        export TZ='Asia/Shanghai'
+        # 添加所有变更文件
+        git add guide.xml guide.xml.gz Temp/ temp_epg_files/ 2>/dev/null || true
         git commit -m "Auto update Guide data - $(date '+%Y-%m-%d %H:%M:%S')"
         git push origin HEAD:${GITHUB_REF#refs/heads/}
