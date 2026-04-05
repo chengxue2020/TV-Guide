@@ -1053,7 +1053,7 @@ TVBS台剧台	TVBS-台剧台
 TVBS新闻	TVBS-新闻
 TVBS新闻HD	TVBS-新闻HD
 TVBS新闻台	TVBS-新闻台(swepg)
-TVBS亚洲新加坡	TVBS-亚洲新加坡
+TVBS亚洲新加坡	TVBS-亚洲_新加坡_英
 TVBS综艺台	TVBS-综艺台
 TVB翡翠剧集台(TVB Drama)	TVB-翡翠剧集台(TVB Drama)
 翡翠台	TVB-翡翠台
@@ -2413,9 +2413,9 @@ https://epg.pw/xmltv/epg_MY.xml
 370131	TV6
 902	TV9
 3895	TVB Classic HD(MY)
-3920	TVB Entertainment News HD
-2524	TVB Jade
-3493	TVB Xing He HD
+3920	TVB-娱乐新闻 HD
+2524	TVB-翡翠(英)
+3493	TVB-星河 HD
 3509	TVBS Asia HD
 2323	tvN HD(MY)
 2726	tvN Movies HD
@@ -2664,20 +2664,20 @@ https://epg.pw/xmltv/epg_SG.xml
 369737	TRACE Sports Stars HD(新加坡)
 412120	Travelxp HD(新加坡)
 412183	TV5MONDE HD(新加坡)
-369805	TVB Jade (HD)(新加坡)
-412135	TVB Jade HD(新加坡)
-412106	TVB Xing He(新加坡)
-369796	TVB Xing He (HD)(新加坡)
-491163	TVBS Asia(新加坡)
-412149	TVBS-NEWS(英)(新加坡)
-492453	TVBS-NEWS(中)(新加坡)
+369805	TVB-翡翠_新加坡_中
+412135	TVB-翡翠_新加坡_英
+412106	TVB-星河_新加坡
+369796	TVB-星河_新加坡(HD)
+491163	TVBS Asia_新加坡_中
+412149	TVBS-NEWS_新加坡_英
+492453	TVBS-NEWS_新加坡_中
 535512	tvN HD(新加坡)
 369754	tvN HD (Malay)(新加坡)
 369818	tvN HD(中)(新加坡)
 535582	tvN Movies On Demand(新加坡)
 412097	Vannathirai(新加坡)
-492817	Vasantham(新加坡)
-513278	Vasantham (HD)(新加坡)
+492817	Channel Vasantham_新加坡_英
+513278	Channel Vasantham_新加坡_英HD
 522554	Vijay(新加坡)
 530390	Vijay Takkar(新加坡)
 412141	Vijay TV HD(新加坡)
