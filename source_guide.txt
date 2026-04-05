@@ -4,7 +4,8 @@ https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
 CCTV-1 综合	CCTV1
 CCTV-2 财经	CCTV2
 CCTV-3 综艺	CCTV3
-CCTV-4 中文国际美洲	CCTV4AME
+CCTV-3 综艺	CCTV3
+CCTV-4 中文国际	CCTV4
 CCTV-4 中文国际欧洲	CCTV4EUO
 CCTV-5 体育	CCTV5
 CCTV-5+ 体育赛事	CCTV5+
@@ -270,7 +271,7 @@ cctv17	CCTV-17(swepg)
 CCTV-1香港
 cctv2	CCTV-2(swepg)
 cctv3	CCTV-3(swepg)
- CCCTV4	CCTV-4(swepg)
+CCCTV4	CCTV-4(swepg)
 CCTV-4	CCTV-4(英)
 cctv4k	CCTV4K
 CCTV4美洲	CCTV-4美洲
@@ -333,11 +334,9 @@ Asianet Movies
 AsianFoodNetwork亚洲美食频道
 ASMR行车纪录
 Astro_AEC	Astro AEC
-Astro_AOD	Astro AOD
 Astro_Arena	Astro Arena
 Astro_Arena_2	Astro Arena 2
 Astro_Aura	Astro Aura
-Astro_Awani_HD	Astro Awani HD(swepg)
 Astro_Badminton	Astro Badminton(swepg)
 Astro_Boo	Astro Boo
 Astro_Ceria	Astro Ceria
@@ -348,13 +347,13 @@ Astro_First_HD	Astro First HD(swepg)
 Astro_Football	Astro Football(swepg)
 Astro_Golf	Astro Golf
 Astro_Grandstand	Astro Grandstand(swepg)
-Astro_Hua_Hee_Dai	Astro Hua Hee Dai
+Astro_Hua_Hee_Dai	Astro-欢喜台(英)
 Astro_Oasis	Astro Oasis
 Astro_Premier_League	Astro Premier League(swepg)
 Astro_Premier_League_2	Astro Premier League 2(swepg)
 Astro_Premier_League_3	Astro Premier League 3
 Astro_Prima	Astro Prima
-Astro_QJ	Astro 全佳(swepg)
+Astro_QJ	Astro 全佳(英)
 Astro_Rania	Astro Rania
 Astro_Ria	Astro Ria
 Astro Sensasi HD
@@ -698,7 +697,7 @@ Indosiar HD
 iNews
 iNews HD
 INULTRA
-iQIYI_HD	Astro iQIYI
+iQIYI_HD	Astro iQIYI(英)
 JAKTV
 JAZZ	JAZZ(swepg)
 JET TV
@@ -888,7 +887,6 @@ now体育
 now体育4k
 now新闻
 now直播 	now直播
-NTV7	NTV7(swepg)
 ONE
 ONE (Malay)
 ONE HD	ONE HD(swepg)
@@ -1030,17 +1028,12 @@ Trans TV
 Travel Channel HD
 TravelChannel	Travel Channel
 Travelxp HD
-TV_Okey_HD	TV Okey HD
 TV_Sarawak	TV Sarawak
-TV1_HD	TV1 HD(swepg)
-TV2_HD	TV2 HD(swepg)
-TV3	TV3(swepg)
 TV5MONDE	TV5MONDE(swepg)
 TV5MONDE ASIE
 TV5MONDE Style
 TV5MONDE STYLE HD 生活时尚
-TV5Monde 法国电视台
-TV9	TV9(swepg)
+TV5Monde 法国TV5
 TVB_Classic_HD	TVB 经典Classic HD(英)
 TVB_Entertainment_News_HD	TVB-娱乐新闻(英)
 TVB_Jade	TVB-Jade
@@ -2290,12 +2283,12 @@ https://epg.pw/xmltv/epg_MY.xml
 519423	Astro First HD
 397399	Astro Football
 397403	Astro Grandstand
-1951	Astro Hua Hee Dai HD
+1951	Astro-欢喜台 HD(英)
 3145	Astro Oasis HD
 397396	Astro Premier League
 397397	Astro Premier League 2
 3158	Astro Prima HD(MY)
-399519	Astro QJ
+399519	Astro 全佳(英2)
 1781	Astro Quan Jia HD
 3784	Astro Rania HD
 2384	Astro Ria HD(MY)
@@ -2383,7 +2376,7 @@ https://epg.pw/xmltv/epg_MY.xml
 3600	Nick Jr.(MY)
 3385	Nickelodeon HD
 1029	NTV7
-370134	Okey
+370134	Okey TV
 1242	ONE HD(MY)
 493	OPUS
 733	OSAI
@@ -2414,9 +2407,7 @@ https://epg.pw/xmltv/epg_MY.xml
 848	THR RAAGA
 3234	TLC HD
 411308	TRAXXfm
-370136	TV1
 3683	TV1 HD
-370135	TV2
 3711	TV2 HD
 1072	TV3
 370131	TV6
