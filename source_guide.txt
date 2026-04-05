@@ -2236,7 +2236,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 
 
 https://epg.pw/xmltv/epg_MY.xml
-TimeZone=+0000
+ChangeTimezone=Y
 1122	8TV(MY)
 4130	ABC Australia HD(MY)
 2181	ABO Movies Thangathirai HD
