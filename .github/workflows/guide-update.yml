@@ -3,10 +3,10 @@ name: Guide Update
 on:
   # 添加 push 触发
   push:
-  #排除 guide.xml 和 guide.xml.gz 触发
     paths-ignore:
       - 'guide.xml'
       - 'guide.xml.gz'
+      - 'log.txt'
   schedule:
     # 每天 0:40, 8:40, 16:40 运行（UTC时间）
     # 北京时间 = UTC+8，对应 8:40, 16:40, 0:40（次日）
@@ -37,9 +37,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests pypinyin cloudscraper
     
-    - name: Run Guide merger
+    - name: Run Guide merger and save log
       run: |
-        python guide_merger.py
+        # 清空或创建 log.txt 文件，并将脚本输出重定向到 log.txt
+        python guide_merger.py 2>&1 | tee log.txt
+      shell: bash
     
     - name: Check for changes
       id: check_changes
@@ -58,7 +60,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '65702849+github-actions[bot]@users.noreply.github.com'
-        git add guide.xml guide.xml.gz
+        git add guide.xml guide.xml.gz log.txt
         # 设置时区为北京时间（Asia/Shanghai）
         export TZ='Asia/Shanghai'
         git commit -m "Auto update Guide data - $(date '+%Y-%m-%d %H:%M:%S')"
