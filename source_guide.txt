@@ -3304,7 +3304,7 @@ Now Sports 精選
 
 
 #http://e.erw.cc/e.xml.gz
-3	CCTV-3文艺
+#3	CCTV-3文艺
 
 
 https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
@@ -3362,7 +3362,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 65cb73d33ba51e00084cabad	Star Trek: Voyager
 67ed14aaf7c5d70b9089c3bf	Pluto TV Serie Sci-Fi
 61728bb9ee3773000840c1fa	Pluto TV Sci-Fi
-60802d37ee238e0007c94e64	Andromeda
 63eb57d6c111bc0008fe2658	Sanctuary
 66d9ab4bf0f17500084e9b7e	Pluto TV True Crime
 64ec5cf50f73a800081310a5	Forensic Files
@@ -3384,14 +3383,11 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 6616a51124e1d00008761a7e	Triton Poker
 608030eff4b6f70007e1684c	Pluto TV Sport
 679203d4bc03978b9b4b79a6	UFC
-671655b2daad7f00085d202d	MODUS Super Series Darts
 62bc1f502b70e3000706298e	South Park
-6602acadb2abe500081cf28a	I soliti idioti
 609404b0a8ec810007d8de9d	Pluto TV Scherzi e risate
-608014d19a26320007c92ab6	FailArmy
+608014d19a26320007c92ab6	Fail Army
 6093f48c95132a00075fd859	Just for Laughs GAGS
 65d7211d0d45610008ffcf92	LOL Just For Laughs
-68adb5853efb41cd97ce413d	I Puffi
 6093f9281db477000759fce0	Super! SpongeBob
 6093f6f8351eb0000754afb8	Super! Cartoni Animati
 67f4f99729b03f18cb36647e	Super! Kids Classics
@@ -3420,41 +3416,12 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 
 
 https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
-western-e-peplum	Western E Peplum
-dark-matter-it-new	Dark Matter It New
-cg-cinema-d-autore	Cg Cinema D Autore
-brividy-cinema-ita	Brividy Cinema (It)
-grjngo-it	Grjngo (It)
-risate-all-italiana	Risate All itAliana
-crime-rakuten-tv	Crime Rakuten TV
-alarm-for-cobra-rakuten-tv	Alarm For Cobra Rakuten TV
 filmrise-sci-fi-it	Filmrise Sci Fi (It)
 filmrise-relic-hunter-ita	Filmrise Relic Hunter (It)A
 serially-crime-ita	Serially Crime (It)A
-andromeda-it	Andromeda (It)
-soap-latino-it	Soap Latino (It)
-soap-turco-it	Soap Turco (It)
-risate-dal-sud-ita	Risate Dal Sud (It)
-bbc-series-it	Bbc Series (It)
-filmrise-highway-to-heaven-it	Filmrise Highway To Heaven (It)
-rakuten-viki-new	Rakuten Viki New
-bbc-top-gear-it	Bbc Top Gear (It)
-inazuma-eleven-go	Inazuma Eleven Go
-inuyasha	Inuyasha
-yu-gi-oh-new-ita	Yu Gi Oh New (It)
-mr-bean-it	Mr Bean (It)
 mr-bean-live-action	Mr Bean Live Action
-zdf-guardia-costiera	Zdf Guardia Costiera
-zdf-squadra-speciale-lipsia	Zdf Squadra Speciale Lipsia
 the-pet-collective-new	The Pet Collective New
 people-are-awesome-new	People Are Awesome New
-jukin-fail-army-new	Jukin Fail Army New
-top-barca-eng	Top Barca Eng
-fifa-plus-it-new	Fifa Plus (It) New
-inter-24-7-ita	Inter 24 7 (It)A
-juventus-play	Juventus Play
-rally-tv-fast	Rally TV Fast
-fuel-tv-new	Fuel TV New
 billiards-tv	Billiards TV
 hard-knocks-fighting-championship	Hard Knocks Fighting Championship
 glory-kickboxing	Glory Kickboxing
@@ -3469,24 +3436,12 @@ tennis-plus	Tennis Plus
 fashion-tv	Fashion TV
 beauty-channel	Beauty Channel
 the-design-network-new	The Design Network New
-per-caso-tv	Per Caso TV
-brindiamo	Brindiamo
 travelxp-eng	Travelxp Eng
-med-tv	Med TV
-stingray-naturescape	Stingray Naturescape
-class-tv-moda	Class TV Moda
 daystar-spa	Daystar Spa
 daystar-eng	Daystar Eng
 gusto-tv-new	Gusto TV New
-gambero-rosso	Gambero Rosso
-metal-rocks	Metal Rocks
-qwest-tv	Qwest TV
 radio-italia-live	Radio Italia Live
-stingray-greatest-hits	Stingray Greatest Hits
-stingray-hit-list	Stingray Hit List
-stingray-remember-the-80-s	Stingray Remember The 80 S
-qello-concerts-by-stingray	Qello Concerts By Stingray
-deluxe-lounge-hd	Deluxe Lounge Hd
+deluxe-lounge-hd	Deluxe Lounge HD
 that-s-70s	That S 70S
 that-s-80s	That S 80S
 that-s-rock	That S Rock
@@ -3496,22 +3451,18 @@ that-s-90s00s	That S 90S00S
 family-rakuten-tv	Family Rakuten TV
 baby-shark-tv	Baby Shark TV
 car-city-adventures-it	Car City Adventures (It)
-planeta-junior-ita	Planeta Junior (It)A
+planeta-junior-ita	Planeta Junior (It)
 hell-s-kitchen-it-itv	Hell S Kitchen (It) Itv
 filmrise-forensic-files-ita	Filmrise Forensic Files (It)
 weather-spy-new	Weather Spy New
 nature-time-ita	Nature Time (It)
 wedo-big-stories-ita	Wedo Big Stories (It)
-mayday-air-disaster-channel-ita	Mayday Air Disaster Channel (It)
-80-anni	80 Anni
-euronews-live-ita	Euronews Live (It)A
-the-reuters-60	The Reuters 60
-il-sole-24-ore-tv	Il Sole 24 Ore TV
+uronews-live-ita	Euronews Live (It)
 urania-news	Urania News
-class-cnbc	Class Cnbc
+class-cnbc	Class CNBC
 bloomberg-originals-new	Bloomberg Originals New
 bloomberg-tv-plus	Bloomberg TV Plus
-africanews-eng	Africanews Eng
+africanews-eng	Africanews English
 cgtn	CGTN(英)
 newsworld-ita	Newsworld (It)
 france-24-en	France 24 English(A)
