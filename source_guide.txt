@@ -312,11 +312,10 @@ Animax香港
 ANTV
 Arirang
 Arirang TV HD	Arirang TV(swepg)
-Asian_Food_Network_HD	Asian Food Network HD(swepg)
-Asian Food Network 亚洲美食频道
+Asian Food Network 亚洲美食频道	Asian Food Network(MY 中)
 Asianet
 Asianet Movies
-AsianFoodNetwork亚洲美食频道
+AsianFoodNetwork亚洲美食频道	Asian Food Network(MY 中2)
 ASMR行车纪录
 Astro_AEC	Astro AEC
 Astro_Arena_2	Astro Arena 2
@@ -326,7 +325,6 @@ Astro Cricket
 Astro_FAM_Time	Astro FAM Time(swepg)
 Astro_First_HD	Astro First HD(swepg)
 Astro_Golf	Astro Golf
-Astro_Hua_Hee_Dai	Astro-欢喜台(英)
 Astro_Oasis	Astro Oasis
 Astro_Premier_League_3	Astro Premier League 3
 Astro_Prima	Astro Prima
@@ -417,8 +415,7 @@ CBeebies香港
 CCM	天映经典电影_印尼
 Celebrities TV
 Celestial_Classic_Movies	天映经典电影_英(swepg)
-Celestial Movies	天映电影3
-Celestial_Movies_HD	天映电影3 HD
+Celestial Movies	天映电影(英)
 CGTN	CGTN(swepg1)
 CGTN (中国环球电视网)记录频道 (免费)	CGTN-英文纪录(swepg1)
 CGTN (中国环球电视网)英语频道 (免费)	CGTN(swepg2)
@@ -455,6 +452,7 @@ CMC 北美频道
 CMC 香港频道
 cmplus新加坡
 CMusic
+PopC
 CNA
 CNA_HD	CNA HD(swepg)
 CNBC
@@ -620,9 +618,9 @@ HBO Hits香港
 HBO Signature 原创巨献
 HBO Signature香港
 HBO香港
-HGTV_HD	HGTV HD
-HGTV HD新加坡
-HGTV居家乐活频道
+HGTV_HD	HGTV HD(英)
+HGTV HD新加坡	HGTV HD新加坡(英)
+HGTV居家乐活频道	HGTV居家乐活频道(中)
 History	History(swepg)
 History_HD	History HD
 HISTORY HD新加坡
@@ -878,7 +876,6 @@ Pandora潘朵啦高画质粉红台
 Pandora潘朵啦高画质玩美台
 PET CLUB TV HD	PET CLUB TV宠物频道
 PETCLUBTV
-PopC
 Premier_Sports	Premier Sports
 RCTI
 RCTI HD
@@ -890,8 +887,7 @@ Rock_Action	Rock Action(英)
 ROCK Action HD
 ROCK ACTION 摇滚电影
 ROCK Entertainme
-ROCK ENTERTAINMENT	ROCK ENTERTAINMENT(中1)
-ROCK Entertainment	ROCK Entertainment(中)
+ROCK ENTERTAINMENT	ROCK Entertainment(中)
 Rock Entertainment
 ROCK Entertainment HD新加坡
 ROCK Entertainment香港
@@ -987,9 +983,9 @@ Thrill
 TLC_HD	TLC HDTHR GEGAR
 TLC 旅游生活频道
 TLC旅游生活频道香港
-TRACE Sport Stars (免费)	TRACE Sport Stars(swepg1)
+TRACE Sport Stars (免费)	TRACE Sport Stars(英1)
 TRACE Sport Stars	TRACE Sport Stars(swepg2)
-TRACE Sport Stars HD
+TRACE Sport Stars HD	TRACE Sport Stars(中)
 trace sport star运动明星
 TRACE Urban (免费)	TRACE Urban(英)
 TRACE Urban	TRACE Urban(中)
@@ -1007,11 +1003,10 @@ TV5MONDE STYLE HD 生活时尚
 TV5Monde 法国TV5
 TVB_Classic_HD	TVB 经典Classic HD(英)
 TVB_Entertainment_News_HD	TVB-娱乐新闻(英)
-TVB_Jade	TVB-翡翠台(英)
+TVB_Jade	TVB-翡翠台(马来 英)
 TVB Plus (免费)	TVB Plus
 TVB_Xing_He_HD	TVB-星河(英)
 TVBS	TVBS(swepg)
-TVBS_Asia_HD	TVBS Asia(英)
 TVBS HD
 TVBS 新闻台	TVBS-新闻台
 TVBS欢乐HD	TVBS-欢乐HD
@@ -1027,7 +1022,7 @@ TVBS新闻台	TVBS-新闻台(swepg)
 TVBS亚洲新加坡	TVBS-亚洲_新加坡_英
 TVBS综艺台	TVBS-综艺台
 TVB翡翠剧集台(TVB Drama)	TVB-翡翠剧集台(TVB Drama)
-翡翠台	TVB-翡翠台
+翡翠台	TVB-翡翠台(香港 中)
 TVB翡翠娱乐台(TVBe)	TVB-翡翠娱乐台(TVBe)
 TVB翡翠综合台(TVBJ1)	TVB-翡翠综合台(TVBJ1)
 TVB功夫台	TVB-功夫台
@@ -1826,7 +1821,6 @@ CHC 家庭影院	CHC家庭影院
 亚洲旅游HD
 亚洲旅游台	亚洲旅游台(swepg)
 亚洲旅游台有线
-亚洲美食频道	亚洲美食频道(swepg)
 亚洲美食台香港
 亚洲卫视
 亚洲新闻台
@@ -1844,15 +1838,10 @@ CHC 家庭影院	CHC家庭影院
 英超1台
 英超2台
 影迷数位电影台
-影迷数位电影台HD
 影迷数位纪实台
-影迷数位纪实台HD
-拥有超常技能的异世界流浪美食家
 优漫卡通频道
 游戏风云
-有你的时光里
-娱乐新闻
-娱乐新闻台 (免费)	娱乐新闻台
+娱乐新闻台 (免费)	TVB-娱乐新闻台(中)
 原住民族电视HD
 原住民族电视台
 原住民族频道
@@ -2075,7 +2064,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1541	信大频道
 1559	幸福空间居家台
 1592	亚洲旅游台
-1589	亚洲美食频道
+1589	Asian Food Network
 1818	亚洲综合
 222	壹电视综合台
 1457	原住民频道
@@ -2093,7 +2082,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1561	BloombergTV
 1577	BlueAntEntertainment
 1828	CatchPlay电影
-1607	CBeebies
+1607	CBeebies(中)
 296	CGTN Documentary
 1560	Channel News Asia
 1803	CI
@@ -2170,7 +2159,7 @@ ChangeTimezone=Y
 2181	ABO Movies Thangathirai HD
 1584	Al-Hijrah(MY)
 479619	Apetito
-997	Asian Food Network HD
+997	Asian Food Network HD(MY 英)
 2226	Astro AEC HD
 2124	Astro AOD 311
 2552	Astro Arena HD
@@ -2186,7 +2175,7 @@ ChangeTimezone=Y
 519423	Astro First HD
 397399	Astro Football
 397403	Astro Grandstand
-1951	Astro-欢喜台 HD(英)
+1951	Astro-欢喜台(英)
 3145	Astro Oasis HD
 397396	Astro Premier League
 397397	Astro Premier League 2
@@ -2248,14 +2237,13 @@ ChangeTimezone=Y
 399489	Golf Channel
 2300	Golf Channel HD
 2830	GOXUAN(MY)
-2473	HGTV HD(MY)
+2473	HGTV HD(MY 英)
 1477	History HD(MY)
 2208	HITS HD(MY)
 3575	HITS Movies HD(MY)
 186250	HITS NOW(MY)
 494	HITZ FM
 601	INDIA BEAT
-3290	iQIYI HD
 643	JAZZ(MY)
 502308	JR.
 1889	KBS World HD(MY)
@@ -2317,9 +2305,9 @@ ChangeTimezone=Y
 902	TV9
 3895	TVB Classic HD(MY)
 3920	TVB-娱乐新闻台(英)
-2524	TVB-翡翠(英)
-3493	TVB-星河 HD(英)
-3509	TVBS Asia HD
+2524	TVB-翡翠台(英2)
+3493	TVB-星河台 HD(英)
+3509	TVBS-亚洲 HD(英)
 2323	tvN HD(MY)
 2726	tvN Movies HD(MY英)
 3942	TVS
@@ -2332,6 +2320,7 @@ ChangeTimezone=Y
 
 
 https://epg.pw/xmltv/epg_SG.xml
+ChangeTimezone=Y
 512067	CCTV娱乐
 502440	CGTN-英文纪录(新加坡)
 369833	ABC Australia(新加坡)
@@ -2369,8 +2358,8 @@ https://epg.pw/xmltv/epg_SG.xml
 492865	Cartoon Network(新加坡)
 369780	Cartoon Network (HD)(新加坡)
 535492	Cartoonito (HD)(新加坡)
-369816	CBeebies (HD)(新加坡)
-492826	CBeebies HD(新加坡)
+369816	CBeebies (HD)(新加坡_英)
+492826	CBeebies HD(新加坡_英)
 369819	天映经典电影_非新非马
 369730	天映经典电影_新加坡非马
 513276	Channel 8(国)
@@ -2438,8 +2427,8 @@ https://epg.pw/xmltv/epg_SG.xml
 369758	HBO Signature (HD)(新加坡)
 412112	HBO Signature HD(新加坡)
 412153	HGTV(新加坡)
-369779	HGTV (HD)(新加坡)
-492861	HGTV HD(新加坡)
+369779	HGTV (HD)(新加坡-英)
+492861	HGTV HD(新加坡 英)
 535554	HISTORY (HD)(新加坡)
 412172	HISTORY HD(新加坡)
 369765	HISTORY™ (HD)(新加坡)
@@ -2557,23 +2546,22 @@ https://epg.pw/xmltv/epg_SG.xml
 535445	That's 70s(新加坡)
 535443	That's 80s(新加坡)
 535444	That's Rock(新加坡)
-535513	The Filipino Ch (HD)(新加坡)
-455314	The Filipino Channel(新加坡)
-412143	The Filipino Channel HD(新加坡)
+535513	TFC (The Filipino Ch HD)(新加坡)
+455314	TFC (The Filipino Channel)(新加坡)
 522557	Times Now(新加坡)
 369720	TLC (新加坡)
-492896	TRACE Sport Stars(新加坡)
+492896	TRACE Sport Stars(新加坡-中)
 535517	TRACE Sport Stars HD(新加坡)
-369737	TRACE Sports Stars HD(新加坡)
+369737	TRACE Sport Stars HD(新加坡2)
 412120	Travelxp HD(新加坡)
 412183	TV5MONDE HD(新加坡)
-369805	TVB-翡翠_新加坡_中
-412135	TVB-翡翠_新加坡_英
-412106	TVB-星河_新加坡_英
-369796	TVB-星河_新加坡_中英
-491163	TVBS Asia_新加坡_中
-412149	TVBS-NEWS_新加坡_英
-492453	TVBS-NEWS_新加坡_中
+369805	TVB-翡翠台_新加坡_中
+412135	TVB-翡翠台_新加坡_英
+412106	TVB-星河台_新加坡_英
+369796	TVB-星河台_新加坡_中英
+491163	TVBS-亚洲_新加坡_中
+412149	TVBS-新闻_新加坡_英
+492453	TVBS-新闻_新加坡_中
 535512	tvN HD(新加坡)
 369754	tvN HD (Malay)(新加坡)
 369818	tvN HD(中)(新加坡)
@@ -3201,7 +3189,6 @@ https://epg.pw/xmltv/epg_US.xml
 465132	The Cowboy Channel(US)
 465185	The Discovery Channel HD (Pacific)(US)
 496623	The Family Channel(US)
-465377	The Filipino Channel (Pacific)(US)
 465075	The Film Detective(US)
 465178	The First(US)
 465346	The Grio HD(US)

@@ -50,7 +50,9 @@ timeframe=48 配置
 		
 ```
 
-EPG源Timezone参数
+EPG源参数：
+
+**Timezone**：
 
 - **有 TimeZone 参数**：转换到北京时间（当时区是 +8 时区（无论何种格式，如 `+0800`、`+8`、`UTC+8`、`GMT+8` 等）时，不进行转换，直接保持原样）
 
@@ -64,6 +66,14 @@ EPG源Timezone参数
 | ±HH    | +8, -5       | 简写格式     |
 | UTC±HH | UTC+8, UTC-5 | 带UTC前缀    |
 | GMT±HH | GMT+8, GMT-5 | 带GMT前缀    |
+
+**ChangeTimezone**
+
+ChangeTimezone=Y 强制转换时区为+8时区
+
+ChangeTimezone=N或无 不强制转换为+8时区，保持原状 
+
+
 
 示例：		
 
@@ -90,6 +100,7 @@ CCTV4
 # 源3：美国东部时间的源
 https://example.com/guide.xml
 TimeZone=-0500
+ChangeTimezone=Y
 HBO
 CNN
 FOX
