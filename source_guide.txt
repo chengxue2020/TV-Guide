@@ -2319,6 +2319,11 @@ ChangeTimezone=Y
 2885	Zee Tamil HD(MY)
 
 
+https://epg.pw/xmltv/epg_HK.xml
+ChangeTimezone=Y
+368371	天映经典电影_香港
+
+
 https://epg.pw/xmltv/epg_SG.xml
 ChangeTimezone=Y
 512067	CCTV娱乐
