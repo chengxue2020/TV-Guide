@@ -4,7 +4,6 @@ https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
 CCTV-1 综合	CCTV1
 CCTV-2 财经	CCTV2
 CCTV-3 综艺	CCTV3
-CCTV-3 综艺	CCTV3
 CCTV-4 中文国际	CCTV4
 CCTV-4 中文国际欧洲	CCTV4EUO
 CCTV-5 体育	CCTV5
@@ -2240,7 +2239,7 @@ ChangeTimezone=Y
 2473	HGTV HD(MY 英)
 1477	History HD(MY)
 2208	HITS HD(MY)
-3575	HITS Movies HD(MY)
+3575	HITS Movies HD(MY2)
 186250	HITS NOW(MY)
 494	HITZ FM
 601	INDIA BEAT
