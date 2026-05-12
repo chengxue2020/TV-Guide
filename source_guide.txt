@@ -57,7 +57,7 @@ https://epg.mb6.top/heiptv.xml
 459718116	CCTV4K
 415438675	CCTV16
 20000070	CGTN_国
-237541669	CGTN英文纪录_国
+237541669	CGTN英文纪录_国(EPG2)
 237542804	CGTN法语
 20000222	CETV-1(B)
 227369764	中国交通频道
@@ -85,7 +85,7 @@ https://epg.mb6.top/heiptv.xml
 95316901	快乐垂钓
 20000218	书画频道
 20000099	重庆汽摩(B)
-258433075	CCTV-电视指南(C)
+258433075	CCTV-电视指南
 20000104	CCTV-中学生
 330682041	CCTV-发现之旅
 227239138	CCTV-央视台球
@@ -131,9 +131,8 @@ CCTV-17 农业 农村	CCTV17
 CETV-1
 CETV2	CETV-2
 CETV4	CETV-4
-CCTV-电视指南	CCTV-电视指南(X)
 CCTV-第一剧场
-CCTV-风云剧场
+CCTV-风云剧场	CCTV-风云剧场(B)
 CCTV-风云音乐
 CCTV-高尔夫网球
 CCTV-怀旧剧场
@@ -302,7 +301,7 @@ ARIRANG TV	Arirang TV_香港
 CLASSICA	CLASSICA_繁中
 CNEX Doc
 DaVinCi	DaVinCi_香港
-DayStar
+DayStar	DayStar(On-Air International)
 EDGE sport
 GINX	GINX电竞频道_国
 Mezzo Live	Mezzo Live_港_国
@@ -321,14 +320,14 @@ ChangeTimezone=Y
 CCTV-4	CCTV4_英(EPG2)
 CCTV-4香港	CCTV4香港
 cctv8k	CCTV8K
-cctv风云剧场	CCTV-风云剧场(swepg)
+cctv风云剧场	CCTV-风云剧场
 cctv风云足球	CCTV-风云足球
 cctv台球	CCTV-台球
 中央电视台新闻频道香港	CCTV13香港
 中央电视台综合频道 (港澳版) (免费)	CCTV1_港澳版
 中国中央电视台戏曲频道 (免费)	CCTV-戏曲
-CGTN	CGTN_港马_英
-CGTN (中国环球电视网)记录频道 (免费)	CGTN英文纪录_港版
+CGTN	CGTN_英
+CGTN (中国环球电视网)记录频道 (免费)	CGTN英文纪录
 cgtn阿拉伯语	CGTN阿拉伯语
 cgtn俄语	CGTN俄语
 cgtn西班牙语	CGTN西班牙语
@@ -506,21 +505,20 @@ Hami体育3台
 HAPPY频道
 HBLTV1台
 HBLTV2台
-HBO	HBO HD_国
-HBO HD	HBO HD_国2
+HBO	HBO HD_港台_国
+HBO HD	HBO HD_非台_国
 HBO香港	HBO_港新_国
-HBO Family	HBO Family_香港_国
-HBO Family香港	HBO Family_香港_英
+HBO Family	HBO Family_港台_国
 HBO Hits香港	HBO Hits_香港
 HBO Signature香港	HBO Signature_香港
 HGTV HD新加坡	HGTV_英
-HGTV居家乐活频道	HGTV_港马_国
-HISTORY HD新加坡	History HD(新加坡)
-History 历史频道有线	History历史频道有线_国
-HITS	HITS HD_香港_国
-HITS HD新加坡
-HITS MOVIES HD	HITS MOVIES_香港_英
-HITS MOVIES HD新加坡	HITS MOVIES_英(EPG3)
+HGTV居家乐活频道	HGTV_港台马_国
+HISTORY HD新加坡	History Channel(新加坡)
+History 历史频道有线	History Channel_台湾_国_有线
+HITS	HITS HD_港台_国2
+HITS HD新加坡	HITS HD_非新马
+HITS MOVIES HD	HITS Movies_香港_英
+HITS MOVIES HD新加坡	HITS Movies_英(EPG3)
 HITS电影台 	HITS HD电影台
 HITS频道	HITS HD_港台_国
 HITS有线	HITS HD_港台_有线
@@ -542,7 +540,7 @@ Hub 如意
 Hub Sports 1
 Hub Sports 2
 Hub Sports 3
-Hub VV Drama HD	Hub-娱家(EPG1)
+Hub VV Drama HD	Hub-娱家_非新加坡
 IDX
 IMC
 Indosiar
@@ -588,10 +586,10 @@ Netflix香港	Netflix_香港
 Nick Jr	Nick Jr._新马2
 Nick Jr. 	Nick Jr.(swepg2)
 Nick Jr. HD
-Nick Jr. HD新加坡	Nick Jr. HD_新加坡
-Nick Jr. 儿童频道	Nick Jr. 儿童频道_台湾
-Nick Jr.(小尼克)	Nick Jr. 儿童频道_香港1
-NickJr.	Nick Jr. 儿童频道_非港2
+Nick Jr. HD新加坡	Nick Jr._新加坡
+Nick Jr. 儿童频道	Nick Jr._港台1
+Nick Jr.(小尼克)	Nick Jr._港台2
+NickJr.	Nick Jr._非港2
 Nickelodeon Asia HD新加坡	Nickelodeon Asia(新加坡3)
 Nickelodeon Asia尼克儿童频道	Nickelodeon亚洲版_国2
 Nickelodeon Jr
@@ -635,10 +633,9 @@ now体育	NOW体育
 now体育4k	NOW体育4k
 now新闻	NOW新闻
 now直播 	NOW直播
-ONE	ONE TV_新马_英
-ONE (Malay)	ONE TV_英
+ONE	ONE HD_新马_英2
+ONE (Malay)	ONE HD_英
 ONE HD	ONE HD(swepg)
-OneTV 综合频道	One TV综合频道
 ORIGINALS
 Outdoor Channel
 OUTtv HD
@@ -734,7 +731,6 @@ elta体育max 8	爱尔达体育MAX8台
 电影原声台CMusic
 东风卫视	东风卫视
 东森购物一台	东森购物1台(B)
-东森购物二台	东森购物2台(B)
 东森购物三台	东森购物3台
 东森购物四台	东森购物4台
 东森购物5台HD	东森购物5台
@@ -813,8 +809,8 @@ elta体育max 8	爱尔达体育MAX8台
 恐怖电影-FastTV飞速看
 蜡笔小新(中文版)
 啦啦队独家专访
-历史高清频道	History历史频道(预告)_英
-历史频道HD		History历史频道(回看)
+历史高清频道	History Channel_台湾_英(预告)
+历史频道HD		History Channel_(回看)
 疗愈下雨声
 龙华动画HD	龙华动画(回看)
 龙华经典台	龙华经典台(EPG2)
@@ -930,7 +926,6 @@ elta体育max 8	爱尔达体育MAX8台
 中天综合台
 猪哥亮歌厅秀
 罪案侦查频道	Crime & Investigation罪案侦缉_港台_国
-罪案侦辑频道	Crime & Investigation罪案侦缉_英
 韩国娱乐KMTV	韩国娱乐台KMTV_台湾
 韩国娱乐台 KMTV	韩国娱乐台KMTV_台湾_简中
 中华一番(中文版)
@@ -959,7 +954,7 @@ Superrix
 euronews香港	Euronews_香港
 Eurosport	Eurosport_国
 EUROSPORT HD	Eurosport_英
-EVE有线	Discovery EVE_有线
+EVE有线	Discovery EVE_台湾_国_有线
 FIFA+
 Fight Sports
 Focus探索新知台
@@ -1019,16 +1014,15 @@ BUDDY STARS
 Cartoon Network香港	Cartoon Network_香港_国
 CARTOONITO HD	CARTOONITO
 CATCH PLAY电影台	CATCHPLAY电影台_台湾
-Cbeebies	Cbeebies_国
+Cbeebies	CBeebies_港新_国
 CBeebies HD	CBeebies_英
 CI 罪案侦查频道	Crime & Investigation罪案侦缉_港台2
 CINEEDGE
 Cinema One Global
 cinemalworld世界电影频道有线	cinemaworld_台湾_国+详情
 CinemaWorld频道	CinemaWorld_台新_国
-CINEMAX HD	Cinemax HD_非台_国_有线
+CINEMAX HD	Cinemax HD_国_台湾_有线
 Citra Entertainment
-CI罪案侦查频道有线	Crime & Investigation罪案侦查_有线
 CLASSIC_ROCK	Classic ROCK
 CLASSICA 古典乐	Classica古典乐
 CMC 北美频道
@@ -1042,7 +1036,7 @@ COLORS Tamil HD	Colors Tamil_马来
 Concerto (免费)	Concerto
 Crime + Investigation HD	Crime & Investigation
 Da Vinc香港	Da Vinci_香港_国
-daystar	Daystar(swepg)
+daystar	Daystar(Live Stream)
 DAZN 1	DAZN-1_台湾
 DAZN 2	DAZN-2_台湾
 DAZN 3	DAZN-3_台湾
@@ -1051,15 +1045,14 @@ Discovery	Discovery Channel_台湾_国
 Discovery Asia	Discovery Asia_国_详情
 DiscoveryAsia	Discovery Asia_国_标题
 Discovery Channel香港	Discovery Channel_香港
-Discovery HD新加坡	Discovery Channel HD_新加坡_英
+Discovery HD新加坡	Discovery Channel_英
 Discovery 科学频道	Discovery Sci科学频道_港台_国
 DMAX有线	Discovery DMAX_国
-DiscoveryEVE	Discovery EVE_国
+DiscoveryEVE	Discovery EVE_台湾_国
 Docsville (免费)	Docsville
 DreamWorks	DreamWorks_国
 DreamWorks HD	DreamWorks_英
 Dubai One
-DW	DW English Europe
 DW (English)香港	DW English 香港
 DW English	DW English Africa
 DW德国之声	DW English_台湾_国
@@ -1082,7 +1075,7 @@ KBS NEWS
 KBS STORY
 KBSWorld	KBS World(swepg)
 KBS World HD	KBS World
-KBS World香港	KBS World_香港
+KBS World香港	KBS World_港新马_国
 Lucky 688
 LUXE TV Channel
 MagellanTV频道 (麦哲伦频道) 
@@ -1152,7 +1145,7 @@ TRACESportStars	Trace Sport Stars_港台新_国
 TRACE Urban (免费)	Trace Urban_英
 Trans 7
 Trans TV
-TravelChannel	Travel Channel_国
+TravelChannel	Travel Channel_台湾_国
 Travelxp HD
 TV_Sarawak	TV Sarawak
 TV5MONDE	TV5MONDE
@@ -1192,7 +1185,7 @@ http://epg.51zmt.top:8000/e.xml.gz
 
 https://liliu.serv00.net/epg/cn.xml.gz
 CGTN	CGTN_国
-CGTN纪录	CGTN英文纪录_国3
+CGTN纪录	CGTN英文纪录_国(EPG3)
 CETV3	CETV-3
 iHOT爱赛车
 iHOT爱喜剧
@@ -1232,7 +1225,6 @@ iHOT爱旅行
 精品萌宠	NewTV精品萌宠
 怡伴健康	NewTV怡伴健康
 中国功夫	NewTV中国功夫
-电视指南	CCTV-电视指南
 黑莓影视
 黑莓电影
 黑莓动画
@@ -1261,7 +1253,6 @@ iHOT爱旅行
 北京财经
 北京生活
 北京体育休闲
-女性时尚	CCTV-女性时尚(CN)
 求索纪录	华数求索纪录
 求索科学
 北京卫视4K	北京卫视4K(预告)
@@ -1518,21 +1509,19 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1507	AXN_港新马_国
 1577	BlueAnt Entertainment
 1560	Channel News Asia
-1511	CINEMAX_香港_国
+1511	Cinemax HD_香港_国
 230	Cartoon Network_台湾(预)
 1810	ELTV英语学习台(B)
-1584	Discovery EVE_国(B)
 1579	Food Network美食台_香港(预)
 1505	HBO HD_国2
-1574	HBO Hits_国
-1575	HBO Signature_非港_国
-1783	History_香港_国
+1574	HBO Hits_台湾_国
+1575	HBO Signature_台湾_国
+1783	History Channel_香港_国
 194	Mezzo Live_港_英
 1464	MOMO亲子台
 1536	MTV_英
 1813	MTV综合_台湾
 1604	Nickelodeon_国
-1605	Nick Jr. 儿童频道_香港
 164	NOW财经台_英
 1533	SBN全球财经台
 249	Sky News
@@ -1596,8 +1585,7 @@ ChangeTimezone=Y
 3518	CCTV4_新马_英
 2280	天映经典电影_马来非新_英
 1298	天映电影_马来非新_英
-461591	CGTN英文纪录_马来_英
-3873	CNBC 亚洲_港新马
+461591	CGTN英文纪录_英
 3325	Colors Hindi
 1358	Discovery Asia_英
 3437	Discovery Channel_新马
@@ -1607,8 +1595,8 @@ ChangeTimezone=Y
 533	GOLD(MY)
 2300	Golf Channel(EPG1)
 2830	GOXUAN
-2473	HGTV_港马_英
-1477	History HD_新马
+2473	HGTV_港台马_英
+1477	History Channel_新马
 2208	HITS HD_新马
 186250	HITS NOW_马来
 494	HITZ FM
@@ -1624,7 +1612,6 @@ ChangeTimezone=Y
 492	MY FM
 1029	NTV7
 370134	Okey TV
-1242	ONE HD_新加坡
 493	OPUS
 733	OSAI
 3478	凤凰中文台_新马_英
@@ -1711,7 +1698,7 @@ ChangeTimezone=Y
 524986	Hub Sports 6
 524981	Hub Sports 7
 455187	Hub Sports 8
-369734	KBS World_新马_英
+369734	KBS World_港新马_英
 492851	Hub-娱家_新加坡
 369832	Lifetime HD_马来_英
 412184	Lifetime HD_新加坡_英
@@ -1735,8 +1722,7 @@ ChangeTimezone=Y
 516580	Zee Thirai_新加坡
 495473	Deal or No Deal_新加坡
 512067	CCTV-娱乐
-369770	HITS Movies_英(EPG1)
-502440	CGTN英文纪录_英(新加坡)
+369770	HITS Movies_新加坡_英
 369785	Animal Planet(新加坡)
 491159	ANIPLUS(新加坡)
 516579	Astro Ria(新加坡)
@@ -1751,23 +1737,23 @@ ChangeTimezone=Y
 369824	Drama Channel(新加坡)
 412178	DW English(新加坡)
 369806	e-乐
-491151	东森亚洲卫视_新加坡_ 国
-492856	东森亚洲卫视_新加坡_ 英
+491151	东森亚洲卫视_新加坡_国
+492856	东森亚洲卫视_新加坡_英
 412122	Euronews_新加坡
-412197	Fashion TV HD(新加坡)
+412197	Fashion TV(新加坡)
 492858	Food ON_新加坡
 412190	France 24 English_新马
 369839	France 24 French_新加坡
 491154	GMA Life TV
 491164	GMA News TV
 491168	GMA Pinoy TV_香港
-369786	HBO Family(新加坡)
-412195	HBO Family_英
+369786	HBO Family_英(新加坡)
+412195	HBO Family_港台_英
 412088	HBO_港新_英
-369840	HBO Hits HD(新加坡)
-369758	HBO Signature_英 (新加坡)
-412172	History HD_马来
-412194	Hits HD
+369840	HBO Hits_台湾_英
+369758	HBO Signature_台湾_英
+412172	History Channel_马来
+412194	HITS HD
 485760	HITS NOW(新加坡)
 369774	Jia Le Channel(新加坡)
 451933	MAA Movies(新加坡)
@@ -1778,7 +1764,7 @@ ChangeTimezone=Y
 369804	MTV India
 492911	NOW 80s_新加坡
 512068	NOW紫金国际台 HD(新加坡)
-492870	ONE (Malay)(新加坡)
+492870	ONE (Malay)_新加坡
 369728	ONE HD_新马_ 国英
 484245	Outdoor Channel_香港
 429564	Pesona HD
@@ -1934,7 +1920,7 @@ https://epg.pw/xmltv/epg_US.xml
 464749	Circle Country
 465363	Cleo TV
 465107	CMT
-464791	CNBC(US)
+464791	CNBC亚洲_港新马
 465282	CNBC World
 464871	CNN En Español
 464857	CNN(US)
@@ -2072,7 +2058,7 @@ https://epg.pw/xmltv/epg_US.xml
 465212	HDNet Movies
 464942	Heroes and Icons Network
 464762	History Channel En Español
-465176	History HD(US)
+465176	History Channel(US)
 465385	HITN
 465044	HLN HD
 465063	Hogar TV HD
@@ -2375,7 +2361,7 @@ https://epg.pw/xmltv/epg_US.xml
 474984	TFC (The Filipino Channel)(US)
 464823	The Africa Channel
 465132	The Cowboy Channel
-465185	The Discovery Channel Pacific
+465185	Discovery Channel Pacific
 496623	The Family Channel
 465075	The Film Detective
 465178	The First
