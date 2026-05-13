@@ -59,7 +59,6 @@ https://epg.mb6.top/heiptv.xml
 20000070	CGTN_国
 237541669	CGTN英文纪录_国(EPG2)
 237542804	CGTN法语
-20000222	CETV-1(B)
 227369764	中国交通频道
 232283329	睛彩天下
 20000135	承德新闻综合
@@ -159,7 +158,6 @@ CCTV-央视足球
 西藏卫视
 新疆卫视
 兵团卫视	新疆兵团卫视
-优漫卡通	优漫卡通(B)
 嘉佳卡通
 睛彩广场舞
 睛彩篮球
@@ -288,7 +286,7 @@ SETiNEWS	三立财经新闻iNEWS
 台灣戲劇台	台湾戏剧台
 智林體育台	智林体育台
 HakkaTV	客家电视
-KMTV HD	韩国娱乐台KMTV_台湾(B)
+KMTV HD	韩国娱乐台KMTV_台湾_繁中
 MCE 我的歐洲電影	MCE(My Cinema Europe HD) 我的欧洲电影
 寵物頻道	宠物频道(TW)
 第1商業	第一商业
@@ -298,12 +296,11 @@ ELTV英語學習台	ELTV英语学习台
 Focus風采戲劇台	Focus风采戏剧台
 Focus歡樂綜合台	Focus欢乐综合台
 ARIRANG TV	Arirang TV_香港
-CLASSICA	CLASSICA_繁中
-CNEX Doc
-DaVinCi	DaVinCi_香港
+CLASSICA	Classica古典乐_繁中
+CNEX Doc	CNEX纪实频道_繁中
+DaVinCi	DaVinCi_港台
 DayStar	DayStar(On-Air International)
 EDGE sport
-GINX	GINX电竞频道_国
 Mezzo Live	Mezzo Live_港_国
 Nice Bingo
 Nice TV
@@ -418,7 +415,6 @@ CHC 家庭影院	CHC家庭影院
 河南梨园戏曲	河南梨园频道
 河南民生
 河南晴彩中原
-河南武术
 河南乡村
 河南象世界
 河南新闻
@@ -507,20 +503,20 @@ HBLTV1台
 HBLTV2台
 HBO	HBO HD_港台_国
 HBO HD	HBO HD_非台_国
-HBO香港	HBO_港新_国
+HBO香港	HBO HD_港新_国
 HBO Family	HBO Family_港台_国
-HBO Hits香港	HBO Hits_香港
+HBO Hits香港	HBO Hits_香港_国
 HBO Signature香港	HBO Signature_香港
 HGTV HD新加坡	HGTV_英
 HGTV居家乐活频道	HGTV_港台马_国
 HISTORY HD新加坡	History Channel(新加坡)
 History 历史频道有线	History Channel_台湾_国_有线
-HITS	HITS HD_港台_国2
+HITS	HITS HD_港台_国
 HITS HD新加坡	HITS HD_非新马
 HITS MOVIES HD	HITS Movies_香港_英
 HITS MOVIES HD新加坡	HITS Movies_英(EPG3)
 HITS电影台 	HITS HD电影台
-HITS频道	HITS HD_港台_国
+HITS频道	HITS HD_港台_国2
 HITS有线	HITS HD_港台_有线
 HOY TV
 HOY 国际财经台
@@ -738,7 +734,7 @@ elta体育max 8	爱尔达体育MAX8台
 东森洋片台	东森洋片
 东森幼幼台	东森幼幼
 东森娱乐台
-动物星球频道	Animal Planet动物星球_港台_国
+动物星球频道	Animal Planet_港台_国
 都会台
 短剧马拉松
 哆啦Ａ梦台
@@ -812,7 +808,6 @@ elta体育max 8	爱尔达体育MAX8台
 历史高清频道	History Channel_台湾_英(预告)
 历史频道HD		History Channel_(回看)
 疗愈下雨声
-龙华动画HD	龙华动画(回看)
 龙华经典台	龙华经典台(EPG2)
 龙华偶像台OTT
 龙华戏剧台	龙华戏剧台(EPG1)
@@ -828,7 +823,7 @@ elta体育max 8	爱尔达体育MAX8台
 美好1台HD	美好1台
 美好2台
 美丽人生购物台
-美亚电影HD
+美亚电影HD	美亚电影HD_台湾
 美亚电影台	美亚电影台_香港
 民视
 民视第一台
@@ -899,7 +894,7 @@ elta体育max 8	爱尔达体育MAX8台
 亚洲剧台	TVB-亚洲剧台
 亚洲旅游HD	亚洲旅游台_非台_国
 亚洲旅游台有线	亚洲旅游台_有线(回看+详情)
-亚洲美食台香港	亚洲美食台_港台
+亚洲美食台香港	Asian Food Network亚洲美食台_港台
 亚洲卫视
 亚洲新闻台	CNA
 亚洲综合HD演唱会直击
@@ -915,7 +910,6 @@ elta体育max 8	爱尔达体育MAX8台
 中国美食大探索
 中华电视台
 中视HD	中视
-中视经典台HD	中视经典(回看)
 中视菁采台HD	中视菁采台
 中视数位台
 中台湾生活网频道
@@ -925,7 +919,7 @@ elta体育max 8	爱尔达体育MAX8台
 中天娱乐HD	中天娱乐
 中天综合台
 猪哥亮歌厅秀
-罪案侦查频道	Crime & Investigation罪案侦缉_港台_国
+罪案侦查频道	Crime & Investigation_港台新马_国
 韩国娱乐KMTV	韩国娱乐台KMTV_台湾
 韩国娱乐台 KMTV	韩国娱乐台KMTV_台湾_简中
 中华一番(中文版)
@@ -958,10 +952,8 @@ EVE有线	Discovery EVE_台湾_国_有线
 FIFA+
 Fight Sports
 Focus探索新知台
-Food Network香港	Food Network美食台_香港(回)
 Food Travel HD	Food Travel
 FoodON	Food ON
-FOX 新闻台
 France 24 (French)	France 24 French
 France 24香港	France 24 English_香港
 FRANCE24 英文台	France 24 English_台湾
@@ -970,7 +962,7 @@ fun探索娱乐台
 GagaOOLala 精选LGBTQ+好剧
 Galaxy
 Galaxy Premium
-GINX Esports TV
+GINX Esports TV	GINX Esports电竞频道_国
 Global Trekker探索世界频道	Global Trekker_英
 GlobalTrekker	Global Trekker_国
 Globetrotter (免费)	Globet Trotter
@@ -980,7 +972,7 @@ Golden 强片台	Golden强片台
 Golden影迷台
 GTV
 Hanacaraka TV
-ABC Australia
+ABC Australia	ABC Australia_Youtube
 ABC澳大利亚电视台	ABC Australia(澳大利亚)
 Action Hollywood Movies
 Adithya	Adithya TV_马来
@@ -999,7 +991,6 @@ BBC_Brit_HD	BBC Brit
 BBC EARTH	BBC Earth_新马港台_国
 BBC_First_HD	BBC First
 BBC LIFESTYLE	BBC Lifestyle_港台_国
-BBC News	BBC News (North America)
 BBC News HD	BBC News_香港
 bb快报
 beIN SPORTS 1香港	beIN Sports-1_香港_国
@@ -1011,17 +1002,17 @@ beIN SPORTS 6香港	beIN Sports-6_香港_国
 beIN SPORTS RUGBY香港	beIN Sports-RUGBY香港
 BTV
 BUDDY STARS
-Cartoon Network香港	Cartoon Network_香港_国
+Cartoon Network香港	Cartoon Network_港新马_国
 CARTOONITO HD	CARTOONITO
 CATCH PLAY电影台	CATCHPLAY电影台_台湾
 Cbeebies	CBeebies_港新_国
 CBeebies HD	CBeebies_英
-CI 罪案侦查频道	Crime & Investigation罪案侦缉_港台2
+CI 罪案侦查频道	Crime & Investigation_港台新马_国2
 CINEEDGE
 Cinema One Global
 cinemalworld世界电影频道有线	cinemaworld_台湾_国+详情
 CinemaWorld频道	CinemaWorld_台新_国
-CINEMAX HD	Cinemax HD_国_台湾_有线
+CINEMAX HD	Cinemax HD_台湾_国_有线
 Citra Entertainment
 CLASSIC_ROCK	Classic ROCK
 CLASSICA 古典乐	Classica古典乐
@@ -1029,13 +1020,11 @@ CMC 北美频道
 CMC 香港频道
 CMusic
 CNBC HD	CNBC (非新加坡)
-CNEX纪实频道
-CN卡通频道	Cartoon Network_台湾(回)
+CNEX纪实频道	CNEX纪实频道_简中
 COLORS	Colors TV
 COLORS Tamil HD	Colors Tamil_马来
 Concerto (免费)	Concerto
 Crime + Investigation HD	Crime & Investigation
-Da Vinc香港	Da Vinci_香港_国
 daystar	Daystar(Live Stream)
 DAZN 1	DAZN-1_台湾
 DAZN 2	DAZN-2_台湾
@@ -1047,13 +1036,13 @@ DiscoveryAsia	Discovery Asia_国_标题
 Discovery Channel香港	Discovery Channel_香港
 Discovery HD新加坡	Discovery Channel_英
 Discovery 科学频道	Discovery Sci科学频道_港台_国
-DMAX有线	Discovery DMAX_国
+DMAX有线	Discovery DMAX_港台_国
 DiscoveryEVE	Discovery EVE_台湾_国
 Docsville (免费)	Docsville
-DreamWorks	DreamWorks_国
+DreamWorks	DreamWorks_台湾_国
 DreamWorks HD	DreamWorks_英
 Dubai One
-DW (English)香港	DW English 香港
+DW (English)香港	DW English_香港
 DW English	DW English Africa
 DW德国之声	DW English_台湾_国
 Zee Bioskop
@@ -1462,7 +1451,7 @@ IPTV8+	IPTV-8+
 
 
 http://epg.51zmt.top:8000/e2.xml.gz
-1797	中视经典(预告)
+1797	中视经典
 1822	八大优频道
 1554	八大娱乐台
 1468	八大综合台
@@ -1485,7 +1474,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1508	好莱坞电影台
 1778	华艺中文台
 1819	寰宇HD综合
-1812	龙华动画(预告)
+1812	龙华动画
 1765	龙华影剧
 1836	美食星球
 1478	年代MUCH
@@ -1510,9 +1499,9 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1577	BlueAnt Entertainment
 1560	Channel News Asia
 1511	Cinemax HD_香港_国
-230	Cartoon Network_台湾(预)
+230	Cartoon Network_台湾
 1810	ELTV英语学习台(B)
-1579	Food Network美食台_香港(预)
+1579	Food Network_港台_国
 1505	HBO HD_国2
 1574	HBO Hits_台湾_国
 1575	HBO Signature_台湾_国
@@ -1576,8 +1565,7 @@ ChangeTimezone=Y
 2058	Astro Vinmeen
 1205	AXN_港新马_英
 854	SYOK BAYU_马来
-4030	BBC Earth_新马港台_英(EPG2)
-3329	BBC News_新马台
+3329	BBC News World_新马台(North America)
 370132	Berita RTM
 1835	Bernama TV
 400446	Blippi & Friends_马来_英
@@ -1650,7 +1638,7 @@ ChangeTimezone=Y
 
 https://epg.pw/xmltv/epg_HK.xml
 ChangeTimezone=Y
-368369	TVB-明珠台(B)
+368369	TVB-明珠台
 368350	KIX_香港
 
 https://epg.pw/xmltv/epg_SG.xml
@@ -1681,7 +1669,7 @@ ChangeTimezone=Y
 369816	CBeebies_港新_英
 492904	COLORS TV_新加坡
 412157	ABC Australia_港新马
-492865	Cartoon Network_新马_英
+492865	Cartoon Network_港新马_英
 369819	天映经典电影_非新非马_国英
 369730	天映经典电影_新加坡非马
 524990	Cricbuzz 2_新加坡
@@ -1726,16 +1714,15 @@ ChangeTimezone=Y
 369785	Animal Planet(新加坡)
 491159	ANIPLUS(新加坡)
 516579	Astro Ria(新加坡)
-412098	BBC World News(新加坡)
 412199	Bloomberg Originals_台湾？
 369771	Bloomberg TV
 535553	C+I (HD)(新加坡)-
-412096	Cinemax HD_香港_英
+412096	Cinemax HD_台湾_英
 369742	Citra Drama
 369748	CM+(新加坡)
-492866	Crime & Investigation_新马
+492866	Crime & Investigation_港台新马_英
 369824	Drama Channel(新加坡)
-412178	DW English(新加坡)
+412178	DW English
 369806	e-乐
 491151	东森亚洲卫视_新加坡_国
 492856	东森亚洲卫视_新加坡_英
@@ -1749,7 +1736,7 @@ ChangeTimezone=Y
 491168	GMA Pinoy TV_香港
 369786	HBO Family_英(新加坡)
 412195	HBO Family_港台_英
-412088	HBO_港新_英
+412088	HBO HD_港新_英
 369840	HBO Hits_台湾_英
 369758	HBO Signature_台湾_英
 412172	History Channel_马来
@@ -1758,9 +1745,9 @@ ChangeTimezone=Y
 369774	Jia Le Channel(新加坡)
 451933	MAA Movies(新加坡)
 507899	Master Chef
-369773	mio Sports HD(新加坡)
-369717	mio Sports 2(新加坡)
-369802	mio Sports 3(新加坡)
+369773	mio Sports
+369717	mio Sports-2
+369802	mio Sports-3
 369804	MTV India
 492911	NOW 80s_新加坡
 512068	NOW紫金国际台 HD(新加坡)
@@ -1911,7 +1898,6 @@ https://epg.pw/xmltv/epg_US.xml
 465199	Cinema One_马来
 480608	Cinemax Action
 480607	Cinemax Classics
-464917	Cinemax HD_英(US)
 465191	Cinemax Pacific
 464945	Cinemax Hits
 465263	Cinemax Spanish
@@ -1920,10 +1906,10 @@ https://epg.pw/xmltv/epg_US.xml
 464749	Circle Country
 465363	Cleo TV
 465107	CMT
-464791	CNBC亚洲_港新马
+464791	CNBC Asia_港台新马
 465282	CNBC World
 464871	CNN En Español
-464857	CNN(US)
+464857	CNN North America
 465021	CNN International
 465371	Comedy Central Pacific
 465056	Comedy TV
@@ -1934,7 +1920,7 @@ https://epg.pw/xmltv/epg_US.xml
 465226	Court TV
 464930	COZI TV
 496617	Create(US)
-465040	Crime & Investigation Network HD(US)
+465040	Crime & Investigation Network(US)
 464835	CSPAN
 465243	CSPAN2
 464828	CSPAN3
@@ -2002,11 +1988,11 @@ https://epg.pw/xmltv/epg_US.xml
 484888	FM Fuse Music
 465304	FM HD
 472385	FNX First Nations Experience
-464984	Food Network HD(US)
+464984	Food Network(US)
 469850	Foro TV
 464766	FOX Business
 465156	FOX Deportes
-465372	FOX News Channel
+465372	FOX News
 465214	FOX Soccer Plus
 529205	FOX SOUL
 465153	Free Speech TV
