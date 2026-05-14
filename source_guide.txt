@@ -97,9 +97,9 @@ https://epg.mb6.top/heiptv.xml
 469430502	金色学堂
 469738263	法治天地
 227238959	四海钓鱼
-258433053	河南武术世界(B)
+258433053	河南武术世界
 258433139	河南文物宝库
-258432750	河南梨园频道(B)
+258432750	河南梨园频道(x)
 244402779	羽毛球专区
 87307627	优购物
 437459970	优购物精选
@@ -294,7 +294,7 @@ MCE 我的歐洲電影	MCE(My Cinema Europe HD) 我的欧洲电影
 ELTV英語學習台	ELTV英语学习台
 Focus風采戲劇台	Focus风采戏剧台
 Focus歡樂綜合台	Focus欢乐综合台
-ARIRANG TV	Arirang TV_香港
+ARIRANG TV	Arirang TV_港台
 CLASSICA	Classica古典乐_繁中
 CNEX Doc	CNEX纪实频道_繁中
 DaVinCi	DaVinCi_港台
@@ -310,9 +310,6 @@ TRACEUrban	Trace Urban_国
 
 https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
 ChangeTimezone=Y
-#河北
-睛彩河北
-河北杂技频道	河北杂技
 CCTV-4	CCTV4_英(EPG2)
 CCTV-4香港	CCTV4香港
 cctv8k	CCTV8K
@@ -433,8 +430,6 @@ CHC 家庭影院	CHC家庭影院
 盐城新闻综合
 宜兴新闻综合
 泰州新闻综合
-#湖南
-茶频道	湖南茶频道
 乐视台
 澳门葡萄牙
 澳门体育
@@ -531,7 +526,6 @@ Hub Premier 6
 Hub Premier 7
 Hub Premier 8
 Hub Premier 9
-Hub 如意
 Hub Sports 1
 Hub Sports 2
 Hub Sports 3
@@ -658,7 +652,6 @@ SUPER Sports (免费)	SUPER Sports
 SUPER煲剧 (免费)	SUPER煲剧
 SUPER单元剧 (免费)	SUPER单元剧
 SUPER奖门人 (免费)	SUPER奖门人
-SUPER金曲 (免费)	SUPER金曲
 SUPER识食 (免费)	SUPER识食
 SUPER识叹 (免费)	SUPER识叹
 魅力足球
@@ -745,7 +738,6 @@ elta体育max 8	爱尔达体育MAX8台
 富立电视台HD		富立电视台
 高清生活时光
 高雄都会台
-公共电视台	公视(回看)
 公视儿少台HD	公视少儿台
 公视好剧-FastTV飞速看
 公视金奖台
@@ -809,7 +801,7 @@ elta体育max 8	爱尔达体育MAX8台
 疗愈下雨声
 龙华经典台	龙华经典台(EPG2)
 龙华偶像台OTT
-龙华戏剧台	龙华戏剧台(EPG1)
+龙华戏剧台	龙华戏剧台(EPG2)
 龙华洋片台
 旅游频道香港
 旅游生活
@@ -853,8 +845,7 @@ elta体育max 8	爱尔达体育MAX8台
 纾压雷雨声
 双子卫视
 私藏浪漫
-台视主频	台视
-台湾电视台	台视(EPG2)
+台湾电视台	台视
 台湾第一等
 台湾向前行
 台湾壹百种味道
@@ -869,11 +860,11 @@ elta体育max 8	爱尔达体育MAX8台
 天映经典柬埔寨	天映经典电影_柬埔寨_国
 天映经典马来西亚	天映经典电影_马来非新_国
 天映经典频道	天映经典电影_港新菲_国(详情)
-天映经典台新加坡	天映经典电影_港新菲_英
+天映经典台新加坡	天映经典电影_英
 天映经典新加坡	天映经典电影_新加坡2
 千禧经典台(MY)	TVB-千禧经典台_(MY)
 天映经典新加坡	天映经典电影_港新菲_国
-天映经典印尼	天映经典电影_印尼_国
+天映经典印尼	天映经典电影_印柬_国
 天映频道马来西亚	天映电影_马来非新_国
 天映频道新加坡	天映电影_新加坡_国
 天映频道印尼	天映电影_印尼_国
@@ -891,7 +882,7 @@ elta体育max 8	爱尔达体育MAX8台
 幸福保卫战-FastTV飞速看
 亚洲剧台	TVB-亚洲剧台
 亚洲旅游HD	亚洲旅游台_非台_国
-亚洲美食台香港	Asian Food Network亚洲美食台_港台
+亚洲美食台香港	Asian Food Network_港台
 亚洲卫视
 亚洲新闻台	CNA
 亚洲综合HD演唱会直击
@@ -928,13 +919,12 @@ Astro_First_HD	Astro First
 Astro_Golf	Astro Golf
 Astro_Premier_League_3	Astro Premier League 3
 Astro Sensasi HD	Astro Sensasi
-Astro_Sports_Plus_3	Astro Sports Plus 3(swepg)
 Astro_Sports_UHD_805	Astro Sports UHD 805
 Astro_Thangathirai	Astro Thangathirai
 Astro Warna HD	Astro Warna
-CCM	天映经典电影_印尼_英
+CCM	天映经典电影_印柬_英
 Celebrities TV
-Celestial Movies	天映电影_新加坡_英
+Celestial Movies	天映电影_印尼_英
 EBS CHILD
 EBS EDUCATION
 EBS PLUS1
@@ -984,7 +974,6 @@ Asian Food Network 亚洲美食频道	Asian Food Network_国
 Asianet	Asianet TV
 Asianet Movies
 ASMR行车纪录
-BBC_Brit_HD	BBC Brit
 BBC EARTH	BBC Earth_新马港台_国
 BBC_First_HD	BBC First
 BBC LIFESTYLE	BBC Lifestyle_港台_国
@@ -1064,7 +1053,6 @@ KBS World HD	KBS World
 KBS World香港	KBS World_港新马_国
 Lucky 688
 LUXE TV Channel
-MagellanTV频道 (麦哲伦频道) 
 MBC
 mbc 2
 mbc action	mbc action
@@ -1118,7 +1106,6 @@ Sportstars
 Sportstars 2
 Sportstars 3
 Sportstars 4
-SPY X FAMILY 间谍家家酒(国)
 Studio Universal
 Sun Music
 Sun TV
@@ -1137,7 +1124,6 @@ TV_Sarawak	TV Sarawak
 TV5MONDE	TV5MONDE
 TV5MONDE ASIE
 TV5MONDE STYLE HD 生活时尚	TV5MONDE Style生活时尚
-TV5Monde 法国TV5
 tvOne
 TVRI
 UNIQUES
@@ -1148,7 +1134,7 @@ Vision Prime
 viu6	Viu Six
 ViuTV	Viu TV
 ViVa 1台
-Warner TV	Warner TV_国
+Warner TV	Warner TV_台湾_国
 wedotv Movies HD	Wedotv Movies
 Wild Stuff (免费)	Wild Stuff
 Yes娱乐
@@ -1164,7 +1150,7 @@ http://epg.51zmt.top:8000/e.xml.gz
 70	四川康巴卫视
 65	山西黄河卫视
 1697	环球旅游
-1675	河南武术世界
+1675	河南武术世界(X)
 1671	证券资讯
 
 
@@ -1440,9 +1426,6 @@ IPTV8+	IPTV-8+
 生态环境
 
 
-
-
-
 #https://tv.mxdyeah.top/epgphp/t.xml
 
 
@@ -1463,7 +1446,7 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1472	东森综合台
 1551	高点育乐台
 1484	高点电视台
-1454	公视(预告)
+1454	公视
 1526	冠军电视台
 1552	冠军梦想台
 1518	国兴卫视
@@ -1666,7 +1649,7 @@ ChangeTimezone=Y
 492904	COLORS TV_新加坡
 412157	ABC Australia_港新马
 492865	Cartoon Network_港新马_英
-369730	天映电影_印尼_国英
+369730	天映电影_新加坡_国英
 369819	天映经典电影_港新菲_国英
 524990	Cricbuzz 2_新加坡
 412142	上海东方卫视_新加坡
@@ -1758,7 +1741,7 @@ ChangeTimezone=Y
 369849	SONY SAB
 535531	SEA Today(新加坡)-
 369746	SET (HINDI)(新加坡)
-369811	SONY YAY!(新加坡)
+369811	SONY YAY!
 369812	STAR Bharat
 369814	STAR Gold
 451931	Star Maa(新加坡)
