@@ -335,14 +335,14 @@ def merge_programmes(existing: ET.Element, new: ET.Element) -> ET.Element:
 
 
 def split_overnight_program(
-    programme: ET.Element,
-    start_dt: datetime,
-    stop_dt: datetime,
-    channel_id: str
-) -> List[ET.Element]:
+    programme: ET.Element,     # 原始节目XML元素
+    start_dt: datetime,               # 节目实际开始时间
+    stop_dt: datetime,               # 节目实际结束时间
+    channel_id: str                     # 频道ID
+) -> List[ET.Element]:              # 返回拆分后的两个节目元素
     """将跨天节目拆分为两个节目"""
-    end_of_day = start_dt.replace(hour=23, minute=59, second=59)
-    next_day_start = stop_dt.replace(hour=0, minute=0, second=0)
+    end_of_day = start_dt.replace(hour=23, minute=59, second=59)      # 计算拆分时间点,当天23:59:59
+    next_day_start = stop_dt.replace(hour=0, minute=0, second=0)       # 第二天00:00:00
     
     part1_start = start_dt
     part1_stop = end_of_day
