@@ -64,7 +64,6 @@ https://epg.mb6.top/heiptv.xml
 20000135	承德新闻综合
 20000121	承德旅游文化
 1153	河南卫视
-1193	贵州卫视
 20000022	湖南卫视
 20000052	浙江卫视
 20000149	安徽卫视
@@ -99,7 +98,7 @@ https://epg.mb6.top/heiptv.xml
 227238959	四海钓鱼
 258433053	河南武术世界
 258433139	河南文物宝库
-258432750	河南梨园频道(x)
+258432750	河南梨园频道
 244402779	羽毛球专区
 87307627	优购物
 437459970	优购物精选
@@ -249,14 +248,11 @@ LiTV台視	台视(LiTV)
 東森購物1台	东森购物1台
 東森購物2台	东森购物2台
 東森購物測試頻道	东森购物测试频道
-博斯高球1台	博斯高球1台
-博斯高球2台	博斯高球2台
-博斯魅力網	博斯魅力网
+博斯高球1台	博斯高球1台(B)
+博斯魅力網	博斯魅力网(B)
 博斯網球台	博斯网球台
 博斯無限台	博斯无限1台
 博斯無限2台	博斯无限2台
-博斯運動一台	博斯运动1台
-博斯運動二台	博斯运动2台
 八大精彩台	八大精彩台
 八大綜藝台	八大综艺台
 中天新聞台	中天新闻台
@@ -334,10 +330,9 @@ CHC 家庭影院	CHC家庭影院
 海峡卫视	福建海峡卫视
 福建海峡卫视国际频道 (免费)	福建海峡卫视国际频道
 安徽广播电视台国际频道 (免费)	安徽国际频道
-贵州卫视	贵州卫视(B)
+贵州卫视
 辽宁卫视
 江西卫视
-海南卫视	海南卫视(B)
 吉林卫视
 陕西卫视
 中国农林卫视	陕西农林卫视
@@ -408,7 +403,6 @@ CHC 家庭影院	CHC家庭影院
 河南法制	河南法治
 河南公共
 河南欢腾购物
-河南梨园戏曲	河南梨园频道
 河南民生
 河南晴彩中原
 河南乡村
@@ -445,7 +439,6 @@ CHC 家庭影院	CHC家庭影院
 TVB Plus (免费)	TVB Plus
 TVB星河新加坡	TVB-星河台_英
 TVBS欢乐台	TVBS-欢乐台
-TVBS精采台	TVBS-精采台(EPG1)
 TVBS看板人物-FastTV飞速看
 TVBS食尚玩家	TVBS-食尚玩家
 TVBS台剧台	TVBS-台剧台
@@ -470,10 +463,10 @@ TVB粤语片	TVB-粤语片
 黄金华剧台	TVB-黄金华剧台
 黄金翡翠台 (免费)	TVB-黄金翡翠台
 无线新闻(国际版)	TVB-无线新闻台(国际版)
-无线新闻台 (免费)	TVB-无线新闻台_非港
+无线新闻台 (免费)	TVB-无线新闻台_香港
 PopC
 tvN Movies	tvN Movies(英)
-tvN有线	tvN_港新_有线
+tvN有线	tvN_港新台_国_有线
 AMC 电影台	AMC电影台_非台_国
 amc电影台		AMC电影台(EPG2)
 粤语片台
@@ -553,7 +546,7 @@ KTV	KTV_印
 KTV HD	KTV(EPG1)
 LIFE
 Lifeime	Lifetime娱乐频道_港台_国
-Lifetime HD新加坡
+Lifetime HD新加坡	Lifetime HD_英2
 LiveABC互动英语频道
 Love Nature 4K	Love Nature 4K_国
 Love_Nature_4K	Love Nature 4K_英
@@ -572,13 +565,12 @@ myTV SUPER直播足球7台
 戏曲台	myTV SUPER戏曲台
 NBA香港	NBA TV_香港
 Netflix香港	Netflix_香港
-Nick Jr	Nick Jr._新马2
+Nick Jr	Nick Jr._英_新马3
 Nick Jr. 	Nick Jr.(swepg2)
-Nick Jr. HD
-Nick Jr. HD新加坡	Nick Jr._新加坡
-Nick Jr. 儿童频道	Nick Jr._港台1
-Nick Jr.(小尼克)	Nick Jr._港台2
-NickJr.	Nick Jr._非港2
+Nick Jr. HD	Nick Jr._英
+Nick Jr. HD新加坡	Nick Jr._英_新加坡
+Nick Jr. 儿童频道	Nick Jr._国_港台
+Nick Jr.(小尼克)	Nick Jr._国_台湾
 Nickelodeon Asia HD新加坡	Nickelodeon Asia(新加坡3)
 Nickelodeon Asia尼克儿童频道	Nickelodeon亚洲版_国2
 Nickelodeon Jr
@@ -622,7 +614,7 @@ now体育	NOW体育
 now体育4k	NOW体育4k
 now新闻	NOW新闻
 now直播 	NOW直播
-ONE	ONE HD_新马_英2
+ONE	ONE HD_新马_英
 ONE (Malay)	ONE HD_英
 ONE HD	ONE HD(swepg)
 ORIGINALS
@@ -642,7 +634,7 @@ Rock_X_Stream	Rock X Stream_英
 ROCK Xstream摇滚极限频道	Rock X Stream_国
 ROCK综艺娱乐	ROCK Entertainment_香港_国
 RT香港
-SBN全球财经台	SBN全球财经台(EPG2)
+SBN全球财经台
 Taiwan Plus
 TBC台中生活台
 SUPER FREE (免费)	SUPER FREE
@@ -697,12 +689,12 @@ elta体育max 8	爱尔达体育MAX8台
 八大戏剧HD	八大戏剧台
 半岛电视台英语频道	Al Jazeera English
 宝岛文化
+博斯魅力网有线
 博斯高球一台	博斯高球1台
 博斯高球一台有线	博斯高球1台有线
-博斯高球二台有线	博斯高球2台有线
-博斯魅力网有线
-博斯运动一台有线	博斯运动1台_有线
-博斯运动二台有线	博斯运动2台_有线
+博斯高球二台有线	博斯高球2台
+博斯运动一台有线	博斯运动1台
+博斯运动二台有线	博斯运动2台
 茶金
 超视	东森超视
 厨神明星秀-FastTV飞速看
@@ -718,7 +710,6 @@ elta体育max 8	爱尔达体育MAX8台
 电动车时代
 电影原声台CMusic
 东风卫视	东风卫视
-东森购物一台	东森购物1台(B)
 东森购物三台	东森购物3台
 东森购物四台	东森购物4台
 东森购物5台HD	东森购物5台
@@ -1113,7 +1104,6 @@ TG Junior
 that's 90s00s (免费)	That's 90s 00s
 The Filipino Channel HD	TFC (The Filipino Channel)
 Thrill	Thrill_港+X混合
-trace sport star运动明星	Trace Sport Star_港
 TRACESportStars	Trace Sport Stars_港台新_国
 TRACE Urban (免费)	Trace Urban_英
 Trans 7
@@ -1150,7 +1140,6 @@ http://epg.51zmt.top:8000/e.xml.gz
 70	四川康巴卫视
 65	山西黄河卫视
 1697	环球旅游
-1675	河南武术世界(X)
 1671	证券资讯
 
 
@@ -1438,7 +1427,6 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1599	博斯魅力网
 1595	博斯网球台
 1596	博斯无限台
-1594	博斯运动2台_有线2
 1534	诚心电视台
 1555	大立电视台
 1502	东森电影台
@@ -1467,7 +1455,6 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1517	纬来日本台
 1512	纬来体育台
 1483	纬来戏剧台
-123	TVB-无线新闻台_香港
 1559	幸福空间居家台
 1592	亚洲旅游台_台湾_国(预告+详情)
 1818	亚洲综合
@@ -1491,14 +1478,14 @@ http://epg.51zmt.top:8000/e2.xml.gz
 1813	MTV综合_台湾
 1604	Nickelodeon_国
 164	NOW财经台_英
-1533	SBN全球财经台
+1533	SBN全球财经台(EPG2)
 249	Sky News
 1461	TLC旅游生活频道_台湾
 190	TVB-J2
 1496	TVBS
-1772	TVBS-精采台(EPG2)
-122	TVB-经典台
-1580	tvN_港新_国(B)
+1772	TVBS-精采台
+122	TVB-千禧经典台(B)
+1580	tvN_港新台_国
 
 
 
@@ -1601,7 +1588,7 @@ ChangeTimezone=Y
 1072	TV3
 370131	TV6
 902	TV9
-3895	TVB-经典台(MY2)
+3895	TVB-千禧经典台(MY)
 3920	TVB-娱乐新闻台_英
 2524	TVB-翡翠台_新马_英
 3493	TVB-星河台_新马_英
@@ -1653,7 +1640,7 @@ ChangeTimezone=Y
 369819	天映经典电影_港新菲_国英
 524990	Cricbuzz 2_新加坡
 412142	上海东方卫视_新加坡
-412095	DreamWorks Channel_新加坡_英
+412095	DreamWorks_新加坡_英
 412165	Fight Sports_新加坡
 412153	HGTV_新加坡
 412116	Kalaignar TV_新加坡
@@ -1667,11 +1654,11 @@ ChangeTimezone=Y
 455187	Hub Sports 8
 369734	KBS World_港新马_英
 492851	Hub-娱家_新加坡
-369832	Lifetime HD_马来_英
-412184	Lifetime HD_新加坡_英
-491166	Nick Jr._新马_英
+369832	Lifetime HD_新马_英
+412184	Lifetime HD_英
+491166	Nick Jr._英_新马
 412130	NHK World Premium_英
-412136	Nick Jr._新马
+412136	Nick Jr._英_新马2
 492879	Nickelodeon_新马_英
 369719	ROCK Entertainment_新加坡
 369757	Sky News_新加坡
@@ -1685,7 +1672,7 @@ ChangeTimezone=Y
 412097	Vannathirai_新加坡
 412185	Zee Cinema_港新
 412115	Zee Tamil_新加坡
-369828	ZEE TV_港新
+369828	ZEE TV_港新印
 516580	Zee Thirai_新加坡
 495473	Deal or No Deal_新加坡
 512067	CCTV-娱乐
@@ -1731,7 +1718,7 @@ ChangeTimezone=Y
 492911	NOW 80s_新加坡
 512068	NOW紫金国际台 HD(新加坡)
 492870	ONE (Malay)_新加坡
-369728	ONE HD_新马_ 国英
+369728	ONE HD_新马_国英
 484245	Outdoor Channel_香港
 429564	Pesona HD
 369783	凤凰资讯台
@@ -1752,11 +1739,10 @@ ChangeTimezone=Y
 493279	TestChannel 996(新加坡)
 522557	Times Now
 369805	TVB-翡翠台_新马_中
-412106	TVB-星河台_新马_英2
 369796	TVB-星河台_新马_中英
 491163	TVBS-亚洲台_新加坡_中英
 492453	TVBS-新闻台
-369818	tvN_港新_国
+369818	tvN_港新台_国英
 530390	Vijay Takkar_新加坡
 501126	WION(新加坡)
 492880	W-Sport_新加坡
@@ -2161,7 +2147,7 @@ https://epg.pw/xmltv/epg_US.xml
 465401	NFL RedZone
 465197	NFL SUNDAY TICKET RED ZONE
 465348	NHL Network
-464911	Nick Jr. HD(US)
+464911	Nick Jr._英(US)
 465106	Nick Music
 465345	Nickelodeon Pacific
 465251	Nickelodeon HD(US)
