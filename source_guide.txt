@@ -496,14 +496,13 @@ HBO Hits香港	HBO Hits_香港_国
 HBO Signature香港	HBO Signature_香港
 HGTV HD新加坡	HGTV_英
 HGTV居家乐活频道	HGTV_港台马_国
-HISTORY HD新加坡	History Channel(新加坡)
+HISTORY HD新加坡	History Channel_非新非马
 History 历史频道有线	History Channel_台湾_国_有线
 HITS	HITS HD_港台_国
 HITS HD新加坡	HITS HD_非新马
 HITS MOVIES HD	HITS Movies_香港_英
 HITS MOVIES HD新加坡	HITS Movies_英(EPG3)
 HITS电影台 	HITS HD电影台
-HITS频道	HITS HD_港台_国2
 HITS有线	HITS HD_港台_有线
 HOY TV
 HOY 国际财经台
@@ -565,7 +564,7 @@ myTV SUPER直播足球7台
 戏曲台	myTV SUPER戏曲台
 NBA香港	NBA TV_香港
 Netflix香港	Netflix_香港
-Nick Jr	Nick Jr._英_新马3
+Nick Jr	Nick Jr._英_新马
 Nick Jr. 	Nick Jr.(swepg2)
 Nick Jr. HD	Nick Jr._英
 Nick Jr. HD新加坡	Nick Jr._英_新加坡
@@ -853,7 +852,6 @@ elta体育max 8	爱尔达体育MAX8台
 天映经典频道	天映经典电影_港新菲_国(详情)
 天映经典台新加坡	天映经典电影_英
 天映经典新加坡	天映经典电影_新加坡2
-千禧经典台(MY)	TVB-千禧经典台_(MY)
 天映经典新加坡	天映经典电影_港新菲_国
 天映经典印尼	天映经典电影_印柬_国
 天映频道马来西亚	天映电影_马来非新_国
@@ -1530,6 +1528,7 @@ ChangeTimezone=Y
 3760	Astro Vellithirai
 2058	Astro Vinmeen
 1205	AXN_港新马_英
+517640	ROCK Action_马来
 854	SYOK BAYU_马来
 3329	BBC News World_新马台(North America)
 370132	Berita RTM
@@ -1656,7 +1655,6 @@ ChangeTimezone=Y
 492851	Hub-娱家_新加坡
 369832	Lifetime HD_新马_英
 412184	Lifetime HD_英
-491166	Nick Jr._英_新马
 412130	NHK World Premium_英
 412136	Nick Jr._英_新马2
 492879	Nickelodeon_新马_英
@@ -1664,7 +1662,7 @@ ChangeTimezone=Y
 369757	Sky News_新加坡
 369846	SONY MAX_港新
 516576	SPOTV_新加坡
-412181	SPOTV_新加坡2
+412181	SPOTV_非新
 412187	SPOTV-2_新加坡
 412094	Sun Music_新加坡
 455314	TFC (The Filipino Channel)_港新
@@ -1705,7 +1703,7 @@ ChangeTimezone=Y
 412088	HBO HD_港新_英
 369840	HBO Hits_台湾_英
 369758	HBO Signature_台湾_英
-412172	History Channel_马来
+412172	History Channel_非新非马2
 412194	HITS HD
 485760	HITS NOW(新加坡)
 369774	Jia Le Channel(新加坡)
