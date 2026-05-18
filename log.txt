@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-05-18 20:05:33 (北京时间)
-当前时间: 2026-05-18 12:05:33 (UTC)
+当前时间: 2026-05-19 00:15:32 (北京时间)
+当前时间: 2026-05-18 16:15:32 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -218,14 +218,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "ELTV英語學習台" → "ELTV英语学习台"
   映射: "Focus風采戲劇台" → "Focus风采戏剧台"
   映射: "Focus歡樂綜合台" → "Focus欢乐综合台"
-  映射: "ARIRANG TV" → "Arirang TV_港台"
+  映射: "ARIRANG TV" → "Arirang TV_港台新"
   映射: "CLASSICA" → "Classica古典乐_繁中"
   映射: "CNEX Doc" → "CNEX纪实频道_繁中"
   映射: "DaVinCi" → "DaVinCi_港台"
   映射: "DayStar" → "DayStar(On-Air International)"
   映射: "Mezzo Live" → "Mezzo Live_港_国"
   映射: "Smart知識台" → "Smart知识台"
-  映射: "TRACEsport" → "Trace Sport_国"
+  映射: "TRACEsport" → "Trace Sport Stars_港台新_繁中"
   映射: "TRACEUrban" → "Trace Urban_国"
   ✅ 时区转换开关: ChangeTimezone=Y
   映射: "CCTV-4" → "CCTV4_英(EPG2)"
@@ -255,7 +255,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "深圳卫视香港" → "深圳卫视_香港"
   映射: "云南澜湄国际卫视 (免费)" → "云南澜湄国际"
   映射: "哈哈炫动" → "炫动卡通"
-  映射: "中国电影频道CCMC" → "中国电影频道CCMC_非港"
+  映射: "中国电影频道CCMC" → "CMC 北美频道"
   映射: "新闻综合" → "上海新闻综合"
   映射: "东方影视" → "上海东方影视"
   映射: "第一财经" → "上海第一财经"
@@ -275,9 +275,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "香港电台32" → "RTHK32"
   映射: "香港电台33" → "RTHK33"
   映射: "TVB Plus (免费)" → "TVB Plus"
-  映射: "TVB星河新加坡" → "TVB-星河台_英"
+  映射: "TVB星河新加坡" → "TVB-星河台_非新_英"
   映射: "TVBS欢乐台" → "TVBS-欢乐台"
-  映射: "TVBS食尚玩家" → "TVBS-食尚玩家"
   映射: "TVBS台剧台" → "TVBS-台剧台"
   映射: "无线卫星亚洲台" → "TVBS-亚洲台"
   映射: "TVBS亚洲新加坡" → "TVBS-亚洲台_英"
@@ -285,7 +284,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "娱乐新闻台 (免费)" → "TVB-娱乐新闻台_国"
   映射: "TVB翡翠剧集台(TVB Drama)" → "TVB-翡翠剧集台(TVB Drama)"
   映射: "翡翠台 (免费)" → "TVB-翡翠台_香港_国"
-  映射: "翡翠台(国际版)" → "TVB-翡翠台(国际版)"
+  映射: "翡翠台(国际版)" → "TVB-翡翠台(国际版)_非新马_国"
   映射: "翡翠一台(TVB1)" → "TVB-翡翠一台(TVB1)"
   映射: "TVB翡翠娱乐台(TVBe)" → "TVB-翡翠娱乐台(TVBe)"
   映射: "TVB翡翠综合台(TVBJ1)" → "TVB-翡翠综合台(TVBJ1)"
@@ -294,7 +293,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "TVB无线新闻台(TVB News)" → "TVB-无线新闻台_非港(TVB News)"
   映射: "TVB新闻新加坡" → "TVB-新闻新加坡"
   映射: "TVB粤语片" → "TVB-粤语片"
-  映射: "紫金国际台" → "NOW紫金国际台"
+  映射: "紫金国际台" → "NOW紫金国际台_新加坡_简中"
   映射: "爆谷台" → "NOW爆谷台"
   映射: "千禧经典台" → "TVB-千禧经典台"
   映射: "黄金华剧台" → "TVB-黄金华剧台"
@@ -307,29 +306,28 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "EYE TV旅游台HD" → "EYE TV旅游台"
   映射: "EYE TV戏剧台HD" → "EYE TV戏剧台"
   映射: "FashionTV 时尚频道" → "Fashion TV时尚频道_国"
-  映射: "HBO" → "HBO HD_港台_国"
+  映射: "HBO" → "HBO HD_港台新_国2"
   映射: "HBO HD" → "HBO HD_非台_国"
-  映射: "HBO香港" → "HBO HD_港新_国"
-  映射: "HBO Family" → "HBO Family_港台_国"
-  映射: "HBO Hits香港" → "HBO Hits_香港_国"
-  映射: "HBO Signature香港" → "HBO Signature_香港"
+  映射: "HBO Family" → "HBO Family_港台新_国"
+  映射: "HBO Hits香港" → "HBO Hits_港新_国"
+  映射: "HBO Signature香港" → "HBO Signature_香港_国"
   映射: "HGTV HD新加坡" → "HGTV_英"
-  映射: "HGTV居家乐活频道" → "HGTV_港台马_国"
+  映射: "HGTV居家乐活频道" → "HGTV_港台马新_国"
   映射: "HISTORY HD新加坡" → "History Channel_非新非马"
-  映射: "History 历史频道有线" → "History Channel_台湾_国_有线"
-  映射: "HITS" → "HITS HD_港台_国"
+  映射: "History 历史频道有线" → "History Channel_港台_国_有线"
+  映射: "HITS" → "HITS HD_港台新马_国"
   映射: "HITS HD新加坡" → "HITS HD_非新马"
   映射: "HITS MOVIES HD" → "HITS Movies_香港_英"
-  映射: "HITS MOVIES HD新加坡" → "HITS Movies_英(EPG3)"
+  映射: "HITS MOVIES HD新加坡" → "HITS Movies_非港非马非新_英"
   映射: "HITS电影台" → "HITS HD电影台"
-  映射: "HITS有线" → "HITS HD_港台_有线"
+  映射: "HITS有线" → "HITS HD_港台新马_有线"
   映射: "Hub VV Drama HD" → "Hub-娱家_非新加坡"
   映射: "iQIYI_HD" → "Astro iQIYI"
   映射: "JET综合" → "JET综合台"
   映射: "KTV" → "KTV_印"
   映射: "KTV HD" → "KTV(EPG1)"
-  映射: "Lifeime" → "Lifetime娱乐频道_港台_国"
-  映射: "Lifetime HD新加坡" → "Lifetime HD_英2"
+  映射: "Lifeime" → "Lifetime_港台_国"
+  映射: "Lifetime HD新加坡" → "Lifetime_非新马_英2"
   映射: "Love Nature 4K" → "Love Nature 4K_国"
   映射: "Love_Nature_4K" → "Love Nature 4K_英"
   映射: "LOVE NATURE有线" → "Love Nature_国"
@@ -342,13 +340,13 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "Nick Jr" → "Nick Jr._英_新马"
   映射: "Nick Jr." → "Nick Jr.(swepg2)"
   映射: "Nick Jr. HD" → "Nick Jr._英"
-  映射: "Nick Jr. HD新加坡" → "Nick Jr._英_新加坡"
+  映射: "Nick Jr. HD新加坡" → "Nick Jr._英_非新加坡"
   映射: "Nick Jr. 儿童频道" → "Nick Jr._国_港台"
   映射: "Nick Jr.(小尼克)" → "Nick Jr._国_台湾"
-  映射: "Nickelodeon Asia HD新加坡" → "Nickelodeon Asia(新加坡3)"
-  映射: "Nickelodeon Asia尼克儿童频道" → "Nickelodeon亚洲版_国2"
-  映射: "Nickelodeon香港" → "Nickelodeon_香港"
-  映射: "尼克儿童频道" → "Nickelodeon尼克儿童频道(中)"
+  映射: "Nickelodeon Asia HD新加坡" → "Nickelodeon Asia_非新_英"
+  映射: "Nickelodeon Asia尼克儿童频道" → "Nickelodeon Asia_港新马_国3"
+  映射: "Nickelodeon香港" → "Nickelodeon Asia_港新马_国2"
+  映射: "尼克儿童频道" → "Nickelodeon Asia_港新马_国4"
   映射: "now 剧集" → "NOW剧集"
   映射: "nowjeli" → "NOW紫金国际台_香港"
   映射: "now报价" → "NOW报价"
@@ -359,16 +357,17 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "now体育4k" → "NOW体育4k"
   映射: "now新闻" → "NOW新闻"
   映射: "now直播" → "NOW直播"
-  映射: "ONE" → "ONE HD_新马_英"
+  映射: "ONE" → "ONE HD_马来_英"
   映射: "ONE (Malay)" → "ONE HD_英"
-  映射: "ONE HD" → "ONE HD(swepg)"
+  映射: "ONE HD" → "ONE HD_英2"
   映射: "PETCLUBTV" → "PET CLUB TV_国"
   映射: "Rialto Classic Movies (RCM) (免费)" → "RCM(Rialto Classic Movies)"
   映射: "ROCK Action" → "Rock Action_台湾_国"
+  映射: "Rock Entertainment" → "Rock Entertainment_非港新_英"
   映射: "ROCK Extreme" → "ROCK Extreme_国"
   映射: "Rock_X_Stream" → "Rock X Stream_英"
   映射: "ROCK Xstream摇滚极限频道" → "Rock X Stream_国"
-  映射: "ROCK综艺娱乐" → "ROCK Entertainment_香港_国"
+  映射: "ROCK综艺娱乐" → "ROCK Entertainment_港新_国"
   映射: "SUPER FREE (免费)" → "SUPER FREE"
   映射: "SUPER Music (免费)" → "SUPER Music"
   映射: "SUPER Sports (免费)" → "SUPER Sports"
@@ -397,7 +396,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "东森购物三台" → "东森购物3台"
   映射: "东森购物四台" → "东森购物4台"
   映射: "东森购物5台HD" → "东森购物5台"
-  映射: "东森亚洲台新加坡" → "东森亚洲台_英"
+  映射: "东森亚洲台新加坡" → "东森亚洲卫视_非新加坡_英"
   映射: "东森洋片台" → "东森洋片"
   映射: "东森幼幼台" → "东森幼幼"
   映射: "动物星球频道" → "Animal Planet_港台_国"
@@ -411,7 +410,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "华艺台湾台 HD" → "华艺台湾台"
   映射: "靖天映画" → "靖天映画台"
   映射: "靖洋卡通Nice Bingo" → "靖洋卡通"
-  映射: "历史高清频道" → "History Channel_台湾_英(预告)"
+  映射: "历史高清频道" → "History Channel_港台_国(预告)"
   映射: "龙华经典台" → "龙华经典台(EPG2)"
   映射: "龙华戏剧台" → "龙华戏剧台(EPG2)"
   映射: "曼迪日本台HD" → "曼迪日本台"
@@ -422,7 +421,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "三立新闻HD" → "三立新闻台"
   映射: "三立新闻iNEWS" → "三立财经新闻iNEWS"
   映射: "台湾电视台" → "台视"
-  映射: "天映经典柬埔寨" → "天映经典电影_柬埔寨_国"
   映射: "天映经典马来西亚" → "天映经典电影_马来非新_国"
   映射: "天映经典频道" → "天映经典电影_港新菲_国(详情)"
   映射: "天映经典台新加坡" → "天映经典电影_英"
@@ -430,7 +428,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "天映经典新加坡" → "天映经典电影_港新菲_国"
   映射: "天映经典印尼" → "天映经典电影_印柬_国"
   映射: "天映频道马来西亚" → "天映电影_马来非新_国"
-  映射: "天映频道新加坡" → "天映电影_新加坡_国"
+  映射: "天映频道新加坡" → "天映电影_非新_国"
   映射: "天映频道印尼" → "天映电影_印尼_国"
   映射: "纬来精采HD" → "纬来精采"
   映射: "纬来综合HD" → "纬来综合台"
@@ -439,14 +437,13 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "信吉艺文台HD" → "信吉艺文台"
   映射: "亚洲剧台" → "TVB-亚洲剧台"
   映射: "亚洲旅游HD" → "亚洲旅游台_非台_国"
-  映射: "亚洲美食台香港" → "Asian Food Network_港台"
   映射: "亚洲新闻台" → "CNA"
   映射: "原住民族电视台" → "原住民电视"
   映射: "中视HD" → "中视"
   映射: "中视菁采台HD" → "中视菁采台"
   映射: "中天亚洲台新加坡" → "中天亚洲台_英"
   映射: "中天娱乐HD" → "中天娱乐"
-  映射: "罪案侦查频道" → "Crime & Investigation_港台新马_国"
+  映射: "罪案侦查频道" → "Crime & Investigation_港台新马_国(详情)"
   映射: "韩国娱乐KMTV" → "韩国娱乐台KMTV_台湾"
   映射: "韩国娱乐台 KMTV" → "韩国娱乐台KMTV_台湾_简中"
   映射: "Astro_First_HD" → "Astro First"
@@ -469,17 +466,18 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "FRANCE24 英文台" → "France 24 English_台湾"
   映射: "GINX Esports TV" → "GINX Esports电竞频道_国"
   映射: "Global Trekker探索世界频道" → "Global Trekker_英"
-  映射: "GlobalTrekker" → "Global Trekker_国"
+  映射: "GlobalTrekker" → "Global Trekker_国(标题)"
   映射: "Globetrotter (免费)" → "Globet Trotter"
   映射: "GLOBLTREKKER探索世界" → "Global Trekker_国(详情)"
-  映射: "TLC旅游生活频道香港" → "TLC旅游生活频道_香港"
+  映射: "TLC旅游生活频道香港" → "TLC_港马新_国"
   映射: "Golden 强片台" → "Golden强片台"
   映射: "ABC Australia" → "ABC Australia_Youtube"
   映射: "ABC澳大利亚电视台" → "ABC Australia(澳大利亚)"
   映射: "Adithya" → "Adithya TV_马来"
+  映射: "ADITHYA TV" → "Adithya TV"
   映射: "Animax HD" → "Animax_英"
-  映射: "Animax香港" → "Animax_港新_国"
-  映射: "Asian Food Network 亚洲美食频道" → "Asian Food Network_国"
+  映射: "Animax香港" → "Animax_香港_国"
+  映射: "Asian Food Network 亚洲美食频道" → "Asian Food Network_港台新_国"
   映射: "Asianet" → "Asianet TV"
   映射: "BBC EARTH" → "BBC Earth_新马港台_国"
   映射: "BBC_First_HD" → "BBC First"
@@ -497,10 +495,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "CATCH PLAY电影台" → "CATCHPLAY电影台_台湾"
   映射: "Cbeebies" → "CBeebies_港新_国"
   映射: "CBeebies HD" → "CBeebies_英"
-  映射: "CI 罪案侦查频道" → "Crime & Investigation_港台新马_国2"
+  映射: "CI 罪案侦查频道" → "Crime & Investigation_港台新马_国(标题)"
   映射: "cinemalworld世界电影频道有线" → "cinemaworld_台湾_国+详情"
   映射: "CinemaWorld频道" → "CinemaWorld_台新_国"
-  映射: "CINEMAX HD" → "Cinemax HD_台湾_国_有线"
+  映射: "CINEMAX HD" → "Cinemax HD_台新_国_有线"
   映射: "CLASSIC_ROCK" → "Classic ROCK"
   映射: "CLASSICA 古典乐" → "Classica古典乐"
   映射: "CNBC HD" → "CNBC (非新加坡)"
@@ -532,8 +530,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "Zee Thirai" → "Zee Thirai(EPG1)"
   映射: "Kalaignar TV" → "Kalaignar TV(EPG1)"
   映射: "Karisma" → "Karisma(EPG2)"
-  映射: "KBSWorld" → "KBS World(swepg)"
-  映射: "KBS World HD" → "KBS World"
+  映射: "KBSWorld" → "KBS World_非新加坡_英"
+  映射: "KBS World HD" → "KBS World_非新加坡_英2"
   映射: "KBS World香港" → "KBS World_港新马_国"
   映射: "mbc action" → "mbc action"
   映射: "Medici-arts HD" → "Medici-Arts"
@@ -557,7 +555,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "that's 90s00s (免费)" → "That's 90s 00s"
   映射: "The Filipino Channel HD" → "TFC (The Filipino Channel)"
   映射: "Thrill" → "Thrill_港+X混合"
-  映射: "TRACESportStars" → "Trace Sport Stars_港台新_国"
+  映射: "TRACESportStars" → "Trace Sport Stars_港台新_简中"
   映射: "TRACE Urban (免费)" → "Trace Urban_英"
   映射: "TravelChannel" → "Travel Channel_台湾_国"
   映射: "TV_Sarawak" → "TV Sarawak"
@@ -700,19 +698,19 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "1507" → "AXN_港新马_国"
   映射: "1577" → "BlueAnt Entertainment"
   映射: "1560" → "Channel News Asia"
-  映射: "1511" → "Cinemax HD_香港_国"
+  映射: "1511" → "Cinemax HD_港新_国"
   映射: "230" → "Cartoon Network_台湾"
   映射: "1810" → "ELTV英语学习台(B)"
   映射: "1579" → "Food Network_港台_国"
-  映射: "1505" → "HBO HD_国2"
-  映射: "1574" → "HBO Hits_台湾_国"
-  映射: "1575" → "HBO Signature_台湾_国"
-  映射: "1783" → "History Channel_香港_国"
+  映射: "1505" → "HBO HD_港台新_国"
+  映射: "1574" → "HBO Hits_台新_国"
+  映射: "1575" → "HBO Signature_台新_国"
+  映射: "1783" → "History Channel_港台_国"
   映射: "194" → "Mezzo Live_港_英"
   映射: "1464" → "MOMO亲子台"
   映射: "1536" → "MTV_英"
   映射: "1813" → "MTV综合_台湾"
-  映射: "1604" → "Nickelodeon_国"
+  映射: "1604" → "Nickelodeon Asia_新马_国"
   映射: "164" → "NOW财经台_英"
   映射: "1533" → "SBN全球财经台(EPG2)"
   映射: "249" → "Sky News"
@@ -727,7 +725,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "2181" → "ABO Movies Thangathirai"
   映射: "1584" → "Al-Hijrah"
   映射: "479619" → "Apetito"
-  映射: "997" → "Asian Food Network_英"
+  映射: "997" → "Asian Food Network_港台新_英"
   映射: "2226" → "Astro AEC"
   映射: "2124" → "Astro AOD"
   映射: "2552" → "Astro Arena"
@@ -762,7 +760,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "3760" → "Astro Vellithirai"
   映射: "2058" → "Astro Vinmeen"
   映射: "1205" → "AXN_港新马_英"
-  映射: "517640" → "ROCK Action_马来"
+  映射: "517640" → "ROCK Action_马来_英"
   映射: "854" → "SYOK BAYU_马来"
   映射: "3329" → "BBC News World_新马台(North America)"
   映射: "370132" → "Berita RTM"
@@ -775,24 +773,24 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "461591" → "CGTN英文纪录_英"
   映射: "3325" → "Colors Hindi"
   映射: "1358" → "Discovery Asia_英"
-  映射: "3437" → "Discovery Channel_新马"
-  映射: "2756" → "DW English Europe_马来"
+  映射: "3437" → "Discovery Channel_新马_英"
+  映射: "2756" → "DW English Europe_新马"
   映射: "491" → "ERA FM"
   映射: "479449" → "Fitrah"
   映射: "533" → "GOLD(MY)"
   映射: "2300" → "Golf Channel(EPG1)"
   映射: "2830" → "GOXUAN"
-  映射: "2473" → "HGTV_港台马_英"
-  映射: "1477" → "History Channel_新马"
-  映射: "2208" → "HITS HD_新马"
-  映射: "186250" → "HITS NOW_马来"
+  映射: "2473" → "HGTV_港台马新_英"
+  映射: "1477" → "History Channel_新马_英"
+  映射: "2208" → "HITS HD_港台新马_英"
+  映射: "186250" → "HITS NOW_新马"
   映射: "494" → "HITZ FM"
   映射: "601" → "INDIA BEAT"
   映射: "643" → "JAZZ(MY)"
   映射: "502308" → "JR."
   映射: "863" → "KENYALANG(MY)"
   映射: "2652" → "K-Plus"
-  映射: "4183" → "KTV_新马"
+  映射: "4183" → "KTV_马来"
   映射: "531" → "LITE FM"
   映射: "771" → "MELODY FM"
   映射: "495" → "MIX FM"
@@ -815,7 +813,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "4185" → "Sun News"
   映射: "556" → "THR GEGAR"
   映射: "848" → "THR RAAGA"
-  映射: "3234" → "TLC HD_马来"
+  映射: "3234" → "TLC_港马新_英"
   映射: "3683" → "TV1 HD"
   映射: "3711" → "TV2 HD"
   映射: "1072" → "TV3"
@@ -832,11 +830,36 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "2801" → "ZAYAN"
   映射: "4221" → "Zee Cinema_马来"
   映射: "2885" → "Zee Tamil_马来"
-  映射: "3575" → "HITS Movies_马来"
+  映射: "3575" → "HITS Movies_马来_英"
   ✅ 时区转换开关: ChangeTimezone=Y
   映射: "368369" → "TVB-明珠台"
   映射: "368350" → "KIX_香港"
   ✅ 时区转换开关: ChangeTimezone=Y
+  映射: "512067" → "CCTV-娱乐"
+  映射: "412142" → "上海东方国际_新加坡"
+  映射: "492911" → "NOW 80s_新加坡"
+  映射: "512068" → "NOW紫金国际台_新加坡_繁中"
+  映射: "369783" → "凤凰资讯台"
+  映射: "412145" → "凤凰资讯台_新加坡_英"
+  映射: "369805" → "TVB-翡翠台_新马_中"
+  映射: "369796" → "TVB-星河台_新马_中英"
+  映射: "491163" → "TVBS-亚洲台_新加坡_中英"
+  映射: "492453" → "TVBS-新闻台"
+  映射: "369818" → "tvN_港新台_国英"
+  映射: "530390" → "Vijay Takkar_新加坡"
+  映射: "501126" → "WION_新加坡"
+  映射: "492880" → "W-Sport_新加坡"
+  映射: "501125" → "北京国际频道"
+  映射: "522556" → "湖南国际频道_新加坡"
+  映射: "491151" → "东森亚洲卫视_新加坡_国"
+  映射: "492856" → "东森亚洲卫视_新加坡_英"
+  映射: "369789" → "中天亚洲_新加坡"
+  映射: "369730" → "天映电影_新加坡_国英"
+  映射: "369819" → "天映经典电影_港新菲_国英"
+  映射: "369774" → "佳乐(新加坡)"
+  映射: "492851" → "Hub-娱家_新加坡"
+  映射: "369806" → "e-乐"
+  映射: "369748" → "CM+_新加坡"
   映射: "492816" → "Channel 5"
   映射: "492894" → "Channel 8_国英"
   映射: "513276" → "Channel 8_国"
@@ -850,27 +873,29 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "535444" → "That's Rock_新加坡"
   映射: "492896" → "Trace Sport Stars_港台新_英"
   映射: "492878" → "TG Junior_新加坡"
-  映射: "412123" → "ADITHYA TV_新加坡"
-  映射: "435717" → "Asianet TV_新加坡"
+  映射: "412123" → "Adithya TV_新加坡"
+  映射: "412103" → "Asianet TV_新加坡"
+  映射: "435717" → "Asianet TV_非新加坡"
+  映射: "369723" → "Asianet Movies_新加坡"
   映射: "492892" → "BBC Earth_新马港台_英"
-  映射: "492863" → "BBC Lifestyle_新加坡_英"
+  映射: "492863" → "BBC Lifestyle_港台新_英"
   映射: "492869" → "Astro Sensasi_新加坡"
+  映射: "516575" → "Astro Prima_新加坡"
   映射: "412167" → "beIN Sports-1_新马"
   映射: "412129" → "beIN Sports-2_新马"
   映射: "524985" → "beIN Sports-3_新马"
   映射: "524983" → "beIN Sports-4_新马"
   映射: "492823" → "CinemaWorld_新加坡_英"
   映射: "369816" → "CBeebies_港新_英"
-  映射: "492904" → "COLORS TV_新加坡"
+  映射: "492904" → "Colors TV_新加坡2"
+  映射: "69854" → "Colors Tamil_新加坡"
+  映射: "491167" → "KTV_新加坡"
   映射: "412157" → "ABC Australia_港新马"
   映射: "492865" → "Cartoon Network_港新马_英"
-  映射: "369730" → "天映电影_新加坡_国英"
-  映射: "369819" → "天映经典电影_港新菲_国英"
   映射: "524990" → "Cricbuzz 2_新加坡"
-  映射: "412142" → "上海东方卫视_新加坡"
   映射: "412095" → "DreamWorks_新加坡_英"
   映射: "412165" → "Fight Sports_新加坡"
-  映射: "412153" → "HGTV_新加坡"
+  映射: "412153" → "HGTV_非新加坡"
   映射: "412116" → "Kalaignar TV_新加坡"
   映射: "492915" → "Karisma_新加坡"
   映射: "492895" → "Hub-都会台"
@@ -881,18 +906,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "524981" → "Hub Sports 7"
   映射: "455187" → "Hub Sports 8"
   映射: "369734" → "KBS World_港新马_英"
-  映射: "492851" → "Hub-娱家_新加坡"
-  映射: "369832" → "Lifetime HD_新马_英"
-  映射: "412184" → "Lifetime HD_英"
+  映射: "369832" → "Lifetime_新马_英"
   映射: "412130" → "NHK World Premium_英"
-  映射: "412136" → "Nick Jr._英_新马2"
-  映射: "492879" → "Nickelodeon_新马_英"
-  映射: "369719" → "ROCK Entertainment_新加坡"
+  映射: "412136" → "Nick Jr._英_非新加坡2"
+  映射: "492879" → "Nickelodeon Asia_新马_英"
+  映射: "369719" → "ROCK Entertainment_港新_英"
   映射: "369757" → "Sky News_新加坡"
   映射: "369846" → "SONY MAX_港新"
   映射: "516576" → "SPOTV_新加坡"
   映射: "412181" → "SPOTV_非新"
-  映射: "412187" → "SPOTV-2_新加坡"
+  映射: "516577" → "SPOTV-2_新加坡"
   映射: "412094" → "Sun Music_新加坡"
   映射: "455314" → "TFC (The Filipino Channel)_港新"
   映射: "412120" → "Travelxp HD_新加坡"
@@ -902,80 +925,65 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "369828" → "ZEE TV_港新印"
   映射: "516580" → "Zee Thirai_新加坡"
   映射: "495473" → "Deal or No Deal_新加坡"
-  映射: "512067" → "CCTV-娱乐"
   映射: "369770" → "HITS Movies_新加坡_英"
-  映射: "369785" → "Animal Planet(新加坡)"
-  映射: "491159" → "ANIPLUS(新加坡)"
-  映射: "516579" → "Astro Ria(新加坡)"
-  映射: "412199" → "Bloomberg Originals_台湾？"
+  映射: "369785" → "Animal Planet_新加坡_英"
+  映射: "491159" → "ANIPLUS_新加坡_英"
+  映射: "516579" → "Astro Ria_新加坡_英"
+  映射: "412199" → "Bloomberg Originals_新加坡_英"
   映射: "369771" → "Bloomberg TV"
   映射: "535553" → "C+I (HD)(新加坡)-"
-  映射: "412096" → "Cinemax HD_台湾_英"
-  映射: "369742" → "Citra Drama"
-  映射: "369748" → "CM+(新加坡)"
+  映射: "412096" → "Cinemax HD_台新_英"
+  映射: "369742" → "Citra Drama_新加坡"
   映射: "492866" → "Crime & Investigation_港台新马_英"
-  映射: "369824" → "Drama Channel(新加坡)"
+  映射: "369824" → "Drama Channel_新加坡"
   映射: "412178" → "DW English"
-  映射: "369806" → "e-乐"
-  映射: "491151" → "东森亚洲卫视_新加坡_国"
-  映射: "492856" → "东森亚洲卫视_新加坡_英"
   映射: "412122" → "Euronews_新加坡"
   映射: "412197" → "Fashion TV(新加坡)"
   映射: "492858" → "Food ON_新加坡"
   映射: "412190" → "France 24 English_新马"
   映射: "369839" → "France 24 French_新加坡"
-  映射: "491154" → "GMA Life TV"
-  映射: "491164" → "GMA News TV"
-  映射: "491168" → "GMA Pinoy TV_香港"
-  映射: "369786" → "HBO Family_英(新加坡)"
-  映射: "412195" → "HBO Family_港台_英"
+  映射: "491154" → "GMA Life TV_新加坡"
+  映射: "491164" → "GMA News TV_新加坡"
+  映射: "491168" → "GMA Pinoy TV_港新"
+  映射: "369786" → "HBO Family_港台新_英"
+  映射: "412195" → "HBO Family_非港台新_英"
   映射: "412088" → "HBO HD_港新_英"
-  映射: "369840" → "HBO Hits_台湾_英"
-  映射: "369758" → "HBO Signature_台湾_英"
+  映射: "369840" → "HBO Hits_港台新_英"
+  映射: "369758" → "HBO Signature_台新_英"
   映射: "412172" → "History Channel_非新非马2"
-  映射: "412194" → "HITS HD"
-  映射: "485760" → "HITS NOW(新加坡)"
-  映射: "369774" → "Jia Le Channel(新加坡)"
-  映射: "451933" → "MAA Movies(新加坡)"
+  映射: "412194" → "HITS HD_英"
+  映射: "485760" → "HITS NOW_非新加坡"
+  映射: "492832" → "Animax_新加坡_英"
+  映射: "451933" → "MAA Movies_新加坡"
   映射: "507899" → "Master Chef"
   映射: "369773" → "mio Sports"
   映射: "369717" → "mio Sports-2"
   映射: "369802" → "mio Sports-3"
   映射: "369804" → "MTV India"
-  映射: "492911" → "NOW 80s_新加坡"
-  映射: "512068" → "NOW紫金国际台 HD(新加坡)"
-  映射: "492870" → "ONE (Malay)_新加坡"
-  映射: "369728" → "ONE HD_新马_国英"
-  映射: "484245" → "Outdoor Channel_香港"
-  映射: "429564" → "Pesona HD"
-  映射: "369783" → "凤凰资讯台"
-  映射: "412145" → "凤凰资讯台_新加坡_英"
+  映射: "492870" → "ONE (Malay)_新马_英"
+  映射: "369728" → "ONE (Malay)_新马_国英"
+  映射: "484245" → "Outdoor Channel_港新"
+  映射: "429564" → "Pesona_新加坡_英"
+  映射: "522558" → "Zoom TV_新加坡"
   映射: "412148" → "Preview Channel(新加坡)"
-  映射: "369727" → "ROCK Action(新加坡)"
+  映射: "369727" → "ROCK Action_新加坡_英"
   映射: "369849" → "SONY SAB"
   映射: "535531" → "SEA Today(新加坡)-"
-  映射: "369746" → "SET (HINDI)(新加坡)"
-  映射: "369811" → "SONY YAY!"
-  映射: "369812" → "STAR Bharat"
-  映射: "369814" → "STAR Gold"
-  映射: "451931" → "Star Maa(新加坡)"
+  映射: "369746" → "SET (HINDI)_新加坡"
+  映射: "369849" → "SAB TV_新加坡"
+  映射: "369811" → "SONY YAY!_新加坡_英"
+  映射: "369812" → "STAR Bharat_新加坡"
+  映射: "369814" → "STAR Gold_新加坡"
+  映射: "451931" → "Star Maa_新加坡"
   映射: "369844" → "STAR Plus"
   映射: "459681" → "Star Hub(新加坡)"
   映射: "516581" → "TechStorm"
   映射: "413372" → "TestChannel 993(新加坡)"
   映射: "493279" → "TestChannel 996(新加坡)"
-  映射: "522557" → "Times Now"
-  映射: "369805" → "TVB-翡翠台_新马_中"
-  映射: "369796" → "TVB-星河台_新马_中英"
-  映射: "491163" → "TVBS-亚洲台_新加坡_中英"
-  映射: "492453" → "TVBS-新闻台"
-  映射: "369818" → "tvN_港新台_国英"
-  映射: "530390" → "Vijay Takkar_新加坡"
-  映射: "501126" → "WION(新加坡)"
-  映射: "492880" → "W-Sport_新加坡"
-  映射: "501125" → "北京国际频道"
-  映射: "522556" → "湖南国际频道(EPG2)"
-  映射: "522558" → "Zoom TV(新加坡)"
+  映射: "522557" → "Times Now_新加坡"
+  映射: "369772" → "Colors TV_新加坡"
+  映射: "501127" → "ABS-CBN News Channel_新加坡"
+  映射: "412186" → "Cinema One Global_新加坡"
   映射: "465049" → "365BLK"
   映射: "465147" → "5 StarMAX East"
   映射: "484875" → "80s Sitcoms"
@@ -1220,10 +1228,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "464953" → "HBO Comedy"
   映射: "465201" → "HBO Drama"
   映射: "464745" → "HBO East"
-  映射: "465255" → "HBO Hits"
+  映射: "465255" → "HBO Hits_英"
   映射: "464960" → "HBO Latino"
   映射: "480609" → "HBO Movies"
-  映射: "465279" → "HBO Signature HD(US)"
+  映射: "465279" → "HBO Signature_非港台新_英"
   映射: "465302" → "HBO West"
   映射: "465104" → "HBO Zone"
   映射: "464985" → "HBO2 Pacific"
@@ -1265,7 +1273,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "496614" → "Laff"
   映射: "464971" → "Law and Crime"
   映射: "465031" → "LifeS"
-  映射: "465290" → "Lifetime HD(US)"
+  映射: "465290" → "Lifetime_非新马_英"
   映射: "465002" → "Lifetime Real Women"
   映射: "465286" → "Living Faith Network"
   映射: "484884" → "Living With Evil"
@@ -1625,7 +1633,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "465070" → "ZooMoo(US)"
   映射: "明珠台" → "TVB-明珠台"
   映射: "BBC Earth" → "BBC Earth_新马港台_中繁+详情"
-  映射: "BBC Lifestyle" → "BBC Lifestyle_港台_国"
+  映射: "BBC Lifestyle" → "BBC Lifestyle_港台新_国"
   映射: "Now Sports 精選" → "Now Sports精选"
   映射: "商業電台 雷霆881" → "商业电台 雷霆881"
   映射: "商業電台 AM864" → "商业电台 AM864"
@@ -1790,15 +1798,15 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     别名映射: 111 个
   - https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     时区处理: 强制转换为北京时间 (+0800)
-    频道数量: 807
-    别名映射: 344 个
+    频道数量: 801
+    别名映射: 342 个
   - http://epg.51zmt.top:8000/e.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
     频道数量: 7
     别名映射: 7 个
   - https://liliu.serv00.net/epg/cn.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
-    频道数量: 268
+    频道数量: 269
     别名映射: 77 个
   - http://epg.51zmt.top:8000/e2.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
@@ -1814,8 +1822,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     别名映射: 2 个
   - https://epg.pw/xmltv/epg_SG.xml
     时区处理: 强制转换为北京时间 (+0800)
-    频道数量: 139
-    别名映射: 139 个
+    频道数量: 149
+    别名映射: 149 个
   - https://epg.pw/xmltv/epg_US.xml
     时区: 保持原XML时区（可能是未指定或+8时区）
     频道数量: 647
@@ -1874,16 +1882,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天节目拆分: 84 个
     🔗 智能合并更新: 43 个节目
     ⚠ 未找到频道: 揭阳生活
-    ⚠ 未找到频道: 愛爾達娛樂
     ⚠ 未找到频道: 现代教育
+    ⚠ 未找到频道: 愛爾達娛樂
     📺 新增频道: 190/193
     📅 新增节目: 40759/41831
    ✅ 处理成功
 
 ------------------------------------------------------------
 📡 源 4/14: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
-   请求频道: 807 个
-   需要查找: 806 个
+   请求频道: 801 个
+   需要查找: 800 个
     🌐 开始下载: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     ✅ requests 下载成功
     🕐 时间范围: 2026-05-12 00:00 到 2026-05-22 00:00 (UTC)
@@ -1892,27 +1900,27 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 2140 个
-    🔗 智能合并更新: 4313 个节目
+    ✂️ 跨天节目拆分: 2131 个
+    🔗 智能合并更新: 4308 个节目
     ⚠ 未找到频道: HOY 国际财经台
-    ⚠ 未找到频道: HOY 资讯台
     ⚠ 未找到频道: Hub Sports 2
+    ⚠ 未找到频道: HOY TV
     ⚠ 未找到频道: SUPER单元剧 (免费)
+    ⚠ 未找到频道: Hub Sports 3
     ⚠ 未找到频道: 亚洲综合HD演唱会直击
-    ⚠ 未找到频道: BBC_First_HD
+    ⚠ 未找到频道: 1905App 热血影院
+    ⚠ 未找到频道: HOY 资讯台
+    ⚠ 未找到频道: FashionTV 时尚频道
     ⚠ 未找到频道: ROCK ACTION Rock Action_香港_国
     ⚠ 未找到频道: Hub Sports 1
-    ⚠ 未找到频道: 南京新闻综合
-    ⚠ 未找到频道: HITS电影台
-    ⚠ 未找到频道: HOY TV
-    ⚠ 未找到频道: Nick Jr.
-    ⚠ 未找到频道: now直播
     ⚠ 未找到频道: SUPER识叹 (免费)
-    ⚠ 未找到频道: FashionTV 时尚频道
-    ⚠ 未找到频道: Hub Sports 3
-    ⚠ 未找到频道: 1905App 热血影院
-    📺 新增频道: 788/805
-    📅 新增节目: 58264/76436
+    ⚠ 未找到频道: HITS电影台
+    ⚠ 未找到频道: Nick Jr.
+    ⚠ 未找到频道: 南京新闻综合
+    ⚠ 未找到频道: now直播
+    ⚠ 未找到频道: BBC_First_HD
+    📺 新增频道: 782/799
+    📅 新增节目: 56215/74327
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1934,7 +1942,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 6/14: https://liliu.serv00.net/epg/cn.xml.gz
-   请求频道: 268 个
+   请求频道: 269 个
    需要查找: 267 个
     🌐 开始下载: https://liliu.serv00.net/epg/cn.xml.gz
     ✅ requests 下载成功
@@ -1944,22 +1952,22 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 76 个
+    ✂️ 跨天节目拆分: 78 个
     🔗 智能合并更新: 12 个节目
-    ⚠ 未找到频道: 纯享4K
-    ⚠ 未找到频道: 星空卫视
     ⚠ 未找到频道: 淘Baby
+    ⚠ 未找到频道: 内蒙古农牧
+    ⚠ 未找到频道: 福建乡村振兴
+    ⚠ 未找到频道: 纯享4K
+    ⚠ 未找到频道: 环球经典
+    ⚠ 未找到频道: 福建旅游
+    ⚠ 未找到频道: 星空卫视
     ⚠ 未找到频道: 福建文体
+    ⚠ 未找到频道: 福建电视剧
+    ⚠ 未找到频道: 河北影视剧
     ⚠ 未找到频道: IPTV足球
     ⚠ 未找到频道: 福建经济
-    ⚠ 未找到频道: 环球经典
-    ⚠ 未找到频道: 河北影视剧
-    ⚠ 未找到频道: 福建旅游
-    ⚠ 未找到频道: 内蒙古农牧
-    ⚠ 未找到频道: 福建电视剧
-    ⚠ 未找到频道: 福建乡村振兴
     📺 新增频道: 255/267
-    📅 新增节目: 10541/10555
+    📅 新增节目: 10617/10633
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2019,8 +2027,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 10/14: https://epg.pw/xmltv/epg_SG.xml
-   请求频道: 139 个
-   需要查找: 138 个
+   请求频道: 149 个
+   需要查找: 148 个
     🌐 开始下载: https://epg.pw/xmltv/epg_SG.xml
     ✅ requests 下载成功
     🕐 时间范围: 2026-05-12 00:00 到 2026-05-22 00:00 (UTC)
@@ -2029,13 +2037,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 708 个
-    🔗 智能合并更新: 84 个节目
+    ✂️ 跨天节目拆分: 736 个
+    🔗 智能合并更新: 93 个节目
     ⚠ 未找到频道: 535531
-    ⚠ 未找到频道: 535553
     ⚠ 未找到频道: 492911
-    📺 新增频道: 135/138
-    📅 新增节目: 14812/20858
+    ⚠ 未找到频道: 69854
+    ⚠ 未找到频道: 535553
+    📺 新增频道: 143/147
+    📅 新增节目: 15554/21754
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2059,7 +2068,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ------------------------------------------------------------
 📡 源 12/14: https://epg.yang-1989.eu.org/epg.xml
    请求频道: 7 个
-   需要查找: 5 个
+   需要查找: 6 个
     🌐 开始下载: https://epg.yang-1989.eu.org/epg.xml
     🔄 重试 1/3
     🔄 重试 2/3
@@ -2081,7 +2090,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 186 个
     📺 新增频道: 101/101
-    📅 新增节目: 3380/3381
+    📅 新增节目: 3349/3350
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2096,18 +2105,18 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 80 个
+    ✂️ 跨天节目拆分: 79 个
     📺 新增频道: 43/43
-    📅 新增节目: 3061/3061
+    📅 新增节目: 2946/2946
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 62.11 MB
-  频道数: 2428
-  节目数: 210006
+  大小: 61.90 MB
+  频道数: 2430
+  节目数: 208629
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2122,8 +2131,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 6.18 MB (90.0% 压缩率)
-  ✅ 压缩率: 90.0%
+  ✅ 压缩完成: 6.15 MB (90.1% 压缩率)
+  ✅ 压缩率: 90.1%
 
 🧹 清理临时文件...
 ✅ 清理完成
@@ -2131,10 +2140,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-05-18 20:06:45 (北京时间)
-总耗时: 72.23 秒
+结束时间: 2026-05-19 00:16:38 (北京时间)
+总耗时: 65.71 秒
 成功处理: 12/14 个源
-成功处理: 2428 个频道，210006 条节目
+成功处理: 2430 个频道，208629 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
