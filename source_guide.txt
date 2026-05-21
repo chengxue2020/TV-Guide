@@ -353,7 +353,7 @@ CHC 家庭影院	CHC家庭影院
 哈哈炫动	炫动卡通
 国学时代界
 1905App 环球经典
-1905App 热血影院
+1905App 热血·影院
 中国电影频道CCMC	CMC 北美频道
 睛彩竞技
 #上海
@@ -413,7 +413,7 @@ CHC 家庭影院	CHC家庭影院
 江苏公共新闻频道
 江苏教育
 江苏体育休闲频道
-南京新闻综合
+南京新闻综合频道
 南京教科频道
 南京十八频道
 溧水新闻综合
@@ -501,9 +501,9 @@ HITS MOVIES HD	HITS Movies_香港_英
 HITS MOVIES HD新加坡	HITS Movies_非港非马非新_英
 HITS电影台 	HITS HD电影台
 HITS有线	HITS HD_港台新马_有线
-HOY TV
-HOY 国际财经台
-HOY 资讯台
+HOY 76	HOY 国际财经台
+HOY 77	HOY TV
+HOY 78	HOY 资讯台
 Hub Premier 1
 Hub Premier 10
 Hub Premier 11
@@ -515,9 +515,9 @@ Hub Premier 6
 Hub Premier 7
 Hub Premier 8
 Hub Premier 9
-Hub Sports 1
-Hub Sports 2
-Hub Sports 3
+Hub Sports 1 HD	Hub Sports 1
+Hub Sports 2 HD	Hub Sports 2
+Hub Sports 3 HD	Hub Sports 3
 Hub VV Drama HD	Hub-娱家_非新加坡
 IDX
 IMC
@@ -609,7 +609,7 @@ now财经	NOW财经台_国
 now体育	NOW体育
 now体育4k	NOW体育4k
 now新闻	NOW新闻
-now直播 	NOW直播
+now直播	NOW直播
 ONE	ONE HD_马来_英
 ONE (Malay)	ONE HD_英
 ONE HD	ONE HD_英2
@@ -638,10 +638,8 @@ SUPER Kids Channel
 SUPER Music (免费)	SUPER Music
 SUPER Sports (免费)	SUPER Sports
 SUPER煲剧 (免费)	SUPER煲剧
-SUPER单元剧 (免费)	SUPER单元剧
 SUPER奖门人 (免费)	SUPER奖门人
 SUPER识食 (免费)	SUPER识食
-SUPER识叹 (免费)	SUPER识叹
 魅力足球
 咪咕体育
 松视1台
@@ -869,7 +867,7 @@ elta体育max 8	爱尔达体育MAX8台
 亚洲旅游HD	亚洲旅游台_非台_国
 亚洲卫视
 亚洲新闻台	CNA
-亚洲综合HD演唱会直击
+亚洲综合HD
 壹电视电影台
 壹电视新闻台
 壹电视资讯台
