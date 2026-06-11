@@ -36,7 +36,6 @@ https://epg.mb6.top/heiptv.xml
 20000123	张家口新闻综合
 20000122	张家口公共
 20000114	保定新闻综合
-20000141	保定公共频道
 20000140	保定生活健康
 20000153	唐山新闻综合
 20000151	唐山公共
@@ -529,7 +528,6 @@ JStar极限台电影频道
 Kids TV
 KIX
 KIX电影台
-kix非洲
 kix菲律宾
 kix新加坡
 kix亚洲
@@ -556,7 +554,6 @@ myTV SUPER直播足球6台
 myTV SUPER直播足球7台
 华语剧台	myTV SUPER华语剧台
 戏曲台	myTV SUPER戏曲台
-NBA香港	NBA TV_香港
 Netflix香港	Netflix_香港
 Nick Jr	Nick Jr._英_新马
 Nick Jr. 	Nick Jr.(swepg2)
@@ -688,13 +685,10 @@ elta体育max 8	爱尔达体育MAX8台
 博斯运动二台有线	博斯运动2台
 茶金
 超视	东森超视
-厨神明星秀-FastTV飞速看
 创世电视 (免费)	创世电视
 达文西频道
 大爱电视	大爱电视
 大爱二台
-大爱精选-FastTV飞速看
-大兵日记-FastTV飞速看
 大台中生活频道台
 第1商业台
 第一神拳
@@ -738,14 +732,11 @@ elta体育max 8	爱尔达体育MAX8台
 华藏卫星电视台	华藏卫视
 华视
 华视HD	华视HD_与华视节目不同
-华视好剧-FastTV飞速看
 华视教育体育文化台
 华视新闻资讯台
 华艺MBC综合台有线
 华艺台湾台 HD	华艺台湾台
 华艺影剧台
-怀旧经典电影-FastTV飞速看
-环游世界800天 -FastTV飞速看
 寰宇全视界
 寰宇新闻台湾台
 健康2.0
@@ -757,7 +748,6 @@ elta体育max 8	爱尔达体育MAX8台
 经典卡通台
 精彩陆剧-FastTV飞速看
 精选动漫台
-精选华语电影-FastTV飞速看
 靖天电影台
 靖天购物一台有线
 靖天欢乐台
@@ -770,7 +760,6 @@ elta体育max 8	爱尔达体育MAX8台
 九九敬老频道
 居家乐活频道香港
 喀秋莎
-客家好剧-FastTV飞速看
 空中英语教室
 恐怖电影-FastTV飞速看
 蜡笔小新(中文版)
@@ -783,7 +772,6 @@ elta体育max 8	爱尔达体育MAX8台
 龙华戏剧台	龙华戏剧台(EPG2)
 龙华洋片台
 旅游频道香港
-旅游生活
 麦卡贝网路电视
 麦卡贝综艺
 麦哲伦频道
@@ -974,7 +962,6 @@ CINEEDGE
 Cinema One Global
 cinemalworld世界电影频道有线	cinemaworld_台湾_国+详情
 CinemaWorld频道	CinemaWorld_台新_国
-CINEMAX HD	Cinemax HD_台新_国_有线
 Citra Entertainment
 CLASSIC_ROCK	Classic ROCK
 CLASSICA 古典乐	Classica古典乐
@@ -990,7 +977,6 @@ daystar	Daystar(Live Stream)
 DAZN 1	DAZN-1_台湾
 DAZN 2	DAZN-2_台湾
 DAZN 3	DAZN-3_台湾
-Deal or No Deal	Deal or No Deal_新加坡
 Discovery	Discovery Channel_台湾_国
 Discovery Asia	Discovery Asia_国_详情
 DiscoveryAsia	Discovery Asia_国_标题
@@ -1332,9 +1318,7 @@ iHOT爱旅行
 汉语综艺	新疆汉语综艺
 维吾尔语影视	新疆维吾尔语影视
 天津教育
-宁夏经济
 宁夏文旅
-宁夏少儿
 汉语经济生活	新疆汉语经济生活
 超级体育
 欧美电影
@@ -1592,7 +1576,6 @@ https://epg.pw/xmltv/epg_SG.xml
 ChangeTimezone=Y
 512067	CCTV-娱乐
 412142	上海东方国际_新加坡
-492911	NOW 80s_新加坡
 512068	NOW紫金国际台_新加坡_繁中
 369783	凤凰资讯台
 412145	凤凰资讯台_新加坡_英
@@ -1643,7 +1626,6 @@ ChangeTimezone=Y
 492823	CinemaWorld_新加坡_英
 369816	CBeebies_港新_英
 492904	Colors TV_新加坡2
-69854	Colors Tamil_新加坡
 491167	KTV_新加坡
 412157	ABC Australia_港新马
 492865	Cartoon Network_港新马_英
@@ -1659,7 +1641,6 @@ ChangeTimezone=Y
 503776	Hub Sports 5
 524986	Hub Sports 6
 524981	Hub Sports 7
-455187	Hub Sports 8
 369734	KBS World_港新马_英
 369832	Lifetime_新马_英
 412130	NHK World Premium_英
@@ -1723,7 +1704,6 @@ ChangeTimezone=Y
 412148	Preview Channel(新加坡)
 369727	ROCK Action_新加坡_英
 369849	SONY SAB
-535531	SEA Today(新加坡)-
 369746	SET (HINDI)_新加坡
 369849	SAB TV_新加坡
 369811	SONY YAY!_新加坡_英
@@ -2419,7 +2399,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 60a2837f8154ab0007c4dcdf	Le sorelle McLeod
 62e7fa5ab5062e0007dcf97d	BBC Series
 6349279ed5023700078f2bc2	Mai dire sì
-64fee60130ab3300084d9157	The Musketeers
 69664afedcbf5c784492e422	The Intern
 66d7120815d2c60008cec006	Flashpoint
 66a8c7aefe11e500085b1587	Cherif
@@ -2519,7 +2498,6 @@ people-are-awesome-new	People Are Awesome New
 billiards-tv	Billiards TV
 hard-knocks-fighting-championship	Hard Knocks Fighting Championship
 glory-kickboxing	Glory Kickboxing
-sport-italia	Sport Italia
 pfl-mma	PFL MMA
 racer-international	Racer International
 golf-tv	Golf TV
