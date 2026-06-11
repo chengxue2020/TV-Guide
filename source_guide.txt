@@ -543,7 +543,6 @@ Love Nature 4K	Love Nature 4K_国
 Love_Nature_4K	Love Nature 4K_英
 LOVE NATURE有线	Love Nature_国
 LS TIME电影台	龙祥电影台
-MUTV香港	MUTV_香港
 My Cinema Europe HD 我的欧洲电影有线		MCE(My Cinema Europe HD) 我的欧洲电影_有线
 myTV SUPER 18台
 myTV SUPER直播足球2台
@@ -556,7 +555,6 @@ myTV SUPER直播足球7台
 戏曲台	myTV SUPER戏曲台
 Netflix香港	Netflix_香港
 Nick Jr	Nick Jr._英_新马
-Nick Jr. 	Nick Jr.(swepg2)
 Nick Jr. HD	Nick Jr._英
 Nick Jr. HD新加坡	Nick Jr._英_非新加坡
 Nick Jr. 儿童频道	Nick Jr._国_港台
@@ -719,15 +717,11 @@ elta体育max 8	爱尔达体育MAX8台
 公视台语台
 公用频道	公用频道_台湾
 古典音乐台
-怪兽之王-FastTV飞速看
-观众票选-追剧马拉松 (免费)	观众票选-追剧马拉松
 红豆2台
 红豆电视台
 滚动力rollor	滚动力Rollor
 鬼话连篇
 国际大小事
-韩流美食料理秀-FastTV飞速看
-贺岁电影推荐-FastTV飞速看
 户外频道香港
 华藏卫星电视台	华藏卫视
 华视
@@ -746,7 +740,6 @@ elta体育max 8	爱尔达体育MAX8台
 经典电影台
 经典剧场
 经典卡通台
-精彩陆剧-FastTV飞速看
 精选动漫台
 靖天电影台
 靖天购物一台有线
@@ -761,7 +754,6 @@ elta体育max 8	爱尔达体育MAX8台
 居家乐活频道香港
 喀秋莎
 空中英语教室
-恐怖电影-FastTV飞速看
 蜡笔小新(中文版)
 啦啦队独家专访
 历史高清频道	History Channel_港台_国(预告)
@@ -910,7 +902,6 @@ France 24香港	France 24 English_香港
 FRANCE24 英文台	France 24 English_台湾
 Freeman @台湾
 fun探索娱乐台
-GagaOOLala 精选LGBTQ+好剧
 Galaxy
 Galaxy Premium
 GINX Esports TV	GINX Esports电竞频道_国
@@ -1062,7 +1053,6 @@ Sony Entertainment Televis新加坡	SONY Entertainment TV_新加坡
 SONY MAX
 Sony TV (India)	SONY TV
 SPL-CH01
-SPL-CH02
 Sportstars
 Sportstars 2
 Sportstars 3
