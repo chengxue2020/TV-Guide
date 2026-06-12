@@ -1657,7 +1657,6 @@ ChangeTimezone=Y
 516579	Astro Ria_新加坡_英
 412199	Bloomberg Originals_新加坡_英
 369771	Bloomberg TV
-535553	C+I (HD)(新加坡)-
 412096	Cinemax HD_台新_英
 369742	Citra Drama_新加坡
 492866	Crime & Investigation_港台新马_英
@@ -2445,7 +2444,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 69148c76e9dec35c9269a16c	Pluto TV Snooker 900
 696e0fe49ba4ac18057433ac	Rally TV
 608016e446d73500075ea7e0	World Poker Tour
-6616a51124e1d00008761a7e	Triton Poker
 608030eff4b6f70007e1684c	Pluto TV Sport
 679203d4bc03978b9b4b79a6	UFC
 62bc1f502b70e3000706298e	South Park
