@@ -1087,7 +1087,7 @@ def process_epg_source(
             # 检查是否有映射，如果有则显示映射后的名称
             if MODIFY_CHANNEL_ID and channel in id_mapping:
                 new_channel_name = id_mapping[channel]
-                print(f'    ⚠ 未找到频道: "{channel}" → "{new_channel_name}"')
+                print(f'    ⚠ 未找到频道: {channel} → 【{new_channel_name}】')
             else:
                 print(f'    ⚠ 未找到频道: {channel}')
     
