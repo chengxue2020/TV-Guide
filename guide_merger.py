@@ -1084,14 +1084,12 @@ def process_epg_source(
     missing_channels_list = target_ids - found_ids
     if missing_channels_list:
         for channel in missing_channels_list:
-
-        # 检查是否有映射
-        if MODIFY_CHANNEL_ID and channel in id_mapping:
-            new_channel_name = id_mapping[channel]
-            print(f'    ⚠ 未找到频道: "{channel}" → "{new_channel_name}"')
-        else:
-            print(f'    ⚠ 未找到频道: {channel}')
-
+            # 检查是否有映射，如果有则显示映射后的名称
+            if MODIFY_CHANNEL_ID and channel in id_mapping:
+                new_channel_name = id_mapping[channel]
+                print(f'    ⚠ 未找到频道: "{channel}" → "{new_channel_name}"')
+            else:
+                print(f'    ⚠ 未找到频道: {channel}')
     
     print(f'    📺 新增频道: {channels_found}/{len(target_ids)}')
     print(f'    📅 新增节目: {programs_found}/{total_programmes}')
