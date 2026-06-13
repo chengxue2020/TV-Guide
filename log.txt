@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-06-13 11:17:12 (北京时间)
-当前时间: 2026-06-13 03:17:12 (UTC)
+当前时间: 2026-06-13 11:36:50 (北京时间)
+当前时间: 2026-06-13 03:36:50 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -363,6 +363,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "PETCLUBTV" → "PET CLUB TV_国"
   映射: "Rialto Classic Movies (RCM) (免费)" → "RCM(Rialto Classic Movies)"
   映射: "ROCK Action" → "Rock Action_台湾_国"
+  映射: "ROCK ACTION" → "Rock Action_香港_国"
   映射: "Rock Entertainment" → "Rock Entertainment_非港新_英"
   映射: "ROCK Extreme" → "ROCK Extreme_国"
   映射: "Rock_X_Stream" → "Rock X Stream_英"
@@ -477,7 +478,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "Asian Food Network 亚洲美食频道" → "Asian Food Network_港台新_国"
   映射: "Asianet" → "Asianet TV"
   映射: "BBC EARTH" → "BBC Earth_新马港台_国"
-  映射: "BBC_First_HD" → "BBC First"
   映射: "BBC LIFESTYLE" → "BBC Lifestyle_港台_国"
   映射: "BBC News HD" → "BBC News_香港"
   映射: "beIN SPORTS 1香港" → "beIN Sports-1_香港_国"
@@ -610,10 +610,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "足球" → "足球(CN)"
   映射: "移动戏曲" → "河南移动戏曲"
   映射: "动作影院" → "动作影院(CN)"
-  映射: "纯享4K" → "纯享4K(CN)"
   映射: "维吾尔语新闻综合" → "新疆维吾尔语新闻综合"
   映射: "湖南国际" → "湖南国际频道"
-  映射: "环球经典" → "环球经典2"
   映射: "上海教育" → "上海教育频道"
   映射: "峨眉电影" → "四川峨眉电影"
   映射: "超级综艺" → "NewTV超级综艺"
@@ -634,7 +632,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "维吾尔语经济生活" → "新疆维吾尔语经济生活"
   映射: "汉语体育健康" → "新疆汉语体育健康"
   映射: "星影" → "NOW爆谷星影台_非港"
-  映射: "IPTV足球" → "IPTV-足球(CN)"
   映射: "IPTV野外" → "IPTV-野外"
   映射: "IPTV法治" → "IPTV-法治"
   映射: "爱体育" → "IPTV-爱体育"
@@ -1786,7 +1783,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     别名映射: 110 个
   - https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     时区处理: 强制转换为北京时间 (+0800)
-    频道数量: 772
+    频道数量: 770
     别名映射: 339 个
   - http://epg.51zmt.top:8000/e.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
@@ -1794,8 +1791,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     别名映射: 7 个
   - https://liliu.serv00.net/epg/cn.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
-    频道数量: 261
-    别名映射: 78 个
+    频道数量: 259
+    别名映射: 75 个
   - http://epg.51zmt.top:8000/e2.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
     频道数量: 66
@@ -1876,8 +1873,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 4/14: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
-   请求频道: 772 个
-   需要查找: 771 个
+   请求频道: 770 个
+   需要查找: 769 个
     🌐 开始下载: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-07 00:00 到 2026-06-17 00:00 (UTC)
@@ -1886,51 +1883,48 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1907 个
+    ✂️ 跨天节目拆分: 1912 个
     🔗 智能合并更新: 3177 个节目
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: 都市频道 → 【上海都市频道】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
-    ⚠ 未找到频道: 幸福保卫战-FastTV飞速看
-    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
-    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
+    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
+    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
+    ⚠ 未找到频道: 新闻综合 → 【上海新闻综合】
+    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: 家庭理财
     ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
+    ⚠ 未找到频道: HamiWBC2台
+    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ⚠ 未找到频道: Hami体育3台
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: mbc max
+    ⚠ 未找到频道: 金鹰卡通
+    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
+    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
+    ⚠ 未找到频道: 都市剧场
+    ⚠ 未找到频道: Now Sports 647
+    ⚠ 未找到频道: mbc 2
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
     ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
     ⚠ 未找到频道: 五星体育
-    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
     ⚠ 未找到频道: Taiwan Plus
-    ⚠ 未找到频道: 都市剧场
-    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
-    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: 家庭理财
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
     ⚠ 未找到频道: 欢笑剧场
-    ⚠ 未找到频道: mbc 2
-    ⚠ 未找到频道: Hami体育3台
-    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
-    ⚠ 未找到频道: ROCK ACTION Rock Action_香港_国
-    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: now直播 → 【NOW直播】
-    ⚠ 未找到频道: BBC_First_HD → 【BBC First】
     ⚠ 未找到频道: HBLTV1台
-    ⚠ 未找到频道: mbc max
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
     ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: 动漫秀场
-    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
-    ⚠ 未找到频道: HBLTV2台
-    ⚠ 未找到频道: 新闻综合 → 【上海新闻综合】
-    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
-    ⚠ 未找到频道: HamiWBC2台
-    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: 都市频道 → 【上海都市频道】
     ⚠ 未找到频道: mbc action → 【mbc action】
-    ⚠ 未找到频道: 金鹰卡通
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: Now Sports 647
-    📺 新增频道: 729/770
-    📅 新增节目: 52629/65542
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
+    ⚠ 未找到频道: 动漫秀场
+    ⚠ 未找到频道: HBLTV2台
+    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
+    📺 新增频道: 730/768
+    📅 新增节目: 52661/65578
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1953,8 +1947,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 6/14: https://liliu.serv00.net/epg/cn.xml.gz
-   请求频道: 261 个
-   需要查找: 259 个
+   请求频道: 259 个
+   需要查找: 257 个
     🌐 开始下载: https://liliu.serv00.net/epg/cn.xml.gz
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-07 00:00 到 2026-06-17 00:00 (UTC)
@@ -1965,13 +1959,11 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 60 个
     🔗 智能合并更新: 5 个节目
-    ⚠ 未找到频道: IPTV足球 → 【IPTV-足球(CN)】
+    ⚠ 未找到频道: 纯享4K
     ⚠ 未找到频道: 福建旅游
-    ⚠ 未找到频道: 环球经典 → 【环球经典2】
     ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
-    ⚠ 未找到频道: 纯享4K → 【纯享4K(CN)】
     ⚠ 未找到频道: 内蒙古农牧
-    📺 新增频道: 253/259
+    📺 新增频道: 253/257
     📅 新增节目: 9626/9636
    ✅ 处理成功
 
@@ -2115,9 +2107,9 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 59.72 MB
-  频道数: 2370
-  节目数: 198815
+  大小: 59.73 MB
+  频道数: 2371
+  节目数: 198847
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2132,7 +2124,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 6.11 MB (89.8% 压缩率)
+  ✅ 压缩完成: 6.12 MB (89.8% 压缩率)
   ✅ 压缩率: 89.8%
 
 🧹 清理临时文件...
@@ -2141,10 +2133,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-06-13 11:18:13 (北京时间)
-总耗时: 61.27 秒
+结束时间: 2026-06-13 11:37:50 (北京时间)
+总耗时: 59.69 秒
 成功处理: 12/14 个源
-成功处理: 2370 个频道，198815 条节目
+成功处理: 2371 个频道，198847 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
