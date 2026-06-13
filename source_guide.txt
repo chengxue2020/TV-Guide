@@ -615,7 +615,7 @@ RCTI
 Rialto Classic Movies (RCM) (免费)	RCM(Rialto Classic Movies)
 River Monsters
 ROCK Action	Rock Action_台湾_国
-ROCK ACTION Rock Action_香港_国
+ROCK ACTION	Rock Action_香港_国
 Rock Entertainment	Rock Entertainment_非港新_英
 ROCK Extreme	ROCK Extreme_国
 Rock_X_Stream	Rock X Stream_英
@@ -836,7 +836,6 @@ elta体育max 8	爱尔达体育MAX8台
 信大电视台
 信吉电视台
 信吉艺文台HD	信吉艺文台
-幸福保卫战-FastTV飞速看
 亚洲剧台	TVB-亚洲剧台
 亚洲旅游HD	亚洲旅游台_非台_国
 亚洲卫视
@@ -930,7 +929,6 @@ Asianet	Asianet TV
 Asianet Movies
 ASMR行车纪录
 BBC EARTH	BBC Earth_新马港台_国
-BBC_First_HD	BBC First
 BBC LIFESTYLE	BBC Lifestyle_港台_国
 BBC News HD	BBC News_香港
 bb快报
@@ -1257,7 +1255,7 @@ iHOT爱旅行
 云南影视
 云南康旅
 动作影院	动作影院(CN)
-纯享4K	纯享4K(CN)
+纯享4K
 维吾尔语新闻综合	新疆维吾尔语新闻综合
 天津新闻
 天津文艺
@@ -1292,7 +1290,6 @@ iHOT爱旅行
 山西社会与法治
 山西影视
 黄河卫视
-环球经典	环球经典2
 上海教育	上海教育频道
 峨眉电影	四川峨眉电影
 超级综艺	NewTV超级综艺
@@ -1338,7 +1335,6 @@ iHOT爱旅行
 城市剧场
 华数军旅剧场
 华数古装剧场
-IPTV足球	IPTV-足球(CN)
 IPTV野外	IPTV-野外
 IPTV法治	IPTV-法治
 爱体育	IPTV-爱体育
