@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-06-13 10:56:44 (北京时间)
-当前时间: 2026-06-13 02:56:44 (UTC)
+当前时间: 2026-06-13 11:17:12 (北京时间)
+当前时间: 2026-06-13 03:17:12 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1869,7 +1869,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 78 个
     🔗 智能合并更新: 39 个节目
-    ⚠ 未找到频道: "愛爾達娛樂" → "爱尔达娱乐"
+    ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     📺 新增频道: 190/191
     📅 新增节目: 36649/41227
    ✅ 处理成功
@@ -1888,47 +1888,47 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 1907 个
     🔗 智能合并更新: 3177 个节目
-    ⚠ 未找到频道: "now直播" → "NOW直播"
-    ⚠ 未找到频道: "中天娱乐HD" → "中天娱乐"
-    ⚠ 未找到频道: 五星体育
-    ⚠ 未找到频道: "八大第一HD" → "八大第一台"
-    ⚠ 未找到频道: "beIN SPORTS 6香港" → "beIN Sports-6_香港_国"
-    ⚠ 未找到频道: 动漫秀场
-    ⚠ 未找到频道: "beIN SPORTS RUGBY香港" → "beIN Sports-RUGBY香港"
-    ⚠ 未找到频道: "新闻综合" → "上海新闻综合"
-    ⚠ 未找到频道: mbc 2
-    ⚠ 未找到频道: "FashionTV 时尚频道" → "Fashion TV时尚频道_国"
-    ⚠ 未找到频道: HBLTV2台
-    ⚠ 未找到频道: "mbc action" → "mbc action"
-    ⚠ 未找到频道: "TVBS台剧台" → "TVBS-台剧台"
-    ⚠ 未找到频道: "都市频道" → "上海都市频道"
-    ⚠ 未找到频道: "beIN SPORTS 4香港" → "beIN Sports-4_香港_国"
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: 都市频道 → 【上海都市频道】
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
     ⚠ 未找到频道: 幸福保卫战-FastTV飞速看
-    ⚠ 未找到频道: "纬来综合HD" → "纬来综合台"
-    ⚠ 未找到频道: "BBC_First_HD" → "BBC First"
-    ⚠ 未找到频道: HBLTV1台
-    ⚠ 未找到频道: "beIN SPORTS 1香港" → "beIN Sports-1_香港_国"
-    ⚠ 未找到频道: HamiWBC2台
-    ⚠ 未找到频道: ROCK ACTION Rock Action_香港_国
-    ⚠ 未找到频道: "beIN SPORTS 2香港" → "beIN Sports-2_香港_国"
-    ⚠ 未找到频道: "HITS电影台" → "HITS HD电影台"
-    ⚠ 未找到频道: "AMC 电影台" → "AMC电影台_非台_国"
-    ⚠ 未找到频道: Now Sports 647
-    ⚠ 未找到频道: "beIN SPORTS 3香港" → "beIN Sports-3_香港_国"
-    ⚠ 未找到频道: 家庭理财
-    ⚠ 未找到频道: mbc max
-    ⚠ 未找到频道: "哈哈炫动" → "炫动卡通"
-    ⚠ 未找到频道: "三立新闻HD" → "三立新闻台"
-    ⚠ 未找到频道: "TVBS综艺台" → "TVBS-综艺台"
-    ⚠ 未找到频道: 都市剧场
-    ⚠ 未找到频道: 金鹰卡通
-    ⚠ 未找到频道: "八大戏剧HD" → "八大戏剧台"
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: Hami体育3台
-    ⚠ 未找到频道: "Astro_Premier_League_3" → "Astro Premier League 3"
+    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
+    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
+    ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
+    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
+    ⚠ 未找到频道: 五星体育
+    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
     ⚠ 未找到频道: Taiwan Plus
-    ⚠ 未找到频道: "JET综合" → "JET综合台"
+    ⚠ 未找到频道: 都市剧场
+    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
+    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: 家庭理财
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
     ⚠ 未找到频道: 欢笑剧场
+    ⚠ 未找到频道: mbc 2
+    ⚠ 未找到频道: Hami体育3台
+    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
+    ⚠ 未找到频道: ROCK ACTION Rock Action_香港_国
+    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: BBC_First_HD → 【BBC First】
+    ⚠ 未找到频道: HBLTV1台
+    ⚠ 未找到频道: mbc max
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: 动漫秀场
+    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
+    ⚠ 未找到频道: HBLTV2台
+    ⚠ 未找到频道: 新闻综合 → 【上海新闻综合】
+    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
+    ⚠ 未找到频道: HamiWBC2台
+    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: mbc action → 【mbc action】
+    ⚠ 未找到频道: 金鹰卡通
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: Now Sports 647
     📺 新增频道: 729/770
     📅 新增节目: 52629/65542
    ✅ 处理成功
@@ -1965,12 +1965,12 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 60 个
     🔗 智能合并更新: 5 个节目
-    ⚠ 未找到频道: 内蒙古农牧
-    ⚠ 未找到频道: "淘Baby" → "北京IPTV-淘BABY"
-    ⚠ 未找到频道: "IPTV足球" → "IPTV-足球(CN)"
+    ⚠ 未找到频道: IPTV足球 → 【IPTV-足球(CN)】
     ⚠ 未找到频道: 福建旅游
-    ⚠ 未找到频道: "纯享4K" → "纯享4K(CN)"
-    ⚠ 未找到频道: "环球经典" → "环球经典2"
+    ⚠ 未找到频道: 环球经典 → 【环球经典2】
+    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ⚠ 未找到频道: 纯享4K → 【纯享4K(CN)】
+    ⚠ 未找到频道: 内蒙古农牧
     📺 新增频道: 253/259
     📅 新增节目: 9626/9636
    ✅ 处理成功
@@ -2007,7 +2007,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 758 个
     🔗 智能合并更新: 83 个节目
-    ⚠ 未找到频道: "535447" → "Astro Sports Plus 3"
+    ⚠ 未找到频道: 535447 → 【Astro Sports Plus 3】
     📺 新增频道: 109/110
     📅 新增节目: 11199/18695
    ✅ 处理成功
@@ -2141,8 +2141,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-06-13 10:57:42 (北京时间)
-总耗时: 58.42 秒
+结束时间: 2026-06-13 11:18:13 (北京时间)
+总耗时: 61.27 秒
 成功处理: 12/14 个源
 成功处理: 2370 个频道，198815 条节目
 输出文件: guide.xml 和 guide.xml.gz
