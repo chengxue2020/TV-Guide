@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-06-29 20:52:38 (北京时间)
-当前时间: 2026-06-29 12:52:38 (UTC)
+当前时间: 2026-06-30 02:37:14 (北京时间)
+当前时间: 2026-06-29 18:37:14 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1846,10 +1846,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 426 个
-    🔗 智能合并更新: 44 个节目
+    ✂️ 跨天节目拆分: 415 个
+    🔗 智能合并更新: 42 个节目
     📺 新增频道: 86/86
-    📅 新增节目: 16520/17224
+    📅 新增节目: 16571/17270
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1866,9 +1866,9 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 80 个
     🔗 智能合并更新: 46 个节目
+    ⚠ 未找到频道: 云浮文旅
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     ⚠ 未找到频道: 倪珍播新聞 → 【倪珍播新闻】
-    ⚠ 未找到频道: 云浮文旅
     📺 新增频道: 188/191
     📅 新增节目: 39932/41044
    ✅ 处理成功
@@ -1885,49 +1885,49 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1836 个
-    🔗 智能合并更新: 4511 个节目
+    ✂️ 跨天节目拆分: 1816 个
+    🔗 智能合并更新: 4493 个节目
+    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
+    ⚠ 未找到频道: HamiWBC2台
+    ⚠ 未找到频道: Astro_Sports_UHD_805 → 【Astro Sports UHD 805】
+    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
+    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
+    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
+    ⚠ 未找到频道: Now Sports 647
+    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
     ⚠ 未找到频道: TV_Sarawak → 【TV Sarawak】
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
-    ⚠ 未找到频道: Astro Cricket
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
+    ⚠ 未找到频道: HBLTV2台
+    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
+    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
     ⚠ 未找到频道: Adithya → 【Adithya TV_马来】
-    ⚠ 未找到频道: Taiwan Plus
+    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
     ⚠ 未找到频道: HBLTV1台
     ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
+    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
+    ⚠ 未找到频道: 极限电源
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: Astro Cricket
+    ⚠ 未找到频道: Hami体育3台
+    ⚠ 未找到频道: Taiwan Plus
     ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
     ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: Rock_X_Stream → 【Rock X Stream_英】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: Now Sports 647
-    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
-    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
-    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
-    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
     ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: Astro_Sports_UHD_805 → 【Astro Sports UHD 805】
-    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
-    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: HamiWBC2台
-    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
-    ⚠ 未找到频道: HBLTV2台
-    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
-    ⚠ 未找到频道: 极限电源
-    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
-    ⚠ 未找到频道: Hami体育3台
-    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
     ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
-    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
-    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: Rock_X_Stream → 【Rock X Stream_英】
     📺 新增频道: 729/768
-    📅 新增节目: 53883/68473
+    📅 新增节目: 52746/67681
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1938,13 +1938,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-23 00:00 到 2026-07-03 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
-    🕐 时区处理: 未指定时区，保持原XML时区不变
-    📝 别名映射: 修改ID=True, 修改DisplayName=True
-    ✂️ 跨天拆分: True
-    🔗 智能合并: True
-    ✂️ 跨天节目拆分: 14 个
-    📺 新增频道: 7/7
-    📅 新增节目: 410/414
+    ⚠ 解压失败: Not a gzipped file (b'<?')
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1961,10 +1955,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 71 个
     🔗 智能合并更新: 9 个节目
-    ⚠ 未找到频道: 内蒙古农牧
     ⚠ 未找到频道: 纯享4K
-    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
     ⚠ 未找到频道: 福建旅游
+    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ⚠ 未找到频道: 内蒙古农牧
     📺 新增频道: 253/257
     📅 新增节目: 10261/10274
    ✅ 处理成功
@@ -1984,7 +1978,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天节目拆分: 124 个
     🔗 智能合并更新: 16 个节目
     📺 新增频道: 65/65
-    📅 新增节目: 3645/3690
+    📅 新增节目: 3650/3693
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2056,9 +2050,9 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 1930 个
     🔗 智能合并更新: 363 个节目
-    ⚠ 未找到频道: 464859 → 【DraftKings Network】
     ⚠ 未找到频道: 531475 → 【WWE Network】
     ⚠ 未找到频道: 496597 → 【My Network】
+    ⚠ 未找到频道: 464859 → 【DraftKings Network】
     📺 新增频道: 643/647
     📅 新增节目: 45351/46191
    ✅ 处理成功
@@ -2086,11 +2080,11 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 178 个
-    🔗 智能合并更新: 8 个节目
+    ✂️ 跨天节目拆分: 181 个
+    🔗 智能合并更新: 14 个节目
     ⚠ 未找到频道: 6875080e3484d607323641f8 → 【Pluto TV Dive Italiane】
     📺 新增频道: 98/99
-    📅 新增节目: 3279/3288
+    📅 新增节目: 3284/3299
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2108,16 +2102,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天节目拆分: 76 个
     ⚠ 未找到频道: motorvision-tv → 【Motorvision TV】
     📺 新增频道: 41/42
-    📅 新增节目: 2804/2804
+    📅 新增节目: 2790/2790
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 60.66 MB
-  频道数: 2362
-  节目数: 202788
+  大小: 60.32 MB
+  频道数: 2355
+  节目数: 201288
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2132,7 +2126,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 6.07 MB (90.0% 压缩率)
+  ✅ 压缩完成: 6.02 MB (90.0% 压缩率)
   ✅ 压缩率: 90.0%
 
 🧹 清理临时文件...
@@ -2141,10 +2135,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-06-29 20:53:32 (北京时间)
-总耗时: 53.70 秒
+结束时间: 2026-06-30 02:38:18 (北京时间)
+总耗时: 64.12 秒
 成功处理: 12/14 个源
-成功处理: 2362 个频道，202788 条节目
+成功处理: 2355 个频道，201288 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
