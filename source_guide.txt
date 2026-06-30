@@ -283,7 +283,6 @@ MCE 我的歐洲電影	MCE(My Cinema Europe HD) 我的欧洲电影
 寵物頻道	宠物频道(TW)
 第1商業	第一商业
 黃金八點檔	黄金八点档
-倪珍播新聞	倪珍播新闻
 ELTV英語學習台	ELTV英语学习台
 Focus風采戲劇台	Focus风采戏剧台
 Focus歡樂綜合台	Focus欢乐综合台
@@ -475,12 +474,9 @@ EYE TV戏剧台HD	EYE TV戏剧台
 FashionBox
 FashionTV 时尚频道	Fashion TV时尚频道_国
 HamiWBC1台
-HamiWBC2台
 Hami体育1台
 Hami体育2台
-Hami体育3台
 HAPPY频道
-HBLTV1台
 HBLTV2台
 HBO	HBO HD_港台新_国2
 HBO HD	HBO HD_非台_国
@@ -574,7 +570,6 @@ Now Sports 4
 Now Sports 5
 Now Sports 6
 Now Sports 641
-Now Sports 647
 Now Sports 651
 Now Sports 652
 Now Sports 668
@@ -618,7 +613,6 @@ ROCK Action	Rock Action_台湾_国
 ROCK ACTION	Rock Action_香港_国
 Rock Entertainment	Rock Entertainment_非港新_英
 ROCK Extreme	ROCK Extreme_国
-Rock_X_Stream	Rock X Stream_英
 ROCK Xstream摇滚极限频道	Rock X Stream_国
 ROCK综艺娱乐	ROCK Entertainment_港新_国
 RT香港
@@ -736,7 +730,7 @@ elta体育max 8	爱尔达体育MAX8台
 健康2.0
 健康问良医
 金光布袋戏
-极限电源
+极限电源	极限电影
 经典电影台
 经典剧场
 经典卡通台
@@ -874,7 +868,6 @@ Astro_First_HD	Astro First
 Astro_Golf	Astro Golf
 Astro_Premier_League_3	Astro Premier League 3
 Astro Sensasi HD	Astro Sensasi
-Astro_Sports_UHD_805	Astro Sports UHD 805
 Astro_Thangathirai	Astro Thangathirai
 Astro Warna HD	Astro Warna
 CCM	天映经典电影_印柬_英
@@ -1068,7 +1061,6 @@ Trans 7
 Trans TV
 TravelChannel	Travel Channel_台湾_国
 Travelxp HD
-TV_Sarawak	TV Sarawak
 TV5MONDE	TV5MONDE
 TV5MONDE ASIE
 TV5MONDE STYLE HD 生活时尚	TV5MONDE Style生活时尚
@@ -1209,7 +1201,7 @@ iHOT爱旅行
 重庆党员教育
 福建综合
 福建新闻
-福建旅游
+福建文旅体育
 福建少儿
 辽宁公共
 辽宁北方
@@ -1319,7 +1311,7 @@ iHOT爱旅行
 甘肃文化影视
 内蒙古新闻综合
 内蒙古经济生活
-内蒙古农牧
+内蒙古农牧频道
 内蒙古文体娱乐
 内蒙古少儿频道
 蒙语卫视	内蒙古蒙语卫视
@@ -1876,7 +1868,6 @@ https://epg.pw/xmltv/epg_US.xml
 464807	Disney XD
 465390	Disney XD Pacific
 465328	DOG TV
-464859	DraftKings Network
 464792	DTV ARANG
 465350	DUCK TV
 464758	DZMM Radyo Patrol
@@ -2058,7 +2049,6 @@ https://epg.pw/xmltv/epg_US.xml
 464825	MTV Live
 465144	MTV-U
 465203	Multimedios USA
-496597	My Network
 464989	MYX Channel
 465262	N+ Foro
 484876	NASCAR Channel
@@ -2345,7 +2335,7 @@ https://epg.pw/xmltv/epg_US.xml
 472382	World Channel
 465358	World Fishing Network
 465179	World Harvest TV
-531475	WWE Network
+553734	WWE Network
 496607	Yes Network
 496596	Yes Network Overflow
 467912	Yes TV
@@ -2409,7 +2399,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 65253f9881f942000833ccd5	Pluto TV Totò
 661f8f01801af800083d9d81	Pluto TV Alberto Sordi
 608aa7d8359b270007861489	Pluto TV Cinema Italiano
-6875080e3484d607323641f8	Pluto TV Dive Italiane
 671754d8e482950008962aaf	Cinema Poliziottesco
 66335489307fa300082bd6e4	Pluto TV Eros
 6786235bd648bf0008c2780a	Pluto TV Cinema Orientale
@@ -2486,7 +2475,6 @@ pfl-mma	PFL MMA
 racer-international	Racer International
 golf-tv	Golf TV
 red-bull-tv-en	Red Bull TV
-motorvision-tv	Motorvision TV
 motoretro	Motoretro
 tennis-plus	Tennis Plus
 fashion-tv	Fashion TV
