@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-06-30 12:53:47 (北京时间)
-当前时间: 2026-06-30 04:53:47 (UTC)
+当前时间: 2026-06-30 13:43:19 (北京时间)
+当前时间: 2026-06-30 05:43:19 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -212,7 +212,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "寵物頻道" → "宠物频道(TW)"
   映射: "第1商業" → "第一商业"
   映射: "黃金八點檔" → "黄金八点档"
-  映射: "倪珍播新聞" → "倪珍播新闻"
   映射: "ELTV英語學習台" → "ELTV英语学习台"
   映射: "Focus風采戲劇台" → "Focus风采戏剧台"
   映射: "Focus歡樂綜合台" → "Focus欢乐综合台"
@@ -366,7 +365,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "ROCK ACTION" → "Rock Action_香港_国"
   映射: "Rock Entertainment" → "Rock Entertainment_非港新_英"
   映射: "ROCK Extreme" → "ROCK Extreme_国"
-  映射: "Rock_X_Stream" → "Rock X Stream_英"
   映射: "ROCK Xstream摇滚极限频道" → "Rock X Stream_国"
   映射: "ROCK综艺娱乐" → "ROCK Entertainment_港新_国"
   映射: "SUPER FREE (免费)" → "SUPER FREE"
@@ -406,6 +404,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "华藏卫星电视台" → "华藏卫视"
   映射: "华视HD" → "华视HD_与华视节目不同"
   映射: "华艺台湾台 HD" → "华艺台湾台"
+  映射: "极限电源" → "极限电影"
   映射: "靖天映画" → "靖天映画台"
   映射: "靖洋卡通Nice Bingo" → "靖洋卡通"
   映射: "历史高清频道" → "History Channel_港台_国(预告)"
@@ -448,7 +447,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "Astro_Golf" → "Astro Golf"
   映射: "Astro_Premier_League_3" → "Astro Premier League 3"
   映射: "Astro Sensasi HD" → "Astro Sensasi"
-  映射: "Astro_Sports_UHD_805" → "Astro Sports UHD 805"
   映射: "Astro_Thangathirai" → "Astro Thangathirai"
   映射: "Astro Warna HD" → "Astro Warna"
   映射: "CCM" → "天映经典电影_印柬_英"
@@ -553,7 +551,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "TRACESportStars" → "Trace Sport Stars_港台新_简中"
   映射: "TRACE Urban (免费)" → "Trace Urban_英"
   映射: "TravelChannel" → "Travel Channel_台湾_国"
-  映射: "TV_Sarawak" → "TV Sarawak"
   映射: "TV5MONDE" → "TV5MONDE"
   映射: "TV5MONDE STYLE HD 生活时尚" → "TV5MONDE Style生活时尚"
   映射: "Vannathirai" → "Vannathirai(EPG1)"
@@ -1141,7 +1138,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "464807" → "Disney XD"
   映射: "465390" → "Disney XD Pacific"
   映射: "465328" → "DOG TV"
-  映射: "464859" → "DraftKings Network"
   映射: "464792" → "DTV ARANG"
   映射: "465350" → "DUCK TV"
   映射: "464758" → "DZMM Radyo Patrol"
@@ -1323,7 +1319,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "464825" → "MTV Live"
   映射: "465144" → "MTV-U"
   映射: "465203" → "Multimedios USA"
-  映射: "496597" → "My Network"
   映射: "464989" → "MYX Channel"
   映射: "465262" → "N+ Foro"
   映射: "484876" → "NASCAR Channel"
@@ -1610,7 +1605,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "472382" → "World Channel"
   映射: "465358" → "World Fishing Network"
   映射: "465179" → "World Harvest TV"
-  映射: "531475" → "WWE Network"
+  映射: "553734" → "WWE Network"
   映射: "496607" → "Yes Network"
   映射: "496596" → "Yes Network Overflow"
   映射: "467912" → "Yes TV"
@@ -1664,7 +1659,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "65253f9881f942000833ccd5" → "Pluto TV Totò"
   映射: "661f8f01801af800083d9d81" → "Pluto TV Alberto Sordi"
   映射: "608aa7d8359b270007861489" → "Pluto TV Cinema Italiano"
-  映射: "6875080e3484d607323641f8" → "Pluto TV Dive Italiane"
   映射: "671754d8e482950008962aaf" → "Cinema Poliziottesco"
   映射: "66335489307fa300082bd6e4" → "Pluto TV Eros"
   映射: "6786235bd648bf0008c2780a" → "Pluto TV Cinema Orientale"
@@ -1737,7 +1731,6 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
   映射: "racer-international" → "Racer International"
   映射: "golf-tv" → "Golf TV"
   映射: "red-bull-tv-en" → "Red Bull TV"
-  映射: "motorvision-tv" → "Motorvision TV"
   映射: "motoretro" → "Motoretro"
   映射: "tennis-plus" → "Tennis Plus"
   映射: "fashion-tv" → "Fashion TV"
@@ -1779,12 +1772,12 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     别名映射: 86 个
   - https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
-    频道数量: 191
-    别名映射: 110 个
+    频道数量: 190
+    别名映射: 109 个
   - https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     时区处理: 强制转换为北京时间 (+0800)
-    频道数量: 770
-    别名映射: 339 个
+    频道数量: 763
+    别名映射: 337 个
   - http://epg.51zmt.top:8000/e.xml.gz
     时区: 保持原XML时区（可能是未指定或+8时区）
     频道数量: 7
@@ -1811,20 +1804,20 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     别名映射: 144 个
   - https://epg.pw/xmltv/epg_US.xml
     时区: 保持原XML时区（可能是未指定或+8时区）
-    频道数量: 647
-    别名映射: 647 个
+    频道数量: 645
+    别名映射: 645 个
   - https://epg.yang-1989.eu.org/epg.xml
     时区: 保持原XML时区（可能是未指定或+8时区）
     频道数量: 7
     别名映射: 7 个
   - https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
     时区: 保持原XML时区（可能是未指定或+8时区）
-    频道数量: 99
-    别名映射: 99 个
+    频道数量: 98
+    别名映射: 98 个
   - https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
     时区: 保持原XML时区（可能是未指定或+8时区）
-    频道数量: 42
-    别名映射: 42 个
+    频道数量: 41
+    别名映射: 41 个
 
 🧹 清理临时目录...
 ✅ 清理完成
@@ -1854,8 +1847,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 3/14: https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
-   请求频道: 191 个
-   需要查找: 191 个
+   请求频道: 190 个
+   需要查找: 190 个
     🌐 开始下载: https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
@@ -1866,17 +1859,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 80 个
     🔗 智能合并更新: 46 个节目
-    ⚠ 未找到频道: 云浮文旅
-    ⚠ 未找到频道: 倪珍播新聞 → 【倪珍播新闻】
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
-    📺 新增频道: 188/191
+    ⚠ 未找到频道: 云浮文旅
+    📺 新增频道: 188/190
     📅 新增节目: 36383/41044
    ✅ 处理成功
 
 ------------------------------------------------------------
 📡 源 4/14: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
-   请求频道: 770 个
-   需要查找: 769 个
+   请求频道: 763 个
+   需要查找: 762 个
     🌐 开始下载: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
@@ -1885,49 +1877,42 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1845 个
-    🔗 智能合并更新: 4353 个节目
-    ⚠ 未找到频道: HBLTV2台
-    ⚠ 未找到频道: TV_Sarawak → 【TV Sarawak】
-    ⚠ 未找到频道: Now Sports 647
-    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
-    ⚠ 未找到频道: Rock_X_Stream → 【Rock X Stream_英】
-    ⚠ 未找到频道: Astro Cricket
+    ✂️ 跨天节目拆分: 1851 个
+    🔗 智能合并更新: 4355 个节目
+    ⚠ 未找到频道: Taiwan Plus
     ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
-    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
-    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
-    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
-    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
-    ⚠ 未找到频道: HamiWBC2台
-    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: now直播 → 【NOW直播】
-    ⚠ 未找到频道: Hami体育3台
-    ⚠ 未找到频道: Astro_Sports_UHD_805 → 【Astro Sports UHD 805】
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: Astro Cricket
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ⚠ 未找到频道: HBLTV2台
     ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
+    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: 极限电源 → 【极限电影】
+    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
+    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
+    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
     ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
     ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
-    ⚠ 未找到频道: HBLTV1台
-    ⚠ 未找到频道: 极限电源
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
     ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
     ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
-    ⚠ 未找到频道: Taiwan Plus
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
     ⚠ 未找到频道: Adithya → 【Adithya TV_马来】
-    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
     ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
-    📺 新增频道: 729/768
-    📅 新增节目: 55155/69433
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
+    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
+    📺 新增频道: 729/761
+    📅 新增节目: 54880/69364
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1938,13 +1923,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
-    🕐 时区处理: 未指定时区，保持原XML时区不变
-    📝 别名映射: 修改ID=True, 修改DisplayName=True
-    ✂️ 跨天拆分: True
-    🔗 智能合并: True
-    ✂️ 跨天节目拆分: 14 个
-    📺 新增频道: 7/7
-    📅 新增节目: 400/403
+    ⚠ 解压失败: Not a gzipped file (b'<?')
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1961,12 +1940,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 67 个
     🔗 智能合并更新: 9 个节目
-    ⚠ 未找到频道: 纯享4K
     ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
-    ⚠ 未找到频道: 福建旅游
-    ⚠ 未找到频道: 内蒙古农牧
-    📺 新增频道: 253/257
-    📅 新增节目: 9610/9621
+    ⚠ 未找到频道: 纯享4K
+    📺 新增频道: 255/257
+    📅 新增节目: 9686/9697
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1977,7 +1954,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
-    ⚠ 解压失败: Not a gzipped file (b'<?')
+    🕐 时区处理: 未指定时区，保持原XML时区不变
+    📝 别名映射: 修改ID=True, 修改DisplayName=True
+    ✂️ 跨天拆分: True
+    🔗 智能合并: True
+    ✂️ 跨天节目拆分: 124 个
+    🔗 智能合并更新: 16 个节目
+    📺 新增频道: 65/65
+    📅 新增节目: 3650/3693
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2037,8 +2021,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 11/14: https://epg.pw/xmltv/epg_US.xml
-   请求频道: 647 个
-   需要查找: 647 个
+   请求频道: 645 个
+   需要查找: 645 个
     🌐 开始下载: https://epg.pw/xmltv/epg_US.xml
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
@@ -2049,10 +2033,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 1931 个
     🔗 智能合并更新: 377 个节目
-    ⚠ 未找到频道: 496597 → 【My Network】
-    ⚠ 未找到频道: 531475 → 【WWE Network】
-    ⚠ 未找到频道: 464859 → 【DraftKings Network】
-    📺 新增频道: 643/647
+    📺 新增频道: 644/645
     📅 新增节目: 46077/46927
    ✅ 处理成功
 
@@ -2069,8 +2050,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 
 ------------------------------------------------------------
 📡 源 13/14: https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
-   请求频道: 99 个
-   需要查找: 99 个
+   请求频道: 98 个
+   需要查找: 98 个
     🌐 开始下载: https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
@@ -2081,15 +2062,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 178 个
     🔗 智能合并更新: 1 个节目
-    ⚠ 未找到频道: 6875080e3484d607323641f8 → 【Pluto TV Dive Italiane】
-    📺 新增频道: 98/99
+    📺 新增频道: 98/98
     📅 新增节目: 3349/3350
    ✅ 处理成功
 
 ------------------------------------------------------------
 📡 源 14/14: https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
-   请求频道: 42 个
-   需要查找: 42 个
+   请求频道: 41 个
+   需要查找: 41 个
     🌐 开始下载: https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
     ✅ requests 下载成功
     🕐 时间范围: 2026-06-24 00:00 到 2026-07-04 00:00 (UTC)
@@ -2099,8 +2079,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天拆分: True
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 76 个
-    ⚠ 未找到频道: motorvision-tv → 【Motorvision TV】
-    📺 新增频道: 41/42
+    📺 新增频道: 41/41
     📅 新增节目: 2773/2773
    ✅ 处理成功
 
@@ -2108,9 +2087,9 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 59.07 MB
-  频道数: 2297
-  节目数: 196821
+  大小: 60.34 MB
+  频道数: 2358
+  节目数: 199872
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2125,8 +2104,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 5.73 MB (90.3% 压缩率)
-  ✅ 压缩率: 90.3%
+  ✅ 压缩完成: 5.89 MB (90.2% 压缩率)
+  ✅ 压缩率: 90.2%
 
 🧹 清理临时文件...
 ✅ 清理完成
@@ -2134,10 +2113,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-06-30 12:54:44 (北京时间)
-总耗时: 57.22 秒
+结束时间: 2026-06-30 13:44:17 (北京时间)
+总耗时: 57.26 秒
 成功处理: 12/14 个源
-成功处理: 2297 个频道，196821 条节目
+成功处理: 2358 个频道，199872 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
