@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-07-04 12:24:59 (北京时间)
-当前时间: 2026-07-04 04:24:59 (UTC)
+当前时间: 2026-07-04 18:37:02 (北京时间)
+当前时间: 2026-07-04 10:37:02 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1839,11 +1839,11 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 409 个
-    🔗 智能合并更新: 35 个节目
+    ✂️ 跨天节目拆分: 420 个
+    🔗 智能合并更新: 37 个节目
     ⚠ 未找到频道: 437459970 → 【优购物精选】
     📺 新增频道: 85/86
-    📅 新增节目: 16558/17249
+    📅 新增节目: 16518/17219
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1862,7 +1862,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并更新: 36 个节目
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     📺 新增频道: 188/189
-    📅 新增节目: 35933/40604
+    📅 新增节目: 39826/40962
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1877,57 +1877,57 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1947 个
-    🔗 智能合并更新: 4455 个节目
-    ⚠ 未找到频道: TVB星河新加坡 → 【TVB-星河台_非新_英】
-    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
-    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
-    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
-    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: Astro Cricket
-    ⚠ 未找到频道: Taiwan Plus
-    ⚠ 未找到频道: 极限电源 → 【极限电影】
-    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
-    ⚠ 未找到频道: Nickelodeon Asia HD新加坡 → 【Nickelodeon Asia_非新_英】
+    ✂️ 跨天节目拆分: 1965 个
+    🔗 智能合并更新: 4607 个节目
     ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: Adithya → 【Adithya TV_马来】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
-    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
-    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
-    ⚠ 未找到频道: HITS HD新加坡 → 【HITS HD_非新马】
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
-    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
-    ⚠ 未找到频道: 中天亚洲台新加坡 → 【中天亚洲台_英】
-    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
-    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
-    ⚠ 未找到频道: HITS MOVIES HD新加坡 → 【HITS Movies_非港非马非新_英】
-    ⚠ 未找到频道: Discovery HD新加坡 → 【Discovery Channel_英】
-    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
-    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
-    ⚠ 未找到频道: HGTV HD新加坡 → 【HGTV_英】
-    ⚠ 未找到频道: HBLTV2台
-    ⚠ 未找到频道: 天映经典台新加坡 → 【天映经典电影_英】
-    ⚠ 未找到频道: TVB新闻新加坡 → 【TVB-新闻新加坡】
-    ⚠ 未找到频道: 东森亚洲台新加坡 → 【东森亚洲卫视_非新加坡_英】
-    ⚠ 未找到频道: HISTORY HD新加坡 → 【History Channel_非新非马】
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: TVBS亚洲新加坡 → 【TVBS-亚洲台_英】
-    ⚠ 未找到频道: now直播 → 【NOW直播】
     ⚠ 未找到频道: Lifetime HD新加坡 → 【Lifetime_非新马_英2】
-    ⚠ 未找到频道: Nick Jr. HD新加坡 → 【Nick Jr._英_非新加坡】
+    ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: 东森亚洲台新加坡 → 【东森亚洲卫视_非新加坡_英】
+    ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
+    ⚠ 未找到频道: TVB新闻新加坡 → 【TVB-新闻新加坡】
+    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
+    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: HISTORY HD新加坡 → 【History Channel_非新非马】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
+    ⚠ 未找到频道: Adithya → 【Adithya TV_马来】
+    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
     ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: HBLTV2台
     ⚠ 未找到频道: Sony Entertainment Televis新加坡 → 【SONY Entertainment TV_新加坡】
+    ⚠ 未找到频道: HITS MOVIES HD新加坡 → 【HITS Movies_非港非马非新_英】
+    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
+    ⚠ 未找到频道: Discovery HD新加坡 → 【Discovery Channel_英】
+    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: TVBS亚洲新加坡 → 【TVBS-亚洲台_英】
+    ⚠ 未找到频道: TVB星河新加坡 → 【TVB-星河台_非新_英】
+    ⚠ 未找到频道: 极限电源 → 【极限电影】
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
+    ⚠ 未找到频道: HGTV HD新加坡 → 【HGTV_英】
+    ⚠ 未找到频道: HITS HD新加坡 → 【HITS HD_非新马】
+    ⚠ 未找到频道: 中天亚洲台新加坡 → 【中天亚洲台_英】
+    ⚠ 未找到频道: Taiwan Plus
+    ⚠ 未找到频道: Nick Jr. HD新加坡 → 【Nick Jr._英_非新加坡】
+    ⚠ 未找到频道: 天映经典台新加坡 → 【天映经典电影_英】
+    ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: Nickelodeon Asia HD新加坡 → 【Nickelodeon Asia_非新_英】
+    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
+    ⚠ 未找到频道: Astro Cricket
+    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
+    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
     📺 新增频道: 714/761
-    📅 新增节目: 53557/67916
+    📅 新增节目: 52944/67667
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1959,14 +1959,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 56 个
-    🔗 智能合并更新: 9 个节目
-    ⚠ 未找到频道: 湖北生活
-    ⚠ 未找到频道: 纯享4K
-    ⚠ 未找到频道: 湖北公共新闻
+    ✂️ 跨天节目拆分: 71 个
+    🔗 智能合并更新: 10 个节目
     ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ⚠ 未找到频道: 湖北生活
+    ⚠ 未找到频道: 湖北公共新闻
+    ⚠ 未找到频道: 纯享4K
     📺 新增频道: 253/257
-    📅 新增节目: 9253/9264
+    📅 新增节目: 10175/10189
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2001,8 +2001,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 656 个
     🔗 智能合并更新: 99 个节目
-    ⚠ 未找到频道: 524198 → 【Astro Sports Plus 2】
     ⚠ 未找到频道: 535447 → 【Astro Sports Plus 3】
+    ⚠ 未找到频道: 524198 → 【Astro Sports Plus 2】
     📺 新增频道: 108/110
     📅 新增节目: 14647/15274
    ✅ 处理成功
@@ -2085,9 +2085,9 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 175 个
+    ✂️ 跨天节目拆分: 178 个
     📺 新增频道: 98/98
-    📅 新增节目: 3307/3308
+    📅 新增节目: 3208/3307
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2102,18 +2102,18 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 77 个
+    ✂️ 跨天节目拆分: 76 个
     📺 新增频道: 41/41
-    📅 新增节目: 2777/2777
+    📅 新增节目: 2792/2792
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 63.10 MB
+  大小: 63.70 MB
   频道数: 2346
-  节目数: 206140
+  节目数: 210218
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2128,7 +2128,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 6.24 MB (90.1% 压缩率)
+  ✅ 压缩完成: 6.28 MB (90.1% 压缩率)
   ✅ 压缩率: 90.1%
 
 🧹 清理临时文件...
@@ -2137,10 +2137,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-07-04 12:25:57 (北京时间)
-总耗时: 58.54 秒
+结束时间: 2026-07-04 18:40:48 (北京时间)
+总耗时: 226.19 秒
 成功处理: 12/14 个源
-成功处理: 2346 个频道，206140 条节目
+成功处理: 2346 个频道，210218 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
