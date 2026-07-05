@@ -431,11 +431,9 @@ CHC 家庭影院	CHC家庭影院
 香港电台32	RTHK32
 香港电台33	RTHK33
 TVB Plus (免费)	TVB Plus
-TVB星河新加坡	TVB-星河台_非新_英
 TVBS欢乐台	TVBS-欢乐台
 TVBS台剧台	TVBS-台剧台
 无线卫星亚洲台	TVBS-亚洲台
-TVBS亚洲新加坡	TVBS-亚洲台_英
 TVBS综艺台	TVBS-综艺台
 娱乐新闻台 (免费)	TVB-娱乐新闻台_国
 TVB翡翠剧集台(TVB Drama)	TVB-翡翠剧集台(TVB Drama)
@@ -476,7 +474,6 @@ HamiWBC1台
 Hami体育1台
 Hami体育2台
 HAPPY频道
-HBLTV2台
 HBO	HBO HD_港台新_国2
 HBO HD	HBO HD_非台_国
 HBO Family	HBO Family_港台新_国
@@ -689,7 +686,6 @@ elta体育max 8	爱尔达体育MAX8台
 东森购物三台	东森购物3台
 东森购物四台	东森购物4台
 东森购物5台HD	东森购物5台
-东森亚洲台新加坡	东森亚洲卫视_非新加坡_英
 东森洋片台	东森洋片
 东森幼幼台	东森幼幼
 东森娱乐台
@@ -729,7 +725,6 @@ elta体育max 8	爱尔达体育MAX8台
 健康2.0
 健康问良医
 金光布袋戏
-极限电源	极限电影
 经典电影台
 经典剧场
 经典卡通台
@@ -851,7 +846,6 @@ elta体育max 8	爱尔达体育MAX8台
 中台湾生活网频道
 中天北美台
 中天亚洲精采台
-中天亚洲台新加坡	中天亚洲台_英
 中天娱乐HD	中天娱乐
 中天综合台
 猪哥亮歌厅秀
@@ -1224,10 +1218,8 @@ iHOT爱旅行
 湖北经视
 湖北综合
 湖北垄上
-湖北公共新闻
 湖北影视
 湖北教育
-湖北生活
 吉林都市
 吉林影视
 吉林生活
@@ -1461,8 +1453,6 @@ ChangeTimezone=Y
 517641	Astro Showtime
 399483	Astro Showcase
 397402	Astro Sports Plus
-524198	Astro Sports Plus 2
-535447	Astro Sports Plus 3
 399518	Astro Sports UHD
 3018	Astro SuperSport UHD 1
 3809	Astro Tutor TV SMK
