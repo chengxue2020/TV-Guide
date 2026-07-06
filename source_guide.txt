@@ -445,7 +445,6 @@ TVB翡翠综合台(TVBJ1)	TVB-翡翠综合台(TVBJ1)
 TVB功夫台	TVB-功夫台
 TVB明珠剧集台(TVB Pearl Drama)	TVB-明珠剧集台(TVB Pearl Drama)
 TVB无线新闻台(TVB News)	TVB-无线新闻台_非港(TVB News)
-TVB新闻新加坡	TVB-新闻新加坡
 TVB粤语片	TVB-粤语片
 紫金国际台	NOW紫金国际台_新加坡_简中
 爆谷台	NOW爆谷台
@@ -457,7 +456,6 @@ TVB粤语片	TVB-粤语片
 PopC
 tvN Movies	tvN Movies(英)
 tvN有线	tvN_港新台_国_有线
-AMC 电影台	AMC电影台_非台_国
 amc电影台		AMC电影台(EPG2)
 粤语片台
 周星驰台
@@ -469,7 +467,6 @@ ETtoday综合台
 EYE TV旅游台HD	EYE TV旅游台
 EYE TV戏剧台HD	EYE TV戏剧台
 FashionBox
-FashionTV 时尚频道	Fashion TV时尚频道_国
 HamiWBC1台
 Hami体育1台
 Hami体育2台
@@ -479,15 +476,10 @@ HBO HD	HBO HD_非台_国
 HBO Family	HBO Family_港台新_国
 HBO Hits香港	HBO Hits_港新_国
 HBO Signature香港	HBO Signature_香港_国
-HGTV HD新加坡	HGTV_英
 HGTV居家乐活频道	HGTV_港台马新_国
-HISTORY HD新加坡	History Channel_非新非马
 History 历史频道有线	History Channel_港台_国_有线
 HITS	HITS HD_港台新马_国
-HITS HD新加坡	HITS HD_非新马
 HITS MOVIES HD	HITS Movies_香港_英
-HITS MOVIES HD新加坡	HITS Movies_非港非马非新_英
-HITS电影台 	HITS HD电影台
 HITS有线	HITS HD_港台新马_有线
 HOY 76	HOY 国际财经台
 HOY 77	HOY TV
@@ -529,10 +521,8 @@ KTV	KTV_印
 KTV HD	KTV(EPG1)
 LIFE
 Lifeime	Lifetime_港台_国
-Lifetime HD新加坡	Lifetime_非新马_英2
 LiveABC互动英语频道
 Love Nature 4K	Love Nature 4K_国
-Love_Nature_4K	Love Nature 4K_英
 LOVE NATURE有线	Love Nature_国
 LS TIME电影台	龙祥电影台
 My Cinema Europe HD 我的欧洲电影有线		MCE(My Cinema Europe HD) 我的欧洲电影_有线
@@ -548,10 +538,8 @@ myTV SUPER直播足球7台
 Netflix香港	Netflix_香港
 Nick Jr	Nick Jr._英_新马
 Nick Jr. HD	Nick Jr._英
-Nick Jr. HD新加坡	Nick Jr._英_非新加坡
 Nick Jr. 儿童频道	Nick Jr._国_港台
 Nick Jr.(小尼克)	Nick Jr._国_台湾
-Nickelodeon Asia HD新加坡	Nickelodeon Asia_非新_英
 Nickelodeon Asia尼克儿童频道	Nickelodeon Asia_港新马_国3
 Nickelodeon Jr
 Nickelodeon香港	Nickelodeon Asia_港新马_国2
@@ -806,7 +794,6 @@ elta体育max 8	爱尔达体育MAX8台
 天美丽电视台
 天映经典马来西亚	天映经典电影_马来非新_国
 天映经典频道	天映经典电影_港新菲_国(详情)
-天映经典台新加坡	天映经典电影_英
 天映经典新加坡	天映经典电影_新加坡2
 天映经典新加坡	天映经典电影_港新菲_国
 天映经典印尼	天映经典电影_印柬_国
@@ -902,7 +889,6 @@ Hanacaraka TV
 ABC Australia	ABC Australia_Youtube
 ABC澳大利亚电视台	ABC Australia(澳大利亚)
 Action Hollywood Movies
-Adithya	Adithya TV_马来
 ADITHYA TV	Adithya TV
 Al Quran Al Kareem
 ANC
@@ -918,13 +904,7 @@ BBC EARTH	BBC Earth_新马港台_国
 BBC LIFESTYLE	BBC Lifestyle_港台_国
 BBC News HD	BBC News_香港
 bb快报
-beIN SPORTS 1香港	beIN Sports-1_香港_国
-beIN SPORTS 2香港	beIN Sports-2_香港_国
 beIN Sports 3 HD	beIN Sports-3
-beIN SPORTS 3香港	beIN Sports-3_香港_国
-beIN SPORTS 4香港	beIN Sports-4_香港_国
-beIN SPORTS 6香港	beIN Sports-6_香港_国
-beIN SPORTS RUGBY香港	beIN Sports-RUGBY香港
 BTV
 BUDDY STARS
 Cartoon Network香港	Cartoon Network_港新马_国
@@ -956,7 +936,6 @@ Discovery	Discovery Channel_台湾_国
 Discovery Asia	Discovery Asia_国_详情
 DiscoveryAsia	Discovery Asia_国_标题
 Discovery Channel香港	Discovery Channel_香港
-Discovery HD新加坡	Discovery Channel_英
 Discovery 科学频道	Discovery Sci科学频道_港台_国
 DMAX有线	Discovery DMAX_港台_国
 DiscoveryEVE	Discovery EVE_台湾_国
