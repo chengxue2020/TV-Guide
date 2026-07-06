@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-07-06 01:44:03 (北京时间)
-当前时间: 2026-07-05 17:44:03 (UTC)
+当前时间: 2026-07-06 12:59:32 (北京时间)
+当前时间: 2026-07-06 04:59:32 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1826,17 +1826,17 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 86 个
     🌐 开始下载: https://epg.mb6.top/heiptv.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 418 个
-    🔗 智能合并更新: 32 个节目
+    ✂️ 跨天节目拆分: 406 个
+    🔗 智能合并更新: 33 个节目
     ⚠ 未找到频道: 437459970 → 【优购物精选】
     📺 新增频道: 85/86
-    📅 新增节目: 15044/15721
+    📅 新增节目: 16327/17007
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1845,7 +1845,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 189 个
     🌐 开始下载: https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1855,7 +1855,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并更新: 39 个节目
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     📺 新增频道: 188/189
-    📅 新增节目: 40188/41272
+    📅 新增节目: 36688/41272
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1864,57 +1864,57 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 756 个
     🌐 开始下载: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1916 个
-    🔗 智能合并更新: 4341 个节目
-    ⚠ 未找到频道: Discovery HD新加坡 → 【Discovery Channel_英】
-    ⚠ 未找到频道: 天映经典台新加坡 → 【天映经典电影_英】
-    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
-    ⚠ 未找到频道: HGTV HD新加坡 → 【HGTV_英】
-    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
-    ⚠ 未找到频道: Adithya → 【Adithya TV_马来】
+    ✂️ 跨天节目拆分: 1887 个
+    🔗 智能合并更新: 4438 个节目
+    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
     ⚠ 未找到频道: HISTORY HD新加坡 → 【History Channel_非新非马】
+    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
+    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
+    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
+    ⚠ 未找到频道: 天映经典台新加坡 → 【天映经典电影_英】
+    ⚠ 未找到频道: Nick Jr. HD新加坡 → 【Nick Jr._英_非新加坡】
+    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
+    ⚠ 未找到频道: Lifetime HD新加坡 → 【Lifetime_非新马_英2】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: HITS MOVIES HD新加坡 → 【HITS Movies_非港非马非新_英】
+    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
+    ⚠ 未找到频道: HGTV HD新加坡 → 【HGTV_英】
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
     ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
-    ⚠ 未找到频道: Sony Entertainment Televis新加坡 → 【SONY Entertainment TV_新加坡】
     ⚠ 未找到频道: beIN SPORTS RUGBY香港 → 【beIN Sports-RUGBY香港】
+    ⚠ 未找到频道: Adithya → 【Adithya TV_马来】
+    ⚠ 未找到频道: Nickelodeon Asia HD新加坡 → 【Nickelodeon Asia_非新_英】
+    ⚠ 未找到频道: Sony Entertainment Televis新加坡 → 【SONY Entertainment TV_新加坡】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: TVB新闻新加坡 → 【TVB-新闻新加坡】
+    ⚠ 未找到频道: Discovery HD新加坡 → 【Discovery Channel_英】
+    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
+    ⚠ 未找到频道: Taiwan Plus
     ⚠ 未找到频道: Astro Cricket
     ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: TVB新闻新加坡 → 【TVB-新闻新加坡】
-    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
-    ⚠ 未找到频道: Lifetime HD新加坡 → 【Lifetime_非新马_英2】
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
     ⚠ 未找到频道: beIN SPORTS 1香港 → 【beIN Sports-1_香港_国】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
     ⚠ 未找到频道: beIN SPORTS 6香港 → 【beIN Sports-6_香港_国】
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
     ⚠ 未找到频道: HITS HD新加坡 → 【HITS HD_非新马】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
-    ⚠ 未找到频道: beIN SPORTS 3香港 → 【beIN Sports-3_香港_国】
-    ⚠ 未找到频道: HITS MOVIES HD新加坡 → 【HITS Movies_非港非马非新_英】
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
-    ⚠ 未找到频道: beIN SPORTS 4香港 → 【beIN Sports-4_香港_国】
-    ⚠ 未找到频道: now直播 → 【NOW直播】
-    ⚠ 未找到频道: beIN SPORTS 2香港 → 【beIN Sports-2_香港_国】
-    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
-    ⚠ 未找到频道: Nick Jr. HD新加坡 → 【Nick Jr._英_非新加坡】
-    ⚠ 未找到频道: Taiwan Plus
-    ⚠ 未找到频道: AMC 电影台 → 【AMC电影台_非台_国】
     ⚠ 未找到频道: FashionTV 时尚频道 → 【Fashion TV时尚频道_国】
-    ⚠ 未找到频道: Nickelodeon Asia HD新加坡 → 【Nickelodeon Asia_非新_英】
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
+    ⚠ 未找到频道: HITS电影台 → 【HITS HD电影台】
+    ⚠ 未找到频道: Love_Nature_4K → 【Love Nature 4K_英】
     📺 新增频道: 714/755
-    📅 新增节目: 51737/65893
+    📅 新增节目: 53394/67525
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1923,9 +1923,15 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 7 个
     🌐 开始下载: http://epg.51zmt.top:8000/e.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
-    ⚠ 解压失败: Not a gzipped file (b'<?')
+    🕐 时区处理: 未指定时区，保持原XML时区不变
+    📝 别名映射: 修改ID=True, 修改DisplayName=True
+    ✂️ 跨天拆分: True
+    🔗 智能合并: True
+    ✂️ 跨天节目拆分: 14 个
+    📺 新增频道: 7/7
+    📅 新增节目: 412/415
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1934,18 +1940,18 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 255 个
     🌐 开始下载: https://liliu.serv00.net/epg/cn.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 70 个
-    🔗 智能合并更新: 10 个节目
+    ✂️ 跨天节目拆分: 60 个
+    🔗 智能合并更新: 8 个节目
     ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
     ⚠ 未找到频道: 纯享4K
     📺 新增频道: 253/255
-    📅 新增节目: 10045/10058
+    📅 新增节目: 9206/9217
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1954,7 +1960,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 65 个
     🌐 开始下载: http://epg.51zmt.top:8000/e2.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1972,7 +1978,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 108 个
     🌐 开始下载: https://epg.pw/xmltv/epg_MY.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1981,7 +1987,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天节目拆分: 656 个
     🔗 智能合并更新: 101 个节目
     📺 新增频道: 108/108
-    📅 新增节目: 14984/15274
+    📅 新增节目: 14989/15274
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1990,7 +1996,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 2 个
     🌐 开始下载: https://epg.pw/xmltv/epg_HK.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -2008,7 +2014,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 143 个
     🌐 开始下载: https://epg.pw/xmltv/epg_SG.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -2018,7 +2024,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并更新: 121 个节目
     ⚠ 未找到频道: 451933 → 【MAA Movies_新加坡】
     📺 新增频道: 141/142
-    📅 新增节目: 20706/21076
+    📅 新增节目: 20731/21076
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2027,7 +2033,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 645 个
     🌐 开始下载: https://epg.pw/xmltv/epg_US.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -2056,15 +2062,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 98 个
     🌐 开始下载: https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 181 个
+    🔗 智能合并更新: 3 个节目
     📺 新增频道: 98/98
-    📅 新增节目: 3317/3318
+    📅 新增节目: 3223/3228
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2073,7 +2080,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 41 个
     🌐 开始下载: https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-06-29 00:00 到 2026-07-09 00:00 (UTC)
+    🕐 时间范围: 2026-06-30 00:00 到 2026-07-10 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -2081,16 +2088,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 76 个
     📺 新增频道: 41/41
-    📅 新增节目: 2886/2886
+    📅 新增节目: 2917/2917
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 63.92 MB
-  频道数: 2339
-  节目数: 209505
+  大小: 64.08 MB
+  频道数: 2346
+  节目数: 208485
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2105,8 +2112,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 6.32 MB (90.1% 压缩率)
-  ✅ 压缩率: 90.1%
+  ✅ 压缩完成: 6.26 MB (90.2% 压缩率)
+  ✅ 压缩率: 90.2%
 
 🧹 清理临时文件...
 ✅ 清理完成
@@ -2114,10 +2121,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-07-06 01:48:05 (北京时间)
-总耗时: 242.65 秒
+结束时间: 2026-07-06 13:05:09 (北京时间)
+总耗时: 336.35 秒
 成功处理: 12/14 个源
-成功处理: 2339 个频道，209505 条节目
+成功处理: 2346 个频道，208485 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
