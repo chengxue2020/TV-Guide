@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-07-08 02:36:37 (北京时间)
-当前时间: 2026-07-07 18:36:37 (UTC)
+当前时间: 2026-07-08 12:00:10 (北京时间)
+当前时间: 2026-07-08 04:00:10 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1805,7 +1805,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 86 个
     🌐 开始下载: https://epg.mb6.top/heiptv.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1824,7 +1824,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 189 个
     🌐 开始下载: https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1834,7 +1834,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并更新: 38 个节目
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     📺 新增频道: 188/189
-    📅 新增节目: 40218/41370
+    📅 新增节目: 36686/41370
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1843,36 +1843,36 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 735 个
     🌐 开始下载: https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1756 个
-    🔗 智能合并更新: 4218 个节目
-    ⚠ 未找到频道: now直播 → 【NOW直播】
-    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
-    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: Astro Cricket
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
-    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: Taiwan Plus
+    ✂️ 跨天节目拆分: 1746 个
+    🔗 智能合并更新: 4124 个节目
     ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
     ⚠ 未找到频道: Sony Entertainment Televis新加坡 → 【SONY Entertainment TV_新加坡】
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: Taiwan Plus
     ⚠ 未找到频道: JET综合 → 【JET综合台】
-    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
     ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
     ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
+    ⚠ 未找到频道: Astro Cricket
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
+    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
+    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
     📺 新增频道: 714/734
-    📅 新增节目: 49065/62667
+    📅 新增节目: 50082/63687
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1881,7 +1881,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 7 个
     🌐 开始下载: http://epg.51zmt.top:8000/e.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1898,18 +1898,18 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 255 个
     🌐 开始下载: https://liliu.serv00.net/epg/cn.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 70 个
+    ✂️ 跨天节目拆分: 61 个
     🔗 智能合并更新: 9 个节目
     ⚠ 未找到频道: 纯享4K
     ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
     📺 新增频道: 253/255
-    📅 新增节目: 10403/10418
+    📅 新增节目: 9750/9778
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1918,7 +1918,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 65 个
     🌐 开始下载: http://epg.51zmt.top:8000/e2.xml.gz
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1936,16 +1936,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 108 个
     🌐 开始下载: https://epg.pw/xmltv/epg_MY.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 742 个
-    🔗 智能合并更新: 88 个节目
+    ✂️ 跨天节目拆分: 741 个
+    🔗 智能合并更新: 82 个节目
     📺 新增频道: 108/108
-    📅 新增节目: 11805/19194
+    📅 新增节目: 11778/19180
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1954,7 +1954,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 2 个
     🌐 开始下载: https://epg.pw/xmltv/epg_HK.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1962,7 +1962,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 14 个
     📺 新增频道: 2/2
-    📅 新增节目: 239/385
+    📅 新增节目: 238/387
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1971,17 +1971,17 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 143 个
     🌐 开始下载: https://epg.pw/xmltv/epg_SG.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: ChangeTimezone=Y → 强制将时区改为 +0800（时间数值不变）
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 728 个
-    🔗 智能合并更新: 92 个节目
+    ✂️ 跨天节目拆分: 725 个
+    🔗 智能合并更新: 98 个节目
     ⚠ 未找到频道: 451933 → 【MAA Movies_新加坡】
     📺 新增频道: 141/142
-    📅 新增节目: 15290/21377
+    📅 新增节目: 15412/21417
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1990,7 +1990,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 645 个
     🌐 开始下载: https://epg.pw/xmltv/epg_US.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -1999,7 +1999,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天节目拆分: 1907 个
     🔗 智能合并更新: 351 个节目
     📺 新增频道: 644/645
-    📅 新增节目: 45730/46551
+    📅 新增节目: 45733/46551
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2019,14 +2019,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 98 个
     🌐 开始下载: https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_pluto_it.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 180 个
-    🔗 智能合并更新: 2 个节目
+    🔗 智能合并更新: 3 个节目
     📺 新增频道: 98/98
     📅 新增节目: 3290/3294
    ✅ 处理成功
@@ -2037,7 +2037,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    需要查找: 41 个
     🌐 开始下载: https://raw.githubusercontent.com/kiekostui/rakuten_tv_it/refs/heads/main/epg_rakuten_it.xml
     ✅ requests 下载成功
-    🕐 时间范围: 2026-07-01 00:00 到 2026-07-11 00:00 (UTC)
+    🕐 时间范围: 2026-07-02 00:00 到 2026-07-12 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
     🕐 时区处理: 未指定时区，保持原XML时区不变
     📝 别名映射: 修改ID=True, 修改DisplayName=True
@@ -2045,16 +2045,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 76 个
     📺 新增频道: 41/41
-    📅 新增节目: 2931/2931
+    📅 新增节目: 2923/2923
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 58.91 MB
+  大小: 58.50 MB
   频道数: 2346
-  节目数: 199236
+  节目数: 196157
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2069,8 +2069,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 5.53 MB (90.6% 压缩率)
-  ✅ 压缩率: 90.6%
+  ✅ 压缩完成: 5.56 MB (90.5% 压缩率)
+  ✅ 压缩率: 90.5%
 
 🧹 清理临时文件...
 ✅ 清理完成
@@ -2078,10 +2078,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-07-08 02:37:34 (北京时间)
-总耗时: 57.01 秒
+结束时间: 2026-07-08 12:01:15 (北京时间)
+总耗时: 64.95 秒
 成功处理: 12/14 个源
-成功处理: 2346 个频道，199236 条节目
+成功处理: 2346 个频道，196157 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
