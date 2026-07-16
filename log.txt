@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-07-16 11:55:16 (北京时间)
-当前时间: 2026-07-16 03:55:16 (UTC)
+当前时间: 2026-07-16 18:36:33 (北京时间)
+当前时间: 2026-07-16 10:36:33 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1804,6 +1804,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    请求频道: 86 个
    需要查找: 86 个
     🌐 开始下载: https://epg.mb6.top/heiptv.xml
+    🔄 重试 1/3
     ✅ requests 下载成功
     🕐 时间范围: 2026-07-10 00:00 到 2026-07-20 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
@@ -1811,11 +1812,11 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 407 个
-    🔗 智能合并更新: 33 个节目
+    ✂️ 跨天节目拆分: 417 个
+    🔗 智能合并更新: 35 个节目
     ⚠ 未找到频道: 437459970 → 【优购物精选】
     📺 新增频道: 85/86
-    📅 新增节目: 16587/17285
+    📅 新增节目: 16570/17271
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1831,10 +1832,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天拆分: True
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 83 个
-    🔗 智能合并更新: 42 个节目
+    🔗 智能合并更新: 37 个节目
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     📺 新增频道: 188/189
-    📅 新增节目: 36466/41171
+    📅 新增节目: 39990/41090
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1849,36 +1850,36 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 1813 个
-    🔗 智能合并更新: 4498 个节目
-    ⚠ 未找到频道: 河南欢腾购物
-    ⚠ 未找到频道: Sony Entertainment Televis新加坡 → 【SONY Entertainment TV_新加坡】
-    ⚠ 未找到频道: Taiwan Plus
-    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
-    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ✂️ 跨天节目拆分: 1837 个
+    🔗 智能合并更新: 4676 个节目
     ⚠ 未找到频道: 八大戏剧HD → 【八大戏剧台】
-    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: 陕西乐家购物
-    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
-    ⚠ 未找到频道: 公视金奖台
-    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
-    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: 健康2.0
-    ⚠ 未找到频道: daystar → 【Daystar(Live Stream)】
-    ⚠ 未找到频道: Astro Cricket
-    ⚠ 未找到频道: 茶金
-    ⚠ 未找到频道: now直播 → 【NOW直播】
     ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: Astro Cricket
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
+    ⚠ 未找到频道: Taiwan Plus
+    ⚠ 未找到频道: Sony Entertainment Televis新加坡 → 【SONY Entertainment TV_新加坡】
+    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: CLASSIC_ROCK → 【Classic ROCK】
+    ⚠ 未找到频道: 茶金
+    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
     ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: 健康2.0
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
+    ⚠ 未找到频道: now直播 → 【NOW直播】
+    ⚠ 未找到频道: 河南欢腾购物
+    ⚠ 未找到频道: daystar → 【Daystar(Live Stream)】
+    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: 公视金奖台
+    ⚠ 未找到频道: Astro_Premier_League_3 → 【Astro Premier League 3】
+    ⚠ 未找到频道: 陕西乐家购物
     📺 新增频道: 708/734
-    📅 新增节目: 50555/67410
+    📅 新增节目: 49571/67040
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1910,12 +1911,12 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 59 个
-    🔗 智能合并更新: 8 个节目
-    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ✂️ 跨天节目拆分: 72 个
+    🔗 智能合并更新: 11 个节目
     ⚠ 未找到频道: 纯享4K
+    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
     📺 新增频道: 253/255
-    📅 新增节目: 10466/10477
+    📅 新增节目: 11075/11090
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1986,8 +1987,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 699 个
     🔗 智能合并更新: 84 个节目
-    ⚠ 未找到频道: 451933 → 【MAA Movies_新加坡】
     ⚠ 未找到频道: 492870 → 【ONE (Malay)_新马_英】
+    ⚠ 未找到频道: 451933 → 【MAA Movies_新加坡】
     📺 新增频道: 140/142
     📅 新增节目: 15451/21238
    ✅ 处理成功
@@ -2006,14 +2007,14 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 1907 个
     🔗 智能合并更新: 358 个节目
-    ⚠ 未找到频道: 496765 → 【AFN Sports-2】
-    ⚠ 未找到频道: 496760 → 【AFN Prime Pacific】
-    ⚠ 未找到频道: 496759 → 【AFN Family/AFN pulse】
-    ⚠ 未找到频道: 496761 → 【AFN Prime Atlantic】
-    ⚠ 未找到频道: 496766 → 【AFN Movie】
-    ⚠ 未找到频道: 496762 → 【AFN News】
     ⚠ 未找到频道: 496763 → 【AFN Spectrum】
+    ⚠ 未找到频道: 496759 → 【AFN Family/AFN pulse】
     ⚠ 未找到频道: 496764 → 【AFN Sports】
+    ⚠ 未找到频道: 496765 → 【AFN Sports-2】
+    ⚠ 未找到频道: 496761 → 【AFN Prime Atlantic】
+    ⚠ 未找到频道: 496762 → 【AFN News】
+    ⚠ 未找到频道: 496766 → 【AFN Movie】
+    ⚠ 未找到频道: 496760 → 【AFN Prime Pacific】
     📺 新增频道: 636/645
     📅 新增节目: 45393/46197
    ✅ 处理成功
@@ -2041,9 +2042,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 172 个
+    ✂️ 跨天节目拆分: 181 个
+    🔗 智能合并更新: 7 个节目
     📺 新增频道: 98/98
-    📅 新增节目: 3334/3335
+    📅 新增节目: 3257/3363
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2060,16 +2062,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 76 个
     📺 新增频道: 41/41
-    📅 新增节目: 2955/2955
+    📅 新增节目: 2938/2938
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 58.67 MB
+  大小: 59.07 MB
   频道数: 2330
-  节目数: 197174
+  节目数: 200212
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2084,7 +2086,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 5.63 MB (90.4% 压缩率)
+  ✅ 压缩完成: 5.67 MB (90.4% 压缩率)
   ✅ 压缩率: 90.4%
 
 🧹 清理临时文件...
@@ -2093,10 +2095,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-07-16 11:56:06 (北京时间)
-总耗时: 50.62 秒
+结束时间: 2026-07-16 18:37:42 (北京时间)
+总耗时: 69.19 秒
 成功处理: 12/14 个源
-成功处理: 2330 个频道，197174 条节目
+成功处理: 2330 个频道，200212 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
