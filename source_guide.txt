@@ -659,7 +659,6 @@ elta体育max 8	爱尔达体育MAX8台
 博斯高球二台有线	博斯高球2台
 博斯运动一台有线	博斯运动1台
 博斯运动二台有线	博斯运动2台
-茶金
 超视	东森超视
 创世电视 (免费)	创世电视
 达文西频道
@@ -846,7 +845,6 @@ elta体育max 8	爱尔达体育MAX8台
 Astro Cricket
 Astro_First_HD	Astro First
 Astro_Golf	Astro Golf
-Astro_Premier_League_3	Astro Premier League 3
 Astro Sensasi HD	Astro Sensasi
 Astro_Thangathirai	Astro Thangathirai
 Astro Warna HD	Astro Warna
@@ -928,7 +926,6 @@ COLORS	Colors TV
 COLORS Tamil HD	Colors Tamil_马来
 Concerto (免费)	Concerto
 Crime + Investigation HD	Crime & Investigation
-daystar	Daystar(Live Stream)
 DAZN 1	DAZN-1_台湾
 DAZN 2	DAZN-2_台湾
 DAZN 3	DAZN-3_台湾
@@ -1685,14 +1682,6 @@ https://epg.pw/xmltv/epg_US.xml
 464815	ActionMAX
 465313	Adult On Demand
 464853	AdultSwim com Cartoon Network
-496759	AFN Family/AFN pulse
-496766	AFN Movie
-496762	AFN News
-496761	AFN Prime Atlantic
-496760	AFN Prime Pacific
-496763	AFN Spectrum
-496764	AFN Sports
-496765	AFN Sports-2
 465288	Altitude Sports
 483394	Altitude Sports-2
 465032	AMC HD
@@ -2025,8 +2014,6 @@ https://epg.pw/xmltv/epg_US.xml
 464974	Nat Geo Pacific
 464884	Nat Geo Wild
 464912	NBA TV
-501747	NBC Chicago (Live Stream)
-492940	NBC Comedy Vault
 465059	NBC East Stream
 464779	NBC Sports 4K
 465163	NBC Sports Bay Area
