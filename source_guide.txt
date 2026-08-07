@@ -212,7 +212,6 @@ CCTV-央视足球
 深圳少儿
 中山综合
 云浮综合
-肇庆生活服务
 肇庆新闻综合
 珠海
 阳江-1
@@ -467,7 +466,6 @@ ETtoday综合台
 EYE TV旅游台HD	EYE TV旅游台
 EYE TV戏剧台HD	EYE TV戏剧台
 FashionBox
-HamiWBC1台
 Hami体育1台
 Hami体育2台
 HAPPY频道
@@ -710,7 +708,6 @@ elta体育max 8	爱尔达体育MAX8台
 寰宇全视界
 寰宇新闻台湾台
 健康2.0
-健康问良医
 金光布袋戏
 经典电影台
 经典剧场
@@ -1553,7 +1550,6 @@ ChangeTimezone=Y
 535443	That's 80s_新加坡
 535444	That's Rock_新加坡
 492896	Trace Sport Stars_港台新_英
-492878	TG Junior_新加坡
 412123	Adithya TV_新加坡
 412103	Asianet TV_新加坡
 435717	Asianet TV_非新加坡
@@ -1588,7 +1584,6 @@ ChangeTimezone=Y
 369832	Lifetime_新马_英
 412130	NHK World Premium_英
 412136	Nick Jr._英_非新加坡2
-492879	Nickelodeon Asia_新马_英
 369719	ROCK Entertainment_港新_英
 369757	Sky News_新加坡
 369846	SONY MAX_港新
@@ -1617,7 +1612,6 @@ ChangeTimezone=Y
 412178	DW English
 412122	Euronews_新加坡
 412197	Fashion TV(新加坡)
-492858	Food ON_新加坡
 412190	France 24 English_新马
 369839	France 24 French_新加坡
 491154	GMA Life TV_新加坡
@@ -1632,13 +1626,11 @@ ChangeTimezone=Y
 412194	HITS HD_英
 485760	HITS NOW_非新加坡
 492832	Animax_新加坡_英
-451933	MAA Movies_新加坡
 507899	Master Chef
 369773	mio Sports
 369717	mio Sports-2
 369802	mio Sports-3
 369804	MTV India
-492870	ONE (Malay)_新马_英
 369728	ONE (Malay)_新马_国英
 484245	Outdoor Channel_港新
 429564	Pesona_新加坡_英
@@ -1666,10 +1658,8 @@ ChangeTimezone=Y
 https://epg.pw/xmltv/epg_US.xml
 465049	365BLK
 465147	5 StarMAX East
-484875	80s Sitcoms
 464795	88 Films
 465229	88 TV
-484886	90s Sitcoms
 464992	A&E East
 464902	ABC National Feed
 464849	ABC National Feed Pacific
@@ -1697,7 +1687,6 @@ https://epg.pw/xmltv/epg_US.xml
 496613	Antenna TV
 464916	Arizona Family Sports
 464951	ASPiRE HD
-520489	Asylum Movie
 496601	ATN Cricket Plus
 464909	ATN Movies
 465118	Atrescine
@@ -1724,13 +1713,10 @@ https://epg.pw/xmltv/epg_US.xml
 465254	Big Ten Network Overflow
 465353	BINGE TV
 496609	Biz TV
-530871	Black Voices
 496610	Blaze TV
 465083	Blossom TV
-484881	Bon Appétit TV
 464755	Boomerang TV
 465292	Bounce TV
-494592	Bowling TV
 465184	Bravo Pacific
 464753	Bravo HD
 465297	BraZZers TV Plus
@@ -1769,7 +1755,6 @@ https://epg.pw/xmltv/epg_US.xml
 464945	Cinemax Hits
 465263	Cinemax Spanish
 501744	Cinevault
-484883	Cinevault Classics
 464749	Circle Country
 465363	Cleo TV
 465107	CMT
@@ -1836,7 +1821,6 @@ https://epg.pw/xmltv/epg_US.xml
 464949	ESPN Deportes
 465198	ESPN
 465373	ESPN2
-484878	ESPN8 The Ocho
 465410	ESPNEWS
 465108	ESPNU
 465172	ESTRELLA NEWS
@@ -1849,9 +1833,7 @@ https://epg.pw/xmltv/epg_US.xml
 494591	Fawesome
 465154	Fight Network
 464819	Film 24h
-484885	Filmrise Mysteries
 465099	Flix
-484888	FM Fuse Music
 465304	FM HD
 472385	FNX First Nations Experience
 464984	Food Network(US)
@@ -1920,7 +1902,6 @@ https://epg.pw/xmltv/epg_US.xml
 465095	Home and Garden TV Pacific
 465139	Home Shopping Network
 465157	Honvietv
-490837	Horror Machine
 464751	HSN Home Shopping Network
 464887	HSN2
 465079	Hustler Mature
@@ -1931,7 +1912,6 @@ https://epg.pw/xmltv/epg_US.xml
 465407	Impact Network
 464878	IndiePlex
 465123	INFAST US
-497973	Insight TV
 464786	INSP HD
 465294	Investigation Discovery
 465171	Investigation Discovery Pacific
@@ -1947,7 +1927,6 @@ https://epg.pw/xmltv/epg_US.xml
 465290	Lifetime_非新马_英
 465002	Lifetime Real Women
 465286	Living Faith Network
-484884	Living With Evil
 464929	LMN HD
 465367	Logo(US)
 464926	LooLoo Kids TV
@@ -1966,8 +1945,6 @@ https://epg.pw/xmltv/epg_US.xml
 464773	MeTV Toons
 465323	MeTV Network
 464826	Mexicanal
-484887	MGM Presents
-484880	MGM Presents Action
 464981	MGM Presents: Horror
 465017	MGM Presents: Westerns
 465375	MGM+ Drive-In
@@ -1994,7 +1971,6 @@ https://epg.pw/xmltv/epg_US.xml
 465247	MSG Sportsnet-2
 464812	MSG Sportsnet-2 Zone 1
 465217	MSG Sportsnet Zone-1
-484879	MSG Sportsnet Zone-3 (MSG WNY)
 464996	MSG SportsZone
 465064	MSG Zone-1
 465169	MSG2
@@ -2090,11 +2066,9 @@ https://epg.pw/xmltv/epg_US.xml
 465258	Playboy HD
 465406	Playboy Premium
 465316	Playboy TV
-496440	Plus Movies
 465134	POP HD
 465088	Positiv TV
 465342	Prime Revenue Frontier
-484882	Pure Flix TV
 465098	Pursuit Channel
 496618	Quest
 465391	QVC TV
@@ -2183,7 +2157,6 @@ https://epg.pw/xmltv/epg_US.xml
 465293	Starz in Black
 465109	Starz Kids
 483393	STELLAR TV
-530870	Stories by AMC
 464785	Story TV
 475509	SUMtv
 475508	SUMtv Latino
@@ -2193,7 +2166,6 @@ https://epg.pw/xmltv/epg_US.xml
 465190	Syfy Pacific
 464811	Tan TV
 465110	Tastemade TV
-484877	Tastemade Food and More
 465337	Tastemade Home
 465317	Tastemade Travel
 464840	TBN Inspire
@@ -2246,7 +2218,6 @@ https://epg.pw/xmltv/epg_US.xml
 465298	TYT The Young Turks
 464928	UniMas
 464918	UniMas Pacific
-492944	Universal Action
 492943	Universal Crime
 492941	Universal Monsters
 477700	Universal Movies
