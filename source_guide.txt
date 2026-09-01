@@ -379,7 +379,6 @@ CHC 家庭影院	CHC家庭影院
 广西新闻频道	广西新闻
 广西综艺旅游频道	广西综艺旅游
 #江苏
-淮安新闻综合
 宿迁新闻综合
 #福建
 厦门1
@@ -395,7 +394,6 @@ CHC 家庭影院	CHC家庭影院
 河南都市
 河南法制	河南法治
 河南公共
-河南欢腾购物
 河南民生
 河南晴彩中原
 河南乡村
@@ -403,7 +401,6 @@ CHC 家庭影院	CHC家庭影院
 河南新闻
 #江苏
 江苏城市频道
-江苏公共新闻频道
 江苏教育
 江苏体育休闲频道
 南京新闻综合频道
@@ -414,7 +411,6 @@ CHC 家庭影院	CHC家庭影院
 江阴新闻综合
 南通新闻综合
 徐州新闻综合
-盐城新闻综合
 宜兴新闻综合
 泰州新闻综合
 乐视台
@@ -600,7 +596,6 @@ ROCK综艺娱乐	ROCK Entertainment_港新_国
 RT香港
 SBN全球财经台
 Taiwan Plus
-TBC台中生活台
 SUPER FREE (免费)	SUPER FREE
 SUPER Kids Channel
 SUPER Music (免费)	SUPER Music
@@ -620,8 +615,8 @@ SUPER识食 (免费)	SUPER识食
 彩虹电影
 K频道
 HOT频道
-潘多拉粉红台
-潘多拉完美台
+Pandora潘朵啦高画质粉红台	潘多拉粉红台
+Pandora潘朵啦高画质玩美台	潘多拉完美台
 乐活频道
 成人极品台
 冰火频道
@@ -648,7 +643,7 @@ elta体育max 8	爱尔达体育MAX8台
 爱尔达影剧台
 爱尔达综合台
 八大第一HD	八大第一台
-八大戏剧HD	八大戏剧台
+八大戏剧台
 半岛电视台英语频道	Al Jazeera English
 宝岛文化
 博斯魅力网有线
@@ -687,7 +682,6 @@ elta体育max 8	爱尔达体育MAX8台
 高清生活时光
 高雄都会台
 公视儿少台HD	公视少儿台
-公视金奖台
 公视台语台
 公用频道	公用频道_台湾
 古典音乐台
@@ -832,7 +826,6 @@ elta体育max 8	爱尔达体育MAX8台
 中天娱乐HD	中天娱乐
 中天综合台
 猪哥亮歌厅秀
-罪案侦查频道	Crime & Investigation_港台新马_国(详情)
 韩国娱乐KMTV	韩国娱乐台KMTV_台湾
 韩国娱乐台 KMTV	韩国娱乐台KMTV_台湾_简中
 中华一番(中文版)
@@ -863,7 +856,6 @@ FIFA+
 Fight Sports
 Focus探索新知台
 Food Travel HD	Food Travel
-FoodON	Food ON
 France 24 (French)	France 24 French
 France 24香港	France 24 English_香港
 FRANCE24 英文台	France 24 English_台湾
@@ -913,7 +905,6 @@ Cinema One Global
 cinemalworld世界电影频道有线	cinemaworld_台湾_国+详情
 CinemaWorld频道	CinemaWorld_台新_国
 Citra Entertainment
-CLASSIC_ROCK	Classic ROCK
 CLASSICA 古典乐	Classica古典乐
 CMC 香港频道
 CMusic
@@ -1033,7 +1024,7 @@ TV5MONDE STYLE HD 生活时尚	TV5MONDE Style生活时尚
 tvOne
 TVRI
 UNIQUES
-Vannathirai	Vannathirai(EPG1)
+Vannathirai
 video express rentnow
 Vijay TV HD	Vijay TV_新加坡
 Vision Prime
@@ -1284,7 +1275,6 @@ iHOT爱旅行
 青海都市
 少儿动漫
 哈萨克语综艺	新疆哈萨克语综艺
-维吾尔语经济生活	新疆维吾尔语经济生活
 汉语体育健康	新疆汉语体育健康
 星影	NOW爆谷星影台_非港
 海外剧场
@@ -1317,7 +1307,6 @@ IPTV8+	IPTV-8+
 滨海新闻
 游戏竞技
 凤凰电影	凤凰电影台
-生态环境
 
 
 #https://tv.mxdyeah.top/epgphp/t.xml
@@ -1569,7 +1558,6 @@ ChangeTimezone=Y
 412157	ABC Australia_港新马
 492865	Cartoon Network_港新马_英
 524990	Cricbuzz 2_新加坡
-412095	DreamWorks_新加坡_英
 412165	Fight Sports_新加坡
 412153	HGTV_非新加坡
 412116	Kalaignar TV_新加坡
@@ -1583,7 +1571,6 @@ ChangeTimezone=Y
 369734	KBS World_港新马_英
 369832	Lifetime_新马_英
 412130	NHK World Premium_英
-412136	Nick Jr._英_非新加坡2
 369719	ROCK Entertainment_港新_英
 369757	Sky News_新加坡
 369846	SONY MAX_港新
@@ -1592,8 +1579,6 @@ ChangeTimezone=Y
 516577	SPOTV-2_新加坡
 412094	Sun Music_新加坡
 455314	TFC (The Filipino Channel)_港新
-412120	Travelxp HD_新加坡
-412097	Vannathirai_新加坡
 412185	Zee Cinema_港新
 412115	Zee Tamil_新加坡
 369828	ZEE TV_港新印
@@ -1609,7 +1594,6 @@ ChangeTimezone=Y
 369742	Citra Drama_新加坡
 492866	Crime & Investigation_港台新马_英
 369824	Drama Channel_新加坡
-412178	DW English
 412122	Euronews_新加坡
 412197	Fashion TV(新加坡)
 412190	France 24 English_新马
@@ -1618,13 +1602,10 @@ ChangeTimezone=Y
 491164	GMA News TV_新加坡
 491168	GMA Pinoy TV_港新
 369786	HBO Family_港台新_英
-412195	HBO Family_非港台新_英
-412088	HBO HD_港新_英
 369840	HBO Hits_港台新_英
 369758	HBO Signature_台新_英
 412172	History Channel_非新非马2
 412194	HITS HD_英
-485760	HITS NOW_非新加坡
 492832	Animax_新加坡_英
 507899	Master Chef
 369773	mio Sports
@@ -1632,7 +1613,6 @@ ChangeTimezone=Y
 369802	mio Sports-3
 369804	MTV India
 369728	ONE (Malay)_新马_国英
-484245	Outdoor Channel_港新
 429564	Pesona_新加坡_英
 522558	Zoom TV_新加坡
 412148	Preview Channel(新加坡)
@@ -1860,7 +1840,6 @@ https://epg.pw/xmltv/epg_US.xml
 464810	Game Show Network
 465336	Game+ Game Plus
 465194	GEMS
-465411	get(US)
 464769	GMA Pinoy TV(US)
 465135	GOD TV
 464780	GOL TV
