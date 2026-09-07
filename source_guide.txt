@@ -100,7 +100,6 @@ https://epg.mb6.top/heiptv.xml
 258432750	河南梨园频道
 244402779	羽毛球专区
 87307627	优购物
-437459970	优购物精选
 87307136	家有购物
 87306570	聚鲨环球精选
 235278344	央广购物
@@ -384,7 +383,6 @@ CHC 家庭影院	CHC家庭影院
 厦门1
 厦门2
 #陕西
-陕西乐家购物
 陕西秦腔频道
 陕西体育休闲
 陕西新闻资讯
@@ -574,7 +572,6 @@ now财经	NOW财经台_国
 now体育	NOW体育
 now体育4k	NOW体育4k
 now新闻	NOW新闻
-now直播	NOW直播
 ONE	ONE HD_马来_英
 ONE (Malay)	ONE HD_英
 ONE HD	ONE HD_英2
@@ -645,7 +642,6 @@ elta体育max 8	爱尔达体育MAX8台
 八大第一HD	八大第一台
 八大戏剧台
 半岛电视台英语频道	Al Jazeera English
-宝岛文化
 博斯魅力网有线
 博斯高球一台	博斯高球1台
 博斯高球一台有线	博斯高球1台有线
@@ -993,7 +989,6 @@ SBS plus	SBS Plus_韩
 SBS sport
 SCTV
 SEA TODAY
-SiCAR爱车酷
 Sindo News TV
 Smithsonian_Channel	Smithsonian Channel
 Soccer Channel
@@ -1504,10 +1499,8 @@ ChangeTimezone=Y
 https://epg.pw/xmltv/epg_SG.xml
 ChangeTimezone=Y
 512067	CCTV-娱乐
-412142	上海东方国际_新加坡
 512068	NOW紫金国际台_新加坡_繁中
 369783	凤凰资讯台
-412145	凤凰资讯台_新加坡_英
 369805	TVB-翡翠台_新马_中
 369796	TVB-星河台_新马_中英
 491163	TVBS-亚洲台_新加坡_中英
@@ -1539,28 +1532,20 @@ ChangeTimezone=Y
 535443	That's 80s_新加坡
 535444	That's Rock_新加坡
 492896	Trace Sport Stars_港台新_英
-412123	Adithya TV_新加坡
-412103	Asianet TV_新加坡
 435717	Asianet TV_非新加坡
 369723	Asianet Movies_新加坡
 492892	BBC Earth_新马港台_英
 492863	BBC Lifestyle_港台新_英
 492869	Astro Sensasi_新加坡
 516575	Astro Prima_新加坡
-412167	beIN Sports-1_新马
-412129	beIN Sports-2_新马
 524985	beIN Sports-3_新马
 524983	beIN Sports-4_新马
 492823	CinemaWorld_新加坡_英
 369816	CBeebies_港新_英
 492904	Colors TV_新加坡2
 491167	KTV_新加坡
-412157	ABC Australia_港新马
 492865	Cartoon Network_港新马_英
 524990	Cricbuzz 2_新加坡
-412165	Fight Sports_新加坡
-412153	HGTV_非新加坡
-412116	Kalaignar TV_新加坡
 492915	Karisma_新加坡
 492895	Hub-都会台
 492836	Hub Sports 3
@@ -1570,17 +1555,12 @@ ChangeTimezone=Y
 524981	Hub Sports 7
 369734	KBS World_港新马_英
 369832	Lifetime_新马_英
-412130	NHK World Premium_英
 369719	ROCK Entertainment_港新_英
 369757	Sky News_新加坡
 369846	SONY MAX_港新
 516576	SPOTV_新加坡
-412181	SPOTV_非新
 516577	SPOTV-2_新加坡
-412094	Sun Music_新加坡
 455314	TFC (The Filipino Channel)_港新
-412185	Zee Cinema_港新
-412115	Zee Tamil_新加坡
 369828	ZEE TV_港新印
 516580	Zee Thirai_新加坡
 495473	Deal or No Deal_新加坡
@@ -1588,15 +1568,10 @@ ChangeTimezone=Y
 369785	Animal Planet_新加坡_英
 491159	ANIPLUS_新加坡_英
 516579	Astro Ria_新加坡_英
-412199	Bloomberg Originals_新加坡_英
 369771	Bloomberg TV
-412096	Cinemax HD_台新_英
 369742	Citra Drama_新加坡
 492866	Crime & Investigation_港台新马_英
 369824	Drama Channel_新加坡
-412122	Euronews_新加坡
-412197	Fashion TV(新加坡)
-412190	France 24 English_新马
 369839	France 24 French_新加坡
 491154	GMA Life TV_新加坡
 491164	GMA News TV_新加坡
@@ -1604,18 +1579,14 @@ ChangeTimezone=Y
 369786	HBO Family_港台新_英
 369840	HBO Hits_港台新_英
 369758	HBO Signature_台新_英
-412172	History Channel_非新非马2
-412194	HITS HD_英
 492832	Animax_新加坡_英
 507899	Master Chef
 369773	mio Sports
 369717	mio Sports-2
 369802	mio Sports-3
 369804	MTV India
-369728	ONE (Malay)_新马_国英
 429564	Pesona_新加坡_英
 522558	Zoom TV_新加坡
-412148	Preview Channel(新加坡)
 369727	ROCK Action_新加坡_英
 369849	SONY SAB
 369746	SET (HINDI)_新加坡
@@ -1625,14 +1596,10 @@ ChangeTimezone=Y
 369814	STAR Gold_新加坡
 451931	Star Maa_新加坡
 369844	STAR Plus
-459681	Star Hub(新加坡)
 516581	TechStorm
-413372	TestChannel 993(新加坡)
-493279	TestChannel 996(新加坡)
 522557	Times Now_新加坡
 369772	Colors TV_新加坡
 501127	ABS-CBN News Channel_新加坡
-412186	Cinema One Global_新加坡
 
 
 https://epg.pw/xmltv/epg_US.xml
@@ -2285,12 +2252,10 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 66a8c8b3d2d50d000821fc4c	Tandem
 66d9aa4315d2c60008d4ac40	Alice Nevers
 66d9a98961dbf00008efb5fc	Sulle tracce del crimine
-625e6cc905e09f00073addee	Squadra Speciale Cobra 11
 638f286445264d00084ec6dc	Autostop per il cielo
 608aa777b907770007e5d05d	Pluto TV Serie Crime
 65cb78b83a116800079e2e35	Cin Cin
 65cb76723a116800079e1fc3	Love Boat
-65cb76ea11ced70008206b66	Dynasty
 65cb77853ba51e00084cba02	Mission Impossible
 634926e4b51d2d00077819a2	Renegade
 608aa17fb9f4490007e6419a	Pluto TV Film
@@ -2374,7 +2339,6 @@ mr-bean-live-action	Mr Bean Live Action
 the-pet-collective-new	The Pet Collective New
 people-are-awesome-new	People Are Awesome New
 billiards-tv	Billiards TV
-hard-knocks-fighting-championship	Hard Knocks Fighting Championship
 glory-kickboxing	Glory Kickboxing
 pfl-mma	PFL MMA
 racer-international	Racer International
