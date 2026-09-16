@@ -592,7 +592,6 @@ ROCK Xstream摇滚极限频道	Rock X Stream_国
 ROCK综艺娱乐	ROCK Entertainment_港新_国
 RT香港
 SBN全球财经台
-Taiwan Plus
 SUPER FREE (免费)	SUPER FREE
 SUPER Kids Channel
 SUPER Music (免费)	SUPER Music
@@ -653,7 +652,6 @@ elta体育max 8	爱尔达体育MAX8台
 达文西频道
 大爱电视	大爱电视
 大爱二台
-大台中生活频道台
 第1商业台
 第一神拳
 电动车时代
@@ -992,10 +990,8 @@ SEA TODAY
 Sindo News TV
 Smithsonian_Channel	Smithsonian Channel
 Soccer Channel
-Sony Entertainment Televis新加坡	SONY Entertainment TV_新加坡
 SONY MAX
 Sony TV (India)	SONY TV
-SPL-CH01
 Sportstars
 Sportstars 2
 Sportstars 3
@@ -1019,7 +1015,6 @@ TV5MONDE STYLE HD 生活时尚	TV5MONDE Style生活时尚
 tvOne
 TVRI
 UNIQUES
-Vannathirai
 video express rentnow
 Vijay TV HD	Vijay TV_新加坡
 Vision Prime
@@ -1905,7 +1900,6 @@ https://epg.pw/xmltv/epg_US.xml
 465351	Monumental Sports Network-2
 465347	Monumental Sports Network
 465361	Monumental Sports Network Outer Market
-464850	MoreMax
 465084	MOTORTREND
 465074	MoviePlex
 516449	Movies!
@@ -2207,7 +2201,6 @@ https://epg.pw/xmltv/epg_US.xml
 472382	World Channel
 465358	World Fishing Network
 465179	World Harvest TV
-553734	WWE Network
 496607	Yes Network
 496596	Yes Network Overflow
 467912	Yes TV
