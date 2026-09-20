@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-09-20 13:24:21 (北京时间)
-当前时间: 2026-09-20 05:24:21 (UTC)
+当前时间: 2026-09-20 21:14:24 (北京时间)
+当前时间: 2026-09-20 13:14:24 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1723,10 +1723,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 409 个
-    🔗 智能合并更新: 29 个节目
+    ✂️ 跨天节目拆分: 421 个
+    🔗 智能合并更新: 31 个节目
     📺 新增频道: 85/85
-    📅 新增节目: 16446/17113
+    📅 新增节目: 15148/15820
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1743,12 +1743,12 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 109 个
-    🔗 智能合并更新: 417 个节目
+    ✂️ 跨天节目拆分: 117 个
+    🔗 智能合并更新: 423 个节目
     ⚠ 未找到频道: 茂名文化生活
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     📺 新增频道: 186/188
-    📅 新增节目: 45828/49572
+    📅 新增节目: 48453/52203
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1763,557 +1763,557 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 317 个
-    🔗 智能合并更新: 177 个节目
-    ⚠ 未找到频道: Now Sports 641
-    ⚠ 未找到频道: MBC music
-    ⚠ 未找到频道: MBC on
-    ⚠ 未找到频道: cgtn西班牙语 → 【CGTN西班牙语】
-    ⚠ 未找到频道: France 24香港 → 【France 24 English_香港】
-    ⚠ 未找到频道: BBC EARTH → 【BBC Earth_新马港台_国】
-    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
-    ⚠ 未找到频道: 美丽人生购物台
-    ⚠ 未找到频道: 五星体育
-    ⚠ 未找到频道: 靖天电影台
-    ⚠ 未找到频道: EBS CHILD
-    ⚠ 未找到频道: 美好2台
-    ⚠ 未找到频道: EBS PLUS1
-    ⚠ 未找到频道: 澳门体育
-    ⚠ 未找到频道: 半岛电视台英语频道 → 【Al Jazeera English】
-    ⚠ 未找到频道: Animax HD → 【Animax_英】
-    ⚠ 未找到频道: MBC drama
-    ⚠ 未找到频道: Now Sports 5
-    ⚠ 未找到频道: Now Sports plus
-    ⚠ 未找到频道: myTV SUPER直播足球6台
-    ⚠ 未找到频道: 爱尔达体育4台
-    ⚠ 未找到频道: 民视台湾台
-    ⚠ 未找到频道: Hub Sports 3 HD → 【Hub Sports 3】
-    ⚠ 未找到频道: TVB Plus (免费) → 【TVB Plus】
-    ⚠ 未找到频道: MBC
-    ⚠ 未找到频道: 彩虹Movie台
-    ⚠ 未找到频道: Citra Entertainment
-    ⚠ 未找到频道: Now Sports 英超 TV5
-    ⚠ 未找到频道: 喀秋莎
-    ⚠ 未找到频道: 南京十八频道
-    ⚠ 未找到频道: 视纳华仁纪实频道
-    ⚠ 未找到频道: LUXE TV Channel
-    ⚠ 未找到频道: 1905App 热血·影院
-    ⚠ 未找到频道: 广西综艺旅游频道 → 【广西综艺旅游】
-    ⚠ 未找到频道: Hub Premier 6
-    ⚠ 未找到频道: HOT频道
-    ⚠ 未找到频道: CMusic
-    ⚠ 未找到频道: 亚洲剧台 → 【TVB-亚洲剧台】
-    ⚠ 未找到频道: 壹电视新闻台
-    ⚠ 未找到频道: 时尚运动X
-    ⚠ 未找到频道: EBS2
-    ⚠ 未找到频道: momo2台HD → 【MOMO2台】
-    ⚠ 未找到频道: KBS 2
-    ⚠ 未找到频道: 浙江民生 → 【浙江民生休闲】
-    ⚠ 未找到频道: FashionBox
-    ⚠ 未找到频道: 澳门资讯
-    ⚠ 未找到频道: Globetrotter (免费) → 【Globet Trotter】
-    ⚠ 未找到频道: 健康2.0
-    ⚠ 未找到频道: 信大电视台
-    ⚠ 未找到频道: 陕西体育休闲
+    ✂️ 跨天节目拆分: 319 个
+    🔗 智能合并更新: 163 个节目
+    ⚠ 未找到频道: 霹雳电视台
     ⚠ 未找到频道: CNEX纪实频道 → 【CNEX纪实频道_简中】
-    ⚠ 未找到频道: KBS DRAMA
-    ⚠ 未找到频道: myTV SUPER直播足球3台
-    ⚠ 未找到频道: SUPER识食 (免费) → 【SUPER识食】
-    ⚠ 未找到频道: CARTOONITO HD → 【CARTOONITO】
-    ⚠ 未找到频道: 天映经典新加坡 → 【天映经典电影_港新菲_国】
-    ⚠ 未找到频道: 都市频道 → 【上海都市频道】
-    ⚠ 未找到频道: 翡翠一台(TVB1) → 【TVB-翡翠一台(TVB1)】
-    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: elta体育max 7 → 【爱尔达体育MAX7台】
-    ⚠ 未找到频道: 大爱二台
-    ⚠ 未找到频道: Hub VV Drama HD → 【Hub-娱家_非新加坡】
-    ⚠ 未找到频道: 陕西秦腔频道
-    ⚠ 未找到频道: EUROSPORT HD → 【Eurosport_英】
-    ⚠ 未找到频道: 无线卫星亚洲台 → 【TVBS-亚洲台】
-    ⚠ 未找到频道: 戏曲台 → 【myTV SUPER戏曲台】
-    ⚠ 未找到频道: 靖天映画 → 【靖天映画台】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: Now Sports 3
-    ⚠ 未找到频道: 中国电影频道CCMC → 【CMC 北美频道】
-    ⚠ 未找到频道: cgtn阿拉伯语 → 【CGTN阿拉伯语】
-    ⚠ 未找到频道: EBS PLUS2
-    ⚠ 未找到频道: Asianet Movies
-    ⚠ 未找到频道: Wild Stuff (免费) → 【Wild Stuff】
-    ⚠ 未找到频道: Now Sports 英超 TV2
-    ⚠ 未找到频道: Discovery 科学频道 → 【Discovery Sci科学频道_港台_国】
-    ⚠ 未找到频道: 青海卫视
-    ⚠ 未找到频道: Now Sports 668
-    ⚠ 未找到频道: Hami体育1台
-    ⚠ 未找到频道: tvN有线 → 【tvN_港新台_国_有线】
-    ⚠ 未找到频道: now体育 → 【NOW体育】
-    ⚠ 未找到频道: SBS Golf2
-    ⚠ 未找到频道: 佛卫电视慈悲台 → 【佛卫慈悲台】
-    ⚠ 未找到频道: Asianet → 【Asianet TV】
-    ⚠ 未找到频道: K频道
-    ⚠ 未找到频道: 华艺台湾台 HD → 【华艺台湾台】
-    ⚠ 未找到频道: myTV SUPER 18台
-    ⚠ 未找到频道: 天美丽电视台
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: 亚洲综合HD
-    ⚠ 未找到频道: 河南新闻
-    ⚠ 未找到频道: Lifeime → 【Lifetime_港台_国】
-    ⚠ 未找到频道: cinemalworld世界电影频道有线 → 【cinemaworld_台湾_国+详情】
-    ⚠ 未找到频道: 国学时代界
-    ⚠ 未找到频道: Eurosport → 【Eurosport_国】
-    ⚠ 未找到频道: 成人极品台
-    ⚠ 未找到频道: 浙江数码时代
-    ⚠ 未找到频道: 河南象世界
-    ⚠ 未找到频道: Now Sports 英超 TV4
-    ⚠ 未找到频道: 靖天卡通
-    ⚠ 未找到频道: 三立都会台
-    ⚠ 未找到频道: SBN全球财经台
-    ⚠ 未找到频道: 连云港新闻综合
-    ⚠ 未找到频道: GlobalTrekker → 【Global Trekker_国(标题)】
-    ⚠ 未找到频道: cctv风云足球 → 【CCTV-风云足球】
-    ⚠ 未找到频道: TV5MONDE ASIE
-    ⚠ 未找到频道: ViuTV → 【Viu TV】
-    ⚠ 未找到频道: ROCK Extreme → 【ROCK Extreme_国】
-    ⚠ 未找到频道: 车迷TV
-    ⚠ 未找到频道: CATCH PLAY电影台 → 【CATCHPLAY电影台_台湾】
-    ⚠ 未找到频道: TVB功夫台 → 【TVB-功夫台】
-    ⚠ 未找到频道: Medici-arts HD → 【Medici-Arts】
-    ⚠ 未找到频道: TVBS欢乐台 → 【TVBS-欢乐台】
-    ⚠ 未找到频道: 宜兴新闻综合
-    ⚠ 未找到频道: 桃园生活台
-    ⚠ 未找到频道: NOW 80s
-    ⚠ 未找到频道: 辽宁卫视
-    ⚠ 未找到频道: 天津卫视
-    ⚠ 未找到频道: CI 罪案侦查频道 → 【Crime & Investigation_港台新马_国(标题)】
-    ⚠ 未找到频道: Sony TV (India) → 【SONY TV】
-    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
-    ⚠ 未找到频道: 人间卫视
-    ⚠ 未找到频道: SBS Biz
-    ⚠ 未找到频道: 麦卡贝综艺
-    ⚠ 未找到频道: 娱乐新闻台 (免费) → 【TVB-娱乐新闻台_国】
-    ⚠ 未找到频道: 香港电台32 → 【RTHK32】
-    ⚠ 未找到频道: HBO → 【HBO HD_港台新_国2】
-    ⚠ 未找到频道: now财经 → 【NOW财经台_国】
-    ⚠ 未找到频道: Nick Jr → 【Nick Jr._英_新马】
-    ⚠ 未找到频道: 民视
-    ⚠ 未找到频道: CMC 香港频道
-    ⚠ 未找到频道: 河南公共
-    ⚠ 未找到频道: 居家乐活频道香港
-    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
-    ⚠ 未找到频道: 南京教科频道
-    ⚠ 未找到频道: Vijay TV HD → 【Vijay TV_新加坡】
-    ⚠ 未找到频道: 乐活频道
-    ⚠ 未找到频道: 智叻乐园
-    ⚠ 未找到频道: 泰州新闻综合
-    ⚠ 未找到频道: Hub Premier 7
-    ⚠ 未找到频道: MOMO综合台 → 【MOMO综合台】
-    ⚠ 未找到频道: 年代新闻
-    ⚠ 未找到频道: CCTV-4 → 【CCTV4_英(EPG2)】
-    ⚠ 未找到频道: Hub Premier 10
-    ⚠ 未找到频道: 深圳卫视香港 → 【深圳卫视_香港】
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: Astro Warna HD → 【Astro Warna】
-    ⚠ 未找到频道: Discovery Channel香港 → 【Discovery Channel_香港】
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
-    ⚠ 未找到频道: History 历史频道有线 → 【History Channel_港台_国_有线】
-    ⚠ 未找到频道: Pandora潘朵啦高画质粉红台 → 【潘多拉粉红台】
-    ⚠ 未找到频道: SBS life → 【SBS Life】
-    ⚠ 未找到频道: video express rentnow
-    ⚠ 未找到频道: 天映经典马来西亚 → 【天映经典电影_马来非新_国】
-    ⚠ 未找到频道: 松视2台
-    ⚠ 未找到频道: momo亲子台 → 【MOMO亲子台(EPG2)】
-    ⚠ 未找到频道: 龙华偶像台OTT
-    ⚠ 未找到频道: Now 高尔夫3
-    ⚠ 未找到频道: ZooMoo → 【ZooMoo_香港_国】
-    ⚠ 未找到频道: 松视4台
-    ⚠ 未找到频道: 东森购物四台 → 【东森购物4台】
-    ⚠ 未找到频道: 香港电台31 → 【RTHK31】
-    ⚠ 未找到频道: HBO Signature香港 → 【HBO Signature_香港_国】
-    ⚠ 未找到频道: 中天综合台
-    ⚠ 未找到频道: elta体育max 8 → 【爱尔达体育MAX8台】
-    ⚠ 未找到频道: 韩国娱乐KMTV → 【韩国娱乐台KMTV_台湾】
-    ⚠ 未找到频道: Now Sports 英超TV1
-    ⚠ 未找到频道: Nick Jr. 儿童频道 → 【Nick Jr._国_港台】
-    ⚠ 未找到频道: Panda TV → 【NOW Panda TV】
-    ⚠ 未找到频道: 彩虹频道
-    ⚠ 未找到频道: 威达超舜生活台
-    ⚠ 未找到频道: meWATCH LIVE 2
-    ⚠ 未找到频道: SUPER煲剧 (免费) → 【SUPER煲剧】
-    ⚠ 未找到频道: TV5MONDE → 【TV5MONDE】
-    ⚠ 未找到频道: 陕西卫视
-    ⚠ 未找到频道: Now Sports 652
-    ⚠ 未找到频道: 公用频道 → 【公用频道_台湾】
-    ⚠ 未找到频道: 东森购物5台HD → 【东森购物5台】
-    ⚠ 未找到频道: myTV SUPER直播足球2台
-    ⚠ 未找到频道: 经典电影台
-    ⚠ 未找到频道: Netflix香港 → 【Netflix_香港】
-    ⚠ 未找到频道: 咪咕体育
-    ⚠ 未找到频道: KBS KIDS
-    ⚠ 未找到频道: TRACESportStars → 【Trace Sport Stars_港台新_简中】
-    ⚠ 未找到频道: 溧水新闻综合
-    ⚠ 未找到频道: 曼迪日本台HD → 【曼迪日本台】
-    ⚠ 未找到频道: Zee Thirai → 【Zee Thirai(EPG1)】
-    ⚠ 未找到频道: Crime + Investigation HD → 【Crime & Investigation】
-    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: NHK World-Japan → 【NHK World Japan】
-    ⚠ 未找到频道: SUPER Music (免费) → 【SUPER Music】
-    ⚠ 未找到频道: TVB无线新闻台(TVB News) → 【TVB-无线新闻台_非港(TVB News)】
+    ⚠ 未找到频道: 浙江科教
+    ⚠ 未找到频道: 天映频道新加坡 → 【天映电影_非新_国】
+    ⚠ 未找到频道: 电动车时代
+    ⚠ 未找到频道: 喀秋莎
     ⚠ 未找到频道: 天映频道马来西亚 → 【天映电影_马来非新_国】
-    ⚠ 未找到频道: 八大戏剧台
-    ⚠ 未找到频道: EYE TV戏剧台HD → 【EYE TV戏剧台】
-    ⚠ 未找到频道: Now Sports 7
-    ⚠ 未找到频道: Cartoon Network香港 → 【Cartoon Network_港新马_国】
-    ⚠ 未找到频道: Hub Sports 1 HD → 【Hub Sports 1】
-    ⚠ 未找到频道: 靖洋卡通Nice Bingo → 【靖洋卡通】
-    ⚠ 未找到频道: EYE TV旅游台HD → 【EYE TV旅游台】
-    ⚠ 未找到频道: 经典剧场
-    ⚠ 未找到频道: 看看新闻直播
-    ⚠ 未找到频道: SUPER Kids Channel
-    ⚠ 未找到频道: PopC
-    ⚠ 未找到频道: NewsWorld (免费) → 【NewsWorld】
-    ⚠ 未找到频道: 浙江卫视 → 【浙江卫视4K】
-    ⚠ 未找到频道: MBC every1
-    ⚠ 未找到频道: 宁夏卫视
+    ⚠ 未找到频道: SBS Golf
+    ⚠ 未找到频道: Warner TV → 【Warner TV_台湾_国】
+    ⚠ 未找到频道: 车迷TV
+    ⚠ 未找到频道: ROCK ACTION → 【Rock Action_香港_国】
+    ⚠ 未找到频道: 1905App 环球经典
+    ⚠ 未找到频道: now 剧集 → 【NOW剧集】
+    ⚠ 未找到频道: Medici-arts HD → 【Medici-Arts】
+    ⚠ 未找到频道: CCTV-4香港 → 【CCTV4香港】
+    ⚠ 未找到频道: DreamWorks → 【DreamWorks_台湾_国】
+    ⚠ 未找到频道: 天美丽电视台
+    ⚠ 未找到频道: 辽宁卫视
+    ⚠ 未找到频道: 玩家频道
+    ⚠ 未找到频道: 半岛电视台英语频道 → 【Al Jazeera English】
+    ⚠ 未找到频道: 美亚电影HD → 【美亚电影HD_台湾】
+    ⚠ 未找到频道: 居家乐活频道香港
+    ⚠ 未找到频道: 陕西秦腔频道
+    ⚠ 未找到频道: Nick Jr.(小尼克) → 【Nick Jr._国_台湾】
+    ⚠ 未找到频道: Now Sports 英超TV
+    ⚠ 未找到频道: 彩虹Movie台
+    ⚠ 未找到频道: 香港电台32 → 【RTHK32】
+    ⚠ 未找到频道: 陕西卫视
+    ⚠ 未找到频道: CHC 家庭影院 → 【CHC家庭影院】
+    ⚠ 未找到频道: 梅迪奇艺术台
+    ⚠ 未找到频道: 华艺台湾台 HD → 【华艺台湾台】
+    ⚠ 未找到频道: 黑龙江卫视
+    ⚠ 未找到频道: cctv8k → 【CCTV8K】
+    ⚠ 未找到频道: Asianet Movies
+    ⚠ 未找到频道: 澳门卫星
+    ⚠ 未找到频道: Eurosport → 【Eurosport_国】
+    ⚠ 未找到频道: Nickelodeon香港 → 【Nickelodeon Asia_港新马_国2】
+    ⚠ 未找到频道: 高雄都会台
+    ⚠ 未找到频道: 大爱二台
+    ⚠ 未找到频道: SUPER FREE (免费) → 【SUPER FREE】
+    ⚠ 未找到频道: 壹电视新闻台
+    ⚠ 未找到频道: GlobalTrekker → 【Global Trekker_国(标题)】
+    ⚠ 未找到频道: MBC on
     ⚠ 未找到频道: Zee TV HD
-    ⚠ 未找到频道: 浙江少儿
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: Vijay TV HD → 【Vijay TV_新加坡】
+    ⚠ 未找到频道: kix印尼
+    ⚠ 未找到频道: 无线新闻(国际版) → 【TVB-无线新闻台(国际版)】
+    ⚠ 未找到频道: cctv风云剧场 → 【CCTV-风云剧场】
+    ⚠ 未找到频道: JStar极限台电影频道
+    ⚠ 未找到频道: CATCH PLAY电影台 → 【CATCHPLAY电影台_台湾】
+    ⚠ 未找到频道: kix新加坡
+    ⚠ 未找到频道: ADITHYA TV → 【Adithya TV】
+    ⚠ 未找到频道: EVE有线 → 【Discovery EVE_台湾_国_有线】
+    ⚠ 未找到频道: 浙江国际
+    ⚠ 未找到频道: OUTtv HD
+    ⚠ 未找到频道: TLC旅游生活频道香港 → 【TLC_港马新_国】
+    ⚠ 未找到频道: BBC LIFESTYLE → 【BBC Lifestyle_港台_国】
+    ⚠ 未找到频道: 户外频道香港
+    ⚠ 未找到频道: 贵州卫视
+    ⚠ 未找到频道: FashionBox
+    ⚠ 未找到频道: 信大电视台
+    ⚠ 未找到频道: 浙江卫视 → 【浙江卫视4K】
     ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: ETtoday综合台
+    ⚠ 未找到频道: France 24香港 → 【France 24 English_香港】
+    ⚠ 未找到频道: KBS STORY
+    ⚠ 未找到频道: TVB翡翠娱乐台(TVBe) → 【TVB-翡翠娱乐台(TVBe)】
+    ⚠ 未找到频道: Now Sports 英超 TV5
+    ⚠ 未找到频道: Cartoon Network香港 → 【Cartoon Network_港新马_国】
+    ⚠ 未找到频道: Karisma → 【Karisma(EPG2)】
+    ⚠ 未找到频道: 陕西体育休闲
+    ⚠ 未找到频道: 黄金华剧台 → 【TVB-黄金华剧台】
+    ⚠ 未找到频道: 金光布袋戏
+    ⚠ 未找到频道: 福建海峡卫视国际频道 (免费) → 【福建海峡卫视国际频道】
+    ⚠ 未找到频道: ROCK Xstream摇滚极限频道 → 【Rock X Stream_国】
+    ⚠ 未找到频道: 奥林匹克官网直播
+    ⚠ 未找到频道: 超视 → 【东森超视】
+    ⚠ 未找到频道: 都市频道 → 【上海都市频道】
+    ⚠ 未找到频道: Now Sports 4
+    ⚠ 未找到频道: 都会台
+    ⚠ 未找到频道: 华视教育体育文化台
+    ⚠ 未找到频道: Discovery Asia → 【Discovery Asia_国_详情】
+    ⚠ 未找到频道: Hub Premier 2
+    ⚠ 未找到频道: 佛卫电视慈悲台 → 【佛卫慈悲台】
+    ⚠ 未找到频道: Hub Premier 7
+    ⚠ 未找到频道: Now 高尔夫2
+    ⚠ 未找到频道: SONY MAX
+    ⚠ 未找到频道: HAPPY频道
+    ⚠ 未找到频道: 宁夏卫视
+    ⚠ 未找到频道: now体育 → 【NOW体育】
+    ⚠ 未找到频道: 靖天电影台
     ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
     ⚠ 未找到频道: 猪哥亮歌厅秀
-    ⚠ 未找到频道: 广西新闻频道 → 【广西新闻】
-    ⚠ 未找到频道: 华视教育体育文化台
-    ⚠ 未找到频道: 爆谷台 → 【NOW爆谷台】
-    ⚠ 未找到频道: 甘肃卫视
-    ⚠ 未找到频道: 东方卫视国际频道 (免费) → 【上海东方国际频道】
-    ⚠ 未找到频道: DreamWorks → 【DreamWorks_台湾_国】
-    ⚠ 未找到频道: TVB翡翠剧集台(TVB Drama) → 【TVB-翡翠剧集台(TVB Drama)】
-    ⚠ 未找到频道: meWATCH LIVE 5
-    ⚠ 未找到频道: viu6 → 【Viu Six】
-    ⚠ 未找到频道: now新闻 → 【NOW新闻】
-    ⚠ 未找到频道: 彩虹E频道
-    ⚠ 未找到频道: 中央电视台新闻频道香港 → 【CCTV13香港】
-    ⚠ 未找到频道: 黑龙江卫视
-    ⚠ 未找到频道: ELEVEN SPORTS 2
-    ⚠ 未找到频道: 安徽广播电视台国际频道 (免费) → 【安徽国际频道】
-    ⚠ 未找到频道: Hub Premier 8
-    ⚠ 未找到频道: Now Sports 681
-    ⚠ 未找到频道: Concerto (免费) → 【Concerto】
-    ⚠ 未找到频道: cctv风云剧场 → 【CCTV-风云剧场】
-    ⚠ 未找到频道: SUPER Sports (免费) → 【SUPER Sports】
-    ⚠ 未找到频道: Asian Food Network 亚洲美食频道 → 【Asian Food Network_港台新_国】
-    ⚠ 未找到频道: HBO Family → 【HBO Family_港台新_国】
-    ⚠ 未找到频道: 第一财经直播 → 【上海第一财经直播】
-    ⚠ 未找到频道: 天映频道新加坡 → 【天映电影_非新_国】
-    ⚠ 未找到频道: 电影原声台CMusic
-    ⚠ 未找到频道: 奥林匹克官网直播
-    ⚠ 未找到频道: 无线新闻(国际版) → 【TVB-无线新闻台(国际版)】
-    ⚠ 未找到频道: CHC 家庭影院 → 【CHC家庭影院】
-    ⚠ 未找到频道: NOW ROCK
-    ⚠ 未找到频道: ADITHYA TV → 【Adithya TV】
-    ⚠ 未找到频道: GINX Esports TV → 【GINX Esports电竞频道_国】
-    ⚠ 未找到频道: 纬来育乐台
-    ⚠ 未找到频道: DW (English)香港 → 【DW English_香港】
-    ⚠ 未找到频道: INULTRA
-    ⚠ 未找到频道: 华藏卫星电视台 → 【华藏卫视】
-    ⚠ 未找到频道: kix亚洲
-    ⚠ 未找到频道: ANC
-    ⚠ 未找到频道: SONY MAX
-    ⚠ 未找到频道: TG Junior
-    ⚠ 未找到频道: 广东综艺
-    ⚠ 未找到频道: FIFA+
-    ⚠ 未找到频道: 三立台湾台
-    ⚠ 未找到频道: Now Sports 英超 TV6
-    ⚠ 未找到频道: 广东体育
-    ⚠ 未找到频道: 中国农林卫视 → 【陕西农林卫视】
-    ⚠ 未找到频道: Astro Sensasi HD → 【Astro Sensasi】
-    ⚠ 未找到频道: elta体育max 6 → 【爱尔达体育MAX6台】
-    ⚠ 未找到频道: 大湾区卫视香港 → 【广东大湾区卫视_香港】
-    ⚠ 未找到频道: 台湾艺术台
-    ⚠ 未找到频道: Rialto Classic Movies (RCM) (免费) → 【RCM(Rialto Classic Movies)】
-    ⚠ 未找到频道: Nickelodeon香港 → 【Nickelodeon Asia_港新马_国2】
-    ⚠ 未找到频道: 厦门1
-    ⚠ 未找到频道: 高雄都会台
-    ⚠ 未找到频道: 深圳卫视国际频道 (免费) → 【深圳国际频道】
-    ⚠ 未找到频道: Warner TV → 【Warner TV_台湾_国】
-    ⚠ 未找到频道: Karisma → 【Karisma(EPG2)】
-    ⚠ 未找到频道: 云南卫视
-    ⚠ 未找到频道: 中央电视台综合频道 (港澳版) (免费) → 【CCTV1_港澳版】
-    ⚠ 未找到频道: 河南晴彩中原
-    ⚠ 未找到频道: 玩家频道
-    ⚠ 未找到频道: SBS
-    ⚠ 未找到频道: 澳视澳门
-    ⚠ 未找到频道: 宿迁新闻综合
-    ⚠ 未找到频道: 天映经典印尼 → 【天映经典电影_印柬_国】
-    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
-    ⚠ 未找到频道: Hub Sports 2 HD → 【Hub Sports 2】
-    ⚠ 未找到频道: 经典卡通台
-    ⚠ 未找到频道: 粤语片台
-    ⚠ 未找到频道: 广西都市频道 → 【广西都市】
-    ⚠ 未找到频道: 麦哲伦频道
-    ⚠ 未找到频道: LS TIME电影台 → 【龙祥电影台】
-    ⚠ 未找到频道: 博斯运动二台有线 → 【博斯运动2台】
-    ⚠ 未找到频道: cctv8k → 【CCTV8K】
-    ⚠ 未找到频道: KBS World HD → 【KBS World_非新加坡_英2】
-    ⚠ 未找到频道: Astro Cricket
-    ⚠ 未找到频道: 香蕉台
-    ⚠ 未找到频道: TVB翡翠娱乐台(TVBe) → 【TVB-翡翠娱乐台(TVBe)】
-    ⚠ 未找到频道: ROCK ACTION → 【Rock Action_香港_国】
-    ⚠ 未找到频道: 广西乐思购频道 → 【广西乐思购】
-    ⚠ 未找到频道: myTV SUPER直播足球5台
-    ⚠ 未找到频道: 澳门卫星
-    ⚠ 未找到频道: 美亚电影HD → 【美亚电影HD_台湾】
-    ⚠ 未找到频道: 浙江国际
-    ⚠ 未找到频道: 红豆电视台
-    ⚠ 未找到频道: SBS Golf
-    ⚠ 未找到频道: 精选动漫台
-    ⚠ 未找到频道: KTV HD → 【KTV(EPG1)】
-    ⚠ 未找到频道: 创世电视 (免费) → 【创世电视】
-    ⚠ 未找到频道: 华艺影剧台
-    ⚠ 未找到频道: 东森幼幼台 → 【东森幼幼】
-    ⚠ 未找到频道: 都会台
-    ⚠ 未找到频道: 信吉电视台
-    ⚠ 未找到频道: Hami体育2台
-    ⚠ 未找到频道: 爱尔达生活旅游台
-    ⚠ 未找到频道: 博斯高球一台有线 → 【博斯高球1台有线】
-    ⚠ 未找到频道: 天映经典频道 → 【天映经典电影_港新菲_国(详情)】
-    ⚠ 未找到频道: Now Sports 英超 TV3
-    ⚠ 未找到频道: 彰化生活台
-    ⚠ 未找到频道: 贵州卫视
-    ⚠ 未找到频道: Travelxp HD
-    ⚠ 未找到频道: CGTN (中国环球电视网)记录频道 (免费) → 【CGTN英文纪录】
-    ⚠ 未找到频道: 南通新闻综合
-    ⚠ 未找到频道: 靖天欢乐台
-    ⚠ 未找到频道: Now Sports 2
-    ⚠ 未找到频道: 爱尔达体育3台
-    ⚠ 未找到频道: 陕西移动电视
-    ⚠ 未找到频道: 纬来精采HD → 【纬来精采】
-    ⚠ 未找到频道: 天良综合台
-    ⚠ 未找到频道: 爱尔达体育1台
-    ⚠ 未找到频道: ONE (Malay) → 【ONE HD_英】
-    ⚠ 未找到频道: 凡尔赛玫瑰
-    ⚠ 未找到频道: EBS1
-    ⚠ 未找到频道: Moonbug香港 → 【Moonbug_香港_繁中】
-    ⚠ 未找到频道: Now Sports 6
-    ⚠ 未找到频道: 吉林卫视
-    ⚠ 未找到频道: HBO Hits香港 → 【HBO Hits_港新_国】
-    ⚠ 未找到频道: DiscoveryEVE → 【Discovery EVE_台湾_国】
     ⚠ 未找到频道: GLOBLTREKKER探索世界 → 【Global Trekker_国(详情)】
-    ⚠ 未找到频道: Now 高尔夫2
-    ⚠ 未找到频道: HGTV居家乐活频道 → 【HGTV_港台马新_国】
-    ⚠ 未找到频道: 厦门2
-    ⚠ 未找到频道: 浙江经济 → 【浙江经济生活】
-    ⚠ 未找到频道: Zee Cinema HD
-    ⚠ 未找到频道: 尼克儿童频道 → 【Nickelodeon Asia_港新马_国4】
-    ⚠ 未找到频道: 台湾综合台
-    ⚠ 未找到频道: Now Sports 英超TV
-    ⚠ 未找到频道: 双子卫视
-    ⚠ 未找到频道: 大爱电视 → 【大爱电视】
-    ⚠ 未找到频道: 徐州新闻综合
-    ⚠ 未找到频道: 番薯电视台 → 【番薯卫星电视台】
-    ⚠ 未找到频道: kix菲律宾
-    ⚠ 未找到频道: 公视儿少台HD → 【公视少儿台】
-    ⚠ 未找到频道: Pandora潘朵啦高画质玩美台 → 【潘多拉完美台】
-    ⚠ 未找到频道: 翡翠台(国际版) → 【TVB-翡翠台(国际版)_非新马_国】
-    ⚠ 未找到频道: 动物星球频道 → 【Animal Planet_港台_国】
-    ⚠ 未找到频道: 民视影剧台
-    ⚠ 未找到频道: 滚动力rollor → 【滚动力Rollor】
-    ⚠ 未找到频道: 福建海峡卫视国际频道 (免费) → 【福建海峡卫视国际频道】
-    ⚠ 未找到频道: 正德电视台
-    ⚠ 未找到频道: MOVIE MOVIE → 【MOVIE MOVIE_港_国】
-    ⚠ 未找到频道: 1905App 环球经典
-    ⚠ 未找到频道: 中视HD → 【中视】
-    ⚠ 未找到频道: TravelChannel → 【Travel Channel_台湾_国】
-    ⚠ 未找到频道: Hub Premier 5
-    ⚠ 未找到频道: Docsville (免费) → 【Docsville】
-    ⚠ 未找到频道: 博斯高球一台 → 【博斯高球1台】
-    ⚠ 未找到频道: 河南都市
-    ⚠ 未找到频道: Now Sports 英超 TV7
-    ⚠ 未找到频道: Kartoon Channel!
-    ⚠ 未找到频道: 中视数位台
-    ⚠ 未找到频道: TVB粤语片 → 【TVB-粤语片】
-    ⚠ 未找到频道: 博斯高球二台有线 → 【博斯高球2台】
-    ⚠ 未找到频道: 彩虹电影
-    ⚠ 未找到频道: KBS NEWS
-    ⚠ 未找到频道: cctv台球 → 【CCTV-台球】
-    ⚠ 未找到频道: Z频道
-    ⚠ 未找到频道: 河南乡村
-    ⚠ 未找到频道: 翡翠台 (免费) → 【TVB-翡翠台_香港_国】
-    ⚠ 未找到频道: ViVa 1台
-    ⚠ 未找到频道: 原住民族电视台 → 【原住民电视】
-    ⚠ 未找到频道: 香港电台33 → 【RTHK33】
-    ⚠ 未找到频道: 全球财经网频道
-    ⚠ 未找到频道: 中华电视台
-    ⚠ 未找到频道: 博斯运动一台有线 → 【博斯运动1台】
-    ⚠ 未找到频道: DAZN 1 → 【DAZN-1_台湾】
-    ⚠ 未找到频道: 霹雳电视台
-    ⚠ 未找到频道: 韩国娱乐台 KMTV → 【韩国娱乐台KMTV_台湾_简中】
-    ⚠ 未找到频道: 新唐人亚太台
-    ⚠ 未找到频道: EVE有线 → 【Discovery EVE_台湾_国_有线】
-    ⚠ 未找到频道: CNBC HD → 【CNBC (非新加坡)】
-    ⚠ 未找到频道: nowjeli → 【NOW紫金国际台_香港】
-    ⚠ 未找到频道: Zee Tamil HD → 【Zee Tamil(EPG1)】
-    ⚠ 未找到频道: bb快报
-    ⚠ 未找到频道: euronews香港 → 【Euronews_香港】
-    ⚠ 未找到频道: 金光布袋戏
-    ⚠ 未找到频道: 梅迪奇艺术台
-    ⚠ 未找到频道: DW德国之声 → 【DW English_台湾_国】
-    ⚠ 未找到频道: 壹电视资讯台
-    ⚠ 未找到频道: 达文西频道
-    ⚠ 未找到频道: NOW 70s
-    ⚠ 未找到频道: TV5MONDE STYLE HD 生活时尚 → 【TV5MONDE Style生活时尚】
-    ⚠ 未找到频道: Hub Premier 4
-    ⚠ 未找到频道: 中视菁采台HD → 【中视菁采台】
-    ⚠ 未找到频道: Cinema One Global
-    ⚠ 未找到频道: BBC News HD → 【BBC News_香港】
-    ⚠ 未找到频道: ELEVEN SPORTS 1
-    ⚠ 未找到频道: MBC net
-    ⚠ 未找到频道: SBS sport
-    ⚠ 未找到频道: The Filipino Channel HD → 【TFC (The Filipino Channel)】
-    ⚠ 未找到频道: 梅迪奇艺术频道有线
-    ⚠ 未找到频道: PETCLUBTV → 【PET CLUB TV_国】
-    ⚠ 未找到频道: CLASSICA 古典乐 → 【Classica古典乐】
-    ⚠ 未找到频道: 超视 → 【东森超视】
-    ⚠ 未找到频道: 壹电视电影台
-    ⚠ 未找到频道: 电动车时代
-    ⚠ 未找到频道: DMAX有线 → 【Discovery DMAX_港台_国】
-    ⚠ 未找到频道: 乐视台
-    ⚠ 未找到频道: 松视3台
-    ⚠ 未找到频道: DiscoveryAsia → 【Discovery Asia_国_标题】
-    ⚠ 未找到频道: 古典音乐台
-    ⚠ 未找到频道: 公视台语台
-    ⚠ 未找到频道: HITS有线 → 【HITS HD_港台新马_有线】
-    ⚠ 未找到频道: 江苏城市频道
-    ⚠ 未找到频道: Lucky 688
-    ⚠ 未找到频道: Hub Premier 1
-    ⚠ 未找到频道: JStar极限台电影频道
-    ⚠ 未找到频道: myTV SUPER直播足球4台
-    ⚠ 未找到频道: Love Nature 4K → 【Love Nature 4K_国】
-    ⚠ 未找到频道: 陕西新闻资讯
-    ⚠ 未找到频道: SBS funE → 【SBS FunE】
-    ⚠ 未找到频道: kix印尼
-    ⚠ 未找到频道: 靖天日本台
-    ⚠ 未找到频道: France 24 (French) → 【France 24 French】
-    ⚠ 未找到频道: 河南民生
-    ⚠ 未找到频道: 信吉艺文台HD → 【信吉艺文台】
-    ⚠ 未找到频道: 东南卫视 → 【福建东南卫视】
-    ⚠ 未找到频道: kix新加坡
-    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
-    ⚠ 未找到频道: 新闻综合 → 【上海新闻综合】
-    ⚠ 未找到频道: 旅游频道香港
-    ⚠ 未找到频道: Nickelodeon Asia尼克儿童频道 → 【Nickelodeon Asia_港新马_国3】
-    ⚠ 未找到频道: 小公视 → 【公视小公视】
-    ⚠ 未找到频道: 河南法制 → 【河南法治】
-    ⚠ 未找到频道: 浙江新闻
-    ⚠ 未找到频道: ROCK综艺娱乐 → 【ROCK Entertainment_港新_国】
-    ⚠ 未找到频道: 南京新闻综合频道
-    ⚠ 未找到频道: Kalaignar TV → 【Kalaignar TV(EPG1)】
-    ⚠ 未找到频道: HBO HD → 【HBO HD_非台_国】
-    ⚠ 未找到频道: 美好1台HD → 【美好1台】
-    ⚠ 未找到频道: now报价 → 【NOW报价】
-    ⚠ 未找到频道: 江阴新闻综合
-    ⚠ 未找到频道: wedotv Movies HD → 【Wedotv Movies】
-    ⚠ 未找到频道: LiveABC互动英语频道
-    ⚠ 未找到频道: Now爆谷星影台 → 【NOW爆谷星影台_香港】
-    ⚠ 未找到频道: SUPER奖门人 (免费) → 【SUPER奖门人】
-    ⚠ 未找到频道: River Monsters
-    ⚠ 未找到频道: SUPER FREE (免费) → 【SUPER FREE】
-    ⚠ 未找到频道: 靖天中文台
-    ⚠ 未找到频道: 天映频道印尼 → 【天映电影_印尼_国】
-    ⚠ 未找到频道: 靖天购物一台有线
-    ⚠ 未找到频道: Zee News
-    ⚠ 未找到频道: 博斯魅力网有线
-    ⚠ 未找到频道: 惊艳成人电影台
-    ⚠ 未找到频道: 浙江钱江都市
-    ⚠ 未找到频道: 世界卫星电视台
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: 中国中央电视台戏曲频道 (免费) → 【CCTV-戏曲】
-    ⚠ 未找到频道: Now Sports Premier
-    ⚠ 未找到频道: 空中英语教室
-    ⚠ 未找到频道: Now Sports 1
-    ⚠ 未找到频道: Animax香港 → 【Animax_香港_国】
-    ⚠ 未找到频道: NHK WORLD PREMIUM → 【NHK World Premium_国】
-    ⚠ 未找到频道: 华视HD → 【华视HD_与华视节目不同】
-    ⚠ 未找到频道: OUTtv HD
-    ⚠ 未找到频道: 浙江科教
-    ⚠ 未找到频道: Now Sports 651
-    ⚠ 未找到频道: 民视第一台
-    ⚠ 未找到频道: 亚洲新闻台 → 【CNA】
-    ⚠ 未找到频道: 千禧经典台 → 【TVB-千禧经典台】
-    ⚠ 未找到频道: 爱尔达体育2台
-    ⚠ 未找到频道: Cbeebies → 【CBeebies_港新_国】
-    ⚠ 未找到频道: ROCK Xstream摇滚极限频道 → 【Rock X Stream_国】
-    ⚠ 未找到频道: 河南电视剧
-    ⚠ 未找到频道: 华视新闻资讯台
-    ⚠ 未找到频道: DAZN 2 → 【DAZN-2_台湾】
-    ⚠ 未找到频道: Hub Premier 9
-    ⚠ 未找到频道: now体育4k → 【NOW体育4k】
-    ⚠ 未找到频道: TVB明珠剧集台(TVB Pearl Drama) → 【TVB-明珠剧集台(TVB Pearl Drama)】
-    ⚠ 未找到频道: 黄金翡翠台 (免费) → 【TVB-黄金翡翠台】
-    ⚠ 未找到频道: now 剧集 → 【NOW剧集】
-    ⚠ 未找到频道: that's 90s00s (免费) → 【That's 90s 00s】
-    ⚠ 未找到频道: Now Sports 4
-    ⚠ 未找到频道: CCTV-4香港 → 【CCTV4香港】
     ⚠ 未找到频道: Sun Music
-    ⚠ 未找到频道: CinemaWorld频道 → 【CinemaWorld_台新_国】
-    ⚠ 未找到频道: DreamWorks HD → 【DreamWorks_英】
-    ⚠ 未找到频道: KBS World香港 → 【KBS World_港新马_国】
-    ⚠ 未找到频道: 东森购物三台 → 【东森购物3台】
-    ⚠ 未找到频道: 三圣电视台
-    ⚠ 未找到频道: 广西国际频道 → 【广西国际】
-    ⚠ 未找到频道: 无线新闻台 (免费) → 【TVB-无线新闻台_香港】
-    ⚠ 未找到频道: 松视1台
-    ⚠ 未找到频道: 红豆2台
-    ⚠ 未找到频道: CBeebies HD → 【CBeebies_英】
-    ⚠ 未找到频道: 三立综合台HD → 【三立综合台】
-    ⚠ 未找到频道: Discovery → 【Discovery Channel_台湾_国】
+    ⚠ 未找到频道: 电影原声台CMusic
+    ⚠ 未找到频道: Crime + Investigation HD → 【Crime & Investigation】
+    ⚠ 未找到频道: 宜兴新闻综合
+    ⚠ 未找到频道: Netflix香港 → 【Netflix_香港】
+    ⚠ 未找到频道: SUPER识食 (免费) → 【SUPER识食】
+    ⚠ 未找到频道: GINX Esports TV → 【GINX Esports电竞频道_国】
+    ⚠ 未找到频道: Now Sports 英超 TV3
+    ⚠ 未找到频道: EYE TV戏剧台HD → 【EYE TV戏剧台】
+    ⚠ 未找到频道: Now Sports 681
+    ⚠ 未找到频道: 澳视澳门
+    ⚠ 未找到频道: 信吉电视台
+    ⚠ 未找到频道: elta体育max 8 → 【爱尔达体育MAX8台】
+    ⚠ 未找到频道: 美丽人生购物台
     ⚠ 未找到频道: momo1台HD → 【MOMO1台】
-    ⚠ 未找到频道: FRANCE24 英文台 → 【France 24 English_台湾】
-    ⚠ 未找到频道: EBS EDUCATION
-    ⚠ 未找到频道: HAPPY频道
-    ⚠ 未找到频道: 黄金华剧台 → 【TVB-黄金华剧台】
-    ⚠ 未找到频道: 华语剧台 → 【myTV SUPER华语剧台】
-    ⚠ 未找到频道: 澳门综艺
-    ⚠ 未找到频道: 东森洋片台 → 【东森洋片】
-    ⚠ 未找到频道: KBS 1
-    ⚠ 未找到频道: 云南澜湄国际卫视 (免费) → 【云南澜湄国际】
-    ⚠ 未找到频道: SBS plus → 【SBS Plus_韩】
-    ⚠ 未找到频道: DAZN 3 → 【DAZN-3_台湾】
-    ⚠ 未找到频道: Hub Premier 2
-    ⚠ 未找到频道: Nick Jr.(小尼克) → 【Nick Jr._国_台湾】
-    ⚠ 未找到频道: Discovery Asia → 【Discovery Asia_国_详情】
-    ⚠ 未找到频道: MUCH TV
-    ⚠ 未找到频道: Hub Premier 3
-    ⚠ 未找到频道: TRACE Urban (免费) → 【Trace Urban_英】
-    ⚠ 未找到频道: KBS LIFE
-    ⚠ 未找到频道: 江西卫视
-    ⚠ 未找到频道: KBS STORY
-    ⚠ 未找到频道: 新天地民俗台 HD → 【新天地民俗台】
-    ⚠ 未找到频道: 华艺MBC综合台有线
-    ⚠ 未找到频道: Hub Premier 11
-    ⚠ 未找到频道: TVB翡翠综合台(TVBJ1) → 【TVB-翡翠综合台(TVBJ1)】
-    ⚠ 未找到频道: cgtn俄语 → 【CGTN俄语】
-    ⚠ 未找到频道: 浙江好易购
+    ⚠ 未找到频道: Hub Premier 4
+    ⚠ 未找到频道: 广西新闻频道 → 【广西新闻】
+    ⚠ 未找到频道: Hub Premier 6
+    ⚠ 未找到频道: 美好2台
+    ⚠ 未找到频道: 麦卡贝综艺
+    ⚠ 未找到频道: 五星体育
+    ⚠ 未找到频道: Moonbug香港 → 【Moonbug_香港_繁中】
+    ⚠ 未找到频道: Travelxp HD
+    ⚠ 未找到频道: TVBS欢乐台 → 【TVBS-欢乐台】
+    ⚠ 未找到频道: SBN全球财经台
+    ⚠ 未找到频道: 东森购物三台 → 【东森购物3台】
+    ⚠ 未找到频道: 吉林卫视
+    ⚠ 未找到频道: 云南卫视
+    ⚠ 未找到频道: Z频道
+    ⚠ 未找到频道: Now Sports 英超 TV2
+    ⚠ 未找到频道: TVB Plus (免费) → 【TVB Plus】
     ⚠ 未找到频道: myTV SUPER直播足球7台
-    ⚠ 未找到频道: 澳门葡萄牙
-    ⚠ 未找到频道: Sun TV
-    ⚠ 未找到频道: fun探索娱乐台
-    ⚠ 未找到频道: ETtoday综合台
+    ⚠ 未找到频道: myTV SUPER 18台
+    ⚠ 未找到频道: momo2台HD → 【MOMO2台】
+    ⚠ 未找到频道: 千禧经典台 → 【TVB-千禧经典台】
+    ⚠ 未找到频道: kix菲律宾
+    ⚠ 未找到频道: 甘肃卫视
+    ⚠ 未找到频道: 香蕉台
+    ⚠ 未找到频道: 健康2.0
+    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
+    ⚠ 未找到频道: NewsWorld (免费) → 【NewsWorld】
+    ⚠ 未找到频道: Hub Premier 5
+    ⚠ 未找到频道: DiscoveryEVE → 【Discovery EVE_台湾_国】
+    ⚠ 未找到频道: CLASSICA 古典乐 → 【Classica古典乐】
+    ⚠ 未找到频道: 深圳卫视国际频道 (免费) → 【深圳国际频道】
+    ⚠ 未找到频道: River Monsters
+    ⚠ 未找到频道: 天映经典新加坡 → 【天映经典电影_港新菲_国】
+    ⚠ 未找到频道: 靖天购物一台有线
+    ⚠ 未找到频道: Now Sports 2
+    ⚠ 未找到频道: elta体育max 6 → 【爱尔达体育MAX6台】
+    ⚠ 未找到频道: Now Sports 英超 TV6
+    ⚠ 未找到频道: 壹电视资讯台
+    ⚠ 未找到频道: Hub Premier 1
+    ⚠ 未找到频道: Lucky 688
+    ⚠ 未找到频道: CCTV-4 → 【CCTV4_英(EPG2)】
+    ⚠ 未找到频道: 靖天欢乐台
+    ⚠ 未找到频道: NHK WORLD PREMIUM → 【NHK World Premium_国】
+    ⚠ 未找到频道: Panda TV → 【NOW Panda TV】
+    ⚠ 未找到频道: 公视台语台
+    ⚠ 未找到频道: MOVIE MOVIE → 【MOVIE MOVIE_港_国】
+    ⚠ 未找到频道: 中国农林卫视 → 【陕西农林卫视】
+    ⚠ 未找到频道: Hub VV Drama HD → 【Hub-娱家_非新加坡】
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: TVB明珠剧集台(TVB Pearl Drama) → 【TVB-明珠剧集台(TVB Pearl Drama)】
+    ⚠ 未找到频道: NOW 80s
+    ⚠ 未找到频道: myTV SUPER直播足球6台
+    ⚠ 未找到频道: 江西卫视
+    ⚠ 未找到频道: 壹电视电影台
+    ⚠ 未找到频道: 博斯高球一台有线 → 【博斯高球1台有线】
+    ⚠ 未找到频道: 三立台湾台
+    ⚠ 未找到频道: 红豆2台
+    ⚠ 未找到频道: TVB翡翠剧集台(TVB Drama) → 【TVB-翡翠剧集台(TVB Drama)】
+    ⚠ 未找到频道: 河南乡村
+    ⚠ 未找到频道: 滚动力rollor → 【滚动力Rollor】
+    ⚠ 未找到频道: 华视HD → 【华视HD_与华视节目不同】
+    ⚠ 未找到频道: Astro_First_HD → 【Astro First】
+    ⚠ 未找到频道: 红豆电视台
+    ⚠ 未找到频道: Wild Stuff (免费) → 【Wild Stuff】
+    ⚠ 未找到频道: CMusic
+    ⚠ 未找到频道: 正德电视台
+    ⚠ 未找到频道: ONE (Malay) → 【ONE HD_英】
+    ⚠ 未找到频道: Asianet → 【Asianet TV】
+    ⚠ 未找到频道: Nick Jr. 儿童频道 → 【Nick Jr._国_港台】
+    ⚠ 未找到频道: 厦门1
+    ⚠ 未找到频道: LS TIME电影台 → 【龙祥电影台】
+    ⚠ 未找到频道: 娱乐新闻台 (免费) → 【TVB-娱乐新闻台_国】
+    ⚠ 未找到频道: Astro Cricket
+    ⚠ 未找到频道: ROCK综艺娱乐 → 【ROCK Entertainment_港新_国】
+    ⚠ 未找到频道: 大爱电视 → 【大爱电视】
+    ⚠ 未找到频道: ELEVEN SPORTS 1
+    ⚠ 未找到频道: 人间卫视
+    ⚠ 未找到频道: wedotv Movies HD → 【Wedotv Movies】
+    ⚠ 未找到频道: 爱尔达生活旅游台
+    ⚠ 未找到频道: 梅迪奇艺术频道有线
+    ⚠ 未找到频道: 彩虹E频道
+    ⚠ 未找到频道: 精选动漫台
+    ⚠ 未找到频道: 美好1台HD → 【美好1台】
+    ⚠ 未找到频道: Cinema One Global
+    ⚠ 未找到频道: Astro_Golf → 【Astro Golf】
     ⚠ 未找到频道: LOVE NATURE有线 → 【Love Nature_国】
-    ⚠ 未找到频道: elta体育max 5 → 【爱尔达体育MAX5台】
-    ⚠ 未找到频道: 亚洲旅游HD → 【亚洲旅游台_非台_国】
+    ⚠ 未找到频道: ViuTV → 【Viu TV】
+    ⚠ 未找到频道: Hub Sports 1 HD → 【Hub Sports 1】
+    ⚠ 未找到频道: 靖天映画 → 【靖天映画台】
+    ⚠ 未找到频道: KBS 2
+    ⚠ 未找到频道: MBC drama
+    ⚠ 未找到频道: 曼迪日本台HD → 【曼迪日本台】
+    ⚠ 未找到频道: HGTV居家乐活频道 → 【HGTV_港台马新_国】
+    ⚠ 未找到频道: 天津卫视
+    ⚠ 未找到频道: 翡翠台 (免费) → 【TVB-翡翠台_香港_国】
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: now新闻 → 【NOW新闻】
+    ⚠ 未找到频道: 厦门2
+    ⚠ 未找到频道: 智叻乐园
+    ⚠ 未找到频道: ANC
+    ⚠ 未找到频道: 靖天卡通
+    ⚠ 未找到频道: FIFA+
+    ⚠ 未找到频道: TravelChannel → 【Travel Channel_台湾_国】
+    ⚠ 未找到频道: Love Nature 4K → 【Love Nature 4K_国】
+    ⚠ 未找到频道: 咪咕体育
+    ⚠ 未找到频道: Cbeebies → 【CBeebies_港新_国】
+    ⚠ 未找到频道: TV5MONDE STYLE HD 生活时尚 → 【TV5MONDE Style生活时尚】
+    ⚠ 未找到频道: MUCH TV
+    ⚠ 未找到频道: 东方卫视国际频道 (免费) → 【上海东方国际频道】
+    ⚠ 未找到频道: 广西都市频道 → 【广西都市】
     ⚠ 未找到频道: 中台湾生活网频道
-    ⚠ 未找到频道: BBC LIFESTYLE → 【BBC Lifestyle_港台_国】
-    ⚠ 未找到频道: RT香港
-    ⚠ 未找到频道: COLORS Tamil HD → 【Colors Tamil_马来】
-    ⚠ 未找到频道: Action Hollywood Movies
-    ⚠ 未找到频道: moov → 【MOOV_香港】
-    ⚠ 未找到频道: 民视无线台
+    ⚠ 未找到频道: 中视HD → 【中视】
+    ⚠ 未找到频道: TRACESportStars → 【Trace Sport Stars_港台新_简中】
+    ⚠ 未找到频道: HBO → 【HBO HD_港台新_国2】
+    ⚠ 未找到频道: 粤语片台
+    ⚠ 未找到频道: TV5MONDE → 【TV5MONDE】
+    ⚠ 未找到频道: ViVa 1台
+    ⚠ 未找到频道: 东森购物四台 → 【东森购物4台】
+    ⚠ 未找到频道: DiscoveryAsia → 【Discovery Asia_国_标题】
+    ⚠ 未找到频道: SBS Golf2
+    ⚠ 未找到频道: LUXE TV Channel
+    ⚠ 未找到频道: 双子卫视
+    ⚠ 未找到频道: myTV SUPER直播足球5台
+    ⚠ 未找到频道: MBC net
+    ⚠ 未找到频道: cctv台球 → 【CCTV-台球】
+    ⚠ 未找到频道: Now Sports 668
+    ⚠ 未找到频道: INULTRA
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: 亚洲综合HD
     ⚠ 未找到频道: KBS JOY
+    ⚠ 未找到频道: 民视无线台
+    ⚠ 未找到频道: 靖天中文台
+    ⚠ 未找到频道: 无线卫星亚洲台 → 【TVBS-亚洲台】
+    ⚠ 未找到频道: Hub Premier 3
+    ⚠ 未找到频道: 华语剧台 → 【myTV SUPER华语剧台】
+    ⚠ 未找到频道: 公视儿少台HD → 【公视少儿台】
+    ⚠ 未找到频道: 新闻综合 → 【上海新闻综合】
+    ⚠ 未找到频道: 时尚运动X
+    ⚠ 未找到频道: NOW 70s
+    ⚠ 未找到频道: 全球财经网频道
+    ⚠ 未找到频道: 亚洲新闻台 → 【CNA】
+    ⚠ 未找到频道: 东南卫视 → 【福建东南卫视】
+    ⚠ 未找到频道: 亚洲剧台 → 【TVB-亚洲剧台】
+    ⚠ 未找到频道: MOMO综合台 → 【MOMO综合台】
+    ⚠ 未找到频道: Citra Entertainment
+    ⚠ 未找到频道: 靖天日本台
+    ⚠ 未找到频道: 旅游频道香港
+    ⚠ 未找到频道: 天良综合台
+    ⚠ 未找到频道: Astro_Thangathirai → 【Astro Thangathirai】
+    ⚠ 未找到频道: Kalaignar TV → 【Kalaignar TV(EPG1)】
+    ⚠ 未找到频道: SBS sport
+    ⚠ 未找到频道: SUPER煲剧 (免费) → 【SUPER煲剧】
+    ⚠ 未找到频道: 广西国际频道 → 【广西国际】
+    ⚠ 未找到频道: cgtn俄语 → 【CGTN俄语】
+    ⚠ 未找到频道: Nickelodeon Asia尼克儿童频道 → 【Nickelodeon Asia_港新马_国3】
+    ⚠ 未找到频道: 浙江民生 → 【浙江民生休闲】
+    ⚠ 未找到频道: KBS KIDS
+    ⚠ 未找到频道: Action Hollywood Movies
+    ⚠ 未找到频道: HOT频道
+    ⚠ 未找到频道: Now Sports 3
+    ⚠ 未找到频道: SBS Biz
+    ⚠ 未找到频道: Now Sports plus
+    ⚠ 未找到频道: cctv风云足球 → 【CCTV-风云足球】
+    ⚠ 未找到频道: 南京新闻综合频道
+    ⚠ 未找到频道: History 历史频道有线 → 【History Channel_港台_国_有线】
+    ⚠ 未找到频道: 中视数位台
+    ⚠ 未找到频道: 华视新闻资讯台
+    ⚠ 未找到频道: MBC
+    ⚠ 未找到频道: Now Sports 7
+    ⚠ 未找到频道: EBS2
+    ⚠ 未找到频道: 第一财经直播 → 【上海第一财经直播】
+    ⚠ 未找到频道: Now Sports 651
+    ⚠ 未找到频道: elta体育max 7 → 【爱尔达体育MAX7台】
     ⚠ 未找到频道: 美亚电影台 → 【美亚电影台_香港】
+    ⚠ 未找到频道: Hami体育1台
+    ⚠ 未找到频道: 公用频道 → 【公用频道_台湾】
+    ⚠ 未找到频道: Rialto Classic Movies (RCM) (免费) → 【RCM(Rialto Classic Movies)】
+    ⚠ 未找到频道: 年代新闻
+    ⚠ 未找到频道: 浙江数码时代
+    ⚠ 未找到频道: 小公视 → 【公视小公视】
+    ⚠ 未找到频道: 青海卫视
+    ⚠ 未找到频道: Docsville (免费) → 【Docsville】
+    ⚠ 未找到频道: 原住民族电视台 → 【原住民电视】
+    ⚠ 未找到频道: Lifeime → 【Lifetime_港台_国】
+    ⚠ 未找到频道: 溧水新闻综合
+    ⚠ 未找到频道: 彰化生活台
+    ⚠ 未找到频道: 中天综合台
+    ⚠ 未找到频道: 创世电视 (免费) → 【创世电视】
+    ⚠ 未找到频道: Now爆谷星影台 → 【NOW爆谷星影台_香港】
+    ⚠ 未找到频道: KTV HD → 【KTV(EPG1)】
+    ⚠ 未找到频道: 博斯运动一台有线 → 【博斯运动1台】
+    ⚠ 未找到频道: HBO HD → 【HBO HD_非台_国】
+    ⚠ 未找到频道: 惊艳成人电影台
+    ⚠ 未找到频道: meWATCH LIVE 2
+    ⚠ 未找到频道: 广西乐思购频道 → 【广西乐思购】
+    ⚠ 未找到频道: EYE TV旅游台HD → 【EYE TV旅游台】
+    ⚠ 未找到频道: 纬来精采HD → 【纬来精采】
+    ⚠ 未找到频道: Animax HD → 【Animax_英】
+    ⚠ 未找到频道: 广东综艺
+    ⚠ 未找到频道: 华艺MBC综合台有线
+    ⚠ 未找到频道: 纬来育乐台
+    ⚠ 未找到频道: myTV SUPER直播足球3台
+    ⚠ 未找到频道: Pandora潘朵啦高画质粉红台 → 【潘多拉粉红台】
+    ⚠ 未找到频道: 河南电视剧
+    ⚠ 未找到频道: CI 罪案侦查频道 → 【Crime & Investigation_港台新马_国(标题)】
+    ⚠ 未找到频道: 韩国娱乐KMTV → 【韩国娱乐台KMTV_台湾】
+    ⚠ 未找到频道: Pandora潘朵啦高画质玩美台 → 【潘多拉完美台】
+    ⚠ 未找到频道: 龙华偶像台OTT
+    ⚠ 未找到频道: 新天地民俗台 HD → 【新天地民俗台】
+    ⚠ 未找到频道: 爱尔达体育4台
+    ⚠ 未找到频道: HBO Signature香港 → 【HBO Signature_香港_国】
+    ⚠ 未找到频道: 松视2台
+    ⚠ 未找到频道: The Filipino Channel HD → 【TFC (The Filipino Channel)】
+    ⚠ 未找到频道: 经典卡通台
+    ⚠ 未找到频道: Hub Premier 9
+    ⚠ 未找到频道: 三立都会台
+    ⚠ 未找到频道: Astro Warna HD → 【Astro Warna】
+    ⚠ 未找到频道: 南通新闻综合
+    ⚠ 未找到频道: 徐州新闻综合
+    ⚠ 未找到频道: 安徽广播电视台国际频道 (免费) → 【安徽国际频道】
+    ⚠ 未找到频道: 博斯高球一台 → 【博斯高球1台】
+    ⚠ 未找到频道: HBO Hits香港 → 【HBO Hits_港新_国】
+    ⚠ 未找到频道: DAZN 2 → 【DAZN-2_台湾】
+    ⚠ 未找到频道: Kartoon Channel!
+    ⚠ 未找到频道: myTV SUPER直播足球4台
+    ⚠ 未找到频道: DAZN 1 → 【DAZN-1_台湾】
+    ⚠ 未找到频道: 八大戏剧台
+    ⚠ 未找到频道: 广西综艺旅游频道 → 【广西综艺旅游】
+    ⚠ 未找到频道: 深圳卫视香港 → 【深圳卫视_香港】
+    ⚠ 未找到频道: 东森洋片台 → 【东森洋片】
+    ⚠ 未找到频道: SBS plus → 【SBS Plus_韩】
+    ⚠ 未找到频道: EUROSPORT HD → 【Eurosport_英】
+    ⚠ 未找到频道: TVB翡翠综合台(TVBJ1) → 【TVB-翡翠综合台(TVBJ1)】
+    ⚠ 未找到频道: 尼克儿童频道 → 【Nickelodeon Asia_港新马_国4】
+    ⚠ 未找到频道: 中央电视台新闻频道香港 → 【CCTV13香港】
+    ⚠ 未找到频道: 看看新闻直播
+    ⚠ 未找到频道: Now Sports Premier
+    ⚠ 未找到频道: 澳门葡萄牙
+    ⚠ 未找到频道: 天映经典马来西亚 → 【天映经典电影_马来非新_国】
+    ⚠ 未找到频道: 三圣电视台
+    ⚠ 未找到频道: 无线新闻台 (免费) → 【TVB-无线新闻台_香港】
+    ⚠ 未找到频道: LiveABC互动英语频道
+    ⚠ 未找到频道: 华艺影剧台
+    ⚠ 未找到频道: SUPER Kids Channel
+    ⚠ 未找到频道: 达文西频道
+    ⚠ 未找到频道: 连云港新闻综合
+    ⚠ 未找到频道: 江阴新闻综合
+    ⚠ 未找到频道: 陕西移动电视
+    ⚠ 未找到频道: France 24 (French) → 【France 24 French】
+    ⚠ 未找到频道: Nick Jr → 【Nick Jr._英_新马】
+    ⚠ 未找到频道: 泰州新闻综合
+    ⚠ 未找到频道: 麦哲伦频道
+    ⚠ 未找到频道: 爱尔达体育1台
+    ⚠ 未找到频道: 宿迁新闻综合
+    ⚠ 未找到频道: 韩国娱乐台 KMTV → 【韩国娱乐台KMTV_台湾_简中】
+    ⚠ 未找到频道: 乐活频道
+    ⚠ 未找到频道: 河南都市
+    ⚠ 未找到频道: KBS World香港 → 【KBS World_港新马_国】
+    ⚠ 未找到频道: HBO Family → 【HBO Family_港台新_国】
+    ⚠ 未找到频道: 翡翠一台(TVB1) → 【TVB-翡翠一台(TVB1)】
+    ⚠ 未找到频道: CMC 香港频道
+    ⚠ 未找到频道: 爱尔达体育2台
+    ⚠ 未找到频道: 浙江好易购
+    ⚠ 未找到频道: DreamWorks HD → 【DreamWorks_英】
+    ⚠ 未找到频道: Hub Sports 2 HD → 【Hub Sports 2】
+    ⚠ 未找到频道: 博斯运动二台有线 → 【博斯运动2台】
+    ⚠ 未找到频道: 黄金翡翠台 (免费) → 【TVB-黄金翡翠台】
+    ⚠ 未找到频道: euronews香港 → 【Euronews_香港】
+    ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
+    ⚠ 未找到频道: MBC every1
+    ⚠ 未找到频道: 浙江新闻
+    ⚠ 未找到频道: 陕西新闻资讯
+    ⚠ 未找到频道: Now 高尔夫3
+    ⚠ 未找到频道: 桃园生活台
+    ⚠ 未找到频道: 成人极品台
+    ⚠ 未找到频道: EBS PLUS2
+    ⚠ 未找到频道: Now Sports 6
+    ⚠ 未找到频道: 中央电视台综合频道 (港澳版) (免费) → 【CCTV1_港澳版】
+    ⚠ 未找到频道: HITS有线 → 【HITS HD_港台新马_有线】
+    ⚠ 未找到频道: SUPER奖门人 (免费) → 【SUPER奖门人】
+    ⚠ 未找到频道: Hami体育2台
+    ⚠ 未找到频道: cgtn西班牙语 → 【CGTN西班牙语】
+    ⚠ 未找到频道: cinemalworld世界电影频道有线 → 【cinemaworld_台湾_国+详情】
+    ⚠ 未找到频道: DW (English)香港 → 【DW English_香港】
+    ⚠ 未找到频道: Now Sports 英超 TV4
+    ⚠ 未找到频道: Hub Premier 10
+    ⚠ 未找到频道: 爱尔达体育3台
+    ⚠ 未找到频道: 彩虹频道
+    ⚠ 未找到频道: 华藏卫星电视台 → 【华藏卫视】
+    ⚠ 未找到频道: moov → 【MOOV_香港】
+    ⚠ 未找到频道: Asian Food Network 亚洲美食频道 → 【Asian Food Network_港台新_国】
+    ⚠ 未找到频道: CNBC HD → 【CNBC (非新加坡)】
+    ⚠ 未找到频道: 信吉艺文台HD → 【信吉艺文台】
+    ⚠ 未找到频道: 云南澜湄国际卫视 (免费) → 【云南澜湄国际】
+    ⚠ 未找到频道: 视纳华仁纪实频道
+    ⚠ 未找到频道: 经典电影台
+    ⚠ 未找到频道: EBS EDUCATION
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: KBS 1
+    ⚠ 未找到频道: 靖洋卡通Nice Bingo → 【靖洋卡通】
+    ⚠ 未找到频道: PETCLUBTV → 【PET CLUB TV_国】
+    ⚠ 未找到频道: DW德国之声 → 【DW English_台湾_国】
+    ⚠ 未找到频道: now财经 → 【NOW财经台_国】
+    ⚠ 未找到频道: Now Sports 5
+    ⚠ 未找到频道: 浙江钱江都市
+    ⚠ 未找到频道: myTV SUPER直播足球2台
+    ⚠ 未找到频道: that's 90s00s (免费) → 【That's 90s 00s】
+    ⚠ 未找到频道: 浙江经济 → 【浙江经济生活】
+    ⚠ 未找到频道: BBC EARTH → 【BBC Earth_新马港台_国】
+    ⚠ 未找到频道: 松视1台
+    ⚠ 未找到频道: SBS funE → 【SBS FunE】
+    ⚠ 未找到频道: 博斯高球二台有线 → 【博斯高球2台】
+    ⚠ 未找到频道: KBS NEWS
+    ⚠ 未找到频道: TV5MONDE ASIE
+    ⚠ 未找到频道: Now Sports 641
+    ⚠ 未找到频道: ROCK Extreme → 【ROCK Extreme_国】
+    ⚠ 未找到频道: Now Sports 英超TV1
+    ⚠ 未找到频道: Astro Sensasi HD → 【Astro Sensasi】
+    ⚠ 未找到频道: EBS CHILD
     ⚠ 未找到频道: 台湾电视台 → 【台视】
-    ⚠ 未找到频道: TLC旅游生活频道香港 → 【TLC_港马新_国】
-    ⚠ 未找到频道: 户外频道香港
+    ⚠ 未找到频道: EBS PLUS1
+    ⚠ 未找到频道: TVB功夫台 → 【TVB-功夫台】
+    ⚠ 未找到频道: 河南象世界
+    ⚠ 未找到频道: Now Sports 1
+    ⚠ 未找到频道: 东森幼幼台 → 【东森幼幼】
+    ⚠ 未找到频道: Hub Premier 11
+    ⚠ 未找到频道: 三立综合台HD → 【三立综合台】
+    ⚠ 未找到频道: 爆谷台 → 【NOW爆谷台】
+    ⚠ 未找到频道: nowjeli → 【NOW紫金国际台_香港】
+    ⚠ 未找到频道: SUPER Sports (免费) → 【SUPER Sports】
+    ⚠ 未找到频道: tvN有线 → 【tvN_港新台_国_有线】
+    ⚠ 未找到频道: CinemaWorld频道 → 【CinemaWorld_台新_国】
+    ⚠ 未找到频道: TVB粤语片 → 【TVB-粤语片】
+    ⚠ 未找到频道: cgtn阿拉伯语 → 【CGTN阿拉伯语】
+    ⚠ 未找到频道: NOW ROCK
+    ⚠ 未找到频道: 凡尔赛玫瑰
+    ⚠ 未找到频道: Smithsonian_Channel → 【Smithsonian Channel】
+    ⚠ 未找到频道: 松视4台
+    ⚠ 未找到频道: kix亚洲
+    ⚠ 未找到频道: KBS World HD → 【KBS World_非新加坡_英2】
+    ⚠ 未找到频道: 博斯魅力网有线
+    ⚠ 未找到频道: 大湾区卫视香港 → 【广东大湾区卫视_香港】
+    ⚠ 未找到频道: BBC News HD → 【BBC News_香港】
+    ⚠ 未找到频道: 河南新闻
+    ⚠ 未找到频道: SBS
+    ⚠ 未找到频道: 香港电台33 → 【RTHK33】
+    ⚠ 未找到频道: NHK World-Japan → 【NHK World Japan】
+    ⚠ 未找到频道: 空中英语教室
+    ⚠ 未找到频道: 澳门资讯
+    ⚠ 未找到频道: PopC
+    ⚠ 未找到频道: now报价 → 【NOW报价】
+    ⚠ 未找到频道: Animax香港 → 【Animax_香港_国】
+    ⚠ 未找到频道: Now Sports 英超 TV7
+    ⚠ 未找到频道: Concerto (免费) → 【Concerto】
+    ⚠ 未找到频道: 翡翠台(国际版) → 【TVB-翡翠台(国际版)_非新马_国】
+    ⚠ 未找到频道: Now Sports 652
+    ⚠ 未找到频道: 番薯电视台 → 【番薯卫星电视台】
+    ⚠ 未找到频道: MBC music
+    ⚠ 未找到频道: 1905App 热血·影院
+    ⚠ 未找到频道: Sony TV (India) → 【SONY TV】
+    ⚠ 未找到频道: 江苏城市频道
+    ⚠ 未找到频道: viu6 → 【Viu Six】
+    ⚠ 未找到频道: 民视台湾台
+    ⚠ 未找到频道: 动物星球频道 → 【Animal Planet_港台_国】
+    ⚠ 未找到频道: 国学时代界
+    ⚠ 未找到频道: meWATCH LIVE 5
+    ⚠ 未找到频道: 中华电视台
+    ⚠ 未找到频道: 乐视台
+    ⚠ 未找到频道: 河南法制 → 【河南法治】
+    ⚠ 未找到频道: 天映频道印尼 → 【天映电影_印尼_国】
+    ⚠ 未找到频道: 南京十八频道
+    ⚠ 未找到频道: bb快报
+    ⚠ 未找到频道: 澳门综艺
+    ⚠ 未找到频道: 古典音乐台
+    ⚠ 未找到频道: DMAX有线 → 【Discovery DMAX_港台_国】
+    ⚠ 未找到频道: 彩虹电影
+    ⚠ 未找到频道: CGTN (中国环球电视网)记录频道 (免费) → 【CGTN英文纪录】
+    ⚠ 未找到频道: Hub Sports 3 HD → 【Hub Sports 3】
+    ⚠ 未找到频道: TG Junior
+    ⚠ 未找到频道: 世界卫星电视台
+    ⚠ 未找到频道: 中国电影频道CCMC → 【CMC 北美频道】
+    ⚠ 未找到频道: Discovery 科学频道 → 【Discovery Sci科学频道_港台_国】
+    ⚠ 未找到频道: 东森购物5台HD → 【东森购物5台】
+    ⚠ 未找到频道: 河南公共
+    ⚠ 未找到频道: 松视3台
+    ⚠ 未找到频道: TVB无线新闻台(TVB News) → 【TVB-无线新闻台_非港(TVB News)】
+    ⚠ 未找到频道: elta体育max 5 → 【爱尔达体育MAX5台】
+    ⚠ 未找到频道: CBeebies HD → 【CBeebies_英】
+    ⚠ 未找到频道: RT香港
+    ⚠ 未找到频道: 台湾综合台
+    ⚠ 未找到频道: 新唐人亚太台
+    ⚠ 未找到频道: ELEVEN SPORTS 2
+    ⚠ 未找到频道: 戏曲台 → 【myTV SUPER戏曲台】
+    ⚠ 未找到频道: 中视菁采台HD → 【中视菁采台】
+    ⚠ 未找到频道: Zee Cinema HD
+    ⚠ 未找到频道: COLORS Tamil HD → 【Colors Tamil_马来】
+    ⚠ 未找到频道: fun探索娱乐台
+    ⚠ 未找到频道: 河南民生
+    ⚠ 未找到频道: KBS LIFE
+    ⚠ 未找到频道: Discovery Channel香港 → 【Discovery Channel_香港】
     ⚠ 未找到频道: 冰火频道
+    ⚠ 未找到频道: 亚洲旅游HD → 【亚洲旅游台_非台_国】
+    ⚠ 未找到频道: ZooMoo → 【ZooMoo_香港_国】
+    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
+    ⚠ 未找到频道: 河南晴彩中原
+    ⚠ 未找到频道: SBS life → 【SBS Life】
+    ⚠ 未找到频道: 中国中央电视台戏曲频道 (免费) → 【CCTV-戏曲】
+    ⚠ 未找到频道: Sun TV
+    ⚠ 未找到频道: 民视影剧台
+    ⚠ 未找到频道: Globetrotter (免费) → 【Globet Trotter】
+    ⚠ 未找到频道: Discovery → 【Discovery Channel_台湾_国】
+    ⚠ 未找到频道: K频道
+    ⚠ 未找到频道: KBS DRAMA
+    ⚠ 未找到频道: CARTOONITO HD → 【CARTOONITO】
+    ⚠ 未找到频道: 天映经典频道 → 【天映经典电影_港新菲_国(详情)】
+    ⚠ 未找到频道: 南京教科频道
+    ⚠ 未找到频道: now体育4k → 【NOW体育4k】
+    ⚠ 未找到频道: Zee News
+    ⚠ 未找到频道: video express rentnow
+    ⚠ 未找到频道: 澳门体育
+    ⚠ 未找到频道: 民视
+    ⚠ 未找到频道: 广东体育
+    ⚠ 未找到频道: Zee Tamil HD → 【Zee Tamil(EPG1)】
+    ⚠ 未找到频道: EBS1
+    ⚠ 未找到频道: 民视第一台
+    ⚠ 未找到频道: momo亲子台 → 【MOMO亲子台(EPG2)】
+    ⚠ 未找到频道: 浙江少儿
+    ⚠ 未找到频道: SUPER Music (免费) → 【SUPER Music】
+    ⚠ 未找到频道: Zee Thirai → 【Zee Thirai(EPG1)】
+    ⚠ 未找到频道: 经典剧场
+    ⚠ 未找到频道: 天映经典印尼 → 【天映经典电影_印柬_国】
+    ⚠ 未找到频道: TRACE Urban (免费) → 【Trace Urban_英】
+    ⚠ 未找到频道: DAZN 3 → 【DAZN-3_台湾】
+    ⚠ 未找到频道: FRANCE24 英文台 → 【France 24 English_台湾】
+    ⚠ 未找到频道: 台湾艺术台
+    ⚠ 未找到频道: 威达超舜生活台
+    ⚠ 未找到频道: Hub Premier 8
+    ⚠ 未找到频道: 香港电台31 → 【RTHK31】
     📺 新增频道: 162/709
-    📅 新增节目: 9575/15373
+    📅 新增节目: 9617/15409
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2345,22 +2345,23 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 88 个
-    ⚠ 未找到频道: 四川妇女儿童
-    ⚠ 未找到频道: 黄河卫视
-    ⚠ 未找到频道: 凤凰电影 → 【凤凰电影台】
-    ⚠ 未找到频道: 纯享4K
-    ⚠ 未找到频道: 金牌综艺 → 【NewTV金牌综艺】
-    ⚠ 未找到频道: 内蒙古少儿频道
-    ⚠ 未找到频道: 精品纪录 → 【NewTV精品纪录】
+    ✂️ 跨天节目拆分: 119 个
     ⚠ 未找到频道: 游戏竞技
-    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ⚠ 未找到频道: 凤凰电影 → 【凤凰电影台】
+    ⚠ 未找到频道: 内蒙古少儿频道
+    ⚠ 未找到频道: 魅力潇湘
+    ⚠ 未找到频道: 黑莓影视
+    ⚠ 未找到频道: 黄河卫视
+    ⚠ 未找到频道: 金牌综艺 → 【NewTV金牌综艺】
+    ⚠ 未找到频道: 四川妇女儿童
     ⚠ 未找到频道: 内蒙古农牧频道
+    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ⚠ 未找到频道: 纯享4K
     ⚠ 未找到频道: 移动戏曲 → 【河南移动戏曲】
     ⚠ 未找到频道: 新动漫
-    ⚠ 未找到频道: 魅力潇湘
-    📺 新增频道: 240/253
-    📅 新增节目: 10198/10232
+    ⚠ 未找到频道: 精品纪录 → 【NewTV精品纪录】
+    📺 新增频道: 239/253
+    📅 新增节目: 11346/11398
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2480,10 +2481,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 168 个
+    ✂️ 跨天节目拆分: 172 个
     🔗 智能合并更新: 1 个节目
     📺 新增频道: 96/96
-    📅 新增节目: 3206/3209
+    📅 新增节目: 3207/3210
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -2500,16 +2501,16 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     🔗 智能合并: True
     ✂️ 跨天节目拆分: 74 个
     📺 新增频道: 40/40
-    📅 新增节目: 2764/2764
+    📅 新增节目: 2797/2797
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 44.78 MB
-  频道数: 1701
-  节目数: 156516
+  大小: 45.13 MB
+  频道数: 1700
+  节目数: 159067
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -2524,8 +2525,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 4.42 MB (90.1% 压缩率)
-  ✅ 压缩率: 90.1%
+  ✅ 压缩完成: 4.44 MB (90.2% 压缩率)
+  ✅ 压缩率: 90.2%
 
 🧹 清理临时文件...
 ✅ 清理完成
@@ -2533,10 +2534,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-09-20 13:25:13 (北京时间)
-总耗时: 51.87 秒
+结束时间: 2026-09-20 21:15:23 (北京时间)
+总耗时: 59.65 秒
 成功处理: 12/14 个源
-成功处理: 1701 个频道，156516 条节目
+成功处理: 1700 个频道，159067 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
