@@ -347,7 +347,6 @@ CHC 家庭影院	CHC家庭影院
 国学时代界
 1905App 环球经典
 1905App 热血·影院
-中国电影频道CCMC	CMC 北美频道
 睛彩竞技
 #上海
 上海教育		上海教育频道(B)
@@ -401,7 +400,6 @@ CHC 家庭影院	CHC家庭影院
 江苏城市频道
 江苏教育
 江苏体育休闲频道
-南京新闻综合频道
 南京教科频道
 南京十八频道
 溧水新闻综合
@@ -459,13 +457,11 @@ Entertainment
 ETtoday综合台
 EYE TV旅游台HD	EYE TV旅游台
 EYE TV戏剧台HD	EYE TV戏剧台
-FashionBox
 Hami体育1台
 Hami体育2台
 HAPPY频道
 HBO	HBO HD_港台新_国2
 HBO HD	HBO HD_非台_国
-HBO Family	HBO Family_港台新_国
 HBO Hits香港	HBO Hits_港新_国
 HBO Signature香港	HBO Signature_香港_国
 HGTV居家乐活频道	HGTV_港台马新_国
@@ -488,9 +484,7 @@ Hub Premier 7
 Hub Premier 8
 Hub Premier 9
 Hub Sports 1 HD	Hub Sports 1
-Hub Sports 2 HD	Hub Sports 2
 Hub Sports 3 HD	Hub Sports 3
-Hub VV Drama HD	Hub-娱家_非新加坡
 IDX
 IMC
 Indosiar
@@ -510,7 +504,6 @@ kix亚洲
 kix印尼
 Kompas TV
 KTV	KTV_印
-KTV HD	KTV(EPG1)
 LIFE
 Lifeime	Lifetime_港台_国
 LiveABC互动英语频道
@@ -532,7 +525,6 @@ Nick Jr	Nick Jr._英_新马
 Nick Jr. HD	Nick Jr._英
 Nick Jr. 儿童频道	Nick Jr._国_港台
 Nick Jr.(小尼克)	Nick Jr._国_台湾
-Nickelodeon Asia尼克儿童频道	Nickelodeon Asia_港新马_国3
 Nickelodeon Jr
 Nickelodeon香港	Nickelodeon Asia_港新马_国2
 尼克儿童频道	Nickelodeon Asia_港新马_国4
@@ -547,7 +539,6 @@ Now Sports 5
 Now Sports 6
 Now Sports 641
 Now Sports 651
-Now Sports 652
 Now Sports 668
 Now Sports 681
 Now Sports 7
@@ -582,7 +573,6 @@ Pandora潘朵啦高画质粉红台
 Pandora潘朵啦高画质玩美台
 PETCLUBTV	PET CLUB TV_国
 RCTI
-Rialto Classic Movies (RCM) (免费)	RCM(Rialto Classic Movies)
 River Monsters
 ROCK Action	Rock Action_台湾_国
 ROCK ACTION	Rock Action_香港_国
@@ -603,7 +593,6 @@ SUPER识食 (免费)	SUPER识食
 咪咕体育
 松视1台
 松视2台
-松视3台
 松视4台
 彩虹频道
 彩虹E频道
@@ -677,9 +666,7 @@ elta体育max 8	爱尔达体育MAX8台
 高雄都会台
 公视儿少台HD	公视少儿台
 公视台语台
-公用频道	公用频道_台湾
 古典音乐台
-红豆2台
 红豆电视台
 滚动力rollor	滚动力Rollor
 鬼话连篇
@@ -827,10 +814,9 @@ elta体育max 8	爱尔达体育MAX8台
 奥林匹克官网直播
 早餐中国
 Astro Cricket
-Astro_First_HD	Astro First
 Astro_Golf	Astro Golf
 Astro Sensasi HD	Astro Sensasi
-Astro_Thangathirai	Astro Thangathirai
+THANGATHIRAI	Astro Thangathirai
 Astro Warna HD	Astro Warna
 CCM	天映经典电影_印柬_英
 Celebrities TV
@@ -892,7 +878,7 @@ Cartoon Network香港	Cartoon Network_港新马_国
 CARTOONITO HD	CARTOONITO
 CATCH PLAY电影台	CATCHPLAY电影台_台湾
 Cbeebies	CBeebies_港新_国
-CBeebies HD	CBeebies_英
+CBeebies	CBeebies_英
 CI 罪案侦查频道	Crime & Investigation_港台新马_国(标题)
 CINEEDGE
 Cinema One Global
@@ -901,7 +887,6 @@ CinemaWorld频道	CinemaWorld_台新_国
 Citra Entertainment
 CLASSICA 古典乐	Classica古典乐
 CMC 香港频道
-CMusic
 CNBC HD	CNBC (非新加坡)
 CNEX纪实频道	CNEX纪实频道_简中
 COLORS	Colors TV
@@ -918,7 +903,6 @@ Discovery Channel香港	Discovery Channel_香港
 Discovery 科学频道	Discovery Sci科学频道_港台_国
 DMAX有线	Discovery DMAX_港台_国
 DiscoveryEVE	Discovery EVE_台湾_国
-Docsville (免费)	Docsville
 DreamWorks	DreamWorks_台湾_国
 DreamWorks HD	DreamWorks_英
 Dubai One
@@ -926,7 +910,7 @@ DW (English)香港	DW English_香港
 DW English	DW English Africa
 DW德国之声	DW English_台湾_国
 Zee Bioskop
-Zee Cinema HD
+Zee Cinema
 Zee News
 Zee Tamil HD	Zee Tamil(EPG1)
 Zee Thirai	Zee Thirai(EPG1)
@@ -955,7 +939,6 @@ MBC every1
 mbc max
 MBC music
 MBC net
-MBC on
 MDTV
 Medici-arts HD	Medici-Arts
 Metro TV
@@ -983,7 +966,6 @@ SBS funE	SBS FunE
 SBS Golf
 SBS Golf2
 SBS life	SBS Life
-SBS plus	SBS Plus_韩
 SBS sport
 SCTV
 SEA TODAY
@@ -997,10 +979,8 @@ Sportstars 2
 Sportstars 3
 Sportstars 4
 Studio Universal
-Sun Music
 Sun TV
 TG Junior
-that's 90s00s (免费)	That's 90s 00s
 The Filipino Channel HD	TFC (The Filipino Channel)
 Thrill	Thrill_港+X混合
 TRACESportStars	Trace Sport Stars_港台新_简中
