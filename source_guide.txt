@@ -342,7 +342,6 @@ CHC 家庭影院	CHC家庭影院
 黑龙江卫视
 金鹰卡通
 哈哈炫动	炫动卡通
-国学时代界
 1905App 环球经典
 1905App 热血·影院
 睛彩竞技
@@ -357,7 +356,6 @@ CHC 家庭影院	CHC家庭影院
 都市频道	上海都市频道
 看看新闻直播
 #浙江
-浙江好易购
 浙江经济	浙江经济生活
 浙江科教
 浙江民生	浙江民生休闲
@@ -446,23 +444,17 @@ PopC
 tvN Movies	tvN Movies(英)
 tvN有线	tvN_港新台_国_有线
 amc电影台		AMC电影台(EPG2)
-粤语片台
 周星驰台
-ELEVEN SPORTS 2
 Entertainment
 ETtoday综合台
 EYE TV旅游台HD	EYE TV旅游台
 EYE TV戏剧台HD	EYE TV戏剧台
 HAPPY频道
-HBO	HBO HD_港台新_国2
 HBO HD	HBO HD_非台_国
 HBO Hits香港	HBO Hits_港新_国
-HBO Signature香港	HBO Signature_香港_国
-HGTV居家乐活频道	HGTV_港台马新_国
 History 历史频道有线	History Channel_港台_国_有线
 HITS	HITS HD_港台新马_国
 HITS MOVIES HD	HITS Movies_香港_英
-HITS有线	HITS HD_港台新马_有线
 HOY 76	HOY 国际财经台
 HOY 77	HOY TV
 HOY 78	HOY 资讯台
@@ -479,27 +471,20 @@ Kids TV
 KIX
 KIX电影台
 kix新加坡
-kix亚洲
 Kompas TV
 KTV	KTV_印
 LIFE
-Lifeime	Lifetime_港台_国
 LiveABC互动英语频道
 Love Nature 4K	Love Nature 4K_国
 LOVE NATURE有线	Love Nature_国
 LS TIME电影台	龙祥电影台
 My Cinema Europe HD 我的欧洲电影有线		MCE(My Cinema Europe HD) 我的欧洲电影_有线
-华语剧台	myTV SUPER华语剧台
-戏曲台	myTV SUPER戏曲台
 Nick Jr	Nick Jr._英_新马
 Nick Jr. HD	Nick Jr._英
-Nick Jr. 儿童频道	Nick Jr._国_港台
 Nick Jr.(小尼克)	Nick Jr._国_台湾
 Nickelodeon Jr
 nowjeli	NOW紫金国际台_香港
-now新闻	NOW新闻
 ONE	ONE HD_马来_英
-ONE (Malay)	ONE HD_英
 ONE HD	ONE HD_英2
 ORIGINALS
 Outdoor Channel
@@ -515,11 +500,6 @@ ROCK Xstream摇滚极限频道	Rock X Stream_国
 ROCK综艺娱乐	ROCK Entertainment_港新_国
 RT香港
 SBN全球财经台
-SUPER FREE (免费)	SUPER FREE
-SUPER Music (免费)	SUPER Music
-SUPER Sports (免费)	SUPER Sports
-SUPER煲剧 (免费)	SUPER煲剧
-SUPER识食 (免费)	SUPER识食
 魅力足球
 松视1台
 松视2台
@@ -543,8 +523,6 @@ Z频道
 ELTV生活英语台
 爱尔达日韩台
 爱尔达生活旅游台
-爱尔达体育1台
-爱尔达体育4台
 爱尔达体育MAX1台
 爱尔达体育MAX2台
 爱尔达体育MAX3台
@@ -554,9 +532,6 @@ ELTV生活英语台
 八大第一HD	八大第一台
 八大戏剧台
 半岛电视台英语频道	Al Jazeera English
-博斯魅力网有线
-博斯高球一台	博斯高球1台
-博斯高球二台有线	博斯高球2台
 博斯运动一台有线	博斯运动1台
 博斯运动二台有线	博斯运动2台
 超视	东森超视
@@ -568,7 +543,6 @@ ELTV生活英语台
 第一神拳
 电影原声台CMusic
 东风卫视	东风卫视
-东森购物三台	东森购物3台
 东森购物5台HD	东森购物5台
 东森洋片台	东森洋片
 东森幼幼台	东森幼幼
@@ -579,7 +553,6 @@ ELTV生活英语台
 哆啦Ａ梦台
 法眼黑与白
 番薯电视台	番薯卫星电视台
-凡尔赛玫瑰
 放松的爵士午后
 非凡大探索
 富立电视台HD		富立电视台
@@ -595,7 +568,6 @@ ELTV生活英语台
 户外频道香港
 华藏卫星电视台	华藏卫视
 华视
-华视HD	华视HD_与华视节目不同
 华视教育体育文化台
 华视新闻资讯台
 华艺台湾台 HD	华艺台湾台
@@ -606,7 +578,6 @@ ELTV生活英语台
 金光布袋戏
 经典电影台
 经典剧场
-经典卡通台
 靖天电影台
 靖天欢乐台
 靖天卡通
@@ -624,7 +595,6 @@ ELTV生活英语台
 历史频道HD		History Channel_(回看)
 疗愈下雨声
 龙华经典台	龙华经典台(EPG2)
-龙华偶像台OTT
 龙华戏剧台	龙华戏剧台(EPG2)
 龙华洋片台
 旅游频道香港
@@ -632,7 +602,6 @@ ELTV生活英语台
 麦卡贝综艺
 曼迪日本台HD	曼迪日本台
 梅迪奇艺术台
-美好1台HD	美好1台
 美好2台
 美丽人生购物台
 美亚电影HD	美亚电影HD_台湾
@@ -658,7 +627,6 @@ ELTV生活英语台
 三立都会台
 三立国际台
 三立台湾台
-三圣电视台
 生命电视台
 时尚运动X
 世界卫星电视台
@@ -672,12 +640,8 @@ ELTV生活英语台
 台湾壹百种味道
 台湾艺术台
 台湾真善美
-台湾综合台
 台湾最前线
 掏掏新闻
-桃园生活台
-天良综合台
-天美丽电视台
 天映经典马来西亚	天映经典电影_马来非新_国
 天映经典频道	天映经典电影_港新菲_国(详情)
 天映经典新加坡	天映经典电影_新加坡2
@@ -697,7 +661,6 @@ ELTV生活英语台
 信吉电视台
 信吉艺文台HD	信吉艺文台
 亚洲剧台	TVB-亚洲剧台
-亚洲旅游HD	亚洲旅游台_非台_国
 亚洲卫视
 亚洲新闻台	CNA
 亚洲综合HD
@@ -708,7 +671,6 @@ ELTV生活英语台
 英超2台
 原住民族电视台	原住民电视
 正德电视台
-智叻乐园
 中国旅游大探索
 中国美食大探索
 中华电视台
@@ -724,7 +686,6 @@ ELTV生活英语台
 韩国娱乐台 KMTV	韩国娱乐台KMTV_台湾_简中
 中华一番(中文版)
 超人力霸王台
-奥林匹克官网直播
 早餐中国
 Astro Cricket
 Astro_Golf	Astro Golf
@@ -735,20 +696,16 @@ CCM	天映经典电影_印柬_英
 Celebrities TV
 Celestial Movies	天映电影_印尼_英
 Superrix
-Eurosport	Eurosport_国
 EUROSPORT HD	Eurosport_英
 EVE有线	Discovery EVE_台湾_国_有线
-FIFA+
 Fight Sports
 Focus探索新知台
 Food Travel HD	Food Travel
 France 24香港	France 24 English_香港
-FRANCE24 英文台	France 24 English_台湾
 Freeman @台湾
 fun探索娱乐台
 Galaxy
 Galaxy Premium
-GINX Esports TV	GINX Esports电竞频道_国
 Global Trekker探索世界频道	Global Trekker_英
 GlobalTrekker	Global Trekker_国(标题)
 GLOBLTREKKER探索世界	Global Trekker_国(详情)
@@ -768,15 +725,12 @@ Arirang
 Asian Food Network 亚洲美食频道	Asian Food Network_港台新_国
 ASMR行车纪录
 BBC EARTH	BBC Earth_新马港台_国
-BBC LIFESTYLE	BBC Lifestyle_港台_国
-BBC News HD	BBC News_香港
 beIN Sports 3 HD	beIN Sports-3
 BTV
 BUDDY STARS
 Cartoon Network香港	Cartoon Network_港新马_国
 CARTOONITO HD	CARTOONITO
 CATCH PLAY电影台	CATCHPLAY电影台_台湾
-Cbeebies	CBeebies_港新_国
 CBeebies	CBeebies_英
 CI 罪案侦查频道	Crime & Investigation_港台新马_国(标题)
 CINEEDGE
@@ -786,12 +740,6 @@ CMC 香港频道
 CNBC HD	CNBC (非新加坡)
 CNEX纪实频道	CNEX纪实频道_简中
 COLORS	Colors TV
-COLORS Tamil HD	Colors Tamil_马来
-Concerto (免费)	Concerto
-Crime + Investigation HD	Crime & Investigation
-DAZN 1	DAZN-1_台湾
-DAZN 2	DAZN-2_台湾
-DAZN 3	DAZN-3_台湾
 Discovery	Discovery Channel_台湾_国
 Discovery Asia	Discovery Asia_国_详情
 DiscoveryAsia	Discovery Asia_国_标题
@@ -802,13 +750,10 @@ DiscoveryEVE	Discovery EVE_台湾_国
 DreamWorks	DreamWorks_台湾_国
 DreamWorks HD	DreamWorks_英
 Dubai One
-DW (English)香港	DW English_香港
 DW English	DW English Africa
-DW德国之声	DW English_台湾_国
 Zee Bioskop
 Zee Cinema
 Zee TV HD
-Kartoon Channel!
 KBSWorld	KBS World_非新加坡_英
 KBS World香港	KBS World_港新马_国
 mbc 2
@@ -825,13 +770,10 @@ MOVIE MOVIE	MOVIE MOVIE_港_国
 MUCH TV
 Music TV
 Muslim TV
-NHK WORLD PREMIUM	NHK World Premium_国
-NHK World-Japan	NHK World Japan
 NHK 日本国家电视台
 SCTV
 SEA TODAY
 Sindo News TV
-Smithsonian_Channel	Smithsonian Channel
 Soccer Channel
 Sony TV (India)	SONY TV
 Sportstars
@@ -839,18 +781,13 @@ Sportstars 2
 Sportstars 3
 Sportstars 4
 Studio Universal
-Sun TV
 The Filipino Channel HD	TFC (The Filipino Channel)
 Thrill	Thrill_港+X混合
-TRACESportStars	Trace Sport Stars_港台新_简中
-TRACE Urban (免费)	Trace Urban_英
 Trans 7
 Trans TV
 TravelChannel	Travel Channel_台湾_国
 Travelxp HD
-TV5MONDE	TV5MONDE
 TV5MONDE ASIE
-TV5MONDE STYLE HD 生活时尚	TV5MONDE Style生活时尚
 tvOne
 TVRI
 UNIQUES
@@ -858,7 +795,6 @@ Vijay TV HD	Vijay TV_新加坡
 Vision Prime
 viu6	Viu Six
 ViuTV	Viu TV
-ViVa 1台
 Warner TV	Warner TV_台湾_国
 Yes娱乐
 ZooMoo	ZooMoo_香港_国
