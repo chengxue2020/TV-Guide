@@ -299,8 +299,6 @@ TRACEUrban	Trace Urban_国
 
 https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/swepg.xml.gz
 ChangeTimezone=Y
-CCTV-4	CCTV4_英(EPG2)
-CCTV-4香港	CCTV4香港
 cctv8k	CCTV8K
 cctv风云剧场	CCTV-风云剧场
 cctv风云足球	CCTV-风云足球
@@ -450,15 +448,12 @@ tvN有线	tvN_港新台_国_有线
 amc电影台		AMC电影台(EPG2)
 粤语片台
 周星驰台
-彰化生活台
 ELEVEN SPORTS 1
 ELEVEN SPORTS 2
 Entertainment
 ETtoday综合台
 EYE TV旅游台HD	EYE TV旅游台
 EYE TV戏剧台HD	EYE TV戏剧台
-Hami体育1台
-Hami体育2台
 HAPPY频道
 HBO	HBO HD_港台新_国2
 HBO HD	HBO HD_非台_国
@@ -472,24 +467,15 @@ HITS有线	HITS HD_港台新马_有线
 HOY 76	HOY 国际财经台
 HOY 77	HOY TV
 HOY 78	HOY 资讯台
-Hub Premier 1
-Hub Premier 10
-Hub Premier 11
-Hub Premier 2
-Hub Premier 3
-Hub Premier 4
 Hub Premier 5
-Hub Premier 6
 Hub Premier 7
-Hub Premier 8
 Hub Premier 9
-Hub Sports 1 HD	Hub Sports 1
+Hub Premier 10
 Hub Sports 3 HD	Hub Sports 3
 IDX
 IMC
 Indosiar
 iNews
-INULTRA
 iQIYI_HD	Astro iQIYI
 JAKTV
 JET综合	JET综合台
@@ -513,14 +499,12 @@ LS TIME电影台	龙祥电影台
 My Cinema Europe HD 我的欧洲电影有线		MCE(My Cinema Europe HD) 我的欧洲电影_有线
 myTV SUPER 18台
 myTV SUPER直播足球2台
-myTV SUPER直播足球3台
 myTV SUPER直播足球4台
 myTV SUPER直播足球5台
 myTV SUPER直播足球6台
 myTV SUPER直播足球7台
 华语剧台	myTV SUPER华语剧台
 戏曲台	myTV SUPER戏曲台
-Netflix香港	Netflix_香港
 Nick Jr	Nick Jr._英_新马
 Nick Jr. HD	Nick Jr._英
 Nick Jr. 儿童频道	Nick Jr._国_港台
@@ -531,44 +515,20 @@ Nickelodeon香港	Nickelodeon Asia_港新马_国2
 NOW 70s
 NOW 80s
 NOW ROCK
-Now Sports 1
-Now Sports 2
 Now Sports 3
-Now Sports 4
-Now Sports 5
-Now Sports 6
-Now Sports 641
-Now Sports 651
-Now Sports 668
-Now Sports 681
-Now Sports 7
-Now Sports plus
-Now Sports Premier
 Now Sports 英超 TV2
-Now Sports 英超 TV3
-Now Sports 英超 TV4
-Now Sports 英超 TV5
-Now Sports 英超 TV6
-Now Sports 英超 TV7
 Now Sports 英超TV
-Now Sports 英超TV1
 Now 高尔夫2
-Now 高尔夫3
 now 剧集	NOW剧集
 nowjeli	NOW紫金国际台_香港
 now报价	NOW报价
-Panda TV	NOW Panda TV
-Now爆谷星影台	NOW爆谷星影台_香港
-now财经	NOW财经台_国
 now体育	NOW体育
-now体育4k	NOW体育4k
 now新闻	NOW新闻
 ONE	ONE HD_马来_英
 ONE (Malay)	ONE HD_英
 ONE HD	ONE HD_英2
 ORIGINALS
 Outdoor Channel
-OUTtv HD
 Pandora潘朵啦高画质粉红台
 Pandora潘朵啦高画质玩美台
 PETCLUBTV	PET CLUB TV_国
@@ -590,7 +550,6 @@ SUPER煲剧 (免费)	SUPER煲剧
 SUPER奖门人 (免费)	SUPER奖门人
 SUPER识食 (免费)	SUPER识食
 魅力足球
-咪咕体育
 松视1台
 松视2台
 松视4台
@@ -643,11 +602,9 @@ elta体育max 8	爱尔达体育MAX8台
 大爱二台
 第1商业台
 第一神拳
-电动车时代
 电影原声台CMusic
 东风卫视	东风卫视
 东森购物三台	东森购物3台
-东森购物四台	东森购物4台
 东森购物5台HD	东森购物5台
 东森洋片台	东森洋片
 东森幼幼台	东森幼幼
@@ -687,9 +644,7 @@ elta体育max 8	爱尔达体育MAX8台
 经典电影台
 经典剧场
 经典卡通台
-精选动漫台
 靖天电影台
-靖天购物一台有线
 靖天欢乐台
 靖天卡通
 靖天日本台
@@ -713,7 +668,6 @@ elta体育max 8	爱尔达体育MAX8台
 旅游频道香港
 麦卡贝网路电视
 麦卡贝综艺
-麦哲伦频道
 曼迪日本台HD	曼迪日本台
 梅迪奇艺术频道有线
 梅迪奇艺术台
@@ -777,7 +731,6 @@ elta体育max 8	爱尔达体育MAX8台
 纬来综合HD	纬来综合台
 小公视	公视小公视
 新哆啦A梦(中文版)
-新唐人亚太台
 新天地民俗台 HD	新天地民俗台
 信大电视台
 信吉电视台
@@ -806,7 +759,6 @@ elta体育max 8	爱尔达体育MAX8台
 中天亚洲精采台
 中天娱乐HD	中天娱乐
 中天综合台
-猪哥亮歌厅秀
 韩国娱乐KMTV	韩国娱乐台KMTV_台湾
 韩国娱乐台 KMTV	韩国娱乐台KMTV_台湾_简中
 中华一番(中文版)
@@ -821,12 +773,7 @@ Astro Warna HD	Astro Warna
 CCM	天映经典电影_印柬_英
 Celebrities TV
 Celestial Movies	天映电影_印尼_英
-EBS CHILD
-EBS EDUCATION
-EBS PLUS1
-EBS PLUS2
 EBS1
-EBS2
 Superrix
 euronews香港	Euronews_香港
 Eurosport	Eurosport_国
@@ -836,7 +783,6 @@ FIFA+
 Fight Sports
 Focus探索新知台
 Food Travel HD	Food Travel
-France 24 (French)	France 24 French
 France 24香港	France 24 English_香港
 FRANCE24 英文台	France 24 English_台湾
 Freeman @台湾
@@ -855,7 +801,6 @@ GTV
 Hanacaraka TV
 ABC Australia	ABC Australia_Youtube
 ABC澳大利亚电视台	ABC Australia(澳大利亚)
-Action Hollywood Movies
 ADITHYA TV	Adithya TV
 Al Quran Al Kareem
 ANC
@@ -865,12 +810,10 @@ ANTV
 Arirang
 Asian Food Network 亚洲美食频道	Asian Food Network_港台新_国
 Asianet	Asianet TV
-Asianet Movies
 ASMR行车纪录
 BBC EARTH	BBC Earth_新马港台_国
 BBC LIFESTYLE	BBC Lifestyle_港台_国
 BBC News HD	BBC News_香港
-bb快报
 beIN Sports 3 HD	beIN Sports-3
 BTV
 BUDDY STARS
@@ -882,9 +825,7 @@ CBeebies	CBeebies_英
 CI 罪案侦查频道	Crime & Investigation_港台新马_国(标题)
 CINEEDGE
 Cinema One Global
-cinemalworld世界电影频道有线	cinemaworld_台湾_国+详情
 CinemaWorld频道	CinemaWorld_台新_国
-Citra Entertainment
 CLASSICA 古典乐	Classica古典乐
 CMC 香港频道
 CNBC HD	CNBC (非新加坡)
@@ -911,43 +852,21 @@ DW English	DW English Africa
 DW德国之声	DW English_台湾_国
 Zee Bioskop
 Zee Cinema
-Zee News
-Zee Tamil HD	Zee Tamil(EPG1)
-Zee Thirai	Zee Thirai(EPG1)
 Zee TV HD
-Kalaignar TV	Kalaignar TV(EPG1)
-Karisma	Karisma(EPG2)
 Kartoon Channel!
-KBS 1
-KBS 2
-KBS DRAMA
-KBS JOY
-KBS KIDS
-KBS LIFE
 KBS NEWS
-KBS STORY
 KBSWorld	KBS World_非新加坡_英
-KBS World HD	KBS World_非新加坡_英2
 KBS World香港	KBS World_港新马_国
 Lucky 688
-LUXE TV Channel
 MBC
 mbc 2
 mbc action	mbc action
-MBC drama
-MBC every1
 mbc max
 MBC music
-MBC net
 MDTV
-Medici-arts HD	Medici-Arts
 Metro TV
 meWATCH LIVE 2
-meWATCH LIVE 5
 MNCTV
-momo1台HD	MOMO1台
-momo2台HD	MOMO2台
-momo亲子台	MOMO亲子台(EPG2)
 MOMO综合台	MOMO综合台
 Moonbug	Moonbug_马来
 Moonbug香港	Moonbug_香港_繁中
@@ -956,23 +875,15 @@ MOVIE MOVIE	MOVIE MOVIE_港_国
 MUCH TV
 Music TV
 Muslim TV
-NewsWorld (免费)	NewsWorld
 NHK WORLD PREMIUM	NHK World Premium_国
 NHK World-Japan	NHK World Japan
 NHK 日本国家电视台
-SBS
 SBS Biz
-SBS funE	SBS FunE
-SBS Golf
-SBS Golf2
-SBS life	SBS Life
-SBS sport
 SCTV
 SEA TODAY
 Sindo News TV
 Smithsonian_Channel	Smithsonian Channel
 Soccer Channel
-SONY MAX
 Sony TV (India)	SONY TV
 Sportstars
 Sportstars 2
@@ -980,7 +891,6 @@ Sportstars 3
 Sportstars 4
 Studio Universal
 Sun TV
-TG Junior
 The Filipino Channel HD	TFC (The Filipino Channel)
 Thrill	Thrill_港+X混合
 TRACESportStars	Trace Sport Stars_港台新_简中
@@ -995,7 +905,6 @@ TV5MONDE STYLE HD 生活时尚	TV5MONDE Style生活时尚
 tvOne
 TVRI
 UNIQUES
-video express rentnow
 Vijay TV HD	Vijay TV_新加坡
 Vision Prime
 viu6	Viu Six
@@ -1523,14 +1432,12 @@ ChangeTimezone=Y
 524990	Cricbuzz 2_新加坡
 492915	Karisma_新加坡
 492895	Hub-都会台
-492836	Hub Sports 3
 503775	Hub Sports 4
 503776	Hub Sports 5
 524986	Hub Sports 6
 524981	Hub Sports 7
 369734	KBS World_港新马_英
 369832	Lifetime_新马_英
-369719	ROCK Entertainment_港新_英
 369757	Sky News_新加坡
 369846	SONY MAX_港新
 516576	SPOTV_新加坡
