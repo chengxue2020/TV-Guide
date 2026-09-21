@@ -1,3 +1,4 @@
 # 忽略所有epg 文件改动
 *.xml
 *.xml.gz
+log.txt
