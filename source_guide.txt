@@ -387,7 +387,6 @@ CHC 家庭影院	CHC家庭影院
 河南乡村
 河南新闻
 #江苏
-江苏城市频道
 江苏教育
 江苏体育休闲频道
 澳门葡萄牙
@@ -477,7 +476,6 @@ Pandora潘朵啦高画质玩美台
 PETCLUBTV	PET CLUB TV_国
 RCTI
 ROCK Action	Rock Action_台湾_国
-ROCK ACTION	Rock Action_香港_国
 Rock Entertainment	Rock Entertainment_非港新_英
 ROCK Extreme	ROCK Extreme_国
 ROCK Xstream摇滚极限频道	Rock X Stream_国
@@ -545,7 +543,6 @@ ELTV生活英语台
 公视儿少台HD	公视少儿台
 公视台语台
 古典音乐台
-红豆电视台
 滚动力rollor	滚动力Rollor
 鬼话连篇
 国际大小事
@@ -584,7 +581,6 @@ ELTV生活英语台
 麦卡贝网路电视
 麦卡贝综艺
 曼迪日本台HD	曼迪日本台
-梅迪奇艺术台
 美好2台
 美丽人生购物台
 美亚电影HD	美亚电影HD_台湾
@@ -671,7 +667,6 @@ ELTV生活英语台
 超人力霸王台
 早餐中国
 Astro Cricket
-Astro_Golf	Astro Golf
 Astro Sensasi HD	Astro Sensasi
 THANGATHIRAI	Astro Thangathirai
 Astro Warna HD	Astro Warna
@@ -723,10 +718,8 @@ CNBC HD	CNBC (非新加坡)
 CNEX纪实频道	CNEX纪实频道_简中
 COLORS	Colors TV
 Discovery	Discovery Channel_台湾_国
-Discovery Asia	Discovery Asia_国_详情
 DiscoveryAsia	Discovery Asia_国_标题
 Discovery Channel香港	Discovery Channel_香港
-Discovery 科学频道	Discovery Sci科学频道_港台_国
 DMAX有线	Discovery DMAX_港台_国
 DiscoveryEVE	Discovery EVE_台湾_国
 DreamWorks	DreamWorks_台湾_国
@@ -1961,15 +1954,6 @@ https://epg.pw/xmltv/epg_US.xml
 465165	Zona Futbol
 465070	ZooMoo(US)
 
-
-https://epg.yang-1989.eu.org/epg.xml
-明珠台	TVB-明珠台
-BBC Earth	BBC Earth_新马港台_中繁+详情
-BBC Lifestyle	BBC Lifestyle_港台新_国
-Now Sports 精選	Now Sports精选
-商業電台 雷霆881	商业电台 雷霆881
-商業電台 AM864	商业电台 AM864
-商業電台 叱咤903	商业电台 叱咤903 
 
 
 #http://e.erw.cc/e.xml.gz
