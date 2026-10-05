@@ -3,8 +3,8 @@
 ============================================================
 Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
-当前时间: 2026-10-05 14:12:00 (北京时间)
-当前时间: 2026-10-05 06:12:00 (UTC)
+当前时间: 2026-10-06 01:24:26 (北京时间)
+当前时间: 2026-10-05 17:24:26 (UTC)
 
 ⚠ 未安装 curl_cffi 库，将使用普通 requests
   安装方法: pip install curl-cffi
@@ -1627,12 +1627,12 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 106 个
-    🔗 智能合并更新: 457 个节目
+    ✂️ 跨天节目拆分: 117 个
+    🔗 智能合并更新: 460 个节目
     ⚠ 未找到频道: 愛爾達娛樂 → 【爱尔达娱乐】
     ⚠ 未找到频道: 茂名文化生活
     📺 新增频道: 186/188
-    📅 新增节目: 45795/49572
+    📅 新增节目: 48479/52266
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1647,90 +1647,90 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 957 个
-    🔗 智能合并更新: 895 个节目
-    ⚠ 未找到频道: 靖天卡通
-    ⚠ 未找到频道: Galaxy
-    ⚠ 未找到频道: Celebrities TV
-    ⚠ 未找到频道: JAKTV
-    ⚠ 未找到频道: Trans TV
-    ⚠ 未找到频道: Metro TV
-    ⚠ 未找到频道: BUDDY STARS
+    ✂️ 跨天节目拆分: 987 个
+    🔗 智能合并更新: 865 个节目
     ⚠ 未找到频道: Sportstars 2
-    ⚠ 未找到频道: Hanacaraka TV
-    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
-    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
-    ⚠ 未找到频道: Sindo News TV
-    ⚠ 未找到频道: RCTI
-    ⚠ 未找到频道: Sportstars
-    ⚠ 未找到频道: TVRI
     ⚠ 未找到频道: Galaxy Premium
-    ⚠ 未找到频道: IMC
-    ⚠ 未找到频道: Indosiar
-    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
-    ⚠ 未找到频道: Al Quran Al Kareem
-    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
-    ⚠ 未找到频道: 三立国际台
-    ⚠ 未找到频道: Trans 7
-    ⚠ 未找到频道: ORIGINALS
-    ⚠ 未找到频道: Kompas TV
-    ⚠ 未找到频道: SCTV
-    ⚠ 未找到频道: CINEEDGE
-    ⚠ 未找到频道: MDTV
-    ⚠ 未找到频道: Astro Cricket
-    ⚠ 未找到频道: 彩虹E频道
-    ⚠ 未找到频道: SEA TODAY
-    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
-    ⚠ 未找到频道: Fight Sports
-    ⚠ 未找到频道: Music TV
-    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
-    ⚠ 未找到频道: iNews
-    ⚠ 未找到频道: 壹电视电影台
-    ⚠ 未找到频道: JET综合 → 【JET综合台】
-    ⚠ 未找到频道: HITS MOVIES HD → 【HITS Movies_香港_英】
-    ⚠ 未找到频道: 经典剧场
-    ⚠ 未找到频道: Superrix
-    ⚠ 未找到频道: 东风卫视
-    ⚠ 未找到频道: 靖天欢乐台
-    ⚠ 未找到频道: Kids TV
-    ⚠ 未找到频道: Moonbug → 【Moonbug_马来】
-    ⚠ 未找到频道: 年代新闻
-    ⚠ 未找到频道: IDX
-    ⚠ 未找到频道: tvOne
+    ⚠ 未找到频道: beIN Sports 3 HD → 【beIN Sports-3】
     ⚠ 未找到频道: 壹电视资讯台
-    ⚠ 未找到频道: Arirang
-    ⚠ 未找到频道: Nickelodeon Jr
-    ⚠ 未找到频道: Soccer Channel
-    ⚠ 未找到频道: MNCTV
-    ⚠ 未找到频道: ABC Australia → 【ABC Australia_Youtube】
-    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
-    ⚠ 未找到频道: Muslim TV
-    ⚠ 未找到频道: Sportstars 4
-    ⚠ 未找到频道: Vision Prime
     ⚠ 未找到频道: Rock Entertainment → 【Rock Entertainment_非港新_英】
-    ⚠ 未找到频道: Celestial Movies → 【天映电影_印尼_英】
-    ⚠ 未找到频道: UNIQUES
-    ⚠ 未找到频道: ANTV
-    ⚠ 未找到频道: 博斯运动一台有线 → 【博斯运动1台】
-    ⚠ 未找到频道: Food Travel HD → 【Food Travel】
+    ⚠ 未找到频道: Sportstars 4
+    ⚠ 未找到频道: 五星体育
+    ⚠ 未找到频道: 靖天欢乐台
+    ⚠ 未找到频道: Astro Cricket
     ⚠ 未找到频道: 中国农林卫视 → 【陕西农林卫视】
-    ⚠ 未找到频道: Studio Universal
-    ⚠ 未找到频道: Zee Bioskop
+    ⚠ 未找到频道: BUDDY STARS
+    ⚠ 未找到频道: Fight Sports
+    ⚠ 未找到频道: Nickelodeon Jr
+    ⚠ 未找到频道: Celebrities TV
+    ⚠ 未找到频道: Trans 7
+    ⚠ 未找到频道: 八大第一HD → 【八大第一台】
+    ⚠ 未找到频道: 东风卫视
     ⚠ 未找到频道: LIFE
+    ⚠ 未找到频道: 经典剧场
+    ⚠ 未找到频道: ORIGINALS
+    ⚠ 未找到频道: Zee Bioskop
+    ⚠ 未找到频道: Entertainment
+    ⚠ 未找到频道: RCTI
+    ⚠ 未找到频道: SCTV
+    ⚠ 未找到频道: IDX
+    ⚠ 未找到频道: 博斯运动一台有线 → 【博斯运动1台】
+    ⚠ 未找到频道: Hanacaraka TV
+    ⚠ 未找到频道: Celestial Movies → 【天映电影_印尼_英】
+    ⚠ 未找到频道: Music TV
+    ⚠ 未找到频道: 靖天卡通
+    ⚠ 未找到频道: Kids TV
+    ⚠ 未找到频道: iQIYI_HD → 【Astro iQIYI】
+    ⚠ 未找到频道: MDTV
+    ⚠ 未找到频道: JET综合 → 【JET综合台】
+    ⚠ 未找到频道: Soccer Channel
+    ⚠ 未找到频道: 壹电视电影台
+    ⚠ 未找到频道: 彩虹E频道
+    ⚠ 未找到频道: Kompas TV
+    ⚠ 未找到频道: Muslim TV
+    ⚠ 未找到频道: JAKTV
+    ⚠ 未找到频道: iNews
+    ⚠ 未找到频道: TVBS综艺台 → 【TVBS-综艺台】
+    ⚠ 未找到频道: 中天娱乐HD → 【中天娱乐】
+    ⚠ 未找到频道: Food Travel HD → 【Food Travel】
+    ⚠ 未找到频道: SEA TODAY
+    ⚠ 未找到频道: Sportstars
+    ⚠ 未找到频道: GTV
+    ⚠ 未找到频道: 彩虹电影
+    ⚠ 未找到频道: BTV
+    ⚠ 未找到频道: 三立新闻HD → 【三立新闻台】
+    ⚠ 未找到频道: IMC
+    ⚠ 未找到频道: ABC Australia → 【ABC Australia_Youtube】
+    ⚠ 未找到频道: Indosiar
+    ⚠ 未找到频道: UNIQUES
+    ⚠ 未找到频道: Sportstars 3
+    ⚠ 未找到频道: CINEEDGE
+    ⚠ 未找到频道: Galaxy
+    ⚠ 未找到频道: Metro TV
+    ⚠ 未找到频道: TVRI
+    ⚠ 未找到频道: tvOne
+    ⚠ 未找到频道: Al Quran Al Kareem
+    ⚠ 未找到频道: HITS MOVIES HD → 【HITS Movies_香港_英】
+    ⚠ 未找到频道: 三立国际台
+    ⚠ 未找到频道: 纬来综合HD → 【纬来综合台】
+    ⚠ 未找到频道: Sindo News TV
+    ⚠ 未找到频道: Trans TV
+    ⚠ 未找到频道: MNCTV
+    ⚠ 未找到频道: 年代新闻
+    ⚠ 未找到频道: DW English → 【DW English Africa】
+    ⚠ 未找到频道: ONE → 【ONE HD_马来_英】
+    ⚠ 未找到频道: Vision Prime
+    ⚠ 未找到频道: Studio Universal
     ⚠ 未找到频道: Zoomoo → 【Zoomoo(英)】
     ⚠ 未找到频道: TVBS台剧台 → 【TVBS-台剧台】
-    ⚠ 未找到频道: 五星体育
-    ⚠ 未找到频道: BTV
-    ⚠ 未找到频道: GTV
-    ⚠ 未找到频道: beIN Sports 3 HD → 【beIN Sports-3】
+    ⚠ 未找到频道: Superrix
+    ⚠ 未找到频道: ANTV
+    ⚠ 未找到频道: 哈哈炫动 → 【炫动卡通】
     ⚠ 未找到频道: Nick Jr. HD → 【Nick Jr._英】
-    ⚠ 未找到频道: Entertainment
-    ⚠ 未找到频道: DW English → 【DW English Africa】
-    ⚠ 未找到频道: 彩虹电影
-    ⚠ 未找到频道: ONE → 【ONE HD_马来_英】
-    ⚠ 未找到频道: Sportstars 3
+    ⚠ 未找到频道: Moonbug → 【Moonbug_马来】
+    ⚠ 未找到频道: Arirang
     📺 新增频道: 377/457
-    📅 新增节目: 28954/38076
+    📅 新增节目: 28609/38543
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1741,14 +1741,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✅ requests 下载成功
     🕐 时间范围: 2026-09-29 00:00 到 2026-10-09 00:00 (UTC)
     📊 包含过去 6 天 + 当天 + 未来 3 天
-    🕐 时区处理: 未指定时区，保持原XML时区不变
-    📝 别名映射: 修改ID=True, 修改DisplayName=True
-    ✂️ 跨天拆分: True
-    🔗 智能合并: True
-    ✂️ 跨天节目拆分: 14 个
-    🔗 智能合并更新: 1 个节目
-    📺 新增频道: 7/7
-    📅 新增节目: 465/468
+    ⚠ 解压失败: Not a gzipped file (b'<?')
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1763,21 +1756,21 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 126 个
-    ⚠ 未找到频道: 纯享4K
-    ⚠ 未找到频道: 游戏竞技
-    ⚠ 未找到频道: 魅力潇湘
-    ⚠ 未找到频道: 内蒙古少儿频道
-    ⚠ 未找到频道: 金牌综艺 → 【NewTV金牌综艺】
-    ⚠ 未找到频道: 新动漫
-    ⚠ 未找到频道: 内蒙古农牧频道
-    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
-    ⚠ 未找到频道: 黄河卫视
+    ✂️ 跨天节目拆分: 120 个
     ⚠ 未找到频道: 精品纪录 → 【NewTV精品纪录】
-    ⚠ 未找到频道: 四川妇女儿童
+    ⚠ 未找到频道: 游戏竞技
+    ⚠ 未找到频道: 内蒙古农牧频道
+    ⚠ 未找到频道: 新动漫
+    ⚠ 未找到频道: 金牌综艺 → 【NewTV金牌综艺】
+    ⚠ 未找到频道: 纯享4K
     ⚠ 未找到频道: 移动戏曲 → 【河南移动戏曲】
+    ⚠ 未找到频道: 黄河卫视
+    ⚠ 未找到频道: 淘Baby → 【北京IPTV-淘BABY】
+    ⚠ 未找到频道: 魅力潇湘
+    ⚠ 未找到频道: 四川妇女儿童
+    ⚠ 未找到频道: 内蒙古少儿频道
     📺 新增频道: 241/253
-    📅 新增节目: 10985/11022
+    📅 新增节目: 6169/6198
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1795,7 +1788,7 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     ✂️ 跨天节目拆分: 126 个
     🔗 智能合并更新: 18 个节目
     📺 新增频道: 65/65
-    📅 新增节目: 3591/3637
+    📅 新增节目: 3608/3655
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1882,12 +1875,12 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 167 个
+    ✂️ 跨天节目拆分: 173 个
     🔗 智能合并更新: 1 个节目
     ⚠ 未找到频道: 6911c92b4316999535eb1e08 → 【Pluto TV Notti di Sangue】
     ⚠ 未找到频道: 6911c8dd8caba6f046c5c5d5 → 【Pluto TV Notti di Terrore】
     📺 新增频道: 94/96
-    📅 新增节目: 3189/3191
+    📅 新增节目: 3202/3204
    ✅ 处理成功
 
 ------------------------------------------------------------
@@ -1902,18 +1895,18 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
     📝 别名映射: 修改ID=True, 修改DisplayName=True
     ✂️ 跨天拆分: True
     🔗 智能合并: True
-    ✂️ 跨天节目拆分: 72 个
+    ✂️ 跨天节目拆分: 76 个
     📺 新增频道: 40/40
-    📅 新增节目: 2912/2912
+    📅 新增节目: 2903/2903
    ✅ 处理成功
 
 ============================================================
 📝 生成最终XML文件...
 🔤 应用智能排序（按display-name，数字-字母-汉字，不区分大小写）...
 ✅ XML文件: guide.xml
-  大小: 50.56 MB
-  频道数: 1912
-  节目数: 176643
+  大小: 50.02 MB
+  频道数: 1905
+  节目数: 173722
 
 📺 频道排序示例（前10个）:
     1. 4K健身 (ID: 4K健身)
@@ -1928,8 +1921,8 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
    10. 8TV八度空间 (ID: 8TV八度空间)
 
 🗜️ 压缩为GZIP格式...
-  ✅ 压缩完成: 4.91 MB (90.3% 压缩率)
-  ✅ 压缩率: 90.3%
+  ✅ 压缩完成: 4.82 MB (90.4% 压缩率)
+  ✅ 压缩率: 90.4%
 
 🧹 清理临时文件...
 ✅ 清理完成
@@ -1937,10 +1930,10 @@ Guide Merger v2.0 (curl_cffi Browser Impersonation)
 ============================================================
 ✅ EPG合并完成
 ============================================================
-结束时间: 2026-10-05 14:12:43 (北京时间)
-总耗时: 43.20 秒
+结束时间: 2026-10-06 01:25:12 (北京时间)
+总耗时: 46.48 秒
 成功处理: 12/13 个源
-成功处理: 1912 个频道，176643 条节目
+成功处理: 1905 个频道，173722 条节目
 输出文件: guide.xml 和 guide.xml.gz
 配置时间范围: 过去 6 天 + 当天 + 未来 3 天
 实际时间范围: 过去 7 天 + 当天 + 未来 4 天
