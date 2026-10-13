@@ -428,7 +428,6 @@ tvN Movies	tvN Movies(英)
 tvN有线	tvN_港新台_国_有线
 amc电影台		AMC电影台(EPG2)
 周星驰台
-Entertainment
 ETtoday综合台
 EYE TV旅游台HD	EYE TV旅游台
 EYE TV戏剧台HD	EYE TV戏剧台
@@ -441,22 +440,14 @@ HITS MOVIES HD	HITS Movies_香港_英
 HOY 76	HOY 国际财经台
 HOY 77	HOY TV
 HOY 78	HOY 资讯台
-IDX
-IMC
-Indosiar
-iNews
 iQIYI_HD	Astro iQIYI
-JAKTV
 JET综合	JET综合台
 JOJO 的奇妙冒险
 JStar极限台电影频道
-Kids TV
 KIX
 KIX电影台
 kix新加坡
-Kompas TV
 KTV	KTV_印
-LIFE
 LiveABC互动英语频道
 Love Nature 4K	Love Nature 4K_国
 LOVE NATURE有线	Love Nature_国
@@ -469,14 +460,11 @@ Nickelodeon Jr
 nowjeli	NOW紫金国际台_香港
 ONE	ONE HD_马来_英
 ONE HD	ONE HD_英2
-ORIGINALS
 Outdoor Channel
 Pandora潘朵啦高画质粉红台
 Pandora潘朵啦高画质玩美台
 PETCLUBTV	PET CLUB TV_国
-RCTI
 ROCK Action	Rock Action_台湾_国
-Rock Entertainment	Rock Entertainment_非港新_英
 ROCK Extreme	ROCK Extreme_国
 ROCK Xstream摇滚极限频道	Rock X Stream_国
 ROCK综艺娱乐	ROCK Entertainment_港新_国
@@ -666,51 +654,37 @@ ELTV生活英语台
 中华一番(中文版)
 超人力霸王台
 早餐中国
-Astro Cricket
 Astro Sensasi HD	Astro Sensasi
 THANGATHIRAI	Astro Thangathirai
 Astro Warna HD	Astro Warna
 CCM	天映经典电影_印柬_英
-Celebrities TV
 Celestial Movies	天映电影_印尼_英
-Superrix
 EUROSPORT HD	Eurosport_英
 EVE有线	Discovery EVE_台湾_国_有线
-Fight Sports
 Focus探索新知台
 Food Travel HD	Food Travel
 France 24香港	France 24 English_香港
 Freeman @台湾
 fun探索娱乐台
-Galaxy
-Galaxy Premium
 Global Trekker探索世界频道	Global Trekker_英
 GlobalTrekker	Global Trekker_国(标题)
 GLOBLTREKKER探索世界	Global Trekker_国(详情)
 TLC旅游生活频道香港	TLC_港马新_国
 Golden 强片台	Golden强片台
 Golden影迷台
-GTV
-Hanacaraka TV
-ABC Australia	ABC Australia_Youtube
 ABC澳大利亚电视台	ABC Australia(澳大利亚)
 ADITHYA TV	Adithya TV
-Al Quran Al Kareem
 Animax HD	Animax_英
 Animax香港	Animax_香港_国
-ANTV
 Arirang
 ASMR行车纪录
 BBC EARTH	BBC Earth_新马港台_国
 beIN Sports 3 HD	beIN Sports-3
-BTV
-BUDDY STARS
 Cartoon Network香港	Cartoon Network_港新马_国
 CARTOONITO HD	CARTOONITO
 CATCH PLAY电影台	CATCHPLAY电影台_台湾
 CBeebies	CBeebies_英
 CI 罪案侦查频道	Crime & Investigation_港台新马_国(标题)
-CINEEDGE
 CinemaWorld频道	CinemaWorld_台新_国
 CLASSICA 古典乐	Classica古典乐
 CMC 香港频道
@@ -725,8 +699,6 @@ DiscoveryEVE	Discovery EVE_台湾_国
 DreamWorks	DreamWorks_台湾_国
 DreamWorks HD	DreamWorks_英
 Dubai One
-DW English	DW English Africa
-Zee Bioskop
 Zee Cinema
 Zee TV HD
 KBSWorld	KBS World_非新加坡_英
@@ -734,46 +706,25 @@ KBS World香港	KBS World_港新马_国
 mbc 2
 mbc action	mbc action
 mbc max
-MDTV
-Metro TV
-MNCTV
 MOMO综合台	MOMO综合台
 Moonbug	Moonbug_马来
 Moonbug香港	Moonbug_香港_繁中
 moov	MOOV_香港
 MOVIE MOVIE	MOVIE MOVIE_港_国
 MUCH TV
-Music TV
-Muslim TV
 NHK 日本国家电视台
-SCTV
-SEA TODAY
-Sindo News TV
-Soccer Channel
 Sony TV (India)	SONY TV
-Sportstars
-Sportstars 2
-Sportstars 3
-Sportstars 4
-Studio Universal
 The Filipino Channel HD	TFC (The Filipino Channel)
 Thrill	Thrill_港+X混合
-Trans 7
-Trans TV
 TravelChannel	Travel Channel_台湾_国
 Travelxp HD
 TV5MONDE ASIE
-tvOne
-TVRI
-UNIQUES
 Vijay TV HD	Vijay TV_新加坡
-Vision Prime
 viu6	Viu Six
 ViuTV	Viu TV
 Warner TV	Warner TV_台湾_国
 Yes娱乐
 ZooMoo	ZooMoo_香港_国
-Zoomoo	Zoomoo(英)
 
 
 
@@ -1175,7 +1126,6 @@ ChangeTimezone=Y
 3437	Discovery Channel_新马_英
 2756	DW English Europe_新马
 491	ERA FM
-479449	Fitrah
 533	GOLD(MY)
 2300	Golf Channel(EPG1)
 2830	GOXUAN
@@ -1275,7 +1225,6 @@ ChangeTimezone=Y
 492896	Trace Sport Stars_港台新_英
 435717	Asianet TV_非新加坡
 369723	Asianet Movies_新加坡
-492892	BBC Earth_新马港台_英
 492863	BBC Lifestyle_港台新_英
 492869	Astro Sensasi_新加坡
 516575	Astro Prima_新加坡
@@ -1964,8 +1913,6 @@ https://raw.githubusercontent.com/kiekostui/pluto_tv_it/refs/heads/main/epg_plut
 62442f28afe626000747f195	I Jefferson
 608aa4a4cc92820007b663af	Pluto TV Film Romantici
 6911c9704316999535eb21cf	Pluto TV Notti di Passione
-6911c8dd8caba6f046c5c5d5	Pluto TV Notti di Terrore
-6911c92b4316999535eb1e08	Pluto TV Notti di Sangue
 66a0eea88561260008b1c5d0	Carabinieri
 6245d3792792150007e20634	Settimo Cielo
 67d9836ba1609bdb523f0c9d	Relic Hunter
